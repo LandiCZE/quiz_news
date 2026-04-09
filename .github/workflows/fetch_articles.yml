@@ -1,0 +1,33 @@
+name: Fetch & Store Articles
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # every day at 7:00 UTC (9:00 Prague time)
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and store articles
+        run: python main.py --store-only
+
+      - name: Commit updated articles.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles.json
+          git diff --cached --quiet || git commit -m "chore: daily article fetch $(date +%Y-%m-%d)"
+          git push

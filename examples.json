@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Jeden politik sdílel na svém profilu video s citáty z filmu Pelíšky, aby zaútočil na prezidenta Petra Pavla. Způsobilo to vlnu kritiky od herců i režiséra. O koho šlo?",
+    "answer": "Jindřich Rajchl",
+    "category": "czech_politics",
+    "why_good": "specific person, specific film reference, controversy"
+  },
+  {
+    "question": "Balendra Šáh, bývalý rapper a starosta, se stal novým (a velmi mladým) premiérem které země?",
+    "answer": "Nepálu",
+    "category": "world_news",
+    "why_good": "surprising background (rapper → PM), specific person, specific country"
+  },
+  {
+    "question": "Díky novým technologiím se za pomoci AI podařilo vrátit hlas jakému herci?",
+    "answer": "Val Kilmer",
+    "category": "celebrity_tech",
+    "why_good": "AI + celebrity, specific name, surprising/emotional"
+  },
+  {
+    "question": "Markéta Šichtařová, ekonomka zvolená za Svobodné, nedávno vystoupila z poslanecké sněmovny. Pro jakou stranu byla zvolena?",
+    "answer": "SPD/Svobodní",
+    "category": "czech_politics",
+    "why_good": "specific person, political event"
+  },
+  {
+    "question": "V poslanecké sněmovně se odehrál netradiční moment, kdy jeden poslanec přišel na hlasování oblečen jak?",
+    "answer": "v lidovém kroji",
+    "category": "czech_politics",
+    "why_good": "funny/unusual, specific setting"
+  },
+  {
+    "question": "Vláda které země rozhodla o neobvyklém politickém opatření tento týden?",
+    "answer": "Islandu",
+    "category": "world_news",
+    "why_good": "specific country, unusual policy"
+  },
+  {
+    "question": "Americká influencerka se stala virální, protože nápadně připomíná slovenského premiéra. O koho jde?",
+    "answer": "Robert Fico",
+    "category": "viral_weird",
+    "why_good": "lookalike viral story, funny visual comparison, specific politician"
+  },
+  {
+    "question": "V pátek byla oznámena fúze dvou hollywoodských gigantů. Které dvě společnosti se spojují?",
+    "answer": "Paramount (Skydance) a Warner Bros. (Discovery)",
+    "category": "world_business",
+    "why_good": "major industry event, two specific names"
+  },
+  {
+    "question": "Malý makak jménem Punch, který utekl ze zoo, se stal virálním. Co u sebe neustále nosil?",
+    "answer": "plyšáka",
+    "category": "viral_weird",
+    "why_good": "cute/funny, specific name, memorable detail"
+  },
+  {
+    "question": "Co neobvyklého našli lékaři v těle pacienta na pohotovosti?",
+    "answer": "dělostřelecký granát",
+    "category": "viral_weird",
+    "why_good": "shocking/funny, unbelievable"
+  },
+  {
+    "question": "Italský akrobatický pilot předvedl kousek, při kterém sebral předmět z pohybujícího se čeho?",
+    "answer": "z vlaku",
+    "category": "viral_weird",
+    "why_good": "spectacular stunt, surprising"
+  },
+  {
+    "question": "V pátek se Česko po 24 letech dočkalo závodu v jakém sportu, který vyhrála Carina Edlingerová?",
+    "answer": "(para)biatlon",
+    "category": "czech_sports",
+    "why_good": "specific milestone (24 years), specific winner"
+  },
+  {
+    "question": "Kdo nesl českou vlajku na zahájení zimních olympijských her?",
+    "answer": "David Pastrňák a Lucie Charvátová",
+    "category": "czech_sports",
+    "why_good": "specific names, notable event"
+  },
+  {
+    "question": "Do aukční historie se zapsalo prodání obrazu za rekordní sumu. Čí dílo to bylo?",
+    "answer": "Rembrandt",
+    "category": "world_culture",
+    "why_good": "record-breaking, specific artist"
+  },
+  {
+    "question": "Generálním ředitelem Úřadu práce ČR byl jmenován nový šéf. Jak se jmenuje?",
+    "answer": "Roman Chlopčík",
+    "category": "czech_politics",
+    "why_good": "specific appointment, specific name"
+  }
+]
