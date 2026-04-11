@@ -75,6 +75,20 @@ def get_articles(
     return articles
 
 
+def prune_articles(keep_from: datetime, store_path: Path = STORE_PATH) -> int:
+    """Remove articles published before keep_from. Returns count removed."""
+    raw = _load(store_path)
+    kept = [
+        a for a in raw
+        if a.get("published") and
+           datetime.fromisoformat(a["published"]).replace(tzinfo=timezone.utc) >= keep_from
+    ]
+    removed = len(raw) - len(kept)
+    if removed:
+        _save(kept, store_path)
+    return removed
+
+
 def store_stats(store_path: Path = STORE_PATH) -> dict:
     raw = _load(store_path)
     if not raw:

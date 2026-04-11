@@ -25,13 +25,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run analysis and save facts
+      - name: Run analysis, save facts, prune old articles
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           mkdir -p facts
           FILENAME="facts/$(date +%Y-W%V).json"
-          python main.py --weeks-ago 1 --save "$FILENAME"
+          python main.py --weeks-ago 1 --save "$FILENAME" --prune
 
       - name: Render index.html
         run: python render.py
@@ -40,7 +40,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add facts/ index.html
+          git add facts/ index.html articles.json
           git diff --cached --quiet || git commit -m "chore: weekly facts $(date +%Y-W%V)"
           git pull --rebase origin main
           git push origin main

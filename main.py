@@ -27,7 +27,7 @@ load_dotenv()
 
 from fetcher import fetch_all, current_week_range
 from analyzer import analyze, ScoredFact
-from store import save_articles, get_articles, store_stats
+from store import save_articles, get_articles, store_stats, prune_articles
 
 CATEGORY_LABEL = {"cz": "Czech", "world": "World"}
 CATEGORY_ICON  = {"cz": "CZ",    "world": "WORLD"}
@@ -75,6 +75,7 @@ def main() -> None:
     parser.add_argument("--dry-run",    action="store_true",      help="Fetch only, print titles, no LLM")
     parser.add_argument("--stats",      action="store_true",      help="Show DB stats and exit")
     parser.add_argument("--save",       type=str, default=None,   help="Save scored facts to this JSON file")
+    parser.add_argument("--prune",      action="store_true",      help="Remove last week's articles from store after analysis")
     args = parser.parse_args()
 
     # Stats mode
@@ -119,6 +120,10 @@ def main() -> None:
     print(f"  {len(facts)} facts passed the threshold")
 
     print_results(facts, weeks_ago=args.weeks_ago, top=args.top)
+
+    if args.prune:
+        removed = prune_articles(keep_from=week_end)
+        print(f"Pruned {removed} articles older than {week_end.strftime('%d.%m.%Y')} from store")
 
     if args.save:
         out = {
