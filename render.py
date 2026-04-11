@@ -31,13 +31,15 @@ def score_badge(score: int) -> str:
 
 
 def render(facts_path: Path) -> str:
-    data   = json.loads(facts_path.read_text(encoding="utf-8"))
-    facts  = data["facts"]
-    week_s = data["week_start"][:10]
-    week_e = data["week_end"][:10]
+    data      = json.loads(facts_path.read_text(encoding="utf-8"))
+    facts     = data["facts"]
+    week_s    = data["week_start"][:10]
+    week_e    = data["week_end"][:10]
+    week_key  = facts_path.stem   # e.g. "2026-W15" — used as localStorage key
 
     by_cat: dict[str, list] = {"cz": [], "world": []}
-    for f in facts:
+    for i, f in enumerate(facts):
+        f["_id"] = i   # stable index for checkbox identification
         by_cat.setdefault(f["category"], []).append(f)
 
     sections = ""
@@ -47,9 +49,15 @@ def render(facts_path: Path) -> str:
             continue
         rows = ""
         for f in items:
+            fid  = f["_id"]
             link = f'<a href="{f["url"]}" target="_blank" rel="noopener">↗</a>' if f.get("url") else ""
             rows += f"""
-            <tr>
+            <tr id="row-{fid}" data-id="{fid}" data-fact="{f['fact'].replace('"', '&quot;')}"
+                data-source="{f['source']}" data-category="{f['category']}"
+                data-score="{f['score']}" data-url="{f.get('url','')}">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" id="cb-{fid}" data-id="{fid}">
+              </td>
               <td>{score_badge(f["score"])}</td>
               <td class="fact">{f["fact"]} {link}</td>
               <td class="meta">{f["source"]}<br><span class="reason">{f["reason"]}</span></td>
@@ -59,6 +67,9 @@ def render(facts_path: Path) -> str:
           <h2>{CATEGORY_LABEL.get(cat, cat)}</h2>
           <table><tbody>{rows}</tbody></table>
         </section>"""
+
+    # Embed the full facts list as JSON for the download function
+    facts_json = json.dumps(facts, ensure_ascii=False)
 
     return f"""<!DOCTYPE html>
 <html lang="cs">
@@ -76,18 +87,36 @@ def render(facts_path: Path) -> str:
       max-width: 860px;
       margin: 0 auto;
     }}
-    header {{ margin-bottom: 2rem; }}
+    header {{ margin-bottom: 1.5rem; }}
     header h1 {{ font-size: 1.6rem; font-weight: 700; }}
     header p  {{ color: #555; margin-top: .3rem; font-size: .95rem; }}
+    .toolbar {{
+      display: flex; align-items: center; gap: .75rem;
+      background: #fff; border-radius: 8px; padding: .75rem 1rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,.08);
+      margin-bottom: 2rem; font-size: .9rem; color: #555;
+    }}
+    .toolbar strong {{ color: #1a1a1a; }}
+    #btn-download {{
+      margin-left: auto;
+      background: #0969da; color: #fff; border: none;
+      padding: .45rem 1rem; border-radius: 6px; cursor: pointer;
+      font-size: .88rem; font-weight: 600;
+    }}
+    #btn-download:hover {{ background: #0550ae; }}
+    #btn-download:disabled {{ background: #8ab; cursor: default; }}
     section   {{ margin-bottom: 2.5rem; }}
     h2        {{ font-size: 1.15rem; font-weight: 600; margin-bottom: .75rem; }}
     table     {{ width: 100%; border-collapse: collapse; background: #fff;
                  border-radius: 8px; overflow: hidden;
                  box-shadow: 0 1px 3px rgba(0,0,0,.08); }}
-    tr        {{ border-bottom: 1px solid #eee; }}
+    tr        {{ border-bottom: 1px solid #eee; transition: background .15s; }}
     tr:last-child {{ border-bottom: none; }}
+    tr.checked {{ background: #f0fff4; }}
     td        {{ padding: .7rem .9rem; vertical-align: top; }}
-    td:first-child {{ width: 60px; text-align: center; }}
+    .cb-cell  {{ width: 36px; text-align: center; }}
+    .cb-cell input {{ width: 17px; height: 17px; cursor: pointer; accent-color: #1a7f37; }}
+    td:nth-child(2) {{ width: 60px; text-align: center; }}
     .badge    {{ display: inline-block; color: #fff; font-weight: 700;
                  font-size: .8rem; padding: .2rem .5rem;
                  border-radius: 4px; white-space: nowrap; }}
@@ -97,9 +126,7 @@ def render(facts_path: Path) -> str:
     .meta     {{ font-size: .8rem; color: #555; width: 160px; }}
     .reason   {{ color: #888; font-style: italic; }}
     footer    {{ margin-top: 3rem; font-size: .8rem; color: #999; text-align: center; }}
-    @media (max-width: 600px) {{
-      .meta {{ display: none; }}
-    }}
+    @media (max-width: 600px) {{ .meta {{ display: none; }} }}
   </style>
 </head>
 <body>
@@ -107,8 +134,65 @@ def render(facts_path: Path) -> str:
     <h1>Quiz News</h1>
     <p>Quiz-worthy facts for the week of {week_s} – {week_e}</p>
   </header>
+
+  <div class="toolbar">
+    <span>Tick the facts that were <strong>actually good</strong> for the quiz</span>
+    <span id="checked-count">0 selected</span>
+    <button id="btn-download" disabled>⬇ Download feedback</button>
+  </div>
+
   {sections}
+
   <footer>Generated from {facts_path.name} &middot; <a href="https://github.com/LandiCZE/quiz_news">source</a></footer>
+
+  <script>
+    const WEEK_KEY  = {json.dumps(week_key)};
+    const ALL_FACTS = {facts_json};
+
+    // --- persist checkboxes in localStorage ---
+    const saved = JSON.parse(localStorage.getItem(WEEK_KEY) || '[]');
+    const checked = new Set(saved);
+
+    function updateUI() {{
+      const count = checked.size;
+      document.getElementById('checked-count').textContent =
+        count === 0 ? '0 selected' : count + ' selected';
+      document.getElementById('btn-download').disabled = count === 0;
+    }}
+
+    document.querySelectorAll('.fb-check').forEach(cb => {{
+      const id = parseInt(cb.dataset.id);
+      cb.checked = checked.has(id);
+      cb.closest('tr').classList.toggle('checked', cb.checked);
+
+      cb.addEventListener('change', () => {{
+        if (cb.checked) checked.add(id); else checked.delete(id);
+        cb.closest('tr').classList.toggle('checked', cb.checked);
+        localStorage.setItem(WEEK_KEY, JSON.stringify([...checked]));
+        updateUI();
+      }});
+    }});
+
+    updateUI();
+
+    // --- download feedback JSON ---
+    document.getElementById('btn-download').addEventListener('click', () => {{
+      const selected = ALL_FACTS.filter(f => checked.has(f._id)).map(f => ({{
+        week:     WEEK_KEY,
+        fact:     f.fact,
+        source:   f.source,
+        category: f.category,
+        score:    f.score,
+        url:      f.url || '',
+      }}));
+      const blob = new Blob([JSON.stringify(selected, null, 2)],
+                            {{type: 'application/json'}});
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'feedback_' + WEEK_KEY + '.json';
+      a.click();
+    }});
+  </script>
 </body>
 </html>"""
 
