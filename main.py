@@ -14,8 +14,10 @@ Usage:
 
 import argparse
 import datetime
+import json
 import os
 import sys
+from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -72,6 +74,7 @@ def main() -> None:
     parser.add_argument("--store-only", action="store_true",      help="Fetch RSS and store to DB, skip LLM")
     parser.add_argument("--dry-run",    action="store_true",      help="Fetch only, print titles, no LLM")
     parser.add_argument("--stats",      action="store_true",      help="Show DB stats and exit")
+    parser.add_argument("--save",       type=str, default=None,   help="Save scored facts to this JSON file")
     args = parser.parse_args()
 
     # Stats mode
@@ -116,6 +119,26 @@ def main() -> None:
     print(f"  {len(facts)} facts passed the threshold")
 
     print_results(facts, weeks_ago=args.weeks_ago, top=args.top)
+
+    if args.save:
+        out = {
+            "week_start": week_start.isoformat(),
+            "week_end":   week_end.isoformat(),
+            "generated":  datetime.datetime.now(datetime.timezone.utc).isoformat(),
+            "facts": [
+                {
+                    "score":    f.score,
+                    "fact":     f.fact,
+                    "reason":   f.reason,
+                    "source":   f.source,
+                    "category": f.category,
+                    "url":      f.url,
+                }
+                for f in facts
+            ],
+        }
+        Path(args.save).write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"Saved {len(facts)} facts to {args.save}")
 
 
 if __name__ == "__main__":
