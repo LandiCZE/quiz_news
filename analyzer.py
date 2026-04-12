@@ -7,6 +7,7 @@ Returns a list of ScoredFact objects sorted by score descending.
 
 import json
 import os
+import re
 import time
 from dataclasses import dataclass
 
@@ -78,12 +79,29 @@ class ScoredFact:
     url: str = ""
 
 
-BATCH_SIZE = 25  # articles per API call — stays within free tier token limits
+BATCH_SIZE  = 20   # articles per API call
+BATCH_SLEEP = 30   # seconds between batches — conservative for 12k TPM free tier
+MAX_RETRIES = 4
+
+
+def _dedup(articles: list[Article]) -> list[Article]:
+    """Drop articles with near-duplicate titles (same first 60 chars)."""
+    seen: set[str] = set()
+    out: list[Article] = []
+    for a in articles:
+        key = a.title[:60].lower().strip()
+        if key not in seen:
+            seen.add(key)
+            out.append(a)
+    return out
 
 
 def analyze(articles: list[Article], min_score: int = MIN_SCORE) -> list[ScoredFact]:
     if not articles:
         return []
+
+    articles = _dedup(articles)
+    print(f"  {len(articles)} articles after dedup")
 
     client = Groq(api_key=os.environ["GROQ_API_KEY"])
     facts: list[ScoredFact] = []
@@ -91,7 +109,7 @@ def analyze(articles: list[Article], min_score: int = MIN_SCORE) -> list[ScoredF
     batches = [articles[i : i + BATCH_SIZE] for i in range(0, len(articles), BATCH_SIZE)]
     for i, batch in enumerate(batches):
         if i > 0:
-            time.sleep(20)  # stay within 12k tokens/min free tier limit
+            time.sleep(BATCH_SLEEP)
         print(f"  Batch {i + 1}/{len(batches)} ({len(batch)} articles)...")
         batch_facts = _analyze_batch(client, batch, min_score)
         facts.extend(batch_facts)
@@ -100,25 +118,43 @@ def analyze(articles: list[Article], min_score: int = MIN_SCORE) -> list[ScoredF
     return facts
 
 
+def _wait_from_error(msg: str) -> float:
+    """Parse 'Please try again in 13.085s' from Groq error message."""
+    m = re.search(r"try again in ([\d.]+)s", msg)
+    return float(m.group(1)) + 2 if m else 60.0
+
+
 def _analyze_batch(client: Groq, articles: list[Article], min_score: int) -> list[ScoredFact]:
+    from groq import RateLimitError
+
     payload = [
         {
             "index": i,
             "source": a.source,
             "title": a.title,
-            "summary": a.summary[:200],  # shorter summaries per article in batch
+            "summary": a.summary[:200],
         }
         for i, a in enumerate(articles)
     ]
 
-    response = client.chat.completions.create(
-        model=MODEL,
-        max_tokens=4096,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user",   "content": json.dumps(payload, ensure_ascii=False)},
-        ],
-    )
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = client.chat.completions.create(
+                model=MODEL,
+                max_tokens=4096,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user",   "content": json.dumps(payload, ensure_ascii=False)},
+                ],
+            )
+            break
+        except RateLimitError as e:
+            wait = _wait_from_error(str(e))
+            print(f"  Rate limit — waiting {wait:.0f}s (attempt {attempt + 1}/{MAX_RETRIES})")
+            time.sleep(wait)
+    else:
+        print("  Skipping batch after too many rate limit errors")
+        return []
 
     raw = response.choices[0].message.content.strip()
 
