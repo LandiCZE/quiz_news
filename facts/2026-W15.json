@@ -1,0 +1,1175 @@
+{
+  "week_start": "2026-04-05T00:00:00+00:00",
+  "week_end": "2026-04-12T00:00:00+00:00",
+  "generated": "2026-04-12T16:53:11.648251+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Americký architekt se přiznal k vraždám",
+      "reason": "shocking crime",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-americky-architekt-se-priznal-k-vrazdam-osmi-zen-40572272"
+    },
+    {
+      "score": 9,
+      "fact": "Důchodce zapálil dům a zastřelil synovce",
+      "reason": "shocking crime",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-duchodce-na-vysocine-zapalil-svuj-dum-a-pak-pred-hasici-zastrelil-synovce-dostal-17-let-40572266"
+    },
+    {
+      "score": 9,
+      "fact": "Vrány zaútočily na princeznu",
+      "reason": "amusing incident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/cestovani-dama-v-nesnazich-na-princeznu-v-disneylandu-zautocily-vrany-a-zacaly-ji-rvat-vlasy-40572228"
+    },
+    {
+      "score": 9,
+      "fact": "The Housemaid author reveals true identity",
+      "reason": "Surprising celebrity revelation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Serial killer admits to eight murders",
+      "reason": "Shocking and surprising crime case",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/crl12xl2p4lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Wolf escapes from South Korea zoo",
+      "reason": "viral animal story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/apr/09/wolf-escaped-zoo-daejeon-south-korea"
+    },
+    {
+      "score": 9,
+      "fact": "Chimpanzees wage 'civil war'",
+      "reason": "shocking animal story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe"
+    },
+    {
+      "score": 9,
+      "fact": "Man charged with murder after claiming partner died in kangaroo crash",
+      "reason": "shocking and weird story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/10/tennant-creek-murder-charge-northern-territory-ntwnfb"
+    },
+    {
+      "score": 9,
+      "fact": "Indie používá krokodýly proti migrantům",
+      "reason": "Unconventional solution",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-krokodyli-a-jedovati-hadi-proti-migrantum-indie-chce-plazy-nasadit-na-hranici-40572234"
+    },
+    {
+      "score": 9,
+      "fact": "Serial killer in US police families",
+      "reason": "Shocking story with a surprising twist",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cpwjkqq910go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "NASA plans Moon base by 2036",
+      "reason": "record-breaking space plan",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nasa-chce-do-roku-2036-vybudovat-zakladnu-na-mesici-372275"
+    },
+    {
+      "score": 9,
+      "fact": "Girl finds 500,000-year-old bone",
+      "reason": "viral story with number",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cvglk92pqq5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Ratiboř má digitálního starostu",
+      "reason": "surprising technology",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ratibor-predstavila-digitalni-kopii-sveho-starosty-dvojnik-se-zatim-uci-o-obci_2604090911_vsl"
+    },
+    {
+      "score": 8,
+      "fact": "Se narodilo mládě zebry bezhřívé",
+      "reason": "rare animal birth",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-v-liberecke-zoo-se-narodilo-mlade-silne-ohrozene-zebry-bezhrive-40572059"
+    },
+    {
+      "score": 8,
+      "fact": "Policisté zastavili opilého řidiče třikrát",
+      "reason": "amusing incident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-moravskoslezsti-policiste-behem-par-dni-trikrat-zastavili-stejneho-opileho-ridice-40572269"
+    },
+    {
+      "score": 8,
+      "fact": "RSPCA finds 250 dogs in one home",
+      "reason": "Shocking animal story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4gxkdeyk7ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Ben Roberts-Smith faces war crimes case",
+      "reason": "Notable and surprising court case",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Baby born on Jamaica flight",
+      "reason": "surprising story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york"
+    },
+    {
+      "score": 8,
+      "fact": "Miroslav Jakeš dies on Špicberkách",
+      "reason": "specific person",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-spicberkach-zemrel-polarnik-miroslav-jakes-372233"
+    },
+    {
+      "score": 8,
+      "fact": "Ketamine queen sentenced",
+      "reason": "shocking story",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/soud-poslal-do-vezeni-ketaminovou-kralovnu-spojenou-se-smrti-matthewa-perryho-372223"
+    },
+    {
+      "score": 8,
+      "fact": "Český polárník Miroslav Jakeš zemřel na Špicberkách",
+      "reason": "Specific and somewhat unusual tragic event",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/urad-guvernera-potvrdil-umrti-ceskeho-polarnika-jakese-zemrel-na-spicberkach_2604100908_ape"
+    },
+    {
+      "score": 8,
+      "fact": "Polárník Miroslav Jakeš zemřel",
+      "reason": "specific person",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-na-spicberkach-pravdepodobne-zahynul-cech-303661"
+    },
+    {
+      "score": 8,
+      "fact": "Paul Simon vrátil kapodastr Voňkové",
+      "reason": "Celebrity connection",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-paul-simon-pri-koncertu-v-praze-vratil-pisnickarce-vonkove-kapodastr-ktery-si-pujcil-v-roce-1990-40572476"
+    },
+    {
+      "score": 8,
+      "fact": "Kemel vyzval prezidenta na souboj",
+      "reason": "Unexpected challenge",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/vtipy-kemel-prezidentska-vyzva-40572474"
+    },
+    {
+      "score": 8,
+      "fact": "Polárník Jakeš zahynul na Špicberkách",
+      "reason": "Tragic accident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-na-spicberkach-zemrel-polarnik-jakes-urady-nasly-telo-40572463"
+    },
+    {
+      "score": 8,
+      "fact": "Melania Trump makes surprise White House address",
+      "reason": "celebrity surprise",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c0j6een0l62o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Mise Artemis II se vrátila na Zemi",
+      "reason": "Vědecký úspěch",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/astronauti-mise-artemis-ii-se-vraci-na-zemi-kriticky-bude-prulet-atmosferou-372245"
+    },
+    {
+      "score": 8,
+      "fact": "Leonardo DiCaprio navštívil Martina Janeckého",
+      "reason": "Zajímavá setkání",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/herecka-superstar-u-sklarske-superstar-leonardo-dicaprio-v-atelieru-martina_2604110806_ntu"
+    },
+    {
+      "score": 8,
+      "fact": "Hrad Grabštejn byl zachráněn operními pěvci",
+      "reason": "unusual restoration",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-architektura-hrad-povstal-z-ruiny-do-krasy-zachranovali-ho-operni-pevci-i-kastelan-o-berlich-303653"
+    },
+    {
+      "score": 8,
+      "fact": "Betty Skeltonová postavila rekordy",
+      "reason": "Inspirational figure",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-betty-skeltonovou-uchvatilo-akrobaticke-letani-a-rychla-jizda-v-autech-v-obojim-dosahla-rady-rekordu-40569328"
+    },
+    {
+      "score": 8,
+      "fact": "Finsko vytvořilo saunový rekord",
+      "reason": "Unusual achievement",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-ucastnici-se-v-saune-stridali-24-hodin-v-kuse-v-helsinkach-vytvorili-svetovy-rekord-40572642"
+    },
+    {
+      "score": 8,
+      "fact": "Američan strávil 50 let na smrtí",
+      "reason": "Injustice corrected",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-american-stravil-skoro-50-let-v-cele-smrti-soud-ted-rozsudek-zrusil-40572678"
+    },
+    {
+      "score": 8,
+      "fact": "Prince Harry sued by Sentebale",
+      "reason": "Celebrity in a notable dispute",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Trump-Starmer friendship disintegrates",
+      "reason": "Celebrity connection with a twist",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c070xervlydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Prince Harry sued by Sentebale",
+      "reason": "Celebrity in a notable dispute",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale"
+    },
+    {
+      "score": 8,
+      "fact": "Lego-style AI videos promote Iran",
+      "reason": "unexpected propaganda method",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "NASA completed historic Moon mission",
+      "reason": "historic space achievement",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Astronauts fly furthest from Earth",
+      "reason": "record-breaking event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Komáři v Jižní Americe jsou rezistentní",
+      "reason": "specific scientific discovery",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/komari-v-jizni-americe-se-geneticky-adaptuji-na-insekticidy-372156"
+    },
+    {
+      "score": 7,
+      "fact": "Mario Adorf died",
+      "reason": "celebrity death",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/film/zemrel-herec-mario-adorf-proslavil-se-rolemi-ve-vinnetouovi-a-plechovem-bubinku_2604091041_ako"
+    },
+    {
+      "score": 7,
+      "fact": "Mario Adorf died",
+      "reason": "celebrity death",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-zemrel-herec-mario-adorf-santerovi-z-vinnetoua-bylo-95-let-303571"
+    },
+    {
+      "score": 7,
+      "fact": "Zemřela legenda Bugár",
+      "reason": "celebrity death",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-drel-na-poli-a-zivotni-sanci-mu-ukradli-soudruzi-zemrela-legenda-bugar-303563"
+    },
+    {
+      "score": 7,
+      "fact": "Babiš vyzval Orlen a MOL ke zlevnění",
+      "reason": "specific call to action",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-babis-vyzval-orlen-a-mol-ke-zlevneni-pohonnych-hmot-303575"
+    },
+    {
+      "score": 7,
+      "fact": "Babiš vyzval Orlen a MOL ke zlevnění",
+      "reason": "specific call to action",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-babis-vyzval-firmy-orlen-a-mol-k-vyraznemu-zlevneni-paliv-40572260"
+    },
+    {
+      "score": 7,
+      "fact": "22,000 students must return maintenance loans",
+      "reason": "Notable number of students affected",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Israel hits Lebanon 100 times in 10 minutes",
+      "reason": "Notable military action",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/c75k1p625ngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "China wins with Iran ceasefire",
+      "reason": "interesting connection",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/apr/09/who-can-claim-victory-iran-ceasefire-china"
+    },
+    {
+      "score": 7,
+      "fact": "Australia withholds US intel",
+      "reason": "interesting connection",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/apr/09/australian-spy-plane-operators-in-middle-east-not-sharing-intel-with-us-for-offensive-operations-defence-boss-says"
+    },
+    {
+      "score": 7,
+      "fact": "Melania Trump denies Epstein ties",
+      "reason": "celebrity connection",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/trumpova-poprela-vazby-s-epsteinem-svolala-kvuli-tomu-tiskovou-konferenci-372230"
+    },
+    {
+      "score": 7,
+      "fact": "Trump comments on Hormuz fees",
+      "reason": "celebrity statement",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/iran-by-nemel-uctovat-poplatky-za-proplouvani-hormuzskym-prulivem-uvedl-trump-372224"
+    },
+    {
+      "score": 7,
+      "fact": "Kosmická loď Orion využila gravitační prak",
+      "reason": "Specific technical achievement, somewhat interesting",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/kosmicka-lod-orion-vyuzila-gravitacni-prak-manevr-sebral-energii-zemi-372168"
+    },
+    {
+      "score": 7,
+      "fact": "David Kratochvíl vyhrál anketu Para Sportovec roku",
+      "reason": "Specific achievement, somewhat interesting",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/david-kratochvil-simona-bubenickova-sarka-pultar-musilova-parasportovec-roku_2604100945_ask"
+    },
+    {
+      "score": 7,
+      "fact": "Brankář Marek Kalina zapojen do korupční aféry",
+      "reason": "specific person",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-fotbal-sazky-a-exekuce-pribeh-brankare-namoceneho-v-korupcni-afere-303495"
+    },
+    {
+      "score": 7,
+      "fact": "Mladík napadl bezdomovce ze zbožnosti",
+      "reason": "Shocking story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-mladik-z-brna-blouznil-o-dzihadu-a-brutalne-napadl-bezdomovce-ted-stoji-pred-soudem-40572473"
+    },
+    {
+      "score": 7,
+      "fact": "Modelka mluví o svém dítěti s autismem",
+      "reason": "Personal story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-sama-na-dite-s-autismem-system-si-vas-prehazuje-jako-horky-brambor-rika-byvala-modelka-40571850"
+    },
+    {
+      "score": 7,
+      "fact": "Turisté láteří po třešních v Japonsku",
+      "reason": "Viral phenomenon",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/cestovani-socialni-site-zpusobily-v-japonsku-krizi-hordy-turistu-lacni-po-rozkvetlych-tresnich-40572465"
+    },
+    {
+      "score": 7,
+      "fact": "Melania Trump popírá spojení s Epsteinem",
+      "reason": "Celebrity controversy",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Afrika Bambaataa dies aged 68",
+      "reason": "notable celebrity death",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Buckinghamský palác vystavuje oblečení Alžběty II.",
+      "reason": "Kulturní událost",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/buckinghamsky-palac-vystavuje-obleceni-zesnule-kralovny-alzbety-ii-372252"
+    },
+    {
+      "score": 7,
+      "fact": "Ukrajina zasáhla ruskou loď",
+      "reason": "Konflikt",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-tvrdi-ze-zasahla-vlajkovou-lod-ruske-cernomorske-floty-372209"
+    },
+    {
+      "score": 7,
+      "fact": "Extremistka Liebichová ve vazbě",
+      "reason": "Zajímavý případ",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/extremistka-liebichova-je-po-rozhodnuti-plzenskeho-soudu-ve-vazbe-s-vydanim-do_2604110935_raf"
+    },
+    {
+      "score": 7,
+      "fact": "Astronauti překonali rekord",
+      "reason": "Vědecký úspěch",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-artemis-ii-libor-boucek-host-radiozurnalu-volby-v-madarsku_2604110800_kro"
+    },
+    {
+      "score": 7,
+      "fact": "Přesuny europoslanců stojí miliardu ročně",
+      "reason": "specific cost",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-cirkus-strasburk-presuny-europoslancu-na-zasedani-stoji-miliardu-rocne-303697"
+    },
+    {
+      "score": 7,
+      "fact": "Jiří Procházka čeká první dítě s přítelkyní",
+      "reason": "celebrity news",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-bit-se-pro-dceru-je-motivace-navic-ceska-hvezda-mma-ocima-pritelkyne-303453"
+    },
+    {
+      "score": 7,
+      "fact": "Posádka Artemis II se vrátila na Zemi",
+      "reason": "space exploration",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-posadka-artemis-ii-se-po-desetidenni-misi-vratila-bezpecne-na-zemi-303784"
+    },
+    {
+      "score": 7,
+      "fact": "Muž založil dům šéfa OpenAI",
+      "reason": "Notable crime",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-policie-v-usa-zatkla-muze-podezreleho-z-pokusu-o-zapaleni-domu-sefa-openai-303780"
+    },
+    {
+      "score": 7,
+      "fact": "Moskva zruší vojenskou přehlídku",
+      "reason": "Major event cancellation",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-zrusit-nebo-nezrusit-kvuli-strachu-z-ukrajinskych-raket-muze-moskva-prijit-o-prehlidku-ke-dni-vitezstvi-40572302"
+    },
+    {
+      "score": 7,
+      "fact": "JD Vance leads US-Iran peace talks",
+      "reason": "Notable appointment but not surprising",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Teacher got Australia's longest sentence",
+      "reason": "record-breaking sentence",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/10/victim-paedophile-teacher-william-rob-gilfillan-child-sex-abuse-ntwnfb"
+    },
+    {
+      "score": 7,
+      "fact": "UK delayed return of Chagos Islands",
+      "reason": "unexpected delay",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/britanie-odlozi-predani-ostrovu-s-dulezitou-vojenskou-zakladnou-372269"
+    },
+    {
+      "score": 7,
+      "fact": "Couple hitchhikes to wedding",
+      "reason": "funny story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c8ej9pe5d1no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Gazprom a Rosněfť zapojeny do únosů",
+      "reason": "specific company involvement",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-unosech-ukrajinskych-deti-se-podileji-i-gazprom-a-rosneft-uvadeji-vyzkumnici-372172"
+    },
+    {
+      "score": 6,
+      "fact": "Maďarsko a Rusko podepsaly tajný plán",
+      "reason": "specific country agreement",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/madarsko-a-rusko-podepsaly-tajny-dvanactibodovy-plan-sblizovani-372163"
+    },
+    {
+      "score": 6,
+      "fact": "Ruští hackeři ovládli routery",
+      "reason": "specific cyber attack",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vojenske-zpravodajstvi-se-zapojilo-do-mezinarodni-operace-proti-ruskym-hackerum-372155"
+    },
+    {
+      "score": 6,
+      "fact": "Ruská rafinérie zastavila provoz",
+      "reason": "specific company development",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ctvrta-nejvetsi-rafinerie-v-rusku-zastavila-po-ukrajinskem-utoku-provoz-pise-reuters-372143"
+    },
+    {
+      "score": 6,
+      "fact": "Babiš kritizoval Orlen a MOL",
+      "reason": "prominent figure's criticism",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/orlen-a-mol-podle-babise-nepochopitelne-zdrazili-paliva-o-dve-koruny-doufam-ze_2604091123_kvr"
+    },
+    {
+      "score": 6,
+      "fact": "Dětský domov v Moravské Třebové 100 let",
+      "reason": "milestone",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/drive-sirotcinec-dnes-moderni-zazemi-100-let-od-vzniku-slavi-detsky-domov-v_2604091107_vaa"
+    },
+    {
+      "score": 6,
+      "fact": "Geneticky upravený ječmen",
+      "reason": "specific discovery",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/jecmen-odolny-vuci-menicimu-se-klimatu-geneticky-upravene-plodiny-sazeji-vedci_2604091002_vaa"
+    },
+    {
+      "score": 6,
+      "fact": "Pražský dopravní podnik postavil fotovoltaickou elektrárnu",
+      "reason": "specific achievement",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/150-milionu-za-energie-chce-do-10-let-usetrit-prazsky-dopravni-podnik-postavil_2604090855_vaa"
+    },
+    {
+      "score": 6,
+      "fact": "Spor o Pavlovu cestu do NATO",
+      "reason": "Czech political figure",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-spor-o-pavlovu-cestu-do-nato-jako-by-vam-recepcni-nedala-klic-od-kancelare-303574"
+    },
+    {
+      "score": 6,
+      "fact": "Soud vydal zatykač na aktéra tunelu",
+      "reason": "specific crime",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-soud-vydal-zatykac-na-aktera-miliardoveho-tunelu-v-kampelicce-303531"
+    },
+    {
+      "score": 6,
+      "fact": "Policie stíhá sedm lidí v kauze inovačního centra",
+      "reason": "specific crime",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-v-kauze-inovacniho-centra-stiha-policie-sedm-lidi-vcetne-tri-verejnych-cinitelu-303591"
+    },
+    {
+      "score": 6,
+      "fact": "Soud zrušil Drtinovi trest",
+      "reason": "specific court decision",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-odvolaci-soud-zrusil-drtinovi-trest-za-hrnky-s-nacistickou-tematikou-303582"
+    },
+    {
+      "score": 6,
+      "fact": "FSB zadržela spolupracovníka Rádia Svoboda",
+      "reason": "specific arrest",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fsb-zadrzela-byvaleho-spolupracovnika-radia-svoboda-hrozi-mu-dozivoti-303569"
+    },
+    {
+      "score": 6,
+      "fact": "Nový AI model ohrožuje kyberbezpečnost",
+      "reason": "specific threat",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/tech-hackerem-snadno-a-rychle-novy-ai-model-se-nesmi-dostat-do-rukou-verejnosti-303541"
+    },
+    {
+      "score": 6,
+      "fact": "Policie obvinila lidi v kauze dotací",
+      "reason": "specific investigation",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-policie-obvinila-sedm-lidi-v-kauze-stamilionovych-dotaci-40572277"
+    },
+    {
+      "score": 6,
+      "fact": "Američan zabil Ukrajinku ve vlaku",
+      "reason": "specific crime",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-american-ktery-ve-vlaku-ubodal-mladou-ukrajinku-je-nezpusobily-k-soudnimu-rizeni-40572273"
+    },
+    {
+      "score": 6,
+      "fact": "Kočka uvízla v kamenném břehu",
+      "reason": "animal rescue",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-kocka-v-nesnazich-v-breclavi-zachranovali-zvire-uvizle-v-kamennem-brehu-dyje-40572250"
+    },
+    {
+      "score": 6,
+      "fact": "Severní Korea odhalila novou kazetovou hlavici",
+      "reason": "Notable weapon test",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-severni-korea-odhalila-novou-kazetovou-hlavici-a-elektromagnetickou-zbran-40572229"
+    },
+    {
+      "score": 6,
+      "fact": "Artemis crew returns with Moon discoveries",
+      "reason": "Notable space mission",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Spanish police dismantle Scottish drugs gang",
+      "reason": "Notable crime case",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cly05k592ryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Queen Elizabeth II's iconic outfits exhibited",
+      "reason": "Notable cultural event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cd9ke9j445jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "First Nation blocks Alberta referendum",
+      "reason": "solid news",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/apr/07/first-nation-decries-alberta-separatist-push-canada"
+    },
+    {
+      "score": 6,
+      "fact": "Flight of the Conchords reunite",
+      "reason": "notable event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/apr/09/new-zealand-comedy-flight-conchords-reunion-sells-out"
+    },
+    {
+      "score": 6,
+      "fact": "UK man regains Australian visa",
+      "reason": "notable event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/09/uk-man-australian-visa-jailed-child-abuse-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Bruce Lehrmann loses appeal",
+      "reason": "notable event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/09/bruce-lehrmann-appeal-defamation-case-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Venezuela opens mining sector",
+      "reason": "notable event",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/venezuela-po-rope-zpristupni-soukromym-spolecnostem-take-tezbu-nerostu-372228"
+    },
+    {
+      "score": 6,
+      "fact": "Pam Bondiová odmítla vypovídat k Epsteinovým spisům",
+      "reason": "Solid news, but not very surprising",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/bondiova-odmitla-vypovidat-k-epsteinovym-spisum-predvolani-plati-zni-z-kongresu-372222"
+    },
+    {
+      "score": 6,
+      "fact": "Komise chce vysvětlit hovory Szijjártóa s Lavrovem",
+      "reason": "Intriguing diplomatic development, but not very surprising",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/komise-chce-vysvetlit-hovory-szijjartoa-s-lavrovem-z-francie-zni-slova-o-zrade-372204"
+    },
+    {
+      "score": 6,
+      "fact": "Británie a Norsko odstrašovaly ruské ponorky",
+      "reason": "Somewhat unusual military operation",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/britanie-a-norsko-odstrasovaly-ruske-ponorky-v-atlantiku-372201"
+    },
+    {
+      "score": 6,
+      "fact": "V Kuksu začalo restaurování sochy bojovníka",
+      "reason": "Somewhat interesting cultural development",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/vytvarne-umeni/odstranit-lisejniky-ale-barvu-zachovat-v-kuksu-zacalo-restaurovani-velke_2604100905_rec"
+    },
+    {
+      "score": 6,
+      "fact": "Sedlčany koupily zatopený lom v Solopyskách",
+      "reason": "Somewhat unusual local development",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/otuzilci-sem-chodi-i-celou-zimu-sedlcany-koupily-zatopeny-lom-v-solopyskach_2604100858_zko"
+    },
+    {
+      "score": 6,
+      "fact": "Žalobce usiluje o vazbu pro tři obviněné v dotační kauze",
+      "reason": "Somewhat interesting and specific legal development",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/zalobce-usiluje-o-vazbu-pro-tri-obvinene-v-dotacni-kauze-na-inovacni-centrum_2604100832_ape"
+    },
+    {
+      "score": 6,
+      "fact": "Architektonická soutěž rozhodne o centru Špindlerova Mlýna",
+      "reason": "Somewhat interesting local development",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/mistni-investicni-byty-nechteji-novou-podobu-centra-spindlerova-mlyna-slibuje_2604100816_jos"
+    },
+    {
+      "score": 6,
+      "fact": "Blokáda Hormuzského průlivu ovlivňuje jihočeské zemědělce",
+      "reason": "Somewhat unusual economic impact",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/blokada-hormuzskeho-prulivu-ovlivnuje-jihoceske-zemedelce-dusikata-hnojiva_2604100755_jos"
+    },
+    {
+      "score": 6,
+      "fact": "Martin Nečas vyhlášen nejlepším hráčem",
+      "reason": "specific person",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/hokej/hokej-nhl-vyhra-prohra-martin-necas-colorado-avalanche-jakub-dobes-karel_2604100720_ask"
+    },
+    {
+      "score": 6,
+      "fact": "Cyklistika miluje kostky",
+      "reason": "specific topic",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-jsou-drsne-stare-a-silene-boli-proc-cyklistika-miluje-kostky-303465"
+    },
+    {
+      "score": 6,
+      "fact": "Březen 2026 byl čtvrtým nejteplejším",
+      "reason": "specific number",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-brezen-2026-byl-ctvrtym-nejteplejsim-v-historii-mereni-303673"
+    },
+    {
+      "score": 6,
+      "fact": "Posádka Artemis II má za sebou polovinu cesty",
+      "reason": "specific event",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-posadka-artemis-ii-ma-za-sebou-polovinu-cesty-zpet-na-zemi-303672"
+    },
+    {
+      "score": 6,
+      "fact": "Bezdomovci se učí první pomoc",
+      "reason": "Unique project",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zdravi-uci-bezdomovce-prvni-pomoc-unikatni-plzensky-projekt-ted-boduje-i-v-evrope-40572268"
+    },
+    {
+      "score": 6,
+      "fact": "Chatboti ignorují lidské pokyny",
+      "reason": "Interesting tech fact",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-narusta-pocet-chatbotu-kteri-ignoruji-lidske-pokyny-40571978"
+    },
+    {
+      "score": 6,
+      "fact": "Trump podpořil Orbána",
+      "reason": "Politician endorsement",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/volby-trump-tesne-pred-volbami-podporil-orbana-superlativy-nesetril-40572461"
+    },
+    {
+      "score": 6,
+      "fact": "Lidé nedodržují hygienu u čoček",
+      "reason": "Interesting health fact",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-vetsina-lidi-nedodrzuje-hygienicka-pravidla-pri-noseni-kontaktnich-cocek-hrozi-infekce-i-rohovkove-vredy-40563874"
+    },
+    {
+      "score": 6,
+      "fact": "Ruský vyjednavač jedná s Trumpem",
+      "reason": "Diplomatic meeting",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusky-vyjednavac-dmitrijev-je-v-usa-jedna-s-trumpovymi-predstaviteli-40572456"
+    },
+    {
+      "score": 6,
+      "fact": "Designér Karim Rashid mluví o designu",
+      "reason": "Influential person",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/bydleni-vehlasny-designer-karim-rashid-dobry-design-by-mel-oslovovat-vnitrni-dite-v-nas-vsech-40572159"
+    },
+    {
+      "score": 6,
+      "fact": "Melania Trump promluvila o Epsteinovi",
+      "reason": "Public statement",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Rory McIlroy wins Masters",
+      "reason": "notable sports result",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/sport/golf/articles/cx24pn55dg9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Artemis crew returns to Earth",
+      "reason": "notable space event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/cn431g7v52qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Argentina approves glacier mining bill",
+      "reason": "notable environmental news",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei"
+    },
+    {
+      "score": 6,
+      "fact": "Viceprezident JD Vance jede do Pákistánu",
+      "reason": "Politická návštěva",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vance-priletel-do-pakistanu-s-iranci-bude-jednat-o-miru-372267"
+    },
+    {
+      "score": 6,
+      "fact": "Izraelské útoky zabily 19 lidí",
+      "reason": "Konflikt",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izraelske-utoky-v-jiznim-libanonu-zabily-devatenact-lidi-372256"
+    },
+    {
+      "score": 6,
+      "fact": "Rusko zablokovalo Telegram",
+      "reason": "Technologický zákaz",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/aplikaci-telegram-v-rusku-temer-uplne-zablokovaly-tamni-urady-372244"
+    },
+    {
+      "score": 6,
+      "fact": "Ruské útoky zabily два lidi",
+      "reason": "Konflikt",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-hlasi-dva-mrtve-po-ruskych-uderech-372239"
+    },
+    {
+      "score": 6,
+      "fact": "Babiš podporuje Orbána",
+      "reason": "Politická podpora",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/v-bourlivych-casech-je-volba-stability-a-osvedceneho-vedeni-dulezitejsi-nez-kdy_2604110912_cen"
+    },
+    {
+      "score": 6,
+      "fact": "Ruský útok na Oděsu",
+      "reason": "Konflikt",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/online-nejmene-dva-mrtvi-dalsi-dva-zraneni-rusko-v-noci-zautocilo-na-ukrajinskou_2604110835_jos"
+    },
+    {
+      "score": 6,
+      "fact": "Soud zrušil zákaz feministické demonstrace",
+      "reason": "notable court decision",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/praha-zakazala-feministickou-demonstraci-pry-popirala-pravo-na-akce-hnuti-pro_2604110600_hrk"
+    },
+    {
+      "score": 6,
+      "fact": "Mise Artemis II poskytla unikátní fotky Země",
+      "reason": "space exploration",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zeme-takrka-ztracena-v-prazdnote-fotky-z-historicke-mise-artemis-ii-303658"
+    },
+    {
+      "score": 6,
+      "fact": "Krajský soud poslal extremistku do vazby",
+      "reason": "notable court decision",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-krajsky-soud-v-plzni-poslal-v-patek-extremistku-liebichovou-do-vazby-303789"
+    },
+    {
+      "score": 6,
+      "fact": "Babiš podpořil Orbána před maďarskými volbami",
+      "reason": "political endorsement",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-babis-podporil-orbana-volba-stability-je-podle-nej-dulezitejsi-nez-kdy-driv-303788"
+    },
+    {
+      "score": 6,
+      "fact": "Prezidentovu okolí opustí klíčový hráč",
+      "reason": "notable personnel change",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-prezidenta-opusti-klicovy-hrac-hradni-diplomacii-ceka-stridani-303634"
+    },
+    {
+      "score": 6,
+      "fact": "Exnáměstek ministra průmyslu ztratil dům",
+      "reason": "Czech political figure",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-dotacni-kauza-evropsky-zalobce-zajistil-dum-i-exnamestkovi-ministra-prumyslu-303782"
+    },
+    {
+      "score": 6,
+      "fact": "Matka unesla děti bez soudu",
+      "reason": "Surprising story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-matka-se-s-detmi-prestehovala-200-kilometru-od-otce-justice-nezasahla-ted-za-to-stat-musi-platit-40572529"
+    },
+    {
+      "score": 6,
+      "fact": "Americká armáda provedla hrdinskou záchranu",
+      "reason": "Notable achievement",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/komentare-trefa-vlastislava-brizy-americka-zachrana-na-jednicku-40572632"
+    },
+    {
+      "score": 6,
+      "fact": "Trumpův vítězný oblouk má být postaven",
+      "reason": "Notable construction",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-foto-navrh-trumpova-vitezneho-oblouku-ktery-ma-stat-ve-washingtonu-40572744"
+    },
+    {
+      "score": 6,
+      "fact": "Film o životě Ondreje Nepely",
+      "reason": "Inspirational story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-pribeh-krasobruslare-nepely-vypravi-o-stale-aktualni-nesvobode-rika-jeho-filmovy-predstavitel-40572395"
+    },
+    {
+      "score": 6,
+      "fact": "Neonacista zatčen v ČR",
+      "reason": "Notable arrest",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-nemecky-neonacista-zatceny-u-ase-nesouhlasi-s-vydanim-muz-ktery-zmenil-pohlavi-je-ve-vazbe-40572667"
+    },
+    {
+      "score": 6,
+      "fact": "Škoda vytvořila speciální zvonek",
+      "reason": "Innovative product",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-skoda-vytvorila-zvonek-ktery-vyzraje-nad-chytrymi-sluchatky-40572275"
+    },
+    {
+      "score": 6,
+      "fact": "Péter Magyar leads in Hungarian polls",
+      "reason": "Notable political development but not unexpected",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Xi met Taiwan opposition leader",
+      "reason": "rare meeting but expected diplomacy",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/apr/10/xi-jinping-cheng-li-wu-china-taiwan-meeting-bejing"
+    },
+    {
+      "score": 6,
+      "fact": "Magyar predicted Orbán's end",
+      "reason": "political prediction but no surprise",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/magyar-v-zaveru-kampane-hlasil-brzky-konec-orbana-ten-mluvil-o-miru-372283"
+    },
+    {
+      "score": 6,
+      "fact": "Babiš supported Orbán",
+      "reason": "expected political endorsement",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/babis-pred-volbami-podporil-orbana-372270"
+    },
+    {
+      "score": 6,
+      "fact": "Prokop won Anděl music award",
+      "reason": "expected award win",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-ceny-andel-2026-michal-prokop-303808"
+    },
+    {
+      "score": 6,
+      "fact": "Orbán warned of war in election",
+      "reason": "expected political rhetoric",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-madarska-koncovka-orban-strasil-valkou-opozice-slibovala-konec-rezimu-303806"
+    },
+    {
+      "score": 6,
+      "fact": "500 arrested at Palestine protest",
+      "reason": "expected protest outcome",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Balamory children's show is back",
+      "reason": "expected show revival",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cjenek89l97o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Traci Quinn rebuilds life after prison",
+      "reason": "inspiring story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ckge155rz10o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
