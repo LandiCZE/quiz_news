@@ -1,0 +1,127 @@
+{
+  "week_start": "2026-04-26T00:00:00+00:00",
+  "week_end": "2026-05-03T00:00:00+00:00",
+  "generated": "2026-05-03T22:40:22.057446+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Socha s podpisem Banksyho se objevila v Londýně",
+      "reason": "surprising art appearance",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Trump evakuován z galavečeře Due to střelby",
+      "reason": "Specific event",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-tajna-sluzba-evakuovala-trumpa-40575328"
+    },
+    {
+      "score": 8,
+      "fact": "Trump rychle odvezen do bezpečí",
+      "reason": "Specific event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/crm1gm7ez30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Trump a Melania evakuováni",
+      "reason": "Specific event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cdxd1x2qw2go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Starosta New Yorku chce vrátit Indii diamant Koh-i-Noor",
+      "reason": "specific surprising request",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-starosta-new-yorku-chce-po-krali-karlovi-vraceni-koh-i-nooru-indii-40576038"
+    },
+    {
+      "score": 7,
+      "fact": "Německo předstihlo USA ve výrobě munice",
+      "reason": "Surprising comparison",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-nemecko-uz-ve-vyrobni-kapacite-munice-predstihlo-usa-tvrdi-sef-rheinmetallu-40575319"
+    },
+    {
+      "score": 7,
+      "fact": "Záchyt incidentu ve Washingtonu",
+      "reason": "Dramatic event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cgk0ky5zgvlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Úředníci čelí útokům od gangů v High Street",
+      "reason": "surprising intimidation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Policie popřela existenci videa útoků",
+      "reason": "surprising police denial",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c5yxley0pp5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Cole Tomas Allen podezřelý ze střelby",
+      "reason": "Specific person",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-cilem-strelce-byla-trumpova-administrativa-40575332"
+    },
+    {
+      "score": 6,
+      "fact": "Svědek popisuje střelbu na místě",
+      "reason": "Eyewitness account",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Video ukazuje podezřelého",
+      "reason": "Specific evidence",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/cj0v0484dmmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Policiepublished záznam útoků v Golders Green",
+      "reason": "notable crime incident",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Nová technika skenování může diagnostikovat endometriózu",
+      "reason": "notable medical discovery",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Židovští dobrovolníci pomohli při útoku v Golders Green",
+      "reason": "notable community response",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cy52yygkd2lo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
