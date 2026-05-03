@@ -79,9 +79,10 @@ class ScoredFact:
     url: str = ""
 
 
-BATCH_SIZE  = 20   # articles per API call
-BATCH_SLEEP = 30   # seconds between batches — conservative for 12k TPM free tier
-MAX_RETRIES = 4
+BATCH_SIZE     = 20   # articles per API call
+BATCH_SLEEP    = 30   # seconds between batches — conservative for 12k TPM free tier
+MAX_RETRIES    = 4
+MAX_PER_CAT    = 80   # hard cap per category before LLM — keeps batches reasonable
 
 
 def _dedup(articles: list[Article]) -> list[Article]:
@@ -96,12 +97,30 @@ def _dedup(articles: list[Article]) -> list[Article]:
     return out
 
 
+def _cap(articles: list[Article], max_per_cat: int = MAX_PER_CAT) -> list[Article]:
+    """Keep at most max_per_cat articles per category, newest first."""
+    by_cat: dict[str, list[Article]] = {}
+    for a in articles:
+        by_cat.setdefault(a.category, []).append(a)
+    out = []
+    for cat_articles in by_cat.values():
+        # sort newest first, then cap
+        sorted_articles = sorted(
+            cat_articles,
+            key=lambda a: a.published or __import__("datetime").datetime.min,
+            reverse=True,
+        )
+        out.extend(sorted_articles[:max_per_cat])
+    return out
+
+
 def analyze(articles: list[Article], min_score: int = MIN_SCORE) -> list[ScoredFact]:
     if not articles:
         return []
 
     articles = _dedup(articles)
-    print(f"  {len(articles)} articles after dedup")
+    articles = _cap(articles)
+    print(f"  {len(articles)} articles after dedup + cap")
 
     client = Groq(api_key=os.environ["GROQ_API_KEY"])
     facts: list[ScoredFact] = []
@@ -164,7 +183,15 @@ def _analyze_batch(client: Groq, articles: list[Article], min_score: int) -> lis
             raw = raw[4:]
     raw = raw.strip()
 
-    results = json.loads(raw)
+    # Remove control characters that are invalid inside JSON strings
+    # (keeps \t \n \r which are valid JSON whitespace)
+    raw = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", raw)
+
+    try:
+        results = json.loads(raw)
+    except json.JSONDecodeError as e:
+        print(f"  JSON parse error: {e} — skipping batch")
+        return []
 
     facts: list[ScoredFact] = []
     for item in results:
