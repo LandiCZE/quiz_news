@@ -80,9 +80,9 @@ class ScoredFact:
 
 
 BATCH_SIZE     = 20   # articles per API call
-BATCH_SLEEP    = 30   # seconds between batches — conservative for 12k TPM free tier
+BATCH_SLEEP    = 15   # seconds between batches (20-article batch ≈ 2.5k tokens, limit 12k/min)
 MAX_RETRIES    = 4
-MAX_PER_CAT    = 80   # hard cap per category before LLM — keeps batches reasonable
+MAX_PER_CAT    = 60   # hard cap per category — 2 cats × 60 = 120 articles = 6 batches ≈ 4 min
 
 
 def _dedup(articles: list[Article]) -> list[Article]:
