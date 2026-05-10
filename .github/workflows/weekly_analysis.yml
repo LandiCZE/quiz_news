@@ -25,6 +25,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Fetch latest articles into DB
+        run: python main.py --store-only
+
       - name: Run analysis, save facts, prune old articles
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
