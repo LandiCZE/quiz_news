@@ -1,0 +1,439 @@
+{
+  "week_start": "2026-05-03T00:00:00+00:00",
+  "week_end": "2026-05-10T00:00:00+00:00",
+  "generated": "2026-05-10T10:08:45.801652+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Holčička vypadla ze zavazadlového prostoru dodávky",
+      "reason": "Shocking story with a surprising twist",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-sok-na-rusne-krizovatce-v-cine-ze-zavazadloveho-prostoru-dodavky-vypadla-holcicka-40575018"
+    },
+    {
+      "score": 9,
+      "fact": "Nový most v Helsinkách vydrží 200 let",
+      "reason": "record-breaking event",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-novy-most-v-helsinkach-vydrzi-200-let-oproti-dvoreckemu-predbehli-finove-terminy-40576459"
+    },
+    {
+      "score": 9,
+      "fact": "Tess Daly and Vernon Kay separate",
+      "reason": "surprising celebrity news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cp8pvj9mzjdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "David Attenborough turns 100",
+      "reason": "notable milestone",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cq5pwz743j9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Tess Daly and Vernon Kay separate",
+      "reason": "surprising celebrity news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cpwpzqy899ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Pentagon releases UFO docs",
+      "reason": "Surprising twist",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pentagon-zverejnil-dokumenty-o-ufo-373258"
+    },
+    {
+      "score": 8,
+      "fact": "Hamzová a Čechová jako první Češky po 16 letech hrají WNBA",
+      "reason": "Czech athletes in notable achievement",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/basketbal-emma-cechova-eliska-hamzovy-wnba_2605090950_ask"
+    },
+    {
+      "score": 8,
+      "fact": "Otec Viktorky přestal brát léky",
+      "reason": "shocking story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-ve-stinu-rikal-ze-je-vyleceny-svedci-popisuji-promenu-otce-viktorky-pred-vrazdou-305573"
+    },
+    {
+      "score": 8,
+      "fact": "Český turista zemřel v Saském Švýcarsku",
+      "reason": "shocking story",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/v-saskem-svycarsku-zemrel-cesky-turista-zachranarum-se-ho-nepodarilo-ozivit_2605090650_ape"
+    },
+    {
+      "score": 8,
+      "fact": "14 homeless die in Australian parks",
+      "reason": "Shocking statistic, specific number",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/society/2026/may/09/homeless-people-deaths-per-year-australia-ntwnfb"
+    },
+    {
+      "score": 8,
+      "fact": "Guardian reporter detained by Somali police",
+      "reason": "Specific person, unexpected event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police"
+    },
+    {
+      "score": 8,
+      "fact": "Pentagon releases UFO documents",
+      "reason": "Unexpected release, specific topic",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c707zjg3p42o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Gallagher brothers interview after 25 years",
+      "reason": "notable milestone",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c0q2n5e20xjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Hilary Mantel imagined Thatcher assassination",
+      "reason": "interesting literary fact",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cz908vyvwpqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "US takes enriched uranium from Venezuela",
+      "reason": "interesting international news",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump"
+    },
+    {
+      "score": 8,
+      "fact": "David Attenborough turns 100",
+      "reason": "Celebrity milestone",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb"
+    },
+    {
+      "score": 8,
+      "fact": "Official exposed as Chinese spy",
+      "reason": "Shocking and specific revelation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c78qep2jvj7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Spanish film wins Anifilm",
+      "reason": "Record-breaking event",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-anifilm-olivie-neviditelne-zemetreseni-vitez-305835"
+    },
+    {
+      "score": 7,
+      "fact": "Fico meets Putin",
+      "reason": "Czech figure in notable moment",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-co-vlastne-privezl-fico-putinovi-vzkaz-od-zelenskeho-to-nebyl-tvrdi-kreml-305830"
+    },
+    {
+      "score": 7,
+      "fact": "Magyar becomes Hungarian PM",
+      "reason": "Specific person",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-madarsku-poprve-zaseda-novy-parlament-ocekava-se-zvoleni-magyara-premierem-373250"
+    },
+    {
+      "score": 7,
+      "fact": "Orbán's rule ends in Hungary",
+      "reason": "Milestone",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/v-madarsku-v-sobotu-definitivne-konci-16-let-vlady-viktora-orbana-nastup-magyara_2605091000_elev"
+    },
+    {
+      "score": 7,
+      "fact": "Petr Hrubý prošel na PGA Tour cutem jako druhý Čech",
+      "reason": "Czech athlete achieves notable milestone",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/myrtle-beach-petr-hruby-golf-postup-cut-jiri-zuska-pga-tour_2605090900_ask"
+    },
+    {
+      "score": 7,
+      "fact": "Na lodi se potvrdilo šest případů hantaviru",
+      "reason": "unexpected disease",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-who-v-patek-potvrdila-sest-pripadu-nakazy-hantavirem-z-osmi-podezrelych-305805"
+    },
+    {
+      "score": 7,
+      "fact": "Spain, Ireland withdraw from Eurovision",
+      "reason": "Notable withdrawal from event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Moscow Victory Day parade lacks hardware",
+      "reason": "Notable absence, unexpected twist",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Péter Magyar ends 16 years of Orbán rule",
+      "reason": "notable political change",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Four men convicted of Haitian president's assassination",
+      "reason": "significant crime news",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination"
+    },
+    {
+      "score": 7,
+      "fact": "Greens secure first elected mayors",
+      "reason": "notable political gain",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4g08e97523o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Iran war costs Toyota £3bn",
+      "reason": "significant business impact",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall"
+    },
+    {
+      "score": 7,
+      "fact": "Bonnie Tyler in induced coma",
+      "reason": "Celebrity in unexpected situation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c707edw539ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Rebel Wilson accused of revision of history",
+      "reason": "Celebrity in unexpected controversy",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Rebel Wilson called a liar",
+      "reason": "Celebrity in unexpected controversy",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/film/2026/may/08/rebel-wilson-fantastical-liar-court-told-defamation-case-ntwnfb"
+    },
+    {
+      "score": 7,
+      "fact": "Man charged with threatening Andrew Mountbatten-Windsor",
+      "reason": "Specific person in notable situation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4g0d1wp6g8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Surovčík seeks legal action",
+      "reason": "Specific person",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/vyhrozovani-smrti-je-neakceptovatelne-napsal-surovcik-po-napadeni-bude-jej-resit_2605092329_sis"
+    },
+    {
+      "score": 6,
+      "fact": "Rodríguezová visits Haag",
+      "reason": "Specific person",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rodriguezova-miri-do-haagu-chce-hajit-narok-venezuely-na-esequibo-373259"
+    },
+    {
+      "score": 6,
+      "fact": "Iran attacks US bases",
+      "reason": "Shocking story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-iran-zasahl-18-zakladen-s-americkymi-vojaky-v-sedmi-zemich-spocitali-novinari-305831"
+    },
+    {
+      "score": 6,
+      "fact": "Iran attacks US bases",
+      "reason": "Shocking story",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nyt-iran-a-spojenci-zasahli-osmnact-zakladen-s-vojaky-usa-v-sedmi-zemich-373257"
+    },
+    {
+      "score": 6,
+      "fact": "Přelomový lék na rakovinu slinivky získal povolení",
+      "reason": "Medical breakthrough, but not extremely surprising",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zdravi-prelomovy-lek-na-rakovinu-slinivky-v-usa-ziskal-povoleni-pro-prvni-pacienty-40577309"
+    },
+    {
+      "score": 6,
+      "fact": "Záchranáři bojovali s časem při záchraně velryby",
+      "reason": "interesting story",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-hormuzsky-pruliv-velryba-timmy-ceske-svycarsko_2605090800_pta"
+    },
+    {
+      "score": 6,
+      "fact": "Ondřej Adámek skládá hudbu pro světové orchestry",
+      "reason": "interesting fact",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-ondrej-adamek-prazske-jaro-305784"
+    },
+    {
+      "score": 6,
+      "fact": "Lidé u Prahy sbírají zkameněliny",
+      "reason": "interesting hobby",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/konicek-nebo-rabovani-lide-u-prahy-sbiraji-zkameneliny-hledaji-take-trilobity_2605090611_ape"
+    },
+    {
+      "score": 6,
+      "fact": "Reform wins English local elections",
+      "reason": "Solid news, vague term",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cdxpqyndqwlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Gordon Brown returns to politics",
+      "reason": "Notable figure, but expected move",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c5yrx3dl9vqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Reform wins votes from Labour and Conservatives",
+      "reason": "Solid news, vague term",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cwy2nz4gwj5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "SNP leader rules out talks with Reform UK",
+      "reason": "Notable figure, expected move",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cddpevvv97jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "'Illegal' traveller plot for sale on Facebook",
+      "reason": "Notable event, unexpected twist",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c0k2g81v6n8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "CSIRO funding is at its lowest since 1978",
+      "reason": "surprising statistic",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/09/david-pocock-applauds-3874m-in-extra-funding-for-csiro-after-tens-of-thousands-sign-petition"
+    },
+    {
+      "score": 6,
+      "fact": "Reform party gains in British politics",
+      "reason": "notable political shift",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Canadian school to be torn down after shooting",
+      "reason": "significant response to tragedy",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting"
+    },
+    {
+      "score": 6,
+      "fact": "Nathan Law lives with £100,000 bounty",
+      "reason": "Specific person in notable situation",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/08/hong-kong-dissident-nathan-law-china-spies-spying-uk"
+    },
+    {
+      "score": 6,
+      "fact": "South East Water boss David Hinton quits",
+      "reason": "Specific person in notable moment",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Third British national has hantavirus infection",
+      "reason": "Specific person in notable situation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Instagram removes end-to-end encryption",
+      "reason": "Notable tech company decision",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Solomon Islands PM ousted in no-confidence vote",
+      "reason": "Notable but expected political move",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/08/solomon-islands-new-leader-pm-jeremiah-manele-ousted-no-confidence-vote"
+    }
+  ]
+}
