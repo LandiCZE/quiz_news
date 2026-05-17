@@ -1,0 +1,423 @@
+{
+  "week_start": "2026-05-10T00:00:00+00:00",
+  "week_end": "2026-05-17T00:00:00+00:00",
+  "generated": "2026-05-17T11:00:06.483326+00:00",
+  "facts": [
+    {
+      "score": 8,
+      "fact": "Uhynulá velryba u dánského ostrova je Timmy",
+      "reason": "konkrétní jméno",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/uhynula-velryba-u-danskeho-ostrova-je-timmy-potvrdily-urady-373512"
+    },
+    {
+      "score": 8,
+      "fact": "Golfista zachránil nově narozeného muflonovi",
+      "reason": "Viral animal story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-golfista-u-brna-zachranil-zivot-nove-narozenemu-muflonovi-40578373"
+    },
+    {
+      "score": 8,
+      "fact": "Jednoduchý test na židli prozradí riziko úmrtí",
+      "reason": "Surprising research",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zdravi-jednoduchy-test-na-zidli-vam-muze-prozradit-jake-je-u-vas-riziko-predcasneho-umrti-40578334"
+    },
+    {
+      "score": 8,
+      "fact": "Nakladatel got Skřipec award",
+      "reason": "Surprising and funny news",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-anticena-skripec-2026-cervenka-306311"
+    },
+    {
+      "score": 8,
+      "fact": "Girl group tours without a record",
+      "reason": "Unusual achievement",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cz721w33ve1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Switzerland opens Mengele files",
+      "reason": "historical figure and surprising reveal",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "AI videos fake UK decline",
+      "reason": "surprising tech twist",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Lidské náhradní matky pečují o šimpanze bonobo",
+      "reason": "zajímavá zpráva",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/priroda/v-konzske-kinshase-pecuji-o-osirela-mladata-simpanzu-bonobo-lidske-nahradni_2605161029_elev"
+    },
+    {
+      "score": 7,
+      "fact": "SpaceX rozštěpí akcie v poměru 5:1",
+      "reason": "Major company decision",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-muskova-spacex-rozstepi-akcie-snizit-tak-cenu-pred-vstupem-na-burzu-40578459"
+    },
+    {
+      "score": 7,
+      "fact": "Kněz Jáchym Jaroslav Šimek byl spolupracovníkem StB",
+      "reason": "Interesting biography",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/historie/spolupracovnik-stb-je-ten-kdo-se-snazi-lidem-ublizovat-pribeh-patera-jachyma_2605160907_adn"
+    },
+    {
+      "score": 7,
+      "fact": "Emma Čechová si přetrhla vaz v kolenu",
+      "reason": "Notable sports injury",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/sportovni-tragedie-pro-cechovou-basketbalistka-ma-pretrzeny-vaz-v-kolenu-sezona_2605160832_mim"
+    },
+    {
+      "score": 7,
+      "fact": "Mileva Marićová helped Einstein",
+      "reason": "Interesting historical fact",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-pohnuty-osud-einsteinovy-prvni-zeny-pomahala-mu-s-teorii-relativity-zemrela-v-krivde-40575502"
+    },
+    {
+      "score": 7,
+      "fact": "Trump announced killing of IS leader",
+      "reason": "Important and interesting news",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-americke-a-nigerijske-sily-zabily-v-nigerii-velitele-islamskeho-statu-306314"
+    },
+    {
+      "score": 7,
+      "fact": "Americké síly zabily velitele IS",
+      "reason": "Important and interesting news",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-americke-a-nigerijske-sily-zabily-velitele-islamskeho-statu-oznamil-trump-40578457"
+    },
+    {
+      "score": 7,
+      "fact": "Same as article 17",
+      "reason": "Important and interesting news",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/peclive-naplanovana-operace-americti-a-nigerijsti-vojaci-zabili-tamniho-velitele_2605160648_mst"
+    },
+    {
+      "score": 7,
+      "fact": "North England bids for Olympics",
+      "reason": "Specific event bid",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/sport/olympics/articles/clypl9pzy6jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Man killed by great white shark",
+      "reason": "Unusual death",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Journalist tries UK's saltiest sandwich",
+      "reason": "funny and unexpected story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cd9pylq25y9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Woman asks for assisted dying in Canada",
+      "reason": "unique and thought-provoking story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "British Gas pays £20m fine",
+      "reason": "major company pays fine",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Five Italians die in cave dive",
+      "reason": "tragic, notable incident",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Musk-Altman trial reveals secrets",
+      "reason": "notable tech trial",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Bulharská zpěvačka Dara vyhrála Eurovizi",
+      "reason": "konkrétní jméno",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-eurovize-2026-vitez-bulharsko-306342"
+    },
+    {
+      "score": 6,
+      "fact": "Šéf ozbrojeného křídla Hamásu je mrtev",
+      "reason": "konkrétní jméno",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/sef-ozbrojeneho-kridla-hamasu-je-mrtev-uvadi-podle-reuters-hnuti-373505"
+    },
+    {
+      "score": 6,
+      "fact": "Třicet tisíc lidí se zaregistrovalo na pochod Praha–Prčice",
+      "reason": "konkrétný údaj",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/na-pochod-praha-prcice-se-zaregistrovalo-pres-tricet-tisic-lidi-prvni-chodci_2605161026_adn"
+    },
+    {
+      "score": 6,
+      "fact": "Podezřelý z krádeže lebky sv. Zdislavy je u soudu",
+      "reason": "konkrétní jméno",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-k-soudu-privezli-podezreleho-z-kradeze-lebky-sv-zdislavy-40578462"
+    },
+    {
+      "score": 6,
+      "fact": "Zloděj zalil lebku svaté Zdislavy betonem",
+      "reason": "Shocking story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-mistni-o-zlodeji-lebky-pred-kostel-s-nim-a-useknout-mu-ruce-306299"
+    },
+    {
+      "score": 6,
+      "fact": "Magistrát se přestěhuje na Václavák",
+      "reason": "Notable event",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-architektura-prosli-jsme-novou-budovu-prazskeho-magistratu-k-videni-je-tu-i-potrubni-posta-306208"
+    },
+    {
+      "score": 6,
+      "fact": "Putin pojede na návštěvu do Číny",
+      "reason": "Notable meeting",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/online-putin-pojede-za-svym-drahym-pritelem-si-tin-pchingem-jednat-maji-o_2605160926_mst"
+    },
+    {
+      "score": 6,
+      "fact": "Český rozhlas otevře redakce pro veřejnost",
+      "reason": "Notable event",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/prijdte-za-nami-cesky-rozhlas-otevira-redakce-ve-vsech-regionech-i-na-prazskych_2605160919_adn"
+    },
+    {
+      "score": 6,
+      "fact": "Jindřich Rajchl je poslancem za PRO",
+      "reason": "Notable figure",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-10-sezona-rajchl-radi-plaga-mlci-jak-funguje-koalice-ano-s-pro-306250"
+    },
+    {
+      "score": 6,
+      "fact": "Divadlo uvádí hororovou komedii o bydlení",
+      "reason": "Notable event",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/divadlo/co-je-mlady-par-ochotny-udelat-pro-lepsi-domov-divadlo-v-brne-uvadi-hororovou_2605160836_vdv"
+    },
+    {
+      "score": 6,
+      "fact": "Jan Svěrák rejects American scripts",
+      "reason": "Solid news, but not surprising",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-galerie-osobnosti-mozna-uz-mam-hotovo-ted-si-chci-jen-hrat-rika-jan-sverak-303989"
+    },
+    {
+      "score": 6,
+      "fact": "Casting for new James Bond starts",
+      "reason": "Expected news from entertainment",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-casting-na-noveho-jamese-bonda-zacal-favority-jsou-britove-a-australan-306316"
+    },
+    {
+      "score": 6,
+      "fact": "Guvernér Colorada omilostnil úřednici",
+      "reason": "Interesting, but not surprising",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-guverner-colorada-omilostnil-urednici-ktera-sirila-famy-o-volebnich-podvodech-306315"
+    },
+    {
+      "score": 6,
+      "fact": "Czech team wins against Dánsko",
+      "reason": "Expected sports result",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/hokej/byli-jsme-sebevedomi-tesila-tomaska-uvodni-vyhra-nad-danskem-u-presilovek-ale_2605160709_mim"
+    },
+    {
+      "score": 6,
+      "fact": "Robert paid £726 to skip driving test",
+      "reason": "Unusual payment",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Canada confirms first hantavirus case",
+      "reason": "Specific disease",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia"
+    },
+    {
+      "score": 6,
+      "fact": "Senior IS leader killed",
+      "reason": "Specific target",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Trump says IS leader killed",
+      "reason": "Specific target",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says"
+    },
+    {
+      "score": 6,
+      "fact": "Trump discusses Jimmy Lai with Xi Jinping",
+      "reason": "solid news but answer is a country leader",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping"
+    },
+    {
+      "score": 6,
+      "fact": "Andy Burnham may run for PM",
+      "reason": " notable politician move",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/clyp13er450o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Dela Rosa evades arrest in Philippines",
+      "reason": "notable but foreign politician story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/16/dela-rosa-week-chaos-philippines"
+    },
+    {
+      "score": 6,
+      "fact": "Labour politicians weaken PM",
+      "reason": "notable politician move",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cvgzjj474ywo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "US pressures Cuba with Raúl Castro indictment",
+      "reason": "notable but expected international move",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump"
+    },
+    {
+      "score": 6,
+      "fact": "Andy Burnham considers by-election run",
+      "reason": "notable politician move",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Furnace Creek records heat",
+      "reason": "record-breaking weather",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes"
+    },
+    {
+      "score": 6,
+      "fact": "New James Bond auditions begin",
+      "reason": "notable pop culture event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cn5pq7d9p39o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Daniel Andrews statue built",
+      "reason": "notable political figure",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/15/australia-news-live-delta-goodrem-eurovision-budget-reply-angus-taylor-immigration-income-tax-bracket-creep-jim-chalmers-inflation-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Neo-Nazi group criminalised",
+      "reason": "notable law change",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/15/neo-nazi-group-national-socialist-network-criminalised-under-hate-laws-passed-after-bondi-terror-attack-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Roxanne Tickle wins appeal",
+      "reason": "notable court case",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/15/giggle-for-girls-app-discriminated-against-trans-woman-roxanne-tickle-appeal-case-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "UK river bathing sites polluted",
+      "reason": "notable environmental issue",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
