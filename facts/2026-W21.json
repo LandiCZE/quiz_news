@@ -1,0 +1,391 @@
+{
+  "week_start": "2026-05-17T00:00:00+00:00",
+  "week_end": "2026-05-24T00:00:00+00:00",
+  "generated": "2026-05-24T11:06:46.906340+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "1200 let starý plamen shořel v Japonsku",
+      "reason": "unique event",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-od-1200-let-stareho-vecneho-ohne-shorel-v-japonsku-chram-plamen-se-podarilo-zachranit-40579296"
+    },
+    {
+      "score": 9,
+      "fact": "Breast reduction surgeries surpass enlargements",
+      "reason": "Surprising trend",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c3d2k4xz42no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "France bans Israeli minister Ben Gvir",
+      "reason": "surprising action",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ben-gvir-po-afere-s-ponizovanim-aktivistu-nesmi-do-francie-373779"
+    },
+    {
+      "score": 8,
+      "fact": "Herec Kim Soo-hyun obviněn z AI podvrhu",
+      "reason": "surprising story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-karieru-popularniho-herce-ukoncily-zfalsovane-snimky-vytvorene-ai-306857"
+    },
+    {
+      "score": 8,
+      "fact": "Davida Černého motýl ve tvaru Spitfiru",
+      "reason": "unique art",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-motyl-davida-cerneho-ve-tvaru-spitfiru-visi-v-londyne-306856"
+    },
+    {
+      "score": 8,
+      "fact": "SpaceX úspěšně otestovala Starship",
+      "reason": "space exploration",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-spacex-provedla-uspesny-zkusebni-let-nejvykonnejsiho-typu-lodi-starship-40579545"
+    },
+    {
+      "score": 8,
+      "fact": "Růžena Holubová přežila ataky malárie",
+      "reason": "Inspirational story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-prezila-ataky-malarie-i-domorodcu-vyrazne-mladsi-manzelka-emila-holuba-zustala-v-jeho-stinu-40577141"
+    },
+    {
+      "score": 8,
+      "fact": "Raketa Starship skončila explozí",
+      "reason": "Technological failure",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-zkusebni-let-nejvetsi-lodi-od-spacex-skoncil-planovanou-explozi-306854"
+    },
+    {
+      "score": 8,
+      "fact": "90 dead in Chinese mine",
+      "reason": "record-breaking tragedy",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "King attends sold-out Shakespeare play",
+      "reason": "Royal surprise appearance",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cpwp0pz72pxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Married at First Sight UK rape allegations",
+      "reason": "Shocking scandal",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cy02349wgy5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Alberta to hold independence vote",
+      "reason": "Notable political development",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "70,000 Ukrainians flee to avoid army",
+      "reason": "significant number",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajinci-prchajici-pred-sluzbou-v-armade-riskuji-zivoty-v-horach-373785"
+    },
+    {
+      "score": 7,
+      "fact": "Toxic chemical leak in California",
+      "reason": "urgent situation",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-kalifornii-hrozi-vybuch-nadrze-s-toxickou-chemikalii-373776"
+    },
+    {
+      "score": 7,
+      "fact": "Congo footballers to isolate for 21 days",
+      "reason": "specific requirement",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-fotbaliste-konga-maji-kvuli-ebole-stravit-21-dnu-v-izolaci-pozaduji-usa-306861"
+    },
+    {
+      "score": 7,
+      "fact": "Hungary bans Ukrainian agricultural products",
+      "reason": "significant policy change",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-madarsko-zakaze-dovoz-zemedelskych-produktu-z-ukrajiny-40579548"
+    },
+    {
+      "score": 7,
+      "fact": "Zuzana Mrázová kritizuje Babišovu vládu",
+      "reason": "Czech politics",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-10-sezona-jdete-do-politiky-tak-si-prosim-vas-zkontrolujte-facebook-306791"
+    },
+    {
+      "score": 7,
+      "fact": "Výbuch plynu zabil 90 lidí",
+      "reason": "Large accident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-vybuch-plynu-v-cinskem-dole-zabil-82-horniku-40579542"
+    },
+    {
+      "score": 7,
+      "fact": "Brno mohlo mít nejvyšší budovu",
+      "reason": "Interesting history",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/podcasty-nepostaveno-brno-mohlo-mit-nejvyssi-budovu-v-evrope-perlu-sve-doby-zprznili-komuniste-40579010"
+    },
+    {
+      "score": 7,
+      "fact": "Výbuch v dole zabil 90 lidí",
+      "reason": "Large accident",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-explozi-v-cinskem-dole-zemrelo-pres-osmdesat-lidi-373767"
+    },
+    {
+      "score": 7,
+      "fact": "Výbuch v čínském dole zabil 82 lidí",
+      "reason": "Large accident",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/nejmene-82-lidi-prislo-o-zivot-v-cinskem-uhelnem-dole-vybouchl-plyn-devet-lidi_2605230739_jos"
+    },
+    {
+      "score": 7,
+      "fact": "Woman found dead in Ghana",
+      "reason": "shocking story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c1d2xgvgy9yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Reform councillor assaults woman",
+      "reason": "shocking story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cp8p4xgn0mvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Sufiyaan Salam wins award from Stormzy",
+      "reason": "Celebrity connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/czx281ngrppo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Red Arrows fly with fewer jets",
+      "reason": "Notable change",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cj9p8rvl0d0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Paul McCartney joins Colbert",
+      "reason": "Fun celebrity collaboration",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cx21gnlx0w1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Rumunian film wins Cannes festival",
+      "reason": "notable event",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-cannes-2026-festival-vitezove-306880"
+    },
+    {
+      "score": 6,
+      "fact": "Pavel advises NATO to react stronger",
+      "reason": "notable statement",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nato-by-melo-po-ruskych-provokacich-dle-pavla-vycenit-zuby-373774"
+    },
+    {
+      "score": 6,
+      "fact": "Podbořany celebrate 450 years",
+      "reason": "notable anniversary",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/450-let-od-vzniku-oslavuji-v-podboranech-na-lounsku-historii-mesta-mapuje-i-nova_2605231039_vaa"
+    },
+    {
+      "score": 6,
+      "fact": "Sahara dust may ruin first tropical day",
+      "reason": "interesting weather",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-prvni-tropicky-den-letosniho-roku-muze-zhatit-saharsky-prach-40579549"
+    },
+    {
+      "score": 6,
+      "fact": "Train derails between Ostrava and Bohumín",
+      "reason": "notable accident",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/nakladni-vlak-vykolejil-mezi-ostravou-a-bohuminem-provoz-na-hlavnim-zeleznicnim_2605231027_vaa"
+    },
+    {
+      "score": 6,
+      "fact": "Zvezdočka může rozmístit jaderné rakety",
+      "reason": "interesting story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-zapadni-rozvedky-bedlive-sleduji-ruskou-zvezdocku-boji-se-ze-rozmisti-jaderne-rakety-na-morskem-dne-40579462"
+    },
+    {
+      "score": 6,
+      "fact": "Rohatí zahradníci chrání obojživelníky",
+      "reason": "nature story",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/rohati-zahradnici-se-vraci-do-kochanivic-stado-skotu-bude-udrzovat-vhodne_2605230600_vsl"
+    },
+    {
+      "score": 6,
+      "fact": "Palác Savarin se přestavuje",
+      "reason": "architectural news",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/savarin-rekonstrukce-praha-architektura_2605230936_elev"
+    },
+    {
+      "score": 6,
+      "fact": "Pragerovy kostky se rekonstruují",
+      "reason": "architectural news",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-architektura-levitujici-kostky-nad-klasterni-zahradou-unikatni-pragerovu-stavbu-ceka-obnova-306737"
+    },
+    {
+      "score": 6,
+      "fact": "Praha 1 opravuje historické kašny",
+      "reason": "cultural news",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/krannerova-wimmerova-i-svateho-klementina-mestska-cast-praha-1-opravuje_2605230914_vsl"
+    },
+    {
+      "score": 6,
+      "fact": "Političtí novináři ve Sněmovně podváděli",
+      "reason": "Unexpected behavior",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-vlevo-dole-vlevo-dole-ztraceni-ve-snemovne-novinari-podvadeli-i-tak-prohrali-306777"
+    },
+    {
+      "score": 6,
+      "fact": "Zakřivený bazén otevřen v Rosicích",
+      "reason": "Unique attraction",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/v-rosicich-otevreli-unikatni-areal-pro-volny-cas-vodu-udrzuje-cistou-dolomiticky_2605230600_mkm"
+    },
+    {
+      "score": 6,
+      "fact": "Fotbalová korupce v Česku",
+      "reason": "Sports scandal",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-do-nitra-fotbalove-korupce-rozpad-havlovy-knihovny-a-soud-k_2605230800_ako"
+    },
+    {
+      "score": 6,
+      "fact": "Mladí vědci přednášeli ve Českých Budějovicích",
+      "reason": "Inspiring event",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/vesmir-bunky-nebo-vyzkum-dopaminu-v-ceskych-budejovicich-prednaseli-mladi-vedci_2605230600_mkm"
+    },
+    {
+      "score": 6,
+      "fact": "Zara Larsson performs at Big Weekend",
+      "reason": "notable performance",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Candace Owens' tour cancelled",
+      "reason": "notable cancellation",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/24/candace-owens-tour-cancelled-australia-no-ticket-refunds-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "China mine death toll rises",
+      "reason": "update on previous story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping"
+    },
+    {
+      "score": 6,
+      "fact": "UK considers single market",
+      "reason": "notable proposal",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Artist charged for Nazi symbol art",
+      "reason": "Freedom of speech issue",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/23/police-drop-case-against-artist-who-depicted-prominent-australians-in-uniforms-with-nazi-symbols-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Fatboy Slim performs at Radio 1's Big Weekend",
+      "reason": "Music event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cp8p1wl8pr6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Venezuelan makeup artist seeks asylum in Spain",
+      "reason": "Human interest story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum"
+    },
+    {
+      "score": 6,
+      "fact": "Jessie J is cancer-free",
+      "reason": "Celebrity health update, happy news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/crrpxzrgnppo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
