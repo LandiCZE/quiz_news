@@ -1,0 +1,399 @@
+{
+  "week_start": "2026-05-24T00:00:00+00:00",
+  "week_end": "2026-05-31T00:00:00+00:00",
+  "generated": "2026-05-31T11:26:01.884981+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Cena lithiových baterií klesla o 99%",
+      "reason": "record-breaking decrease",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-pad-o-99-jak-se-povedlo-srazit-cenu-lithiovych-baterii-na-pouhy-zlomek-307194"
+    },
+    {
+      "score": 8,
+      "fact": "Žena spadla do kanalizační šachty",
+      "reason": "shocking story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-brazilka-se-pri-venceni-psa-propadla-na-chodniku-do-kanalizacni-sachty-zachytila-to-kamera-40580120"
+    },
+    {
+      "score": 8,
+      "fact": "Dora Kaprálová dostala cenu EU za literaturu",
+      "reason": "notable award",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-knihy-cenu-evropske-unie-za-literaturu-dostala-kapralova-za-roman-mariborska-hypnoza-40580710"
+    },
+    {
+      "score": 8,
+      "fact": "Dora Kaprálová získala evropskou cenu za literaturu",
+      "reason": "notable award",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-dora-kapralova-cena-evropske-unie-307421"
+    },
+    {
+      "score": 8,
+      "fact": "Marcia Lucas dies aged 80",
+      "reason": "notable death",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "83 drones fell into Darling Harbour",
+      "reason": "shocking story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour"
+    },
+    {
+      "score": 8,
+      "fact": "Kenneth Law aided suicides with toxic chemicals",
+      "reason": "shocking story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Kenneth Law sold lethal chemicals online",
+      "reason": "shocking story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/29/canada-kenneth-law-suicide-packets-hundreds-of-people-around-world"
+    },
+    {
+      "score": 8,
+      "fact": "Teenager uses police car as BMX ramp",
+      "reason": "Shocking and weird story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/29/bmx-police-car-ramp-scientology-speedrun-church-brisbane-ntwnfb"
+    },
+    {
+      "score": 8,
+      "fact": "Blue Origin rocket explodes during test",
+      "reason": "Shocking and unexpected event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "František Suchý má památník v Madridu",
+      "reason": "Inspirational story",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/historie/ukryval-popel-obeti-nacismu-aby-mohly-byt-dustojne-pohrbeny-frantisek-suchy-ma_2605301109_bva"
+    },
+    {
+      "score": 7,
+      "fact": "Závodníci přecházejí Žďárské vrchy se psy",
+      "reason": "unique event",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/90-kilometru-dlouhe-venceni-zavodnici-v-dogtrekkingu-prechazeji-zdarske-vrchy_2605300956_raf"
+    },
+    {
+      "score": 7,
+      "fact": "Václav Macháček-Rieger zachránil zámek",
+      "reason": "notable person",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-architektura-schazeli-se-tu-obrozenci-ted-potomek-riegra-a-palackeho-jejich-zamek-zrekonstruoval-307354"
+    },
+    {
+      "score": 7,
+      "fact": "Pivovarník použil jména celebrit pro piva",
+      "reason": "Funny connection to celebrities",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-john-lemon-ci-mireille-mafieux-francouzsky-pivovarnik-si-pri-hledani-nazvu-svych-produktu-pohral-se-jmeny-celebrit-40580089"
+    },
+    {
+      "score": 7,
+      "fact": "Na Brněnsku hledají krále traktorů",
+      "reason": "Unusual competition",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/slalom-mezi-kuzely-nebo-couvani-s-vlekem-neni-hracka-na-brnensku-hledaji-krale_2605300732_dci"
+    },
+    {
+      "score": 7,
+      "fact": "Australia has mouse plague",
+      "reason": "unusual problem",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Four men freed from Laos cave",
+      "reason": "dramatic rescue",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/30/four-more-men-freed-from-flooded-laos-cave-in-hazardous-rescue-mission"
+    },
+    {
+      "score": 7,
+      "fact": "DNA test could help breast cancer patients",
+      "reason": "medical breakthrough",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Shrey Parikh won National Spelling Bee",
+      "reason": "record-breaking event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/c4g8xy2n2zdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "AI to estimate age of asylum seekers",
+      "reason": "Interesting use of technology",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ce3pe36qe7ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Intensive care ward opens on rooftop",
+      "reason": "Interesting and unique solution",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cm2p1pzzmyeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Loď s hantavirem vyplouvá z Rotterdamu",
+      "reason": "Unusual story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-lod-na-niz-se-rozsiril-hantavirus-dostala-povoleni-vyplout-307442"
+    },
+    {
+      "score": 6,
+      "fact": "Pražský kampus vyroste na pozemcích Jaromíra Soukupa",
+      "reason": "Notable redevelopment",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-na-pozemcich-po-jaromiru-soukupovi-postavi-praha-stredoskolsky-kampus-40580677"
+    },
+    {
+      "score": 6,
+      "fact": "Američtí a kubánští generálové se setkali",
+      "reason": "Unusual meeting",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-americti-a-kubansti-generalove-se-potkali-na-zakladne-guantanamo-40580715"
+    },
+    {
+      "score": 6,
+      "fact": "Baťova železnice se mění na cyklostezku",
+      "reason": "surprising transformation",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/z-batovy-zeleznice-je-cyklostezka-behem-slavnostniho-otevreni-se-na-ni-projedou_2605301026_raf"
+    },
+    {
+      "score": 6,
+      "fact": "Volby před 30 lety změnily Česko",
+      "reason": "notable anniversary",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-10-sezona-za-to-muzete-vy-rekl-klaus-volby-pred-30-lety-zmenily-cesko-307380"
+    },
+    {
+      "score": 6,
+      "fact": "Jakub Menšík porazil De Minaura",
+      "reason": "notable sports achievement",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/tenis/mentalni-techniky-mi-pomohly-dostat-se-do-rytmu-prozradil-mensik-po-vyhre-nad-de_2605300942_mim"
+    },
+    {
+      "score": 6,
+      "fact": "V Praze jsou unikátní gotické věže",
+      "reason": "notable landmark",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-foto-unikatni-goticke-veze-v-centru-prahy-nejsou-pristupne-a-temer-nikdo-o-nich-nevi-40574731"
+    },
+    {
+      "score": 6,
+      "fact": "Jiří Kylián dostal Řád bílého lva",
+      "reason": "Notable achievement without twist",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-galerie-osobnosti-delali-ze-me-zradce-vlasti-dnes-ma-jiri-kylian-rad-bileho-lva-303990"
+    },
+    {
+      "score": 6,
+      "fact": "Pilotka Anne Lindberghová zažila slávu i pád",
+      "reason": "Interesting biography without surprise",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-pilotka-a-spisovatelka-anne-lindberghova-zazila-slavu-i-pad-jeji-zivot-poznamenal-unos-a-smrt-syna-40578575"
+    },
+    {
+      "score": 6,
+      "fact": "Rekordní počet dětí platí za vzdělání",
+      "reason": "Notable trend without twist",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kampus-stredni-vzdelavani-rekordni-pocet-deti-na-soukromych-gymnaziich-v-praze-uz-skoro-tretina-307309"
+    },
+    {
+      "score": 6,
+      "fact": "Killer fungus could restore habitats",
+      "reason": "interesting discovery",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Ferrari's first EV criticized",
+      "reason": "notable backlash",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Australia buys secondhand submarines",
+      "reason": "notable purchase",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth"
+    },
+    {
+      "score": 6,
+      "fact": "New film highlights Jamaica's obeah",
+      "reason": "cultural interest",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition"
+    },
+    {
+      "score": 6,
+      "fact": "Chinese dissident berated by interpreter",
+      "reason": "unexpected incident",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/uk-news/2026/may/30/chinese-dissident-says-he-was-berated-by-pro-regime-interpreter-for-uk-police"
+    },
+    {
+      "score": 6,
+      "fact": "Trump in excellent health",
+      "reason": "notable medical update",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cx21v0ezv14o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Heated Rivalry is a new ice hockey romance",
+      "reason": "notable but not surprising",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/clypz87rqy1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Ukraine uses AI drones on Russians",
+      "reason": "notable but not surprising",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Ruben Dias comments on Maya Jama break-up",
+      "reason": "celebrity news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cpqp83xvg2no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Mumbai's dabbawalas are disappearing",
+      "reason": "notable but not surprising",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c202d0l92weo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "South Korea's tattoo artists step into limelight",
+      "reason": "notable but not surprising",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cg4pwdn6130o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Lula rejects US terrorist designation",
+      "reason": "notable but not surprising",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio"
+    },
+    {
+      "score": 6,
+      "fact": "Tony Abbott becomes Liberal party president",
+      "reason": "Solid news but not surprising",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/30/tony-abbott-return-to-liberal-party-president-australia"
+    },
+    {
+      "score": 6,
+      "fact": "Europe heatwave shatters records",
+      "reason": "Notable weather event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/environment/2026/may/29/weather-tracker-deadly-may-heatwave-shatters-records-across-europe"
+    },
+    {
+      "score": 6,
+      "fact": "CMAT experiences body-shaming abuse",
+      "reason": "Notable celebrity issue",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c0k2m7nkkylo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Australian diver joins Laos cave rescue",
+      "reason": "Notable international effort",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/may/29/essentially-diving-in-coffee-australian-diver-among-team-rushing-to-rescue-people-trapped-in-flooded-laos-cave"
+    },
+    {
+      "score": 6,
+      "fact": "Tony Abbott says Liberals in crisis",
+      "reason": "Notable political statement",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Abbott vows to help Taylor lead",
+      "reason": "Solid political news",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/may/29/tony-abbott-liberal-party-president-peoples-revolt-against-labor"
+    }
+  ]
+}
