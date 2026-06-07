@@ -1,0 +1,415 @@
+{
+  "week_start": "2026-05-31T00:00:00+00:00",
+  "week_end": "2026-06-07T00:00:00+00:00",
+  "generated": "2026-06-07T11:42:50.861291+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Šerpa přežil thanks to čokoládě",
+      "reason": "surprising survival story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-jeho-rodina-uz-chystala-pohreb-serpa-prezil-bez-kysliku-sest-dnu-na-everestu-307967"
+    },
+    {
+      "score": 9,
+      "fact": "Parazitolog testuje cizopasníky",
+      "reason": "zajímavý vědecký experiment",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zdravi-plus-roupi-v-detstvi-pomahaji-posilit-strevni-imunitu-v-dospelosti-tvrdi-parazitolog-307816"
+    },
+    {
+      "score": 9,
+      "fact": "Euromillions winner dies in hit-and-run",
+      "reason": "Shocking story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cqj1lljr5wjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Elmo called traitor over Knicks",
+      "reason": "Funny celebrity story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "AI-designed vaccine tested",
+      "reason": "Record-breaking event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Žralok zabil potápěče v Austrálii",
+      "reason": "shocking animal story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-tri-mrtvi-za-tri-tydny-u-australie-opet-zabijel-zralok-40581930"
+    },
+    {
+      "score": 8,
+      "fact": "Archelogové našli 1700 let staré předměty u Notre-Dame",
+      "reason": "notable discovery",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-vykop-stoleti-pod-katedralou-notre-dame-nasli-1700-let-stare-predmety-307962"
+    },
+    {
+      "score": 8,
+      "fact": "Kamioňák zachránil muže s amputovanou rukou",
+      "reason": "heroic act",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-kamionak-u-brna-zachranoval-muze-s-amputovanou-rukou-ostatni-mezitim-stali-opodal-a-nehodu-si-nataceli-40581822"
+    },
+    {
+      "score": 8,
+      "fact": "Emilie Louise Flögeová byla múzou Klimta",
+      "reason": "známá osoba v umění",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-emilie-louise-flogeova-byla-muzou-gustava-klimta-ale-take-uznavanou-navrharkou-40579664"
+    },
+    {
+      "score": 8,
+      "fact": "Důchodce nahlásil příjem ze sběru",
+      "reason": "zajímavý případ",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-nemecky-duchodce-nahlasil-prijem-ze-sberu-lahvi-snizili-mu-podporu-40581915"
+    },
+    {
+      "score": 8,
+      "fact": "Police officer joins Love Island US",
+      "reason": "Unexpected celebrity connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Duffy returns to live concert stage",
+      "reason": "Surprising comeback",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ce8p8mzj4e8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Taylor Swift's wedding rumored",
+      "reason": "Celebrity gossip",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Virtual space battle costs £400,000",
+      "reason": "Notable gaming loss",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cnvp7364q5no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Bear escapes by opening window",
+      "reason": "Viral animal story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Robert Fico kritizoval evropskou obranu",
+      "reason": "Czech-related surprise",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/hegseth-v-normandii-kritizoval-evropskou-obranu-374300"
+    },
+    {
+      "score": 7,
+      "fact": "Tomio Okamura má protiukrajinské názory",
+      "reason": "Czech politician's statement",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-rusy-zaujaly-okamurovy-protiukrajinske-nazory-40581919"
+    },
+    {
+      "score": 7,
+      "fact": "Kardinál Michael Czerny vede blahořečení",
+      "reason": "známá osoba v Česku",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zanechali-velmi-inspirujici-poselstvi-kardinal-blahoreci-zavrazdene-kneze-307937"
+    },
+    {
+      "score": 7,
+      "fact": "Jiří David maluje imaginární krajiny",
+      "reason": "známý umělec",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-jiri-david-galerie-vaclava-spaly-vystava-307914"
+    },
+    {
+      "score": 7,
+      "fact": "Canadian warehouse workers unionize",
+      "reason": "Notable business news",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal"
+    },
+    {
+      "score": 7,
+      "fact": "Anthony Head dies aged 72",
+      "reason": "Notable death",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Giant banquets spark controversy",
+      "reason": "Unusual event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Mice plagues devastate Australia",
+      "reason": "Unusual environmental issue",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Andrew sub-letting Royal Lodge",
+      "reason": "Royal controversy",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "ANU scandals cause $100m damage",
+      "reason": "Specific number",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/05/anu-australian-national-university-julie-bishop-scandals-reputational-damage-ntwnfb"
+    },
+    {
+      "score": 7,
+      "fact": "Trump's White House plan doubles",
+      "reason": "Specific comparison",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "USA dají spojencům íránská aktiva",
+      "reason": "vague country involvement",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/reuters-usa-daji-spojencum-v-perskem-zalivu-iranska-aktiva-na-povalecnou-obnovu-374302"
+    },
+    {
+      "score": 6,
+      "fact": "Peruánský kandidát čelí obvinění",
+      "reason": "unexpected charge",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/prezidentsky-kandidat-v-peru-musi-k-soudu-kvuli-financovani-kampane-374292"
+    },
+    {
+      "score": 6,
+      "fact": "Praha 1 má interkulturního pracovníka",
+      "reason": "new city position",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-na-radnici-prahy-1-maji-novou-pozici-interkulturniho-pracovnika-40581854"
+    },
+    {
+      "score": 6,
+      "fact": "Ženy mohou jít na mamograf bez žádanky",
+      "reason": "new health rule",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-od-zacatku-prazdnin-na-mamograf-bez-zadanky-40581588"
+    },
+    {
+      "score": 6,
+      "fact": "Oktoberfest zdražuje pivo",
+      "reason": "unexpected price increase",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-tuplak-skoro-za-ctyri-stovky-mnichovsky-oktoberfest-opet-podrazi-40581580"
+    },
+    {
+      "score": 6,
+      "fact": "Symfonický orchestr slaví 100 let",
+      "reason": "milestone anniversary",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/hudba/vlnohrani-pro-deti-ctyri-predkapely-i-jizda-valkyr-symfonicky-orchestr-ceskeho_2606061049_ape"
+    },
+    {
+      "score": 6,
+      "fact": "Povodí Ohře slaví 60 let",
+      "reason": "milestone anniversary",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/povodi-ohre-slavi-60-let-velkymi-plany-pro-nejsussi-oblasti-ceska-postavi-nadrz_2606061049_brz"
+    },
+    {
+      "score": 6,
+      "fact": "Babišova vláda zařízla referendum",
+      "reason": "Czech politics",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-10-sezona-babisova-vlada-zarizla-referendum-dobre-udelala-307924"
+    },
+    {
+      "score": 6,
+      "fact": "FIFA povolila fanouškům vlastní lahve na stadionu",
+      "reason": "notable rule change",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-fifa-vycouvala-fanouskum-na-ms-vlastni-lahve-na-stadionu-zase-povolila-307966"
+    },
+    {
+      "score": 6,
+      "fact": "Česko darovalo Ukrajině stanice pro filtraci vody",
+      "reason": "notable donation",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/regiony-olomouc-ukrajina-filtracni-stanice-arcidiecezni-olomoucka-charita_2606060953_brz"
+    },
+    {
+      "score": 6,
+      "fact": "Metro D bude dokončeno v roce 2032",
+      "reason": "notable project milestone",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pristi-stanice-olbrachtova-delnici-bojuji-s-podlozim-pri-razbe-tunelu-metra-d_2606060600_mst"
+    },
+    {
+      "score": 6,
+      "fact": "Filipínská rýže obohacená o železo",
+      "reason": "nová potravina",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/tech-technologie-veda-nova-ryze-by-mohla-pomoci-milionum-deti-nikdo-ji-ale-nejspis-nezasadi-307618"
+    },
+    {
+      "score": 6,
+      "fact": "Divadlo uvádí hru o Rukopisech",
+      "reason": "kulturní událost",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/divadlo/masaryk-hanka-rap-a-umela-inteligence-liberecke-divadlo-uvadi-hru-o-kauze_2606060600_mst"
+    },
+    {
+      "score": 6,
+      "fact": "Rusko spustí obdobu Starlinku",
+      "reason": "nová technologie",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/online-rusko-planuje-spustit-obdobu-satelitniho-systemu-starlink-provoz-zacne_2606060819_ape"
+    },
+    {
+      "score": 6,
+      "fact": "Cake sheds make bakers £1,000 a week",
+      "reason": "Notable business news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/crlpwd2prd0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Peter Phillips marries Harriet Sperling",
+      "reason": "Notable wedding",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/videos/cn8q7v27pw0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Seven night sky events to watch",
+      "reason": "Notable events",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/weather/articles/cgepvrgepn4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Man dies in shark attack",
+      "reason": "Notable incident",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/06/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast"
+    },
+    {
+      "score": 6,
+      "fact": "Aircraft carrier breaks down",
+      "reason": "Notable malfunction",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c9q3q930vj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Canada bans Texas cattle",
+      "reason": "Trade restriction",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Doctor's prescribing caused deaths",
+      "reason": "Medical negligence",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/06/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "University crossbow attack occurs",
+      "reason": "Notable crime",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cvgzg417yxno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Individuals can buy SpaceX shares",
+      "reason": "Notable business news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Burnham seeks Labour leadership",
+      "reason": "Notable politics",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "One in four births is emergency caesarean",
+      "reason": "Notable statistic",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
