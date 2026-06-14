@@ -1,0 +1,407 @@
+{
+  "week_start": "2026-06-07T00:00:00+00:00",
+  "week_end": "2026-06-14T00:00:00+00:00",
+  "generated": "2026-06-14T11:49:59.749899+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Policejní pes našel 240 kg kokainu",
+      "reason": "surprising story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-policejni-pes-pri-rutinni-silnicni-kontrole-vycenichal-temer-240-kg-kokainu-40581331"
+    },
+    {
+      "score": 9,
+      "fact": "Paramount kupuje Warner Bros. za 111 miliard",
+      "reason": "major company merger with specific names",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ministerstvo-spravedlnosti-schvalilo-prevzeti-warner-bros-spolecnosti-paramount-308474"
+    },
+    {
+      "score": 9,
+      "fact": "Elon Musk's rise to trillionaire",
+      "reason": "Specific, notable milestone",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Elon Musk became trillionaire",
+      "reason": "Specific, notable milestone",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "China claims 'spy turtles' monitor waters",
+      "reason": "Shocking, weird story with specific detail",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/12/china-spy-turtles-spy-fish-monitor-waters-claims"
+    },
+    {
+      "score": 8,
+      "fact": "Martin Kupka vtipkoval s míčem",
+      "reason": "Politická osobnost a humor",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-neni-euro-jako-euro-kupka-na-kongresu-ods-vtipkoval-s-micem-v-ruce-40583066"
+    },
+    {
+      "score": 8,
+      "fact": "Ostatky 29 nenarozených dětí",
+      "reason": "shocking story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-polsky-par-nasel-pod-cestou-k-novemu-domu-ostatky-29-nenarozenych-deti-40583059"
+    },
+    {
+      "score": 8,
+      "fact": "Čína: Želvy špehují pro cizince",
+      "reason": "unexpected connection",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/cizi-rozvedky-nas-spehuji-pomoci-zelv-a-ryb-tvrdi-cina-374535"
+    },
+    {
+      "score": 8,
+      "fact": "Ministerstvo schválilo převzetí Warner Bros.",
+      "reason": "major company merger",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/film/prinos-pro-spotrebitele-ministerstvo-spravedlnosti-schvalilo-prevzeti-studia_2606130725_vsn"
+    },
+    {
+      "score": 8,
+      "fact": "Malorie Blackman and Julia Donaldson made dames",
+      "reason": "notable honours",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Scotland plays in World Cup after 28 years",
+      "reason": "notable milestone",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c78ydv8er7no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Married at First Sight stars unaware of partners' convictions",
+      "reason": "shocking reality TV news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Harry Styles revisited X Factor",
+      "reason": "Celebrity connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cwy0381xxd7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Ed Sheeran found rare record",
+      "reason": "Celebrity connection, unexpected discovery",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ce8my1mrv7mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Elon Musk's SpaceX raises $75bn",
+      "reason": "Major company merger, specific name",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Konflikt na Ukrajině je delší než 1. světová válka",
+      "reason": "Milestone",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/konflikt-na-ukrajine-uz-trva-dele-nez-prvni-svetova-valka-a-maji-radu-paralel_2606131129_ako"
+    },
+    {
+      "score": 7,
+      "fact": "Konflikt na Ukrajině trvá déle než 1. světová válka",
+      "reason": "Milestone",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-cas-je-proti-vam-pet-pro-putina-znepokojivych-signalu-40583014"
+    },
+    {
+      "score": 7,
+      "fact": "Claude má stopku kvůli zneužití",
+      "reason": "specific AI model",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/tech-usa-naridily-anthropiku-zastavit-cizincum-pristup-k-nejpokrocilejsim-ai-modelum-308477"
+    },
+    {
+      "score": 7,
+      "fact": "Šéf gangu Tren de Aragua zabit",
+      "reason": "specific person",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-podle-trumpa-byl-pri-americkem-utoku-zabit-sef-venezuelskeho-gangu-308476"
+    },
+    {
+      "score": 7,
+      "fact": "Český rozhlas kmotrem hříbat",
+      "reason": "specific event",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/priroda/cesky-rozhlas-jako-kmotr-ohrozeneho-plemene-farma-hucul-na-janove-hore-pokrti_2606130743_aru"
+    },
+    {
+      "score": 7,
+      "fact": "football called 'soccer' in US and Canada",
+      "reason": "interesting fact",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/clyexj7dggpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Linkin Park to headline Download Festival",
+      "reason": "notable music event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cwy0x5lgel5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Jessie J returns to music after cancer",
+      "reason": "notable comeback",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/13/jessie-j-lucrative-chinese-market-westlife-charli-xcx"
+    },
+    {
+      "score": 7,
+      "fact": "Shark attack in Sydney",
+      "reason": "Shocking story, not fully specific",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach"
+    },
+    {
+      "score": 7,
+      "fact": "Switzerland to vote on population cap",
+      "reason": "Notable proposal, some specificity",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Pokémon Go data trains AI for drones",
+      "reason": "Unexpected connection, notable tech",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones"
+    },
+    {
+      "score": 6,
+      "fact": "Karel III. slavil oficiální narozeniny",
+      "reason": "Cizí monarcha",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/obrazem-prehlidka-prelet-a-davy-v-ulicich-karel-iii-slavil-oficialni-narozeniny-374546"
+    },
+    {
+      "score": 6,
+      "fact": "Ukrajinský útok způsobil požár v ruském přístavu",
+      "reason": "Konflikt",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajinsky-utok-zpusobil-pozar-v-ruskem-pristavu-jeden-clovek-zemrel-374536"
+    },
+    {
+      "score": 6,
+      "fact": "Ukrajina udeřila v ruském přístavu",
+      "reason": "Konflikt",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajina-uderila-v-ruskem-pristavu-i-vycvikovem-armadnim-stredisku-40583070"
+    },
+    {
+      "score": 6,
+      "fact": "V Indii se zřítil vojenský letoun",
+      "reason": "Havárie",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-v-indii-se-zritil-vojensky-letoun-40583067"
+    },
+    {
+      "score": 6,
+      "fact": "Muži a ženy soutěží ve stromolezení",
+      "reason": "Sport a rozdíly mezi pohlavími",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-muzi-jsou-spis-reznici-zeny-jsou-citlivejsi-rikaji-arboriste-sve-dovednosti-pomeruji-na-mistrovstvi-ve-stromolezeni-40582970"
+    },
+    {
+      "score": 6,
+      "fact": "Jan Husák bude působit na aliančním velitelství",
+      "reason": "vojenské osoby",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-jan-husak-bude-pusobit-na-aliancnim-velitelstvi-v-nemecku-ziska-hodnost-generala-308483"
+    },
+    {
+      "score": 6,
+      "fact": "Benátští plameňáci",
+      "reason": "interesting animal fact",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/priroda/nemaji-pro-ne-slovo-ale-je-jich-rekordni-pocet-benatsti-plamenaci-nachazeji_2606130948_vsn"
+    },
+    {
+      "score": 6,
+      "fact": "Česká Atlantida na Šumavě",
+      "reason": "interesting location",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-cestovani-ceska-atlantida-na-sumave-po-stopach-vesnice-kterou-pohrbilo-velke-dilo-socialismu-308411"
+    },
+    {
+      "score": 6,
+      "fact": "Dva řidiči zemřeli při nehodě kamionů na D2",
+      "reason": "notable accident",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pri-nehode-a-pozaru-dvou-kamionu-na-d2-u-brna-zemreli-oba-ridici-oba-smery-stoji_2606130823_med"
+    },
+    {
+      "score": 6,
+      "fact": "Muž bodl sedmnáctiletou dívku v Anglii",
+      "reason": "notable crime",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-muz-v-britanii-bodl-sedmnactiletou-divku-do-krku-40583055"
+    },
+    {
+      "score": 6,
+      "fact": "Fond vymáhá dotace po Agrofertu",
+      "reason": "notable company",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-fond-vymaha-dotace-po-agrofertu-skluz-ockovaci-strategie-a_2606130800_hrk"
+    },
+    {
+      "score": 6,
+      "fact": "Dálnice D2 uzavřena kvůli tragické nehodě",
+      "reason": "notable accident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-tragicka-nehoda-dvou-kamionu-dalnice-d2-je-uzavrena-40583056"
+    },
+    {
+      "score": 6,
+      "fact": "Migranti deportováni do Středoafrické republiky",
+      "reason": "notable event",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-do-stredoafricke-republiky-priletelo-prvni-letadlo-s-migranty-vyhostenymi-z-usa-308475"
+    },
+    {
+      "score": 6,
+      "fact": "Trump turns 80",
+      "reason": "notable birthday",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "virtual parents gain popularity",
+      "reason": "unique trend",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "John Healey resigns as defence secretary",
+      "reason": "notable resignation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c6213rkyp3lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "social media ban for under-16s proposed",
+      "reason": "notable proposal",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cgmdy9vg9jmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Katy Perry performed",
+      "reason": "Celebrity performance",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c4g9g9xy9y7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "US strike killed gang leader",
+      "reason": "Solid news, some specificity",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed"
+    },
+    {
+      "score": 6,
+      "fact": "Hockney depicted gay life",
+      "reason": "Artist's notable work",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Iran's World Cup team faces challenges",
+      "reason": "Notable situation, some specificity",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa"
+    },
+    {
+      "score": 6,
+      "fact": "David Hockney is Britain's greatest artist",
+      "reason": "Celebrity notable mention",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Australian sprinter Jemma Stapleton dies at 25",
+      "reason": "Notable person, surprising death",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/12/emma-stapleton-australian-sprinter-dies-aged-25"
+    },
+    {
+      "score": 6,
+      "fact": "Kim Kardashian stars in World Cup ad",
+      "reason": "Celebrity, notable event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.com/news/articles/c992v43m71do?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
