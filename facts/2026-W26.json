@@ -1,0 +1,455 @@
+{
+  "week_start": "2026-06-21T00:00:00+00:00",
+  "week_end": "2026-06-28T00:00:00+00:00",
+  "generated": "2026-06-28T11:31:43.466283+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "AI drone rescues hikers in Australia",
+      "reason": "Impressive tech rescue",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw"
+    },
+    {
+      "score": 9,
+      "fact": "Mexico's ambassador has 10 houses",
+      "reason": "unexpected wealth of public figure",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/26/luxury-assets-mexico-new-ambassador-uk-alejandro-gertz-manero"
+    },
+    {
+      "score": 8,
+      "fact": "Žena se otrávila muchomůrkou",
+      "reason": "Unusual accident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-zena-na-jindrichohradecku-se-otravila-muchomurkou-tygrovanou-40585343"
+    },
+    {
+      "score": 8,
+      "fact": "Sesuv půdy v Dnebohu byl před 100 lety",
+      "reason": "specific anniversary",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/historie/sesuv-pudy-stredocesky-kraj-sucho-dest-mlada-boleslav_2606270949_kom"
+    },
+    {
+      "score": 8,
+      "fact": "Klempíře vypískali na festivalu",
+      "reason": "Czech politician in notable moment",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-klempire-ve-straznici-hlasite-vypiskali-40585336"
+    },
+    {
+      "score": 8,
+      "fact": "Foreign 'meme factories' run Facebook groups",
+      "reason": "Surprising online activity",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/28/pro-one-nation-facebook-groups-foreign-meme-factories-monetised-content-ntwnfb"
+    },
+    {
+      "score": 8,
+      "fact": "Cape Verde stuns World Cup",
+      "reason": "Surprising sports upset",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Madonna was jealous of Kylie",
+      "reason": "Surprising celebrity revelation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "First non-stop London to Sydney flight announced",
+      "reason": "Major milestone in aviation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Expedition discovers 31 new marine species",
+      "reason": "Major scientific discovery",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil"
+    },
+    {
+      "score": 8,
+      "fact": "Park to protect 12,000 koalas",
+      "reason": "animal conservation with a specific number",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/26/great-koala-national-park-nsw-carbon-credit-deal"
+    },
+    {
+      "score": 8,
+      "fact": "South Korea trains 0.5m drone warriors",
+      "reason": "military news with a specific number",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training"
+    },
+    {
+      "score": 7,
+      "fact": "Ženy z Mostu závodí na dračích lodích",
+      "reason": "Unconventional hobby",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/jsme-posadka-mamin-z-mostu-parta-zen-a-divek-se-ucastni-zavodu-dracich-lodi-uz_2606271057_adn"
+    },
+    {
+      "score": 7,
+      "fact": "Francouzi útočí na obchody s ventilátory",
+      "reason": "Unusual behavior",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-totalni-chaos-lide-ve-francii-zautocili-na-obchod-s-ventilatory-a-klimatizaci-40585345"
+    },
+    {
+      "score": 7,
+      "fact": "Pátek byl nejtragičtějším dnem na silnicích",
+      "reason": "notable milestone",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-pet-mrtvych-patek-byl-na-silnicich-nejtragictejsim-dnem-roku-40585342"
+    },
+    {
+      "score": 7,
+      "fact": "Pátek byl nejtragičtějším dnem na silnicích",
+      "reason": "notable milestone",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-patek-byl-na-silnicich-v-cesku-netragictejsim-dnem-letoska-zemrelo-pet-lidi-309486"
+    },
+    {
+      "score": 7,
+      "fact": "Pátek byl nejtragičtějším dnem na silnicích",
+      "reason": "notable milestone",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/patek-byl-letos-zatim-nejtragictejsim-dnem-na-ceskych-silnicich-zemrelo-celkem_2606270938_mst"
+    },
+    {
+      "score": 7,
+      "fact": "Koňský důchod ochlazuje koně",
+      "reason": "viral animal story",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/regiony-utulek-kone-horko-jindrichuv-hradec-jihocesky-kraj_2606270810_kom"
+    },
+    {
+      "score": 7,
+      "fact": "Horkovod za 21 miliard korun",
+      "reason": "major company project",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-mensi-zavislost-na-ruskem-plynu-nove-detaily-horkovodu-za-21-miliard-korun-309373"
+    },
+    {
+      "score": 7,
+      "fact": "Fragnerova lékárna obnovila Pražskou domácí mast",
+      "reason": "interesting historical fact",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/slavna-fragnerova-lekarna-si-pripravuje-vlastni-leky-obnovila-recepturu-prazske_2606270700_jkd"
+    },
+    {
+      "score": 7,
+      "fact": "Kim Jong Un's mother is unknown",
+      "reason": "Interesting trivia",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Alan Carr's castle items go to auction",
+      "reason": "Unusual celebrity story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Harry and Meghan to stay at royal estate",
+      "reason": "Notable royal news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cdjk8gggnndo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "KWN became R&B star after delivering parcels",
+      "reason": "Surprising career change",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cg74d834lzpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Canadian PM residence is uninhabitable",
+      "reason": "Surprising but not shocking",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence"
+    },
+    {
+      "score": 7,
+      "fact": "Venezuela quake worst in 125 years",
+      "reason": "Major disaster with notable milestone",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake"
+    },
+    {
+      "score": 7,
+      "fact": "Woman jailed for criticising Somali government",
+      "reason": "Surprising but not shocking human rights story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement"
+    },
+    {
+      "score": 7,
+      "fact": "King reveals £12.9m tax bill",
+      "reason": "royal finance news with a specific number",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Cold store is -18C in heatwave",
+      "reason": "unique temperature in a heatwave",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry0xe80qgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Vučić oznámil rezignaci",
+      "reason": "Notable politician",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vucic-oznamil-ze-za-nekolik-tydnu-rezignuje-a-v-srbsku-budou-predcasne-volby-375029"
+    },
+    {
+      "score": 6,
+      "fact": "Plavkyně Horská ukončila kariéru",
+      "reason": "Notable athlete",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/bez-medaile-neskoncim-rikala-si-plavkyne-horska-slib-splnila-a-karieru-uzavrela_2606271055_sis"
+    },
+    {
+      "score": 6,
+      "fact": "Karlovy Vary mají nejvíce klimatizované MHD",
+      "reason": "Specific record",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-kde-se-v-mhd-ochladite-nejvic-vedou-karlovy-vary-nejhur-je-na-tom-olomouc-309451"
+    },
+    {
+      "score": 6,
+      "fact": "Kapverd postoupil ze skupiny",
+      "reason": "sports result",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/koubek-mel-cyklus-dokoncit-veri-horvath-postup-kapverd-necekali-asi-ani-hraci_2606271012_sis"
+    },
+    {
+      "score": 6,
+      "fact": "Praha měla tropickou noc",
+      "reason": "weather news",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/v-nizinach-i-na-horach-petina-ceska-hlasi-tropickou-noc-v-praze-nebylo-mene-nez_2606270931_mst"
+    },
+    {
+      "score": 6,
+      "fact": "Očekává se nejteplejší víkend",
+      "reason": "weather forecast",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-toto-nejsou-bezne-letni-teploty-zacina-zrejme-nejteplejsi-vikend-nasi-historie-40585325"
+    },
+    {
+      "score": 6,
+      "fact": "Belgie porazila Nový Zéland",
+      "reason": "sports result",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/belgie-porazila-novy-zeland-a-o-skore-ovladla-skupinu-pred-egyptem-ktery_2606270804_sis"
+    },
+    {
+      "score": 6,
+      "fact": "Adam Novotný půjde do draftu NHL",
+      "reason": "sports news",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-hokej-adam-novotny-draft-nhl-vancouver-309294"
+    },
+    {
+      "score": 6,
+      "fact": "Kanaďanka českého původu Barbara Paldus",
+      "reason": "interesting connection",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-galerie-osobnosti-zena-s-padesati-patenty-ozempic-je-dar-dokud-ho-nezacnou-brat-zdravi-lide-303995"
+    },
+    {
+      "score": 6,
+      "fact": "Ondřej Prokop opustil ANO",
+      "reason": "notable moment",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-volebni-boj-o-prahu-neuspech-ceskych-fotbalistu-a-primator_2606270800_tkp"
+    },
+    {
+      "score": 6,
+      "fact": "Prezident Petr Pavel podal žalobu",
+      "reason": "notable moment",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/komentare-ocima-sasi-mitrofanova-rusky-profit-z-cizich-sarvatek-40585252"
+    },
+    {
+      "score": 6,
+      "fact": "Gavin McKenna je jedničkou draftu",
+      "reason": "notable sports moment",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/hokej/mckenna-se-stal-jednickou-draftu-dvacaty-ctvrty-novotny-byl-draftovan_2606270717_sis"
+    },
+    {
+      "score": 6,
+      "fact": "Vládní poslanec komentuje rasistické heslo",
+      "reason": "notable moment",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-teren-video-hezka-ksiltovka-rika-vladni-poslanec-rasisticke-heslo-mu-nevadi-309334"
+    },
+    {
+      "score": 6,
+      "fact": "Tech firms blame AI for price hikes",
+      "reason": "Notable business news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Australia doubles social media penalty",
+      "reason": "Notable law change",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Australian man arrested in Thailand",
+      "reason": "Notable crime news",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase"
+    },
+    {
+      "score": 6,
+      "fact": "Record-breaking heatwave hits UK",
+      "reason": "Notable weather event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c3ey093d039o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Smartphone ban in English schools",
+      "reason": "Notable education policy",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wjv3x81qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Two dads exposed NHS maternity scandal",
+      "reason": "Intriguing story but not shocking",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "GTA 6 launches without a disc",
+      "reason": "Notable gaming news but expected",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Meloni and Trump had public fall-out",
+      "reason": "Notable but expected political feud",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "King Charles paid £12.9m in tax",
+      "reason": "Notable tax bill but not shocking",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Cape Verde's World Cup run delights diaspora",
+      "reason": "Notable sports story but not unexpected",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk"
+    },
+    {
+      "score": 6,
+      "fact": "King Charles not moving to Buckingham Palace",
+      "reason": "royal family news with a twist",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "40 hospital staff access boy's records",
+      "reason": "data breach news with a specific number",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cvg5kvpdd15o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Apple hikes prices by 20%",
+      "reason": "business news with a specific number",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/technology/2026/jun/26/apple-ipad-macbook-price-rise-australia"
+    },
+    {
+      "score": 6,
+      "fact": "Venezuela earthquakes kill thousands",
+      "reason": "natural disaster news with a significant impact",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes"
+    }
+  ]
+}
