@@ -1,0 +1,391 @@
+{
+  "week_start": "2026-06-28T00:00:00+00:00",
+  "week_end": "2026-07-05T00:00:00+00:00",
+  "generated": "2026-07-05T11:23:00.447762+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "17 nurses got pregnant at same hospital",
+      "reason": "Unusual coincidence",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-v-porodnici-v-ohiu-otehotnelo-v-kratkem-casovem-rozmezi-17-zdravotnich-sester-40586279"
+    },
+    {
+      "score": 9,
+      "fact": "Taylor Swift si vzala Travise Kelceho",
+      "reason": "Surprising celebrity marriage",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-taylor-swift-si-vzala-hrace-americkeho-fotbalu-travise-kelceho-reagoval-i-trump-310072"
+    },
+    {
+      "score": 9,
+      "fact": "Goat meat sold as lamb kebabs",
+      "reason": "shocking food scandal",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Rare US Declaration of Independence found",
+      "reason": "historic document discovery",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkl104ly5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "František Skála vystavuje čtyřtunovou sochu psa",
+      "reason": "specifická a zajímavá informace",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-frantisek-skala-telc-vulpes-gott-310115"
+    },
+    {
+      "score": 8,
+      "fact": "Žatec dostal šachomaty s městskými motivy",
+      "reason": "specifická a zajímavá informace",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/narazit-na-stolek-a-dat-si-particku-v-zatci-se-objevily-sachomaty-s-motivy-mesta_2607041410_raf"
+    },
+    {
+      "score": 8,
+      "fact": "Slováci hlasují o rentě pro Fica",
+      "reason": "Notable celebrity and unexpected connection",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/slovaci-v-referendu-rozhoduji-o-rente-pro-fica-a-prokurature-375251"
+    },
+    {
+      "score": 8,
+      "fact": "Slováci hlasují o doživotní rentě pro Fica",
+      "reason": "Notable celebrity and unexpected connection",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-ani-zlata-vana-nejspis-nepomuze-slovaci-hlasuji-o-dozivotni-rente-pro-fica-309991"
+    },
+    {
+      "score": 8,
+      "fact": "Ancient Byzantine city uncovered",
+      "reason": "Significant archaeological discovery",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert"
+    },
+    {
+      "score": 8,
+      "fact": "Taylor Swift marries Travis Kelce",
+      "reason": "Surprising celebrity union",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Taylor Swift marries Travis Kelce in NYC ceremony",
+      "reason": "celebrity wedding",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Murci founder turns over £10m",
+      "reason": "surprising entrepreneurial success",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c9d20vdlen0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Instagram promotes child abuse material",
+      "reason": "shocking tech failure",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Narendra Modi collects awards on trips",
+      "reason": "quirky celebrity habit",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips"
+    },
+    {
+      "score": 7,
+      "fact": "Dustin Hoffman se setkal s Otou Klempířem",
+      "reason": "nezvyklé setkání osobností",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-festivaly-festival-karlovy-vary-kviff-dustin-hoffman-oto-klempir-310114"
+    },
+    {
+      "score": 7,
+      "fact": "Vodohospodáři zachránili ryby na Dyji",
+      "reason": "specifická a zajímavá informace",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-na-breclavsku-zabranili-pohrome-diky-manipulaci-s-tokem-dyje-minimalizovali-uhyn-ryb-40586553"
+    },
+    {
+      "score": 7,
+      "fact": "Petrohrad oil terminal attacked by drones",
+      "reason": "Notable military incident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-petrohrad-pod-masivnim-dronovym-utokem-hori-ropny-terminal-40586598"
+    },
+    {
+      "score": 7,
+      "fact": "Slováci hlasují v referendu",
+      "reason": "Notable and timely political event",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/slovaci-hlasuji-v-referendu-rozhodnout-mohou-o-zruseni-dozivotnich-rent-politiku_2607040633_ape"
+    },
+    {
+      "score": 7,
+      "fact": "Morocco unbeaten in 34 matches",
+      "reason": "Notable sports streak",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "1986 Mexico World Cup nearly cancelled",
+      "reason": "Interesting historical event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986"
+    },
+    {
+      "score": 7,
+      "fact": "US celebrates 250th anniversary",
+      "reason": "Notable historical milestone",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cp36l4e6v9po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Chinese celebrity's concert cancelled due to bad singing",
+      "reason": "odd celebrity story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7d254lrjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Taylor Swift's wedding celebrations start",
+      "reason": "celebrity wedding",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Plane crash in Beijing blamed on mental health",
+      "reason": "notable accident explanation",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement"
+    },
+    {
+      "score": 6,
+      "fact": "Zelenskyj a Putin gratulovali Trumpovi",
+      "reason": "nezvyklá kombinace osob",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zelenskyj-i-putin-gratulovali-trumpovi-k-250-vyroci-zalozeni-usa-310117"
+    },
+    {
+      "score": 6,
+      "fact": "Mythos zvětšil americký náskok v AI",
+      "reason": "specifická informace o technologii",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-ocima-byznysu-amerika-slapla-na-plyn-jmenem-mythos-a-cina-poprve-nestiha-309689"
+    },
+    {
+      "score": 6,
+      "fact": "20 tisíc lidí protestuje proti sjezdu AfD",
+      "reason": "specifická a zajímavá informace",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/ve-vychodonemeckem-erfurtu-protestuje-proti-sjezdu-afd-20-tisic-lidi-zablokovali_2607041103_ape"
+    },
+    {
+      "score": 6,
+      "fact": "Ukrajina zasáhla petrohradský přístav",
+      "reason": "specifická informace o válce",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ukrajina-pri-utoku-na-petrohrad-a-okoli-zasahla-pristav-a-ropny-terminal-310079"
+    },
+    {
+      "score": 6,
+      "fact": "Desetitisíce lidí protestuje proti sjezdu AfD",
+      "reason": "specifická a zajímavá informace",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-vychode-nemecka-se-kona-sjezd-afd-desetitisice-lidi-proti-nemu-demonstruji-375252"
+    },
+    {
+      "score": 6,
+      "fact": "Dustin Hoffman attended Karlovy Vary film festival",
+      "reason": "Celebrity appearance",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-mff-kv-cvrkot-ve-varech-obrazem-zahajeni-kviff-prihlizely-desitky-tisic-lidi-dustin-hoffman-prijel-ve-skvele-nalade-40586603"
+    },
+    {
+      "score": 6,
+      "fact": "Beats for Love festival breaks attendance record",
+      "reason": "Notable festival",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-foto-intenzivni-techno-jizda-lilly-palmer-a-tanecni-extaze-na-beats-for-love-40586602"
+    },
+    {
+      "score": 6,
+      "fact": "Seven coaches fired after soccer championship",
+      "reason": "Notable sports news",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/fotbal-mistrovstvi-sveta-treneri-odvolani-nemecko-cesko-tunisko-skotsko_2607040949_lbk"
+    },
+    {
+      "score": 6,
+      "fact": "51 people arrested for phone scam in Istanbul",
+      "reason": "Notable law enforcement action",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/podvadeli-cechy-ale-call-centrum-meli-v-istanbulu-zadrzeno-bylo-51-lidi-technika_2607040908_ape"
+    },
+    {
+      "score": 6,
+      "fact": "Vězeň Radko Palán ujel na bílém kole",
+      "reason": "Unusual escape method",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-stredocesky-kraj-vezen-ujel-z-kladna-na-bilem-kole-policiste-zadaji-verejnost-o-pomoc-40586588"
+    },
+    {
+      "score": 6,
+      "fact": "Argentinští fotbalisté porazili Kapverdy",
+      "reason": "Notable sports result",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/fotbal-mistrovstvi-sveta-sestnactifinale-argentina-kapverdy-kolumbie-ghana_2607040649_lbk"
+    },
+    {
+      "score": 6,
+      "fact": "Space Force recruits at a rodeo",
+      "reason": "Unconventional recruitment method",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "20 million attend Iranian funeral",
+      "reason": "Large crowd at notable event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "UK woman arrested in Thailand",
+      "reason": "Unexpected crime story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/04/uk-woman-arrested-thailand-pattaya-man-stabbed"
+    },
+    {
+      "score": 6,
+      "fact": "England team booed in Mexico",
+      "reason": "Unwelcome sports reception",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Messi mania in Miami",
+      "reason": "Fun celebrity fan story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Sydney records hottest June since 1859",
+      "reason": "record-breaking weather event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming"
+    },
+    {
+      "score": 6,
+      "fact": "Some schools start late after 1am England kick-off",
+      "reason": "unusual school schedule",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c621j2qj50do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "England's World Cup match delayed for five hours",
+      "reason": "sports scheduling chaos",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Starmer discusses quitting in candid interview",
+      "reason": "politician's personal story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Ali Khamenei's body lies in state in Tehran",
+      "reason": "notable funeral event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Eight arrests in 'international network' abuse case",
+      "reason": "notable crime bust",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cy4e109nx04o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "First suspected H5 bird flu case in NSW",
+      "reason": "notable health news",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus"
+    },
+    {
+      "score": 6,
+      "fact": "Portugal pays tribute to Diogo Jota",
+      "reason": "heartwarming sports tribute",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
