@@ -1,0 +1,455 @@
+{
+  "week_start": "2026-07-05T00:00:00+00:00",
+  "week_end": "2026-07-12T00:00:00+00:00",
+  "generated": "2026-07-12T11:03:42.911507+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "New dinosaur found in Thailand",
+      "reason": "Scientific discovery, unusual",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-krk-dlouhy-az-20-metru-v-thajsku-objevili-novy-druh-dinosaura-310719"
+    },
+    {
+      "score": 9,
+      "fact": "Viral seal Neil caused mayhem",
+      "reason": "Viral animal story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Bayeux Tapestry arrives in UK after 900 years",
+      "reason": "Historic, record-breaking event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Australia's PM apologizes to Kylie Minogue",
+      "reason": "Surprising celebrity connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wzdznqgpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Španělský biolog pojmenoval šneka",
+      "reason": "Unusual naming",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-spanelsky-biolog-pojmenoval-morskeho-sneka-po-brankari-kapverd-vozinhovi-310726"
+    },
+    {
+      "score": 8,
+      "fact": "Russian doctor identified as torturer",
+      "reason": "Shocking war crime",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-identifikovali-zvraceneho-ruskeho-lekare-ktery-mucil-ukrajinske-zajatce-40587595"
+    },
+    {
+      "score": 8,
+      "fact": "Baby found in Kolín babybox",
+      "reason": "Shocking human story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-v-babyboxu-v-koline-nasli-chlapecka-40587643"
+    },
+    {
+      "score": 8,
+      "fact": "Češka vyhraje Wimbledon",
+      "reason": "Notable sports achievement",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/tenis/ceska-vyhraje-tak-alespon-nemusim-nikomu-fandit-tesi-navratilovou-pred-finale_2607110751_mim"
+    },
+    {
+      "score": 8,
+      "fact": "T. rex fossil to sell for $30m",
+      "reason": "Record-breaking event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Jordan Pickford breaks record",
+      "reason": "Record-breaking event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Monks help with dating in Korea",
+      "reason": "surprising story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Prince Harry plays pickleball",
+      "reason": "funny celebrity story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c2dyw9lp02wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Paul Gambaccini diagnosed with Alzheimer's",
+      "reason": "Celebrity, unexpected health issue",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyvp7y89jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Identical twins saved by pioneering treatment",
+      "reason": "Inspiring, unique medical story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Vědci zvažují negativní přestupnou hodinu",
+      "reason": "Scientific consideration",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vedci-zvazuji-provedeni-negativni-prestupne-hodiny-muze-vyresit-zvetsujici-se-problem-375435"
+    },
+    {
+      "score": 7,
+      "fact": "FIFA sells World Cup turf",
+      "reason": "Unusual sports merch",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-fifa-nabizi-kus-travniku-z-ms-jako-suvenyr-nejdrazsi-bude-za-3000-dolaru-310722"
+    },
+    {
+      "score": 7,
+      "fact": "Man released in UK politician death",
+      "reason": "Twist in crime investigation",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/v-britanii-byl-propusten-zadrzeny-v-souvislosti-s-umrtim-politicky-muz-uz-neni_2607110904_vsn"
+    },
+    {
+      "score": 7,
+      "fact": "Trump hrozí Íránu zničením",
+      "reason": "Shocking political threat",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-trump-hrozi-iranu-uplnym-znicenim-40587645"
+    },
+    {
+      "score": 7,
+      "fact": "Fuksa vyhrál závod v Montrealu",
+      "reason": "Notable sports achievement",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/fuksa-navazal-na-vitezstvi-ze-szegedu-a-brandenburgu-a-vyhral-kilometrovou-trat_2607110739_sis"
+    },
+    {
+      "score": 7,
+      "fact": "Trump pohrozil Íránu zničením",
+      "reason": "Shocking political threat",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/tisic-raket-je-pripraveno-k-odpaleni-trump-hrozi-iranu-znicenim-v-reakci-na_2607110700_vsn"
+    },
+    {
+      "score": 7,
+      "fact": "Ann Widdecombe found dead",
+      "reason": "Notable person, unexpected event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Venezuela quake death toll passes 4,000",
+      "reason": "Tragic event, significant number",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort"
+    },
+    {
+      "score": 7,
+      "fact": "Crypto billionaires build own nations",
+      "reason": "unexpected twist",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Ann Widdecombe dies at 78",
+      "reason": "notable figure's death",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ced47jqyg1eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "SK hynix raises $26.5bn in US listing",
+      "reason": "Major company, significant amount",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing"
+    },
+    {
+      "score": 7,
+      "fact": "Nigeria investigates fake federal agency",
+      "reason": "Notable, unexpected government issue",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm"
+    },
+    {
+      "score": 6,
+      "fact": "Polsko si připomíná masakry na Volyni",
+      "reason": "Historical commemoration",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-si-pripomina-masakry-na-volyni-vznikne-zed-pameti-uvedl-tusk-375469"
+    },
+    {
+      "score": 6,
+      "fact": "Modžtaba Chameneí slíbil pomstu",
+      "reason": "Political statement",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/novy-iransky-vudce-slibil-pomstu-za-smrt-sveho-otce-aliho-chameneiho-375470"
+    },
+    {
+      "score": 6,
+      "fact": "Moldavská prezidentka jmenovala premiéra",
+      "reason": "Political appointment",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/sanduova-jmenovala-moldavskym-premierem-investora-vasilea-tofana-375467"
+    },
+    {
+      "score": 6,
+      "fact": "Británie má svou Bobošíkovou",
+      "reason": "Political comparison",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-10-sezona-i-britanie-ma-svou-bobosikovou-a-ted-ji-fandi-310673"
+    },
+    {
+      "score": 6,
+      "fact": "Rusko využilo dítě k propagandě",
+      "reason": "Propaganda tactics",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-prokleta-ukrajina-rusove-vyuzili-desetileteho-sirotka-z-detskeho-domova-k-sireni-propagandy-40587650"
+    },
+    {
+      "score": 6,
+      "fact": "State firm managers earn high salaries",
+      "reason": "Business news with some shock",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-manazeri-statnich-firem-vydelavaji-casto-vic-nez-premier-ci-prezident-40587129"
+    },
+    {
+      "score": 6,
+      "fact": "Nikola Tesla born 170 years ago",
+      "reason": "Notable anniversary",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-vizionar-ktery-zmenil-svet-elektriny-pred-170-lety-se-narodil-nikola-tesla-40587648"
+    },
+    {
+      "score": 6,
+      "fact": "1973 massacre in US recalled",
+      "reason": "Historical crime story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-mam-to-do-vas-nasit-sest-hodin-teroru-skoncilo-trojnasobnou-vrazdou-308144"
+    },
+    {
+      "score": 6,
+      "fact": "Japonsko: uhynula nejstarší koala",
+      "reason": "Specific animal story",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/priroda/v-japonsku-v-18-letech-uhynula-nejstarsi-a-popularni-koala-park-zridi-pietni_2607110823_vsn"
+    },
+    {
+      "score": 6,
+      "fact": "Vltava je bezpečná pro koupání",
+      "reason": "Useful local information",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zdravi-plus-vltava-koupani-kavlita-vody-cistota-309503"
+    },
+    {
+      "score": 6,
+      "fact": "Američtí senátoři dohodli se sankcemi",
+      "reason": "Specific international agreement",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-americti-senatori-uvedli-ze-dosahli-dohody-s-trumpem-na-sankcich-proti-rusku-310715"
+    },
+    {
+      "score": 6,
+      "fact": "Kuba postihl celostátní výpadek elektřiny",
+      "reason": "Specific notable event",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kubu-podruhe-tento-tyden-postihl-celostatni-vypadek-elektriny-310714"
+    },
+    {
+      "score": 6,
+      "fact": "Tvůrce Rodiny Sopránů mluví o televizi",
+      "reason": "Notable personality quote",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/televize/kviff-60-festival-david-chase-rodina-sopranu_2607110720_kro"
+    },
+    {
+      "score": 6,
+      "fact": "Latinská Amerika se kloní doprava",
+      "reason": "Notable political shift",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/latinska-amerika-pravice-volby-levice-kolumbie-peru_2607110700_ula"
+    },
+    {
+      "score": 6,
+      "fact": "Nigeria killed 300 bandits",
+      "reason": "Solid news, but answer is a country",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara"
+    },
+    {
+      "score": 6,
+      "fact": "Jayson Gillham loses court case",
+      "reason": "Solid news, but answer is a person",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/music/2026/jul/11/pianist-jayson-gillham-very-disappointed-after-losing-discrimination-case-against-melbourne-symphony-orchestra-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Norway shaped golden generation",
+      "reason": "Solid sports news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Peter Falconio murder 25 years on",
+      "reason": "Notable crime, anniversary",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Snow Patrol celebrates 20 years",
+      "reason": "Notable anniversary",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwykqqk1y3wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Bellingham and Haaland's bromance",
+      "reason": "interesting celebrity connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Child abuser housed at Christian Brothers property",
+      "reason": "shocking story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/11/christian-brothers-properties-housing-convicted-child-sexual-abuse-offenders-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Ann Widdecombe was a reality star",
+      "reason": "interesting celebrity connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Boy arrested after girl's body found",
+      "reason": "shocking story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/10/layla-jeffery-police-discover-body-of-teenage-girl-in-victoria-bushland-donald-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Family saves £6,000 on holidays",
+      "reason": "interesting money-saving story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "NSW spent $500,000 on lost court cases",
+      "reason": "Specific amount, notable event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/10/nsw-government-legal-bill-cost-defending-protest-laws-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Fake portable air conditioners deceive consumers",
+      "reason": "Notable, but no surprising twist",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "UK heatwave breaks temperature record",
+      "reason": "Notable weather event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Ukrainian agent's story changes in murder case",
+      "reason": "Notable, but ongoing investigation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Mexico investigates US role in drug lord capture",
+      "reason": "Notable, but ongoing investigation",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation"
+    },
+    {
+      "score": 6,
+      "fact": "LGBTQ+ cruise ship refused entry to Egypt",
+      "reason": "Notable, but no surprising twist",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey"
+    }
+  ]
+}
