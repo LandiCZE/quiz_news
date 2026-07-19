@@ -1,0 +1,415 @@
+{
+  "week_start": "2026-07-12T00:00:00+00:00",
+  "week_end": "2026-07-19T00:00:00+00:00",
+  "generated": "2026-07-19T11:04:04.911365+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Izrael chce použít krokodýly k ostraze",
+      "reason": "Shocking plan",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-palestinske-vezne-maji-strezit-krokodyli-izraelsky-ministr-chysta-obdobu-aligatoriho-alcatrazu-40588593"
+    },
+    {
+      "score": 8,
+      "fact": "Train worker fell out at 120 km/h",
+      "reason": "Shocking incident",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pracovnik-nemeckych-drah-vypadl-po-potycce-z-vlaku-jedouciho-rychlosti-120-kilometru-za-hodinu-375712"
+    },
+    {
+      "score": 8,
+      "fact": "Pes Susi se stal psím záchranářem",
+      "reason": "Heartwarming story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-sestileta-susi-z-utulku-se-stala-spickovou-psi-zachranarkou-40588698"
+    },
+    {
+      "score": 8,
+      "fact": "Andy Burnham is new UK PM",
+      "reason": "New leader",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq978dxwqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Trump criticizes Harry Kane's role",
+      "reason": "Celebrity opinion",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Brad Pitt's children drop his surname",
+      "reason": "Celebrity family",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Andy Burnham to replace Keir Starmer",
+      "reason": "Specific person in notable moment",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Student gets £10k over fake dating profiles",
+      "reason": "Surprising story with specific number",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cp8xn9exg8yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Maďarský prezident ended his mandate",
+      "reason": "Notable political moment",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/madarsky-prezident-podepsal-ustavni-dodatek-ktery-ukoncuje-jeho-mandat-375718"
+    },
+    {
+      "score": 7,
+      "fact": "Fake 50-euro notes circulate",
+      "reason": "Notable crime",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-pokus-platit-atrapou-penez-vysel-trutnovsko-zaplavily-falesne-padesatieurovky-40588705"
+    },
+    {
+      "score": 7,
+      "fact": "V Norsku shořelo přes 100 domů",
+      "reason": "Shocking story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-v-norskem-meste-lehlo-popelem-pres-100-domu-hasici-stale-nemaji-ohen-pod-kontrolou-40588707"
+    },
+    {
+      "score": 7,
+      "fact": "Trump hrozí cly Kanadě",
+      "reason": "Shocking statement",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kour-z-kanadskych-pozaru-dusi-usa-trump-hrozi-cly-375702"
+    },
+    {
+      "score": 7,
+      "fact": "Poslanci měnili strany na jeden den",
+      "reason": "Unusual event",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-vlevo-dole-vymena-poslancu-rakusan-na-den-v-ano-bartos-v-spd-stastny-u-piratu-311143"
+    },
+    {
+      "score": 7,
+      "fact": "Prezident ohnul pravidla jako Trump",
+      "reason": "interesting comparison",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-jako-trump-ceskoslovensko-hralo-finale-ms-a-prezident-ohnul-pravidla-311144"
+    },
+    {
+      "score": 7,
+      "fact": "White House backs Argentina players",
+      "reason": "International diplomacy",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final"
+    },
+    {
+      "score": 7,
+      "fact": "Jeffrey Epstein's abuse victim speaks",
+      "reason": "Personal story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Ghana's film posters become art",
+      "reason": "Unique cultural trend",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
+    },
+    {
+      "score": 7,
+      "fact": "Trump threatens Canada tariffs",
+      "reason": "International tension",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Robodebt whistleblower faced job threat",
+      "reason": "unexpected connection",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/18/robodebt-whistleblower-was-told-her-royal-commission-evidence-could-cost-you-your-job-court-hears"
+    },
+    {
+      "score": 7,
+      "fact": "Hybrid fish integrate into Philippines lake",
+      "reason": "weird story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake"
+    },
+    {
+      "score": 7,
+      "fact": "Pauline Hanson on podcast with Tommy Robinson",
+      "reason": "Celebrity unexpected connection",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "England won bronze at World Cup",
+      "reason": "Notable sports result",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-ryzi-fotbalove-silenstvi-padlo-deset-golu-a-bronz-na-ms-bere-anglie-311314"
+    },
+    {
+      "score": 6,
+      "fact": "CDU/CSU leader resigned",
+      "reason": "Notable resignation",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kvuli-kauze-s-nahradni-matkou-rezignoval-sef-poslanecke-frakce-cducsu-375709"
+    },
+    {
+      "score": 6,
+      "fact": "Reporter has unique double role",
+      "reason": "Interesting human story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-reporter-a-zmrzlinar-tvar-novy-na-fotbalovem-ms-ma-nevsedni-dvojroli-309910"
+    },
+    {
+      "score": 6,
+      "fact": "Three Czechs died in mountains",
+      "reason": "Notable incident",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hory-se-meni-tragedie-cechu-pripomina-nova-rizika-ktera-ubytek-ledu-prinasi-311271"
+    },
+    {
+      "score": 6,
+      "fact": "Julian Lennon creates art",
+      "reason": "Interesting human story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-julian-lennon-sklada-mozaiku-krehkych-momentu-naseho-sveta-40584506"
+    },
+    {
+      "score": 6,
+      "fact": "Nový most přes Moravu je 150 metrů dlouhý",
+      "reason": "Specific detail",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/novy-most-pred-reku-moravu-je-budouci-dominantou-mista-vlaky-pres-nej-zacnou_2607180600_mkm"
+    },
+    {
+      "score": 6,
+      "fact": "Obětí zemětřesení ve Venezuele je přes 5000",
+      "reason": "Specific number",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-obeti-cervnoveho-zemetreseni-ve-venezuele-je-uz-vice-nez-5000-311286"
+    },
+    {
+      "score": 6,
+      "fact": "Pražský hrad otevírá Fíkovnu",
+      "reason": "Specific location",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-architektura-prazsky-hrad-k-nepoznani-otevira-se-fikovna-z-konirny-se-stane-hlavni-vchod-311172"
+    },
+    {
+      "score": 6,
+      "fact": "Lionel Messi táhne Argentinu",
+      "reason": "Famous personality",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/fotbal-ms-fotbal-2026-libor-kozak-argentina-lionel-messi-lionel-scaloni_2607180915_kri"
+    },
+    {
+      "score": 6,
+      "fact": "Zemanův statek se Zapojí do Dnů lidové architektury",
+      "reason": "Specific location",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/stara-pec-tkani-i-podmalba-na-skle-zemanuv-statek-ve-stanovem-se-zapoji-do-dnu_2607180902_rec"
+    },
+    {
+      "score": 6,
+      "fact": "Útěk vězňů skončil návratem do vězení",
+      "reason": "unexpected twist",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-pri-uteku-ubodali-pet-straznych-pak-si-spletli-vlak-odvezl-je-zpet-do-vezeni-307690"
+    },
+    {
+      "score": 6,
+      "fact": "Soudkyně rozplakala dítě",
+      "reason": "unexpected event",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-soudkyne-pri-pohovoru-rozplakala-dite-poruseni-mych-prav-stezovala-si-na-potrestani-ustavnimu-soudu-40587899"
+    },
+    {
+      "score": 6,
+      "fact": "Bridget McKenzie speaks at CPAC",
+      "reason": " Politician's statement",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Pauline Hanson speaks at CPAC",
+      "reason": " Politician's statement",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Burnham to announce new drilling plans",
+      "reason": "Politician's action",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Huge fire destroys homes in Norway",
+      "reason": "Natural disaster",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Lib Dems urge FA to withdraw from Fifa",
+      "reason": "Sports politics",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qw4lq1d7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Posh Spice had a slow reaction",
+      "reason": "viral moment",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4rrzypymo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Clacton by-election has 34 candidates",
+      "reason": "notable number",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ckge923jk3vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Peter Falconio murder has new lead",
+      "reason": "milestone event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/18/peter-falconio-british-expert-says-he-has-identified-a-most-likely-burial-location"
+    },
+    {
+      "score": 6,
+      "fact": "ICE arrests human rights lawyer",
+      "reason": "notable figure",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown"
+    },
+    {
+      "score": 6,
+      "fact": "Hailstones size of golf balls hit France",
+      "reason": "Unusual weather event",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave"
+    },
+    {
+      "score": 6,
+      "fact": "Moira Deeming disendorsed by Liberal party",
+      "reason": "Politics news with specific name",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/moira-deeming-victorian-liberal-party-disendorsement-decision-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Japan relaxes royal succession rules",
+      "reason": "Notable change in royal rules",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Burnham's Manchesterism may influence UK",
+      "reason": "Politics news with specific concept",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Rohan Dennis pleads guilty to driving offense",
+      "reason": "Celebrity in unexpected court case",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/cyclist-rohan-dennis-pleads-guilty-to-driving-with-suspended-licence-after-crash-that-killed-wife-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Canada wildfires affect US air quality",
+      "reason": "Notable environmental issue",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Pauline Hanson talks up daughter's leadership",
+      "reason": "Celebrity in notable conversation",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/pauline-hanson-laments-end-of-white-australia-policy-and-talks-up-daughters-leadership-potential-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Kit Connor and Joe Locke in Heartstopper film",
+      "reason": "Notable film with specific cast",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cpwewzeyxqwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Prostate cancer treatment reduces side effects",
+      "reason": "Notable medical breakthrough",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
