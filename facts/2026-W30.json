@@ -1,0 +1,391 @@
+{
+  "week_start": "2026-07-19T00:00:00+00:00",
+  "week_end": "2026-07-26T00:00:00+00:00",
+  "generated": "2026-07-26T11:13:25.887312+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "D4vd allegedly murdered 14-year-old",
+      "reason": "Shocking crime",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Best friends discover they are siblings",
+      "reason": "Surprising, unusual story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c4g397rl4nzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "King Charles III emerges from Tardis",
+      "reason": "Surprising, unusual event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Olomouc daruje kola na Afriku",
+      "reason": "Humanitarian aid",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/z-olomouce-poleti-az-do-afriky-mesto-daruje-sto-jizdnich-kol-ze-ztrat-a-nalezu_2607251008_jos"
+    },
+    {
+      "score": 8,
+      "fact": "Japonsko schválilo záložní metropoli",
+      "reason": "Unique legislation",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-japonsky-parlament-schvalil-zakon-na-zalozni-metropoli-v-pripade-mimoradnosti-311765"
+    },
+    {
+      "score": 8,
+      "fact": "Se narodil medojed kapský",
+      "reason": "viral animal story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-zatim-vypada-jako-housenka-v-safari-parku-se-narodil-medojed-40588446"
+    },
+    {
+      "score": 8,
+      "fact": "Děti zapálily barokní skvost",
+      "reason": "shocking story",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-deti-zapalily-barokni-skvost-na-horici-pude-chybely-dve-minuty-do-katastrofy-306618"
+    },
+    {
+      "score": 8,
+      "fact": "Kočka v posteli může přinést škrkavky",
+      "reason": "shocking and unexpected fact",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zdravi-plus-nemoci-od-psu-kocek-tehotenstvi-toxoplazmoza-311059"
+    },
+    {
+      "score": 8,
+      "fact": "Trump criticizes press at dinner",
+      "reason": "Specific person and event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "OpenAI hack done by AI",
+      "reason": "surprising technology",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "New $4.5bn bridge opens, US dignitaries disinvited",
+      "reason": "Record-breaking, surprising connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Radioamatér komunikuje odrazem o Měsíc",
+      "reason": "unusual hobby, interesting fact",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/obrazem-radioamater-bez-anteny-nic-neznamena-takhle-se-komunikuje-odrazem-o-mesic-308455"
+    },
+    {
+      "score": 7,
+      "fact": "Lidé čekají před obchodem na trička zdarma",
+      "reason": "interesting story, specific location",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-pred-obchodem-v-centru-prahy-nocovaly-desitky-lidi-cekaji-pry-na-tricka-zdarma-40589719"
+    },
+    {
+      "score": 7,
+      "fact": "Čech pohřešován v Indonésii",
+      "reason": "International incident",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-indonesii-patraji-po-clunu-s-11-turisty-na-palube-byl-i-cech-375948"
+    },
+    {
+      "score": 7,
+      "fact": "Člun s Čechem zmizel",
+      "reason": "International incident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-v-indonesii-zmizel-clun-s-13-lidmi-je-mezi-nimi-cesky-turista-40589715"
+    },
+    {
+      "score": 7,
+      "fact": "Záchranáři hledají pohřešovaný člun",
+      "reason": "International incident",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zachranari-v-indonesii-patraji-po-pohresovanem-motorovem-clunu-je-na-nem-i-cech-311769"
+    },
+    {
+      "score": 7,
+      "fact": "Donald Trump se zúčastnil večeře korespondentů",
+      "reason": "celebrity appearance",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-na-odlozenou-veceri-korespondentu-prisel-i-trump-termin-se-posouval-kvuli-strelci-311764"
+    },
+    {
+      "score": 7,
+      "fact": "Brno mohly mít unikátní fotbalové koloseum",
+      "reason": "interesting what-if story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/podcasty-nepostaveno-v-brne-mohlo-stat-unikatni-fotbalove-koloseum-pripravena-byla-i-cela-pro-vytrzniky-40588891"
+    },
+    {
+      "score": 7,
+      "fact": "Italian children overweight despite Mediterranean diet",
+      "reason": "Surprising health outcome",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "BuzzBallz packaging is unrecyclable",
+      "reason": "Specific product issue",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Band plays for rescue dogs",
+      "reason": "interesting story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Amazon communities taken hostage",
+      "reason": "shocking story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders"
+    },
+    {
+      "score": 7,
+      "fact": "Chinese mathematicians win Fields Medal",
+      "reason": "Notable achievement, first time",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cvg84gp8xx4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Hero swimmer saves two children",
+      "reason": "Notable act, surprising event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cly89wrmdxyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Scientists discover birdsong secret",
+      "reason": "Notable discovery, surprising connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Auto vjelo do pochodu LGBT+ v Berlíně",
+      "reason": "shocking story, specific location",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pochod-za-prava-komunity-lgbt-byl-v-berline-ukoncen-nekolik-lidi-je-zraneno-311781"
+    },
+    {
+      "score": 6,
+      "fact": "Belgická policie zatkla stážistku v NATO",
+      "reason": "specific person, interesting location",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/belgicka-policie-zatkla-stazistku-v-nato-podezira-ji-ze-spionaze-375960"
+    },
+    {
+      "score": 6,
+      "fact": "Kanaďanku čínského původu obvinili ze špionáže",
+      "reason": "specific person, interesting location",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kanadanku-cinskeho-puvodu-obvinili-ze-spionaze-ve-vojenske-centrale-nato-311780"
+    },
+    {
+      "score": 6,
+      "fact": "Ministryně Mrázová zaplatí pokutu",
+      "reason": "specific person, interesting fact",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/uvedla-nepravdive-udaje-ministryne-mrazova-zaplati-pokutu-za-poruseni-zakona-o_2607251050_kma"
+    },
+    {
+      "score": 6,
+      "fact": "Policisté testují elektrickou Škodu",
+      "reason": "Unexpected vehicle",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-policiste-na-jihu-cech-testuji-elektrickou-skodu-z-nuly-na-sto-to-pry-dava-za-sest-sekund-40589712"
+    },
+    {
+      "score": 6,
+      "fact": "Loď Starship vypustila satelity",
+      "reason": "Space exploration",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-lod-starship-pri-zkusebnim-letu-vynesla-vylepsene-satelity-starlink-311768"
+    },
+    {
+      "score": 6,
+      "fact": "Petržela končí s fotbalem",
+      "reason": "Sports personality",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-z-fotbalu-se-stala-veda-i-proto-koncim-cira-radost-zmizela-rika-petrzela-311697"
+    },
+    {
+      "score": 6,
+      "fact": "Advokát Daniel Tobola hovořil o smrti Viktorky",
+      "reason": "specific person and case",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-obhajce-otce-viktorky-rozhodujici-okamzik-prisel-davno-pred-vrazdou-311627"
+    },
+    {
+      "score": 6,
+      "fact": "Evakuováno 141 000 lidí ve Francii",
+      "reason": "specific number, but vague location",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-celime-bezprecedentnimu-fenomenu-ve-francii-kvuli-mohutnym-pozarum-evakuovali-141-000-lidi-40589711"
+    },
+    {
+      "score": 6,
+      "fact": "Petr Linhart vydal knihu Autobus do Sudet",
+      "reason": "specific person and book title",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-petr-linhart-autobus-do-sudet-311731"
+    },
+    {
+      "score": 6,
+      "fact": "Konec kariéry Milana Petrného",
+      "reason": "specific person and event",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-konec-popularniho-ministra-smrt-klicoveho-svedka-i-dalsi-vytka_2607250800_lar"
+    },
+    {
+      "score": 6,
+      "fact": "Město Hodkovice zakázalo technoparty",
+      "reason": "specific location and event",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-rusila-je-party-vydali-vyhlasku-ted-se-obavaji-velkeho-pochodu-technaru-311702"
+    },
+    {
+      "score": 6,
+      "fact": "MP launches summer of sex campaign",
+      "reason": "Czech not directly related",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ce970rkk9r3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Richard Tice company donates to Reform UK",
+      "reason": "Specific company and amount",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Illegal hunts lead to dead animals",
+      "reason": "Specific issue and number",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Government to relax wedding laws",
+      "reason": "Specific law change",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Claudia Winkleman's show ended",
+      "reason": "celebrity news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1rz7n0pzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Gymnast suffers horror injury",
+      "reason": "notable sports incident",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "72 people die in ferry sinking",
+      "reason": "tragic incident",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue"
+    },
+    {
+      "score": 6,
+      "fact": "France evacuates tourist spot",
+      "reason": "notable evacuation",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Julian Leeser's son fears events",
+      "reason": "personal story",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb"
+    },
+    {
+      "score": 6,
+      "fact": "Fifty women pressured into sex with strangers",
+      "reason": "Shocking story, vague term",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Couple splits bills despite income difference",
+      "reason": "Interesting story, surprising connection",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
