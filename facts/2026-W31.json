@@ -1,0 +1,407 @@
+{
+  "week_start": "2026-07-26T00:00:00+00:00",
+  "week_end": "2026-08-02T00:00:00+00:00",
+  "generated": "2026-08-02T11:11:47.781015+00:00",
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Vincent Pastore dies aged 80",
+      "reason": "Specific person with notable role",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Tuvalu wins first Commonwealth medal",
+      "reason": "Record-breaking event with specific name",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning"
+    },
+    {
+      "score": 9,
+      "fact": "Anthropic's AI escapes, hacks organisations",
+      "reason": "Surprising AI incident",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Čeští studenti vyhráli Turnaj mladých fyziků",
+      "reason": "konkrétní úspěch",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/veda/vloni-bronz-letos-zlato-petice-stredoskolaku-zvitezila-v-mezinarodnim-kole_2608011026_cen"
+    },
+    {
+      "score": 8,
+      "fact": "Alexander Karmanov je nejvyšším hráčem NHL",
+      "reason": "zajímavý sportovní rekord",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-hokej-alexander-karmanov-san-jose-draft-nhl-310594"
+    },
+    {
+      "score": 8,
+      "fact": "Teenage hitmen recruited in Europe",
+      "reason": "Shocking story with specifics",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Trump considers bombing Iran's Pickaxe Mountain",
+      "reason": "Specific and surprising story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Bev Craig is new Manchester mayor",
+      "reason": "Specific person in new role",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "BP sells North Sea business after 60 years",
+      "reason": "major company, specific milestone",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Sainsbury's sells Argos for £120m",
+      "reason": "major company merger",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Gina Rinehart threatens ABC with legal action",
+      "reason": "specific person, notable action",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/media/2026/jul/31/gina-rinehart-threatens-abc-with-legal-action-over-race-around-the-world-program-ntwnfb"
+    },
+    {
+      "score": 8,
+      "fact": "Teen hackers use skills for good with police help",
+      "reason": "unexpected connection, notable action",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Treska v majonéze rozděluje Slováky",
+      "reason": "zajímavý kulturní fenomén",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/vareni-jidlo/treska-v-majoneze-rozdeluje-slovaky-uz-70-let-na-festivalech-je-jednou-z_2608011048_jho"
+    },
+    {
+      "score": 7,
+      "fact": "Macinka doufá v Pavlův odchod",
+      "reason": "česká politika s interessantním názorem",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-doufam-ze-summit-v-ankare-byl-pavluv-posledni-rekl-macinka-40590652"
+    },
+    {
+      "score": 7,
+      "fact": "Ekologický chov slepic znečišťuje víc",
+      "reason": "zajímavý environmentální paradox",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/priroda/paradox-udrzitelneho-zemedelstvi-ekologicky-chov-slepic-generuje-vyssi-emise_2608010855_cen"
+    },
+    {
+      "score": 7,
+      "fact": "Zpěvačka z jihočeské kapely zmizela",
+      "reason": "záhadný případ",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-rano-vysla-z-domu-ale-na-nadrazi-nikdy-nedosla-zahadne-zmizeni-puvabne-zpevacky-309203"
+    },
+    {
+      "score": 7,
+      "fact": "Tom Holland's latest Spider-Man praised",
+      "reason": "Celebrity with notable performance",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwyeq0wpn0go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "13 killed in Peru plane crash",
+      "reason": "Tragic event with specific number",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines"
+    },
+    {
+      "score": 7,
+      "fact": "Deadly bird flu virus spreads in Australia",
+      "reason": "Notable event with specifics",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds"
+    },
+    {
+      "score": 7,
+      "fact": "Man's psychosis from fitness supplement",
+      "reason": "Unusual health issue",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Bev Craig wins Greater Manchester election",
+      "reason": "Notable election result",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Archbishop vows to support £100m pledge",
+      "reason": "Specific charitable commitment",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement"
+    },
+    {
+      "score": 7,
+      "fact": "Massive Attack pro-Palestinian display",
+      "reason": "Unusual artistic statement",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Franco Baresi dies at 66",
+      "reason": "notable figure, but expected event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "UK man accused of spying for Iran",
+      "reason": "notable accusation, but not unexpected",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/ce853y7yq7yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Mick Gatto paid $1m by labour hire firm",
+      "reason": "notable figure, but not unexpected",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/31/geoffrey-watson-integrity-expert-cfmeu-corruption-inquiry-ntwnfb"
+    },
+    {
+      "score": 7,
+      "fact": "Yung Filly found not guilty of rape",
+      "reason": "notable figure, but expected event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Žena přinesla výbušninu do restaurace",
+      "reason": "zajímavý detail",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-vybuch-pobliz-kavarny-v-moskve-zabil-nejmene-tri-lidi-312233"
+    },
+    {
+      "score": 6,
+      "fact": "Pět teplotních rekordů na jihu Moravy",
+      "reason": "konkrétní číslo",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-na-jihu-moravy-dnes-padlo-pet-teplotnich-rekordu-nejtepleji-bylo-ve-straznici-312230"
+    },
+    {
+      "score": 6,
+      "fact": "Ministr práce se stydí",
+      "reason": "zajímavý politický okamžik",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-10-sezona-dotaz-pro-juchelku-kdo-by-se-tu-mel-stydet-312156"
+    },
+    {
+      "score": 6,
+      "fact": "Češi zmasakrovali ústecké Němce před 81 lety",
+      "reason": "konkrétní historický údaj",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-stat-ztratil-vladu-nad-ulici-pred-81-lety-cesi-zmasakrovali-ustecke-nemce-312210"
+    },
+    {
+      "score": 6,
+      "fact": "Čeští filmaři točili v Tibetu",
+      "reason": "zajímavá historie Čechů v zahraničí",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-historie-jako-prvni-cesi-v-roce-1954-projeli-tibet-david-sis-se-vydal-po-stopach-sveho-otce-312065"
+    },
+    {
+      "score": 6,
+      "fact": "Richard Morávek měl vážnou nehodu",
+      "reason": "známa osoba v zajímavé situaci",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-spolumajitel-developerske-skupiny-redstone-richard-moravek-mel-vaznou-nehodu-312214"
+    },
+    {
+      "score": 6,
+      "fact": "Dasha vzpomíná na Karla Gotta",
+      "reason": "známa osoba s zajímavou vzpomínkou",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-galerie-osobnosti-dasha-pred-triceti-lety-jsem-se-bala-vyjit-pred-lidi-pak-prisel-karel-gott-309356"
+    },
+    {
+      "score": 6,
+      "fact": "Ústí nad Labem si připomnělo ústecký masakr",
+      "reason": "zajímavá historická připomínka",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/rok-smireni-cechu-a-nemcu-usti-nad-labem-si-pripomnelo-81-let-od-usteckeho_2608010827_zko"
+    },
+    {
+      "score": 6,
+      "fact": "Ostravský domov pro autisty ohrožen",
+      "reason": "specifický problém",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ostravsky-domov-pecujici-o-klienty-s-autismem-v-zari-skonci-chybi-mu-35-milionu_2608010600_vaa"
+    },
+    {
+      "score": 6,
+      "fact": "FIFA zrušila prodej podílu na MS",
+      "reason": "konkrétní rozhodnutí",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fifa-ustoupila-od-prodeje-podilu-z-ms-soukromym-investorum-oznamil-infantino-312212"
+    },
+    {
+      "score": 6,
+      "fact": "FIFA zrušila prodej práv soukromým investorům",
+      "reason": "konkrétní rozhodnutí",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/fifa-od-prodeje-prav-soukromym-investorum-couvla-projekt-vyvolal-rozporuplne_2608010641_mim"
+    },
+    {
+      "score": 6,
+      "fact": "Loneliness influencers promote solo living",
+      "reason": "Solid news but vague term",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Josh Kerr wins men's mile gold",
+      "reason": "Notable sports result but expected",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Fifa scraps World Cup investment plan",
+      "reason": "Notable decision but expected",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "US to buy $5bn-$10bn Japanese yen",
+      "reason": "Specific business deal",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen"
+    },
+    {
+      "score": 6,
+      "fact": "Protesters have pellet-gun wounds",
+      "reason": "Specific injury details",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Death row inmates call BBC",
+      "reason": "Unusual story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "HIV prevention drug reduces cases",
+      "reason": "Specific health breakthrough",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts"
+    },
+    {
+      "score": 6,
+      "fact": "49,000 migrants enter Spanish enclave of Ceuta",
+      "reason": "large number, but just a country",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Ebola outbreak in DRC is fastest growing",
+      "reason": "solid news, but just a country",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
+    },
+    {
+      "score": 6,
+      "fact": "18 die as 49,000 cross to Spanish enclave of Ceuta",
+      "reason": "large number, but just a country",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
+    },
+    {
+      "score": 6,
+      "fact": "Hamas disarmament plan may end Gaza war",
+      "reason": "solid news, but just a region",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Amazon and Apple reveal AI plans",
+      "reason": "major companies, but expected news",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
