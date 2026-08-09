@@ -1,0 +1,431 @@
+{
+  "week_start": "2026-08-02T00:00:00+00:00",
+  "week_end": "2026-08-09T00:00:00+00:00",
+  "generated": "2026-08-09T10:22:08.144802+00:00",
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Žena měla krajty kolem krku",
+      "reason": "Bizarre story",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-zena-vyrazila-na-polske-koupaliste-s-krajtami-kolem-krku-zasahovala-policie-40591852"
+    },
+    {
+      "score": 9,
+      "fact": "Ondřejovská hvězdárna slaví 120 let",
+      "reason": "Specific milestone",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-architektura-nejvetsi-ceska-hvezdarna-se-chysta-na-perseidy-i-zatmeni-slunce-a-slavi-120-let-312610"
+    },
+    {
+      "score": 9,
+      "fact": "Ukrajinští veteráni učí Čechy létat s drony",
+      "reason": "Unique connection",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ukrajinsti-veterani-uci-cechy-letat-s-drony-zajem-maji-clenove-bezpecnostni_2608080900_jva"
+    },
+    {
+      "score": 9,
+      "fact": "Japonská hra má českou lokalizaci",
+      "reason": "Unique feature",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-jeden-cech-si-pral-japonskou-hru-vyvojar-kvuli-nemu-pridal-cestinu-312707"
+    },
+    {
+      "score": 9,
+      "fact": "Digital cameras and wired earphones make comeback",
+      "reason": "Surprising tech trend",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cly599xlllyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 9,
+      "fact": "Book returned to library 150 years overdue",
+      "reason": "Weird story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Tyrolskou specialitou je likér z horských šišek",
+      "reason": "Unique product",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-svet/ani-knedliky-ani-strudl-tyrolskou-specialitou-je-liker-z-horskych-sisek_2608080930_elev"
+    },
+    {
+      "score": 8,
+      "fact": "Vedoucí dětské skupiny schytal nejvyšší pokutu",
+      "reason": "Specific consequence",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-rozdelali-ohen-pod-pravcickou-branou-a-odesli-od-nej-vedouci-detske-skupiny-schytal-nejvyssi-moznou-pokutu-40591779"
+    },
+    {
+      "score": 8,
+      "fact": "Marek Ztracený odehrál koncert na Letenské pláni",
+      "reason": "Notable achievement",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/hudba/ztraceny-odehral-na-letne-nejvetsi-koncert-kariery-neokecaval-lidi-zahltil_2608080857_adn"
+    },
+    {
+      "score": 8,
+      "fact": "Netopýři pokousali 15 lidí",
+      "reason": "unexpected animal incident",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/zdravi/netopyri-pokousali-v-okoli-ostravy-uz-15-lidi-je-nutne-ihned-zacit-s-ockovanim_2608080700_vaa"
+    },
+    {
+      "score": 8,
+      "fact": "Hitlerův lékař vařil pervitin",
+      "reason": "unexpected historical fact",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-hitleruv-lekar-zde-varil-pervitin-nyni-sem-olomoucane-chodi-na-nakupy-312558"
+    },
+    {
+      "score": 8,
+      "fact": "Baker Boy wins album of the year",
+      "reason": "Surprising award winner",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/music/2026/aug/09/nimas-2026-winners-national-indigenous-music-awards-baker-boy-djandjay"
+    },
+    {
+      "score": 8,
+      "fact": "Farage and Tice sue NCA over leaks",
+      "reason": "Surprising lawsuit",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cpvw7xyjz8eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "GB Olympian shares porn problem recovery",
+      "reason": "Surprising personal story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c89n8j5e32do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Green Boots frozen on Everest for 30 years",
+      "reason": "Shocking story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Obesity rates doubled in England since 1993",
+      "reason": "Record-breaking event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Meta fined $567m for child safety",
+      "reason": "Major company penalty",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Lauryn Hill and Wyclef may release new Fugees album",
+      "reason": "surprising music comeback",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cdew6jxjw3do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 8,
+      "fact": "Diary entry solves murder case",
+      "reason": "unique and intriguing solution",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Pentagon zveřejnil dokumenty o UFO",
+      "reason": "Unexpected topic",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pentagon-zverejnil-dalsi-dokumenty-o-pozorovani-ufo-376396"
+    },
+    {
+      "score": 7,
+      "fact": "Vlašim bude mít dva nové geotraily",
+      "reason": "New development",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/priroda/dva-nove-geotraily-pripravuji-ochranci-prirody-ve-vlasimi-naucne-trasy-mohou_2608080846_vaa"
+    },
+    {
+      "score": 7,
+      "fact": "Pentagon odtajnil dokumenty o UFO",
+      "reason": "Unexpected topic",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-temny-trojuhelnik-nad-zakladnou-v-afghanistanu-pentagon-odtajnil-dalsi-varku-dokumentu-o-ufo-40591832"
+    },
+    {
+      "score": 7,
+      "fact": "Vrtulník zřítil se při hašení požáru",
+      "reason": "unexpected incident",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-utahu-se-pri-haseni-pozaru-zritil-vrtulnik-312706"
+    },
+    {
+      "score": 7,
+      "fact": "Falešní lékaři šíří nebezpečné rady",
+      "reason": "unexpected threat",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/falesni-lekari-vytvoreni-ai-siri-mezi-starsimi-polaky-nebezpecne-zdravotni-rady-376386"
+    },
+    {
+      "score": 7,
+      "fact": "Labutí mládě spolklo rybářský háček",
+      "reason": "unexpected animal incident",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-plzensky-kraj-labuti-mlade-na-tachovsku-spolklo-rybarsky-hacek-zvireti-se-zasekl-v-zaludku-40591841"
+    },
+    {
+      "score": 7,
+      "fact": "PC Andrew Harper's killers released early",
+      "reason": "Notable crime story",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Irish jet travels to UAE for Kinahan extradition",
+      "reason": "Notable extradition case",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cly5zvv2kreo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Widdecombe police reopen investigation",
+      "reason": "Notable investigation development",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "US promises $1bn in security aid to Colombia",
+      "reason": "Notable foreign aid announcement",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown"
+    },
+    {
+      "score": 7,
+      "fact": "Assad's spy chief found in hiding",
+      "reason": "Notable person",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Hunter Biden speaks about his pardon",
+      "reason": "Notable person",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Taiwan president evacuated in drill",
+      "reason": "unique and specific event",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 7,
+      "fact": "Sudan's war babies lack legal identity",
+      "reason": "specific and touching issue",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Dron explodoval kilometr od plynovodu",
+      "reason": "solid news",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/dron-pronikl-do-bulharskeho-vzdusneho-prostoru-explodoval-kilometr-od-plynovodu-376401"
+    },
+    {
+      "score": 6,
+      "fact": "Ukrajinské drony zaútočily na ruské rafinérie",
+      "reason": "Ongoing conflict",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ukrajinske-drony-zautocily-na-ruske-rafinerie-312710"
+    },
+    {
+      "score": 6,
+      "fact": "Maďarsko prošetřuje dotace z Orbánovy éry",
+      "reason": "Solid news",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-madarsko-prosetruje-dotace-z-orbanovy-ery-stopa-vede-i-k-agrofertu-40591233"
+    },
+    {
+      "score": 6,
+      "fact": "Tajfun Dolphin zranil pět lidí",
+      "reason": "Natural disaster",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/tajfun-dolphin-na-jihu-japonska-zranil-pet-lidi-tisice-domu-jsou-bez-proudu-376395"
+    },
+    {
+      "score": 6,
+      "fact": "Senioři v Netolicích vyrábějí zmrzlinu",
+      "reason": "unexpected action",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/domov-v-netolicich-na-prachaticku-nema-klimatizaci-seniori-si-horko-ulehcuji_2608080822_vaa"
+    },
+    {
+      "score": 6,
+      "fact": "50 let od vraždy ve Valašských Kloboukách",
+      "reason": "notable anniversary",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/historie/uplynulo-50-let-od-brutalni-vrazdy-ve-valasskych-kloboukach-pripad-se-stal_2608080756_jkd"
+    },
+    {
+      "score": 6,
+      "fact": "Marek Ztracený ovládl Letnou",
+      "reason": "notable performance",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-marek-ztraceny-letna-2026-koncert-reportaz-312302"
+    },
+    {
+      "score": 6,
+      "fact": "Václav Prospal bude trenérem v NHL",
+      "reason": "notable appointment",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-hokej-vaclav-prospal-trener-nhl-st-louis-308723"
+    },
+    {
+      "score": 6,
+      "fact": "Weight-loss medication changes alcohol relationship",
+      "reason": "Interesting but not surprising",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Australia is extinction hotspot",
+      "reason": "Interesting but not surprising",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Wildfire smoke linked to health burden",
+      "reason": "Interesting but not surprising",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts"
+    },
+    {
+      "score": 6,
+      "fact": "David Brat becomes US ambassador to Australia",
+      "reason": "Appointment",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador"
+    },
+    {
+      "score": 6,
+      "fact": "Infantino denies claims of affair",
+      "reason": "Celebrity scandal",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Infantino faces calls to resign",
+      "reason": "Celebrity scandal",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "US police officer accused of killing three",
+      "reason": "Notable crime",
+      "source": "The Guardian",
+      "category": "world",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings"
+    },
+    {
+      "score": 6,
+      "fact": "Earthquake shakes Japanese hospital operating room",
+      "reason": "unique and surprising location",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Uefa considers boycott of Fifa",
+      "reason": "major organizations in conflict",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Trump limits US birthright citizenship",
+      "reason": "significant policy change",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "Argos gets makeover after 50 years",
+      "reason": "major company makeover",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "score": 6,
+      "fact": "K-pop band comments on concert etiquette",
+      "reason": "interesting celebrity opinion",
+      "source": "BBC News",
+      "category": "world",
+      "url": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
