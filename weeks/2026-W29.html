@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz News — 2026-07-12 – 2026-07-18</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f6f8fa;
+      color: #1a1a1a;
+      padding: 2rem 1rem;
+      max-width: 880px;
+      margin: 0 auto;
+    }
+    .masthead { margin-bottom: 1rem; }
+    .masthead h1 { font-size: 1.5rem; font-weight: 700; }
+    .masthead p { color: #555; margin-top: .25rem; font-size: .9rem; }
+
+    .archive {
+      display: flex; flex-wrap: wrap; gap: .3rem; align-items: center;
+      margin: 1rem 0 1.25rem; padding-bottom: 1rem;
+      border-bottom: 1px solid #e1e4e8;
+    }
+    .archive-label {
+      font-size: .74rem; color: #666; margin-right: .3rem;
+      text-transform: uppercase; letter-spacing: .04em;
+    }
+    .wk {
+      font-size: .76rem; padding: .22rem .45rem; border-radius: 4px;
+      text-decoration: none; color: #0969da; background: #fff;
+      border: 1px solid #d8dee4; white-space: nowrap;
+    }
+    .wk:hover { border-color: #0969da; background: #f0f6ff; }
+    .wk.active {
+      background: #1a1a1a; border-color: #1a1a1a; color: #fff; font-weight: 600;
+    }
+
+    .tabs {
+      display: flex; flex-wrap: wrap; gap: .35rem;
+      margin: 0 0 1.5rem;
+    }
+    .tab {
+      display: inline-flex; align-items: center; gap: .4rem;
+      background: #fff; border: 1px solid #d8dee4; color: #333;
+      padding: .45rem .7rem; border-radius: 6px; cursor: pointer;
+      font-size: .85rem; font-family: inherit;
+    }
+    .tab:hover:not(:disabled) { border-color: #0969da; color: #0969da; }
+    .tab.active {
+      background: #0969da; border-color: #0969da; color: #fff; font-weight: 600;
+    }
+    .tab:disabled { opacity: .45; cursor: default; }
+    .tab-n {
+      background: rgba(0,0,0,.08); border-radius: 10px;
+      padding: 0 .4rem; font-size: .75rem; font-weight: 600;
+    }
+    .tab.active .tab-n { background: rgba(255,255,255,.25); }
+
+    .toolbar {
+      display: flex; align-items: center; gap: .75rem;
+      background: #fff; border-radius: 8px; padding: .75rem 1rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,.08);
+      margin-bottom: 1.75rem; font-size: .9rem; color: #555;
+    }
+    .toolbar strong { color: #1a1a1a; }
+    #btn-download {
+      margin-left: auto;
+      background: #0969da; color: #fff; border: none;
+      padding: .45rem 1rem; border-radius: 6px; cursor: pointer;
+      font-size: .88rem; font-weight: 600; font-family: inherit;
+    }
+    #btn-download:hover { background: #0550ae; }
+    #btn-download:disabled { background: #8ab; cursor: default; }
+
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .panel-head { margin-bottom: 1.25rem; }
+    .panel-head h1 { font-size: 1.2rem; font-weight: 700; }
+    .panel-head p { color: #666; font-size: .85rem; margin-top: .2rem; }
+
+    section { margin-bottom: 2.25rem; }
+    h2 { font-size: 1.05rem; font-weight: 600; margin-bottom: .7rem; }
+    .count { color: #888; font-weight: 400; font-size: .85rem; }
+    table { width: 100%; border-collapse: collapse; background: #fff;
+            border-radius: 8px; overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    tr { border-bottom: 1px solid #eee; transition: background .15s; }
+    tr:last-child { border-bottom: none; }
+    tr.checked { background: #f0fff4; }
+    td { padding: .7rem .9rem; vertical-align: top; }
+    .cb-cell { width: 36px; text-align: center; }
+    .cb-cell input { width: 17px; height: 17px; cursor: pointer; accent-color: #1a7f37; }
+    td:nth-child(2) { width: 60px; text-align: center; }
+    .badge { display: inline-block; color: #fff; font-weight: 700;
+             font-size: .8rem; padding: .2rem .5rem;
+             border-radius: 4px; white-space: nowrap; }
+    .fact { font-size: .97rem; line-height: 1.45; }
+    .fact a { color: #0969da; text-decoration: none; margin-left: .3rem; }
+    .fact a:hover { text-decoration: underline; }
+    .meta { font-size: .8rem; color: #555; width: 160px; }
+    .reason { color: #888; font-style: italic; }
+    .empty { color: #888; font-size: .9rem; background: #fff; padding: 1rem;
+             border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    footer { margin-top: 3rem; font-size: .8rem; color: #999; text-align: center; }
+    @media (max-width: 600px) { .meta { display: none; } }
+  </style>
+</head>
+<body>
+  <div class="masthead">
+    <h1>Quiz News</h1>
+    <p>2026-07-12 – 2026-07-18</p>
+  </div>
+
+  <nav class="archive"><span class="archive-label">Týdny</span><a class="wk" href="2026-W39.html" title="2026-09-27 – 2026-10-03">W39 &middot; 27.9.</a><a class="wk" href="2026-W33.html" title="2026-08-09 – 2026-08-15">W33 &middot; 9.8.</a><a class="wk" href="2026-W32.html" title="2026-08-02 – 2026-08-08">W32 &middot; 2.8.</a><a class="wk" href="2026-W31.html" title="2026-07-26 – 2026-08-01">W31 &middot; 26.7.</a><a class="wk" href="2026-W30.html" title="2026-07-19 – 2026-07-25">W30 &middot; 19.7.</a><span class="wk active" title="2026-07-12 – 2026-07-18">W29 &middot; 12.7.</span><a class="wk" href="2026-W28.html" title="2026-07-05 – 2026-07-11">W28 &middot; 5.7.</a><a class="wk" href="2026-W27.html" title="2026-06-28 – 2026-07-04">W27 &middot; 28.6.</a><a class="wk" href="2026-W26.html" title="2026-06-21 – 2026-06-27">W26 &middot; 21.6.</a><a class="wk" href="2026-W25.html" title="2026-06-14 – 2026-06-20">W25 &middot; 14.6.</a><a class="wk" href="2026-W24.html" title="2026-06-07 – 2026-06-13">W24 &middot; 7.6.</a><a class="wk" href="2026-W23.html" title="2026-05-31 – 2026-06-06">W23 &middot; 31.5.</a><a class="wk" href="2026-W22.html" title="2026-05-24 – 2026-05-30">W22 &middot; 24.5.</a><a class="wk" href="2026-W21.html" title="2026-05-17 – 2026-05-23">W21 &middot; 17.5.</a><a class="wk" href="2026-W20.html" title="2026-05-10 – 2026-05-16">W20 &middot; 10.5.</a><a class="wk" href="2026-W19.html" title="2026-05-03 – 2026-05-09">W19 &middot; 3.5.</a><a class="wk" href="2026-W18.html" title="2026-04-26 – 2026-05-02">W18 &middot; 26.4.</a><a class="wk" href="2026-W17.html" title="2026-04-19 – 2026-04-25">W17 &middot; 19.4.</a><a class="wk" href="2026-W16.html" title="2026-04-12 – 2026-04-18">W16 &middot; 12.4.</a><a class="wk" href="2026-W15.html" title="2026-04-05 – 2026-04-11">W15 &middot; 5.4.</a></nav>
+
+  <nav class="tabs"><button class="tab active" data-tab="week">Týden<span class="tab-n">51</span></button></nav>
+
+  <div class="toolbar">
+    <span>Tick the facts that were <strong>actually good</strong> for the quiz</span>
+    <span id="checked-count">0 selected</span>
+    <button id="btn-download" disabled>&#11015; Download feedback</button>
+  </div>
+
+  
+      <div class="panel active" data-panel="week">
+        <div class="panel-head">
+          <h1>Týden – nejlepší zprávy</h1>
+          <p>51 facts · 2026-07-12 – 2026-07-18</p>
+        </div>
+        
+        <section>
+          <h2>🇨🇿 Czech <span class="count">21</span></h2>
+          <table><tbody>
+            <tr data-id="week:0">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:0">
+              </td>
+              <td><span class="badge" style="background:#1a7f37">9/10</span></td>
+              <td class="fact">Izrael chce použít krokodýly k ostraze <a href="https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-palestinske-vezne-maji-strezit-krokodyli-izraelsky-ministr-chysta-obdobu-aligatoriho-alcatrazu-40588593" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Shocking plan</span></td>
+            </tr>
+            <tr data-id="week:1">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:1">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Train worker fell out at 120 km/h <a href="https://ct24.ceskatelevize.cz/clanek/svet/pracovnik-nemeckych-drah-vypadl-po-potycce-z-vlaku-jedouciho-rychlosti-120-kilometru-za-hodinu-375712" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">Shocking incident</span></td>
+            </tr>
+            <tr data-id="week:2">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:2">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Pes Susi se stal psím záchranářem <a href="https://www.novinky.cz/clanek/koktejl-sestileta-susi-z-utulku-se-stala-spickovou-psi-zachranarkou-40588698" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Heartwarming story</span></td>
+            </tr>
+            <tr data-id="week:8">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:8">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Maďarský prezident ended his mandate <a href="https://ct24.ceskatelevize.cz/clanek/svet/madarsky-prezident-podepsal-ustavni-dodatek-ktery-ukoncuje-jeho-mandat-375718" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">Notable political moment</span></td>
+            </tr>
+            <tr data-id="week:9">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:9">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Fake 50-euro notes circulate <a href="https://www.novinky.cz/clanek/krimi-pokus-platit-atrapou-penez-vysel-trutnovsko-zaplavily-falesne-padesatieurovky-40588705" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Notable crime</span></td>
+            </tr>
+            <tr data-id="week:10">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:10">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">V Norsku shořelo přes 100 domů <a href="https://www.novinky.cz/clanek/zahranicni-v-norskem-meste-lehlo-popelem-pres-100-domu-hasici-stale-nemaji-ohen-pod-kontrolou-40588707" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Shocking story</span></td>
+            </tr>
+            <tr data-id="week:11">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:11">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Trump hrozí cly Kanadě <a href="https://ct24.ceskatelevize.cz/clanek/svet/kour-z-kanadskych-pozaru-dusi-usa-trump-hrozi-cly-375702" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">Shocking statement</span></td>
+            </tr>
+            <tr data-id="week:12">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:12">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Poslanci měnili strany na jeden den <a href="https://www.seznamzpravy.cz/clanek/audio-podcast-vlevo-dole-vymena-poslancu-rakusan-na-den-v-ano-bartos-v-spd-stastny-u-piratu-311143" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Unusual event</span></td>
+            </tr>
+            <tr data-id="week:13">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:13">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Prezident ohnul pravidla jako Trump <a href="https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-jako-trump-ceskoslovensko-hralo-finale-ms-a-prezident-ohnul-pravidla-311144" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">interesting comparison</span></td>
+            </tr>
+            <tr data-id="week:21">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:21">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">England won bronze at World Cup <a href="https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-ryzi-fotbalove-silenstvi-padlo-deset-golu-a-bronz-na-ms-bere-anglie-311314" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Notable sports result</span></td>
+            </tr>
+            <tr data-id="week:22">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:22">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">CDU/CSU leader resigned <a href="https://ct24.ceskatelevize.cz/clanek/svet/kvuli-kauze-s-nahradni-matkou-rezignoval-sef-poslanecke-frakce-cducsu-375709" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">Notable resignation</span></td>
+            </tr>
+            <tr data-id="week:23">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:23">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Reporter has unique double role <a href="https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-reporter-a-zmrzlinar-tvar-novy-na-fotbalovem-ms-ma-nevsedni-dvojroli-309910" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Interesting human story</span></td>
+            </tr>
+            <tr data-id="week:24">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:24">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Three Czechs died in mountains <a href="https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hory-se-meni-tragedie-cechu-pripomina-nova-rizika-ktera-ubytek-ledu-prinasi-311271" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Notable incident</span></td>
+            </tr>
+            <tr data-id="week:25">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:25">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Julian Lennon creates art <a href="https://www.novinky.cz/clanek/kultura-julian-lennon-sklada-mozaiku-krehkych-momentu-naseho-sveta-40584506" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Interesting human story</span></td>
+            </tr>
+            <tr data-id="week:26">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:26">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Nový most přes Moravu je 150 metrů dlouhý <a href="https://www.irozhlas.cz/zpravy-domov/novy-most-pred-reku-moravu-je-budouci-dominantou-mista-vlaky-pres-nej-zacnou_2607180600_mkm" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Specific detail</span></td>
+            </tr>
+            <tr data-id="week:27">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:27">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Obětí zemětřesení ve Venezuele je přes 5000 <a href="https://www.seznamzpravy.cz/clanek/zahranicni-obeti-cervnoveho-zemetreseni-ve-venezuele-je-uz-vice-nez-5000-311286" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Specific number</span></td>
+            </tr>
+            <tr data-id="week:28">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:28">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Pražský hrad otevírá Fíkovnu <a href="https://www.seznamzpravy.cz/clanek/magazin-architektura-prazsky-hrad-k-nepoznani-otevira-se-fikovna-z-konirny-se-stane-hlavni-vchod-311172" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Specific location</span></td>
+            </tr>
+            <tr data-id="week:29">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:29">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Lionel Messi táhne Argentinu <a href="https://www.irozhlas.cz/sport/fotbal/fotbal-ms-fotbal-2026-libor-kozak-argentina-lionel-messi-lionel-scaloni_2607180915_kri" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Famous personality</span></td>
+            </tr>
+            <tr data-id="week:30">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:30">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Zemanův statek se Zapojí do Dnů lidové architektury <a href="https://www.irozhlas.cz/zpravy-domov/stara-pec-tkani-i-podmalba-na-skle-zemanuv-statek-ve-stanovem-se-zapoji-do-dnu_2607180902_rec" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Specific location</span></td>
+            </tr>
+            <tr data-id="week:31">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:31">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Útěk vězňů skončil návratem do vězení <a href="https://www.seznamzpravy.cz/clanek/domaci-pri-uteku-ubodali-pet-straznych-pak-si-spletli-vlak-odvezl-je-zpet-do-vezeni-307690" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">unexpected twist</span></td>
+            </tr>
+            <tr data-id="week:32">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:32">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Soudkyně rozplakala dítě <a href="https://www.novinky.cz/clanek/krimi-soudkyne-pri-pohovoru-rozplakala-dite-poruseni-mych-prav-stezovala-si-na-potrestani-ustavnimu-soudu-40587899" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">unexpected event</span></td>
+            </tr></tbody></table>
+        </section>
+        <section>
+          <h2>🌍 World <span class="count">30</span></h2>
+          <table><tbody>
+            <tr data-id="week:3">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:3">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Andy Burnham is new UK PM <a href="https://www.bbc.co.uk/news/articles/cwyq978dxwqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">New leader</span></td>
+            </tr>
+            <tr data-id="week:4">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:4">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Trump criticizes Harry Kane&#x27;s role <a href="https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Celebrity opinion</span></td>
+            </tr>
+            <tr data-id="week:5">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:5">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Brad Pitt&#x27;s children drop his surname <a href="https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Celebrity family</span></td>
+            </tr>
+            <tr data-id="week:6">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:6">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Andy Burnham to replace Keir Starmer <a href="https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Specific person in notable moment</span></td>
+            </tr>
+            <tr data-id="week:7">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:7">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Student gets £10k over fake dating profiles <a href="https://www.bbc.co.uk/news/articles/cp8xn9exg8yo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Surprising story with specific number</span></td>
+            </tr>
+            <tr data-id="week:14">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:14">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">White House backs Argentina players <a href="https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">International diplomacy</span></td>
+            </tr>
+            <tr data-id="week:15">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:15">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Jeffrey Epstein&#x27;s abuse victim speaks <a href="https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Personal story</span></td>
+            </tr>
+            <tr data-id="week:16">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:16">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Ghana&#x27;s film posters become art <a href="https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Unique cultural trend</span></td>
+            </tr>
+            <tr data-id="week:17">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:17">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Trump threatens Canada tariffs <a href="https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">International tension</span></td>
+            </tr>
+            <tr data-id="week:18">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:18">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Robodebt whistleblower faced job threat <a href="https://www.theguardian.com/australia-news/2026/jul/18/robodebt-whistleblower-was-told-her-royal-commission-evidence-could-cost-you-your-job-court-hears" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">unexpected connection</span></td>
+            </tr>
+            <tr data-id="week:19">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:19">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Hybrid fish integrate into Philippines lake <a href="https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">weird story</span></td>
+            </tr>
+            <tr data-id="week:20">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:20">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Pauline Hanson on podcast with Tommy Robinson <a href="https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Celebrity unexpected connection</span></td>
+            </tr>
+            <tr data-id="week:33">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:33">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Bridget McKenzie speaks at CPAC <a href="https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason"> Politician&#x27;s statement</span></td>
+            </tr>
+            <tr data-id="week:34">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:34">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Pauline Hanson speaks at CPAC <a href="https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason"> Politician&#x27;s statement</span></td>
+            </tr>
+            <tr data-id="week:35">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:35">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Burnham to announce new drilling plans <a href="https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Politician&#x27;s action</span></td>
+            </tr>
+            <tr data-id="week:36">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:36">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Huge fire destroys homes in Norway <a href="https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Natural disaster</span></td>
+            </tr>
+            <tr data-id="week:37">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:37">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Lib Dems urge FA to withdraw from Fifa <a href="https://www.bbc.co.uk/news/articles/ce3qw4lq1d7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Sports politics</span></td>
+            </tr>
+            <tr data-id="week:38">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:38">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Posh Spice had a slow reaction <a href="https://www.bbc.co.uk/news/articles/cdr4rrzypymo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">viral moment</span></td>
+            </tr>
+            <tr data-id="week:39">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:39">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Clacton by-election has 34 candidates <a href="https://www.bbc.co.uk/news/articles/ckge923jk3vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">notable number</span></td>
+            </tr>
+            <tr data-id="week:40">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:40">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Peter Falconio murder has new lead <a href="https://www.theguardian.com/world/2026/jul/18/peter-falconio-british-expert-says-he-has-identified-a-most-likely-burial-location" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">milestone event</span></td>
+            </tr>
+            <tr data-id="week:41">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:41">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">ICE arrests human rights lawyer <a href="https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">notable figure</span></td>
+            </tr>
+            <tr data-id="week:42">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:42">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Hailstones size of golf balls hit France <a href="https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Unusual weather event</span></td>
+            </tr>
+            <tr data-id="week:43">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:43">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Moira Deeming disendorsed by Liberal party <a href="https://www.theguardian.com/australia-news/2026/jul/17/moira-deeming-victorian-liberal-party-disendorsement-decision-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Politics news with specific name</span></td>
+            </tr>
+            <tr data-id="week:44">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:44">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Japan relaxes royal succession rules <a href="https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable change in royal rules</span></td>
+            </tr>
+            <tr data-id="week:45">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:45">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Burnham&#x27;s Manchesterism may influence UK <a href="https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Politics news with specific concept</span></td>
+            </tr>
+            <tr data-id="week:46">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:46">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Rohan Dennis pleads guilty to driving offense <a href="https://www.theguardian.com/australia-news/2026/jul/17/cyclist-rohan-dennis-pleads-guilty-to-driving-with-suspended-licence-after-crash-that-killed-wife-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Celebrity in unexpected court case</span></td>
+            </tr>
+            <tr data-id="week:47">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:47">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Canada wildfires affect US air quality <a href="https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable environmental issue</span></td>
+            </tr>
+            <tr data-id="week:48">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:48">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Pauline Hanson talks up daughter&#x27;s leadership <a href="https://www.theguardian.com/australia-news/2026/jul/17/pauline-hanson-laments-end-of-white-australia-policy-and-talks-up-daughters-leadership-potential-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Celebrity in notable conversation</span></td>
+            </tr>
+            <tr data-id="week:49">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:49">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Kit Connor and Joe Locke in Heartstopper film <a href="https://www.bbc.co.uk/news/articles/cpwewzeyxqwo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable film with specific cast</span></td>
+            </tr>
+            <tr data-id="week:50">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:50">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Prostate cancer treatment reduces side effects <a href="https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable medical breakthrough</span></td>
+            </tr></tbody></table>
+        </section>
+      </div>
+
+  <footer>Generated from 2026-W29.json &middot;
+    <a href="https://github.com/LandiCZE/quiz_news">source</a></footer>
+
+  <script>
+    const WEEK_KEY  = "2026-W29";
+    const CATALOGUE = {"week:0": {"score": 9, "fact": "Izrael chce použít krokodýly k ostraze", "reason": "Shocking plan", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-palestinske-vezne-maji-strezit-krokodyli-izraelsky-ministr-chysta-obdobu-aligatoriho-alcatrazu-40588593", "view": "week"}, "week:1": {"score": 8, "fact": "Train worker fell out at 120 km/h", "reason": "Shocking incident", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/pracovnik-nemeckych-drah-vypadl-po-potycce-z-vlaku-jedouciho-rychlosti-120-kilometru-za-hodinu-375712", "view": "week"}, "week:2": {"score": 8, "fact": "Pes Susi se stal psím záchranářem", "reason": "Heartwarming story", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/koktejl-sestileta-susi-z-utulku-se-stala-spickovou-psi-zachranarkou-40588698", "view": "week"}, "week:3": {"score": 8, "fact": "Andy Burnham is new UK PM", "reason": "New leader", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/cwyq978dxwqo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:4": {"score": 8, "fact": "Trump criticizes Harry Kane's role", "reason": "Celebrity opinion", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:5": {"score": 8, "fact": "Brad Pitt's children drop his surname", "reason": "Celebrity family", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:6": {"score": 8, "fact": "Andy Burnham to replace Keir Starmer", "reason": "Specific person in notable moment", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:7": {"score": 8, "fact": "Student gets £10k over fake dating profiles", "reason": "Surprising story with specific number", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/cp8xn9exg8yo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:8": {"score": 7, "fact": "Maďarský prezident ended his mandate", "reason": "Notable political moment", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/madarsky-prezident-podepsal-ustavni-dodatek-ktery-ukoncuje-jeho-mandat-375718", "view": "week"}, "week:9": {"score": 7, "fact": "Fake 50-euro notes circulate", "reason": "Notable crime", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/krimi-pokus-platit-atrapou-penez-vysel-trutnovsko-zaplavily-falesne-padesatieurovky-40588705", "view": "week"}, "week:10": {"score": 7, "fact": "V Norsku shořelo přes 100 domů", "reason": "Shocking story", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/zahranicni-v-norskem-meste-lehlo-popelem-pres-100-domu-hasici-stale-nemaji-ohen-pod-kontrolou-40588707", "view": "week"}, "week:11": {"score": 7, "fact": "Trump hrozí cly Kanadě", "reason": "Shocking statement", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/kour-z-kanadskych-pozaru-dusi-usa-trump-hrozi-cly-375702", "view": "week"}, "week:12": {"score": 7, "fact": "Poslanci měnili strany na jeden den", "reason": "Unusual event", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-vlevo-dole-vymena-poslancu-rakusan-na-den-v-ano-bartos-v-spd-stastny-u-piratu-311143", "view": "week"}, "week:13": {"score": 7, "fact": "Prezident ohnul pravidla jako Trump", "reason": "interesting comparison", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-jako-trump-ceskoslovensko-hralo-finale-ms-a-prezident-ohnul-pravidla-311144", "view": "week"}, "week:14": {"score": 7, "fact": "White House backs Argentina players", "reason": "International diplomacy", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final", "view": "week"}, "week:15": {"score": 7, "fact": "Jeffrey Epstein's abuse victim speaks", "reason": "Personal story", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:16": {"score": 7, "fact": "Ghana's film posters become art", "reason": "Unique cultural trend", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art", "view": "week"}, "week:17": {"score": 7, "fact": "Trump threatens Canada tariffs", "reason": "International tension", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:18": {"score": 7, "fact": "Robodebt whistleblower faced job threat", "reason": "unexpected connection", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jul/18/robodebt-whistleblower-was-told-her-royal-commission-evidence-could-cost-you-your-job-court-hears", "view": "week"}, "week:19": {"score": 7, "fact": "Hybrid fish integrate into Philippines lake", "reason": "weird story", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake", "view": "week"}, "week:20": {"score": 7, "fact": "Pauline Hanson on podcast with Tommy Robinson", "reason": "Celebrity unexpected connection", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb", "view": "week"}, "week:21": {"score": 6, "fact": "England won bronze at World Cup", "reason": "Notable sports result", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-ryzi-fotbalove-silenstvi-padlo-deset-golu-a-bronz-na-ms-bere-anglie-311314", "view": "week"}, "week:22": {"score": 6, "fact": "CDU/CSU leader resigned", "reason": "Notable resignation", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/kvuli-kauze-s-nahradni-matkou-rezignoval-sef-poslanecke-frakce-cducsu-375709", "view": "week"}, "week:23": {"score": 6, "fact": "Reporter has unique double role", "reason": "Interesting human story", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-reporter-a-zmrzlinar-tvar-novy-na-fotbalovem-ms-ma-nevsedni-dvojroli-309910", "view": "week"}, "week:24": {"score": 6, "fact": "Three Czechs died in mountains", "reason": "Notable incident", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hory-se-meni-tragedie-cechu-pripomina-nova-rizika-ktera-ubytek-ledu-prinasi-311271", "view": "week"}, "week:25": {"score": 6, "fact": "Julian Lennon creates art", "reason": "Interesting human story", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/kultura-julian-lennon-sklada-mozaiku-krehkych-momentu-naseho-sveta-40584506", "view": "week"}, "week:26": {"score": 6, "fact": "Nový most přes Moravu je 150 metrů dlouhý", "reason": "Specific detail", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-domov/novy-most-pred-reku-moravu-je-budouci-dominantou-mista-vlaky-pres-nej-zacnou_2607180600_mkm", "view": "week"}, "week:27": {"score": 6, "fact": "Obětí zemětřesení ve Venezuele je přes 5000", "reason": "Specific number", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/zahranicni-obeti-cervnoveho-zemetreseni-ve-venezuele-je-uz-vice-nez-5000-311286", "view": "week"}, "week:28": {"score": 6, "fact": "Pražský hrad otevírá Fíkovnu", "reason": "Specific location", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/magazin-architektura-prazsky-hrad-k-nepoznani-otevira-se-fikovna-z-konirny-se-stane-hlavni-vchod-311172", "view": "week"}, "week:29": {"score": 6, "fact": "Lionel Messi táhne Argentinu", "reason": "Famous personality", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/sport/fotbal/fotbal-ms-fotbal-2026-libor-kozak-argentina-lionel-messi-lionel-scaloni_2607180915_kri", "view": "week"}, "week:30": {"score": 6, "fact": "Zemanův statek se Zapojí do Dnů lidové architektury", "reason": "Specific location", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-domov/stara-pec-tkani-i-podmalba-na-skle-zemanuv-statek-ve-stanovem-se-zapoji-do-dnu_2607180902_rec", "view": "week"}, "week:31": {"score": 6, "fact": "Útěk vězňů skončil návratem do vězení", "reason": "unexpected twist", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/domaci-pri-uteku-ubodali-pet-straznych-pak-si-spletli-vlak-odvezl-je-zpet-do-vezeni-307690", "view": "week"}, "week:32": {"score": 6, "fact": "Soudkyně rozplakala dítě", "reason": "unexpected event", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/krimi-soudkyne-pri-pohovoru-rozplakala-dite-poruseni-mych-prav-stezovala-si-na-potrestani-ustavnimu-soudu-40587899", "view": "week"}, "week:33": {"score": 6, "fact": "Bridget McKenzie speaks at CPAC", "reason": " Politician's statement", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb", "view": "week"}, "week:34": {"score": 6, "fact": "Pauline Hanson speaks at CPAC", "reason": " Politician's statement", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb", "view": "week"}, "week:35": {"score": 6, "fact": "Burnham to announce new drilling plans", "reason": "Politician's action", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:36": {"score": 6, "fact": "Huge fire destroys homes in Norway", "reason": "Natural disaster", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:37": {"score": 6, "fact": "Lib Dems urge FA to withdraw from Fifa", "reason": "Sports politics", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/ce3qw4lq1d7o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:38": {"score": 6, "fact": "Posh Spice had a slow reaction", "reason": "viral moment", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/cdr4rrzypymo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:39": {"score": 6, "fact": "Clacton by-election has 34 candidates", "reason": "notable number", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/ckge923jk3vo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:40": {"score": 6, "fact": "Peter Falconio murder has new lead", "reason": "milestone event", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/world/2026/jul/18/peter-falconio-british-expert-says-he-has-identified-a-most-likely-burial-location", "view": "week"}, "week:41": {"score": 6, "fact": "ICE arrests human rights lawyer", "reason": "notable figure", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown", "view": "week"}, "week:42": {"score": 6, "fact": "Hailstones size of golf balls hit France", "reason": "Unusual weather event", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave", "view": "week"}, "week:43": {"score": 6, "fact": "Moira Deeming disendorsed by Liberal party", "reason": "Politics news with specific name", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jul/17/moira-deeming-victorian-liberal-party-disendorsement-decision-ntwnfb", "view": "week"}, "week:44": {"score": 6, "fact": "Japan relaxes royal succession rules", "reason": "Notable change in royal rules", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:45": {"score": 6, "fact": "Burnham's Manchesterism may influence UK", "reason": "Politics news with specific concept", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:46": {"score": 6, "fact": "Rohan Dennis pleads guilty to driving offense", "reason": "Celebrity in unexpected court case", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jul/17/cyclist-rohan-dennis-pleads-guilty-to-driving-with-suspended-licence-after-crash-that-killed-wife-ntwnfb", "view": "week"}, "week:47": {"score": 6, "fact": "Canada wildfires affect US air quality", "reason": "Notable environmental issue", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:48": {"score": 6, "fact": "Pauline Hanson talks up daughter's leadership", "reason": "Celebrity in notable conversation", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jul/17/pauline-hanson-laments-end-of-white-australia-policy-and-talks-up-daughters-leadership-potential-ntwnfb", "view": "week"}, "week:49": {"score": 6, "fact": "Kit Connor and Joe Locke in Heartstopper film", "reason": "Notable film with specific cast", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/cpwewzeyxqwo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:50": {"score": 6, "fact": "Prostate cancer treatment reduces side effects", "reason": "Notable medical breakthrough", "source": "BBC News", "category": "world", "url": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss", "view": "week"}};
+    const TAB_KEY   = WEEK_KEY + ':tab';
+
+    // --- tabs ---
+    const tabs = document.querySelectorAll('.tab');
+    const panels = document.querySelectorAll('.panel');
+
+    function showTab(name) {
+      let found = false;
+      panels.forEach(p => {
+        const on = p.dataset.panel === name;
+        p.classList.toggle('active', on);
+        if (on) found = true;
+      });
+      if (!found) return false;
+      tabs.forEach(t => t.classList.toggle('active', t.dataset.tab === name));
+      try { localStorage.setItem(TAB_KEY, name); } catch (e) {}
+      return true;
+    }
+
+    tabs.forEach(t => t.addEventListener('click', () => showTab(t.dataset.tab)));
+
+    // Reopen whichever tab was last viewed. Storage can be empty or throw in a
+    // private window, so the week view stays the fallback.
+    try {
+      const last = localStorage.getItem(TAB_KEY);
+      if (last) showTab(last);
+    } catch (e) {}
+
+    // --- feedback selection, shared across every view ---
+    let checked = new Set();
+    try {
+      checked = new Set(JSON.parse(localStorage.getItem(WEEK_KEY) || '[]'));
+    } catch (e) {}
+
+    function save() {
+      try { localStorage.setItem(WEEK_KEY, JSON.stringify([...checked])); } catch (e) {}
+    }
+
+    // A story selected in both the week view and its day view occupies two ids,
+    // so count distinct facts — otherwise one tick reads as "2 selected".
+    function factKey(fact) {
+      return fact.url || fact.fact;
+    }
+
+    function distinctChecked() {
+      const keys = new Set();
+      for (const id of checked) {
+        const fact = CATALOGUE[id];
+        if (fact) keys.add(factKey(fact));
+      }
+      return keys;
+    }
+
+    function updateUI() {
+      const n = distinctChecked().size;
+      document.getElementById('checked-count').textContent =
+        n === 0 ? '0 selected' : n + ' selected';
+      document.getElementById('btn-download').disabled = n === 0;
+    }
+
+    // The same story can appear in the week view and in its day view. Ticking
+    // either marks both, so the download never contains it twice.
+    function sameFactIds(id) {
+      const fact = CATALOGUE[id];
+      if (!fact) return [id];
+      const key = factKey(fact);
+      return Object.keys(CATALOGUE).filter(
+        other => factKey(CATALOGUE[other]) === key);
+    }
+
+    function paint() {
+      document.querySelectorAll('.fb-check').forEach(cb => {
+        const on = checked.has(cb.dataset.id);
+        cb.checked = on;
+        cb.closest('tr').classList.toggle('checked', on);
+      });
+    }
+
+    document.querySelectorAll('.fb-check').forEach(cb => {
+      cb.addEventListener('change', () => {
+        const ids = sameFactIds(cb.dataset.id);
+        if (cb.checked) ids.forEach(i => checked.add(i));
+        else ids.forEach(i => checked.delete(i));
+        save();
+        paint();
+        updateUI();
+      });
+    });
+
+    paint();
+    updateUI();
+
+    // --- download feedback JSON (consumed by learn.py) ---
+    document.getElementById('btn-download').addEventListener('click', () => {
+      const seen = new Set();
+      const selected = [];
+      for (const id of checked) {
+        const f = CATALOGUE[id];
+        if (!f) continue;
+        const key = factKey(f);
+        if (seen.has(key)) continue;
+        seen.add(key);
+        selected.push({
+          week:     WEEK_KEY,
+          day:      f.date || '',
+          fact:     f.fact,
+          source:   f.source,
+          category: f.category,
+          score:    f.final_score || f.score,
+          url:      f.url || '',
+        });
+      }
+      const blob = new Blob([JSON.stringify(selected, null, 2)],
+                            {type: 'application/json'});
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'feedback_' + WEEK_KEY + '.json';
+      a.click();
+    });
+  </script>
+</body>
+</html>

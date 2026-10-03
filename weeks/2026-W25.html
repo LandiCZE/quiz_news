@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz News — 2026-06-14 – 2026-06-20</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f6f8fa;
+      color: #1a1a1a;
+      padding: 2rem 1rem;
+      max-width: 880px;
+      margin: 0 auto;
+    }
+    .masthead { margin-bottom: 1rem; }
+    .masthead h1 { font-size: 1.5rem; font-weight: 700; }
+    .masthead p { color: #555; margin-top: .25rem; font-size: .9rem; }
+
+    .archive {
+      display: flex; flex-wrap: wrap; gap: .3rem; align-items: center;
+      margin: 1rem 0 1.25rem; padding-bottom: 1rem;
+      border-bottom: 1px solid #e1e4e8;
+    }
+    .archive-label {
+      font-size: .74rem; color: #666; margin-right: .3rem;
+      text-transform: uppercase; letter-spacing: .04em;
+    }
+    .wk {
+      font-size: .76rem; padding: .22rem .45rem; border-radius: 4px;
+      text-decoration: none; color: #0969da; background: #fff;
+      border: 1px solid #d8dee4; white-space: nowrap;
+    }
+    .wk:hover { border-color: #0969da; background: #f0f6ff; }
+    .wk.active {
+      background: #1a1a1a; border-color: #1a1a1a; color: #fff; font-weight: 600;
+    }
+
+    .tabs {
+      display: flex; flex-wrap: wrap; gap: .35rem;
+      margin: 0 0 1.5rem;
+    }
+    .tab {
+      display: inline-flex; align-items: center; gap: .4rem;
+      background: #fff; border: 1px solid #d8dee4; color: #333;
+      padding: .45rem .7rem; border-radius: 6px; cursor: pointer;
+      font-size: .85rem; font-family: inherit;
+    }
+    .tab:hover:not(:disabled) { border-color: #0969da; color: #0969da; }
+    .tab.active {
+      background: #0969da; border-color: #0969da; color: #fff; font-weight: 600;
+    }
+    .tab:disabled { opacity: .45; cursor: default; }
+    .tab-n {
+      background: rgba(0,0,0,.08); border-radius: 10px;
+      padding: 0 .4rem; font-size: .75rem; font-weight: 600;
+    }
+    .tab.active .tab-n { background: rgba(255,255,255,.25); }
+
+    .toolbar {
+      display: flex; align-items: center; gap: .75rem;
+      background: #fff; border-radius: 8px; padding: .75rem 1rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,.08);
+      margin-bottom: 1.75rem; font-size: .9rem; color: #555;
+    }
+    .toolbar strong { color: #1a1a1a; }
+    #btn-download {
+      margin-left: auto;
+      background: #0969da; color: #fff; border: none;
+      padding: .45rem 1rem; border-radius: 6px; cursor: pointer;
+      font-size: .88rem; font-weight: 600; font-family: inherit;
+    }
+    #btn-download:hover { background: #0550ae; }
+    #btn-download:disabled { background: #8ab; cursor: default; }
+
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .panel-head { margin-bottom: 1.25rem; }
+    .panel-head h1 { font-size: 1.2rem; font-weight: 700; }
+    .panel-head p { color: #666; font-size: .85rem; margin-top: .2rem; }
+
+    section { margin-bottom: 2.25rem; }
+    h2 { font-size: 1.05rem; font-weight: 600; margin-bottom: .7rem; }
+    .count { color: #888; font-weight: 400; font-size: .85rem; }
+    table { width: 100%; border-collapse: collapse; background: #fff;
+            border-radius: 8px; overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    tr { border-bottom: 1px solid #eee; transition: background .15s; }
+    tr:last-child { border-bottom: none; }
+    tr.checked { background: #f0fff4; }
+    td { padding: .7rem .9rem; vertical-align: top; }
+    .cb-cell { width: 36px; text-align: center; }
+    .cb-cell input { width: 17px; height: 17px; cursor: pointer; accent-color: #1a7f37; }
+    td:nth-child(2) { width: 60px; text-align: center; }
+    .badge { display: inline-block; color: #fff; font-weight: 700;
+             font-size: .8rem; padding: .2rem .5rem;
+             border-radius: 4px; white-space: nowrap; }
+    .fact { font-size: .97rem; line-height: 1.45; }
+    .fact a { color: #0969da; text-decoration: none; margin-left: .3rem; }
+    .fact a:hover { text-decoration: underline; }
+    .meta { font-size: .8rem; color: #555; width: 160px; }
+    .reason { color: #888; font-style: italic; }
+    .empty { color: #888; font-size: .9rem; background: #fff; padding: 1rem;
+             border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    footer { margin-top: 3rem; font-size: .8rem; color: #999; text-align: center; }
+    @media (max-width: 600px) { .meta { display: none; } }
+  </style>
+</head>
+<body>
+  <div class="masthead">
+    <h1>Quiz News</h1>
+    <p>2026-06-14 – 2026-06-20</p>
+  </div>
+
+  <nav class="archive"><span class="archive-label">Týdny</span><a class="wk" href="2026-W39.html" title="2026-09-27 – 2026-10-03">W39 &middot; 27.9.</a><a class="wk" href="2026-W33.html" title="2026-08-09 – 2026-08-15">W33 &middot; 9.8.</a><a class="wk" href="2026-W32.html" title="2026-08-02 – 2026-08-08">W32 &middot; 2.8.</a><a class="wk" href="2026-W31.html" title="2026-07-26 – 2026-08-01">W31 &middot; 26.7.</a><a class="wk" href="2026-W30.html" title="2026-07-19 – 2026-07-25">W30 &middot; 19.7.</a><a class="wk" href="2026-W29.html" title="2026-07-12 – 2026-07-18">W29 &middot; 12.7.</a><a class="wk" href="2026-W28.html" title="2026-07-05 – 2026-07-11">W28 &middot; 5.7.</a><a class="wk" href="2026-W27.html" title="2026-06-28 – 2026-07-04">W27 &middot; 28.6.</a><a class="wk" href="2026-W26.html" title="2026-06-21 – 2026-06-27">W26 &middot; 21.6.</a><span class="wk active" title="2026-06-14 – 2026-06-20">W25 &middot; 14.6.</span><a class="wk" href="2026-W24.html" title="2026-06-07 – 2026-06-13">W24 &middot; 7.6.</a><a class="wk" href="2026-W23.html" title="2026-05-31 – 2026-06-06">W23 &middot; 31.5.</a><a class="wk" href="2026-W22.html" title="2026-05-24 – 2026-05-30">W22 &middot; 24.5.</a><a class="wk" href="2026-W21.html" title="2026-05-17 – 2026-05-23">W21 &middot; 17.5.</a><a class="wk" href="2026-W20.html" title="2026-05-10 – 2026-05-16">W20 &middot; 10.5.</a><a class="wk" href="2026-W19.html" title="2026-05-03 – 2026-05-09">W19 &middot; 3.5.</a><a class="wk" href="2026-W18.html" title="2026-04-26 – 2026-05-02">W18 &middot; 26.4.</a><a class="wk" href="2026-W17.html" title="2026-04-19 – 2026-04-25">W17 &middot; 19.4.</a><a class="wk" href="2026-W16.html" title="2026-04-12 – 2026-04-18">W16 &middot; 12.4.</a><a class="wk" href="2026-W15.html" title="2026-04-05 – 2026-04-11">W15 &middot; 5.4.</a></nav>
+
+  <nav class="tabs"><button class="tab active" data-tab="week">Týden<span class="tab-n">45</span></button></nav>
+
+  <div class="toolbar">
+    <span>Tick the facts that were <strong>actually good</strong> for the quiz</span>
+    <span id="checked-count">0 selected</span>
+    <button id="btn-download" disabled>&#11015; Download feedback</button>
+  </div>
+
+  
+      <div class="panel active" data-panel="week">
+        <div class="panel-head">
+          <h1>Týden – nejlepší zprávy</h1>
+          <p>45 facts · 2026-06-14 – 2026-06-20</p>
+        </div>
+        
+        <section>
+          <h2>🇨🇿 Czech <span class="count">26</span></h2>
+          <table><tbody>
+            <tr data-id="week:0">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:0">
+              </td>
+              <td><span class="badge" style="background:#1a7f37">9/10</span></td>
+              <td class="fact">zloděj utekl do jezírka v New Yorku <a href="https://www.novinky.cz/clanek/koktejl-zlodejicek-v-new-yorku-utekl-pred-policisty-do-jezirka-40582950" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">neočekávaná akce</span></td>
+            </tr>
+            <tr data-id="week:2">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:2">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">hráč pétanque ubil rivala <a href="https://www.seznamzpravy.cz/clanek/zahranicni-rivalita-mezi-hraci-petanque-skoncila-smrti-vrazedna-zbran-byla-nanestesti-po-ruce-308977" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">výjimečný a šokující čin</span></td>
+            </tr>
+            <tr data-id="week:3">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:3">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Lightning strikes nine people in Germany <a href="https://www.irozhlas.cz/zpravy-svet/blesk-v-nemecku-zasahl-devet-lidi-padajici-vetev-ve-svycarsku-tezce-zranila_2606200951_aru" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Shocking and unexpected event</span></td>
+            </tr>
+            <tr data-id="week:4">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:4">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">First dismissal for hidden mouth at tournament <a href="https://www.irozhlas.cz/sport/fotbal/almiron-cervena-karta-zakryvani-ust-video-ms-2026-brazile-vinicius-junior_2606200933_mim" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Specific and unusual rule enforcement</span></td>
+            </tr>
+            <tr data-id="week:5">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:5">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Hotel fire in Dominican Republic evacuates 1700 tourists <a href="https://www.irozhlas.cz/zpravy-svet/hotelovy-komplex-v-dominikanske-republice-zasahl-mohutny-pozar-evakuovat-museli_2606200911_aru" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Shocking and unexpected event with specific number</span></td>
+            </tr>
+            <tr data-id="week:6">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:6">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Ondřej Prokop vstoupil do síně slávy politických výmluv <a href="https://www.seznamzpravy.cz/clanek/audio-podcast-vlevo-dole-ondrej-me-to-trklo-prokop-vstoupil-do-sine-slavy-politickych-vymluv-308910" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Specific person did something surprising</span></td>
+            </tr>
+            <tr data-id="week:10">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:10">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Trump představil nový Air Force One <a href="https://www.novinky.cz/clanek/zahranicni-luxus-jaky-nikdo-nevidel-trump-predstavil-novy-air-force-one-40584185" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">známá osobnost a výjimečná věc</span></td>
+            </tr>
+            <tr data-id="week:11">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:11">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">děvče uvízlo v proskleném výtahu <a href="https://www.novinky.cz/clanek/domaci-zpravy-pardubicky-kraj-se-skolackou-se-zasekl-v-pardubicich-proskleny-vytah-straznici-ho-museli-rozbit-40584180" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">nezvyklá nehoda</span></td>
+            </tr>
+            <tr data-id="week:12">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:12">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Shark spotted near Croatian island Hvar <a href="https://www.novinky.cz/clanek/koktejl-rybari-natocili-u-chorvatskeho-ostrova-hvar-zraloka-ktery-prave-roztrhal-mecouna-40584181" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Viral animal story</span></td>
+            </tr>
+            <tr data-id="week:13">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:13">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Afghan man attacks guard with knife <a href="https://www.novinky.cz/clanek/zahranicni-navstevnici-napadli-ostrahu-koupaliste-v-innsbrucku-a-afghanec-sel-na-ni-s-nozem-40584177" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Shocking and unexpected crime</span></td>
+            </tr>
+            <tr data-id="week:14">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:14">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Nákladní vagony spadly z mostu v Mnichově <a href="https://www.novinky.cz/clanek/zahranicni-dva-nakladni-vagony-se-pri-posunovani-vlaku-v-mnichove-zritily-z-nadjezdu-na-ulici-40584174" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Shocking story with a one-word answer</span></td>
+            </tr>
+            <tr data-id="week:20">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:20">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">srážka vlaků zranila 99 lidí <a href="https://ct24.ceskatelevize.cz/clanek/svet/srazka-vlaku-na-jihu-britanie-ma-temer-devadesat-zranenych-374777" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">nehoda s vysokým počtem zraněných</span></td>
+            </tr>
+            <tr data-id="week:21">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:21">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">vedoucí Pražských služeb bere 400 tisíc měsíčně <a href="https://www.novinky.cz/clanek/domaci-pres-400-tisic-mesicne-vedeni-prazskych-sluzeb-bere-vice-nez-nejvyssi-predstavitele-statu-40584183" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">výjimečná mzda</span></td>
+            </tr>
+            <tr data-id="week:22">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:22">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">zemřel James Burrows <a href="https://www.novinky.cz/clanek/kultura-zemrel-james-burrows-40584182" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">známá osobnost</span></td>
+            </tr>
+            <tr data-id="week:23">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:23">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Ukrajinci vracejí řád <a href="https://www.seznamzpravy.cz/clanek/zahranicni-mussolinimu-zustal-zelenskemu-rad-vzali-a-ted-ho-vraci-i-dalsi-ukrajinci-308978" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">mezinárodní vztahy</span></td>
+            </tr>
+            <tr data-id="week:24">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:24">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">srážka vlaků zranila 89 lidí <a href="https://www.irozhlas.cz/zpravy-svet/na-jihu-britanie-se-srazily-dva-vlaky-jeden-ze-strojvedoucich-zahynul-89-lidi-je_2606201056_aru" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">nehoda s vysokým počtem zraněných</span></td>
+            </tr>
+            <tr data-id="week:25">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:25">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Ukrajinci vracejí ocenění <a href="https://ct24.ceskatelevize.cz/clanek/svet/po-rozhodnuti-nawrockeho-odebrat-rad-zelenskemu-vraci-oceneni-dalsi-ukrajinci-374776" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">mezinárodní vztahy</span></td>
+            </tr>
+            <tr data-id="week:26">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:26">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Two cargo trains collided in Munich <a href="https://www.irozhlas.cz/zpravy-svet/v-mnichove-se-srazily-dva-nakladni-vlaky-jejich-vagony-spadly-z-mostu-a-skoncily_2606201049_aru" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Solid news but answer is a city</span></td>
+            </tr>
+            <tr data-id="week:27">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:27">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Viper infestation in Kunštát and Adamov <a href="https://www.novinky.cz/clanek/domaci-kunstat-a-adamov-zamorily-zmije-radnice-varuje-obcany-40583984" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Specific location and animal</span></td>
+            </tr>
+            <tr data-id="week:28">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:28">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Resort fire in Dominican Republic <a href="https://www.seznamzpravy.cz/clanek/zahranicni-video-pri-pozaru-resortu-v-dominikanske-republice-se-muselo-evakuovat-1700-turistu-308975" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Notable but not unexpected accident</span></td>
+            </tr>
+            <tr data-id="week:29">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:29">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Ex-hospital director transfers assets to wife <a href="https://www.seznamzpravy.cz/clanek/porady-ve-stinu-exsef-nemocnice-kadan-odmita-vracet-miliony-majetek-prevadi-na-manzelku-308451" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Specific and unusual financial move</span></td>
+            </tr>
+            <tr data-id="week:30">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:30">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Babiš navrhuje Evropa zaplatí Ukrajině české letouny <a href="https://ct24.ceskatelevize.cz/clanek/svet/babis-chce-aby-evropa-financovala-kyjevu-nakup-cvicnych-letounu-tvrdi-ukrajinsky-web-374774" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">Czech politician in notable moment</span></td>
+            </tr>
+            <tr data-id="week:31">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:31">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Babiš kritizuje Vojtěcha <a href="https://www.seznamzpravy.cz/clanek/domaci-politika-babis-kritizuje-vojtecha-podle-expertu-pritom-ministr-chyby-nedela-308880" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Czech politician in notable moment</span></td>
+            </tr>
+            <tr data-id="week:32">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:32">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Babiš navrhuje Evropa zaplatí Ukrajině české letouny <a href="https://www.seznamzpravy.cz/clanek/domaci-babis-chce-aby-evropske-staty-ukrajine-financovaly-nakup-ceskych-cvicnych-letounu-308973" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Czech politician in notable moment</span></td>
+            </tr>
+            <tr data-id="week:33">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:33">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Babiš chce, aby Evropa Ukrajině zaplatila cvičná letadla <a href="https://www.irozhlas.cz/zpravy-svet/online-k-f-16-jeste-ceske-letouny-skyfox-babis-chce-aby-evropa-ukrajine_2606200715_aru" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Czech politician in notable moment</span></td>
+            </tr>
+            <tr data-id="week:34">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:34">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Okamura chce zklidnit atmosféru ve Sněmovně <a href="https://www.irozhlas.cz/zpravy-domov/okamura-o-utocich-na-poslankyne-nevi-a-chce-naladu-ve-snemovne-zklidnit-kozel_2606200700_jgr" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">Czech politician in notable moment</span></td>
+            </tr></tbody></table>
+        </section>
+        <section>
+          <h2>🌍 World <span class="count">19</span></h2>
+          <table><tbody>
+            <tr data-id="week:1">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:1">
+              </td>
+              <td><span class="badge" style="background:#1a7f37">9/10</span></td>
+              <td class="fact">Sisters find each other via same sperm donor dad <a href="https://www.bbc.com/news/articles/c7vyz109prvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Surprising and heartwarming story</span></td>
+            </tr>
+            <tr data-id="week:7">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:7">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Almiron first player sent off for covering mouth <a href="https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">unique sports fact</span></td>
+            </tr>
+            <tr data-id="week:8">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:8">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Scotland fans fly 22 hours to World Cup <a href="https://www.bbc.com/news/videos/cx2j75vg4p1o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Record-breaking and surprising journey</span></td>
+            </tr>
+            <tr data-id="week:9">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:9">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Prince George to attend new school <a href="https://www.bbc.com/news/articles/c621961qryvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Specific and notable royal event</span></td>
+            </tr>
+            <tr data-id="week:15">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:15">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">100 injured in Bedford train crash <a href="https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">notable accident</span></td>
+            </tr>
+            <tr data-id="week:16">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:16">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Child attacked by crocodile <a href="https://www.bbc.com/news/articles/clyege536n5o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">shocking animal story</span></td>
+            </tr>
+            <tr data-id="week:17">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:17">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Boy attacked by crocodile at zoo <a href="https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Shocking animal story</span></td>
+            </tr>
+            <tr data-id="week:18">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:18">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">KPMG leaked confidential Optus information <a href="https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Major company breach of ethics</span></td>
+            </tr>
+            <tr data-id="week:19">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:19">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Barbados PM announces slavery reparations manifesto <a href="https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Notable and specific political action</span></td>
+            </tr>
+            <tr data-id="week:35">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:35">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">King Charles reveals tax bill <a href="https://www.bbc.com/news/articles/c5yzlk582pzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Czech audience may not care</span></td>
+            </tr>
+            <tr data-id="week:36">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:36">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Train collision kills driver <a href="https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">not unique</span></td>
+            </tr>
+            <tr data-id="week:37">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:37">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Tourist dies in Dominican Republic resort fire <a href="https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">notable accident</span></td>
+            </tr>
+            <tr data-id="week:38">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:38">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Harry and Meghan offered royal accommodation <a href="https://www.bbc.com/news/articles/c5yzlmkl7zzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">royal family news</span></td>
+            </tr>
+            <tr data-id="week:39">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:39">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Count Binface runs in UK election <a href="https://www.bbc.com/news/articles/cj9g3g28en1o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Unusual candidate, notable story</span></td>
+            </tr>
+            <tr data-id="week:40">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:40">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Achraf Hakimi to stand trial <a href="https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable figure in trouble</span></td>
+            </tr>
+            <tr data-id="week:41">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:41">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Scottish Conservatives win first Westminster by-election in 50 years <a href="https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable but expected political event</span></td>
+            </tr>
+            <tr data-id="week:42">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:42">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Andy Burnham wins with big margin <a href="https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable but expected political win</span></td>
+            </tr>
+            <tr data-id="week:43">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:43">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Andy Burnham wins with increased share of vote <a href="https://www.bbc.com/news/articles/clyeg121g2zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable but expected political win</span></td>
+            </tr>
+            <tr data-id="week:44">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:44">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">CDC to spend $107m on Ebola response <a href="https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Notable but expected health response</span></td>
+            </tr></tbody></table>
+        </section>
+      </div>
+
+  <footer>Generated from 2026-W25.json &middot;
+    <a href="https://github.com/LandiCZE/quiz_news">source</a></footer>
+
+  <script>
+    const WEEK_KEY  = "2026-W25";
+    const CATALOGUE = {"week:0": {"score": 9, "fact": "zloděj utekl do jezírka v New Yorku", "reason": "neočekávaná akce", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/koktejl-zlodejicek-v-new-yorku-utekl-pred-policisty-do-jezirka-40582950", "view": "week"}, "week:1": {"score": 9, "fact": "Sisters find each other via same sperm donor dad", "reason": "Surprising and heartwarming story", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/c7vyz109prvo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:2": {"score": 8, "fact": "hráč pétanque ubil rivala", "reason": "výjimečný a šokující čin", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rivalita-mezi-hraci-petanque-skoncila-smrti-vrazedna-zbran-byla-nanestesti-po-ruce-308977", "view": "week"}, "week:3": {"score": 8, "fact": "Lightning strikes nine people in Germany", "reason": "Shocking and unexpected event", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-svet/blesk-v-nemecku-zasahl-devet-lidi-padajici-vetev-ve-svycarsku-tezce-zranila_2606200951_aru", "view": "week"}, "week:4": {"score": 8, "fact": "First dismissal for hidden mouth at tournament", "reason": "Specific and unusual rule enforcement", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/sport/fotbal/almiron-cervena-karta-zakryvani-ust-video-ms-2026-brazile-vinicius-junior_2606200933_mim", "view": "week"}, "week:5": {"score": 8, "fact": "Hotel fire in Dominican Republic evacuates 1700 tourists", "reason": "Shocking and unexpected event with specific number", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-svet/hotelovy-komplex-v-dominikanske-republice-zasahl-mohutny-pozar-evakuovat-museli_2606200911_aru", "view": "week"}, "week:6": {"score": 8, "fact": "Ondřej Prokop vstoupil do síně slávy politických výmluv", "reason": "Specific person did something surprising", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-vlevo-dole-ondrej-me-to-trklo-prokop-vstoupil-do-sine-slavy-politickych-vymluv-308910", "view": "week"}, "week:7": {"score": 8, "fact": "Almiron first player sent off for covering mouth", "reason": "unique sports fact", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:8": {"score": 8, "fact": "Scotland fans fly 22 hours to World Cup", "reason": "Record-breaking and surprising journey", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/videos/cx2j75vg4p1o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:9": {"score": 8, "fact": "Prince George to attend new school", "reason": "Specific and notable royal event", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/c621961qryvo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:10": {"score": 7, "fact": "Trump představil nový Air Force One", "reason": "známá osobnost a výjimečná věc", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/zahranicni-luxus-jaky-nikdo-nevidel-trump-predstavil-novy-air-force-one-40584185", "view": "week"}, "week:11": {"score": 7, "fact": "děvče uvízlo v proskleném výtahu", "reason": "nezvyklá nehoda", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/domaci-zpravy-pardubicky-kraj-se-skolackou-se-zasekl-v-pardubicich-proskleny-vytah-straznici-ho-museli-rozbit-40584180", "view": "week"}, "week:12": {"score": 7, "fact": "Shark spotted near Croatian island Hvar", "reason": "Viral animal story", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/koktejl-rybari-natocili-u-chorvatskeho-ostrova-hvar-zraloka-ktery-prave-roztrhal-mecouna-40584181", "view": "week"}, "week:13": {"score": 7, "fact": "Afghan man attacks guard with knife", "reason": "Shocking and unexpected crime", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/zahranicni-navstevnici-napadli-ostrahu-koupaliste-v-innsbrucku-a-afghanec-sel-na-ni-s-nozem-40584177", "view": "week"}, "week:14": {"score": 7, "fact": "Nákladní vagony spadly z mostu v Mnichově", "reason": "Shocking story with a one-word answer", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/zahranicni-dva-nakladni-vagony-se-pri-posunovani-vlaku-v-mnichove-zritily-z-nadjezdu-na-ulici-40584174", "view": "week"}, "week:15": {"score": 7, "fact": "100 injured in Bedford train crash", "reason": "notable accident", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:16": {"score": 7, "fact": "Child attacked by crocodile", "reason": "shocking animal story", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/clyege536n5o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:17": {"score": 7, "fact": "Boy attacked by crocodile at zoo", "reason": "Shocking animal story", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:18": {"score": 7, "fact": "KPMG leaked confidential Optus information", "reason": "Major company breach of ethics", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb", "view": "week"}, "week:19": {"score": 7, "fact": "Barbados PM announces slavery reparations manifesto", "reason": "Notable and specific political action", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations", "view": "week"}, "week:20": {"score": 6, "fact": "srážka vlaků zranila 99 lidí", "reason": "nehoda s vysokým počtem zraněných", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/srazka-vlaku-na-jihu-britanie-ma-temer-devadesat-zranenych-374777", "view": "week"}, "week:21": {"score": 6, "fact": "vedoucí Pražských služeb bere 400 tisíc měsíčně", "reason": "výjimečná mzda", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/domaci-pres-400-tisic-mesicne-vedeni-prazskych-sluzeb-bere-vice-nez-nejvyssi-predstavitele-statu-40584183", "view": "week"}, "week:22": {"score": 6, "fact": "zemřel James Burrows", "reason": "známá osobnost", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/kultura-zemrel-james-burrows-40584182", "view": "week"}, "week:23": {"score": 6, "fact": "Ukrajinci vracejí řád", "reason": "mezinárodní vztahy", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/zahranicni-mussolinimu-zustal-zelenskemu-rad-vzali-a-ted-ho-vraci-i-dalsi-ukrajinci-308978", "view": "week"}, "week:24": {"score": 6, "fact": "srážka vlaků zranila 89 lidí", "reason": "nehoda s vysokým počtem zraněných", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-svet/na-jihu-britanie-se-srazily-dva-vlaky-jeden-ze-strojvedoucich-zahynul-89-lidi-je_2606201056_aru", "view": "week"}, "week:25": {"score": 6, "fact": "Ukrajinci vracejí ocenění", "reason": "mezinárodní vztahy", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/po-rozhodnuti-nawrockeho-odebrat-rad-zelenskemu-vraci-oceneni-dalsi-ukrajinci-374776", "view": "week"}, "week:26": {"score": 6, "fact": "Two cargo trains collided in Munich", "reason": "Solid news but answer is a city", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-svet/v-mnichove-se-srazily-dva-nakladni-vlaky-jejich-vagony-spadly-z-mostu-a-skoncily_2606201049_aru", "view": "week"}, "week:27": {"score": 6, "fact": "Viper infestation in Kunštát and Adamov", "reason": "Specific location and animal", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/domaci-kunstat-a-adamov-zamorily-zmije-radnice-varuje-obcany-40583984", "view": "week"}, "week:28": {"score": 6, "fact": "Resort fire in Dominican Republic", "reason": "Notable but not unexpected accident", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-pri-pozaru-resortu-v-dominikanske-republice-se-muselo-evakuovat-1700-turistu-308975", "view": "week"}, "week:29": {"score": 6, "fact": "Ex-hospital director transfers assets to wife", "reason": "Specific and unusual financial move", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/porady-ve-stinu-exsef-nemocnice-kadan-odmita-vracet-miliony-majetek-prevadi-na-manzelku-308451", "view": "week"}, "week:30": {"score": 6, "fact": "Babiš navrhuje Evropa zaplatí Ukrajině české letouny", "reason": "Czech politician in notable moment", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/babis-chce-aby-evropa-financovala-kyjevu-nakup-cvicnych-letounu-tvrdi-ukrajinsky-web-374774", "view": "week"}, "week:31": {"score": 6, "fact": "Babiš kritizuje Vojtěcha", "reason": "Czech politician in notable moment", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-babis-kritizuje-vojtecha-podle-expertu-pritom-ministr-chyby-nedela-308880", "view": "week"}, "week:32": {"score": 6, "fact": "Babiš navrhuje Evropa zaplatí Ukrajině české letouny", "reason": "Czech politician in notable moment", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/domaci-babis-chce-aby-evropske-staty-ukrajine-financovaly-nakup-ceskych-cvicnych-letounu-308973", "view": "week"}, "week:33": {"score": 6, "fact": "Babiš chce, aby Evropa Ukrajině zaplatila cvičná letadla", "reason": "Czech politician in notable moment", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-svet/online-k-f-16-jeste-ceske-letouny-skyfox-babis-chce-aby-evropa-ukrajine_2606200715_aru", "view": "week"}, "week:34": {"score": 6, "fact": "Okamura chce zklidnit atmosféru ve Sněmovně", "reason": "Czech politician in notable moment", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-domov/okamura-o-utocich-na-poslankyne-nevi-a-chce-naladu-ve-snemovne-zklidnit-kozel_2606200700_jgr", "view": "week"}, "week:35": {"score": 6, "fact": "King Charles reveals tax bill", "reason": "Czech audience may not care", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/c5yzlk582pzo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:36": {"score": 6, "fact": "Train collision kills driver", "reason": "not unique", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:37": {"score": 6, "fact": "Tourist dies in Dominican Republic resort fire", "reason": "notable accident", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:38": {"score": 6, "fact": "Harry and Meghan offered royal accommodation", "reason": "royal family news", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/c5yzlmkl7zzo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:39": {"score": 6, "fact": "Count Binface runs in UK election", "reason": "Unusual candidate, notable story", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cj9g3g28en1o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:40": {"score": 6, "fact": "Achraf Hakimi to stand trial", "reason": "Notable figure in trouble", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:41": {"score": 6, "fact": "Scottish Conservatives win first Westminster by-election in 50 years", "reason": "Notable but expected political event", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:42": {"score": 6, "fact": "Andy Burnham wins with big margin", "reason": "Notable but expected political win", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:43": {"score": 6, "fact": "Andy Burnham wins with increased share of vote", "reason": "Notable but expected political win", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/clyeg121g2zo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:44": {"score": 6, "fact": "CDC to spend $107m on Ebola response", "reason": "Notable but expected health response", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding", "view": "week"}};
+    const TAB_KEY   = WEEK_KEY + ':tab';
+
+    // --- tabs ---
+    const tabs = document.querySelectorAll('.tab');
+    const panels = document.querySelectorAll('.panel');
+
+    function showTab(name) {
+      let found = false;
+      panels.forEach(p => {
+        const on = p.dataset.panel === name;
+        p.classList.toggle('active', on);
+        if (on) found = true;
+      });
+      if (!found) return false;
+      tabs.forEach(t => t.classList.toggle('active', t.dataset.tab === name));
+      try { localStorage.setItem(TAB_KEY, name); } catch (e) {}
+      return true;
+    }
+
+    tabs.forEach(t => t.addEventListener('click', () => showTab(t.dataset.tab)));
+
+    // Reopen whichever tab was last viewed. Storage can be empty or throw in a
+    // private window, so the week view stays the fallback.
+    try {
+      const last = localStorage.getItem(TAB_KEY);
+      if (last) showTab(last);
+    } catch (e) {}
+
+    // --- feedback selection, shared across every view ---
+    let checked = new Set();
+    try {
+      checked = new Set(JSON.parse(localStorage.getItem(WEEK_KEY) || '[]'));
+    } catch (e) {}
+
+    function save() {
+      try { localStorage.setItem(WEEK_KEY, JSON.stringify([...checked])); } catch (e) {}
+    }
+
+    // A story selected in both the week view and its day view occupies two ids,
+    // so count distinct facts — otherwise one tick reads as "2 selected".
+    function factKey(fact) {
+      return fact.url || fact.fact;
+    }
+
+    function distinctChecked() {
+      const keys = new Set();
+      for (const id of checked) {
+        const fact = CATALOGUE[id];
+        if (fact) keys.add(factKey(fact));
+      }
+      return keys;
+    }
+
+    function updateUI() {
+      const n = distinctChecked().size;
+      document.getElementById('checked-count').textContent =
+        n === 0 ? '0 selected' : n + ' selected';
+      document.getElementById('btn-download').disabled = n === 0;
+    }
+
+    // The same story can appear in the week view and in its day view. Ticking
+    // either marks both, so the download never contains it twice.
+    function sameFactIds(id) {
+      const fact = CATALOGUE[id];
+      if (!fact) return [id];
+      const key = factKey(fact);
+      return Object.keys(CATALOGUE).filter(
+        other => factKey(CATALOGUE[other]) === key);
+    }
+
+    function paint() {
+      document.querySelectorAll('.fb-check').forEach(cb => {
+        const on = checked.has(cb.dataset.id);
+        cb.checked = on;
+        cb.closest('tr').classList.toggle('checked', on);
+      });
+    }
+
+    document.querySelectorAll('.fb-check').forEach(cb => {
+      cb.addEventListener('change', () => {
+        const ids = sameFactIds(cb.dataset.id);
+        if (cb.checked) ids.forEach(i => checked.add(i));
+        else ids.forEach(i => checked.delete(i));
+        save();
+        paint();
+        updateUI();
+      });
+    });
+
+    paint();
+    updateUI();
+
+    // --- download feedback JSON (consumed by learn.py) ---
+    document.getElementById('btn-download').addEventListener('click', () => {
+      const seen = new Set();
+      const selected = [];
+      for (const id of checked) {
+        const f = CATALOGUE[id];
+        if (!f) continue;
+        const key = factKey(f);
+        if (seen.has(key)) continue;
+        seen.add(key);
+        selected.push({
+          week:     WEEK_KEY,
+          day:      f.date || '',
+          fact:     f.fact,
+          source:   f.source,
+          category: f.category,
+          score:    f.final_score || f.score,
+          url:      f.url || '',
+        });
+      }
+      const blob = new Blob([JSON.stringify(selected, null, 2)],
+                            {type: 'application/json'});
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'feedback_' + WEEK_KEY + '.json';
+      a.click();
+    });
+  </script>
+</body>
+</html>

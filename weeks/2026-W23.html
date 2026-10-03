@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz News — 2026-05-31 – 2026-06-06</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f6f8fa;
+      color: #1a1a1a;
+      padding: 2rem 1rem;
+      max-width: 880px;
+      margin: 0 auto;
+    }
+    .masthead { margin-bottom: 1rem; }
+    .masthead h1 { font-size: 1.5rem; font-weight: 700; }
+    .masthead p { color: #555; margin-top: .25rem; font-size: .9rem; }
+
+    .archive {
+      display: flex; flex-wrap: wrap; gap: .3rem; align-items: center;
+      margin: 1rem 0 1.25rem; padding-bottom: 1rem;
+      border-bottom: 1px solid #e1e4e8;
+    }
+    .archive-label {
+      font-size: .74rem; color: #666; margin-right: .3rem;
+      text-transform: uppercase; letter-spacing: .04em;
+    }
+    .wk {
+      font-size: .76rem; padding: .22rem .45rem; border-radius: 4px;
+      text-decoration: none; color: #0969da; background: #fff;
+      border: 1px solid #d8dee4; white-space: nowrap;
+    }
+    .wk:hover { border-color: #0969da; background: #f0f6ff; }
+    .wk.active {
+      background: #1a1a1a; border-color: #1a1a1a; color: #fff; font-weight: 600;
+    }
+
+    .tabs {
+      display: flex; flex-wrap: wrap; gap: .35rem;
+      margin: 0 0 1.5rem;
+    }
+    .tab {
+      display: inline-flex; align-items: center; gap: .4rem;
+      background: #fff; border: 1px solid #d8dee4; color: #333;
+      padding: .45rem .7rem; border-radius: 6px; cursor: pointer;
+      font-size: .85rem; font-family: inherit;
+    }
+    .tab:hover:not(:disabled) { border-color: #0969da; color: #0969da; }
+    .tab.active {
+      background: #0969da; border-color: #0969da; color: #fff; font-weight: 600;
+    }
+    .tab:disabled { opacity: .45; cursor: default; }
+    .tab-n {
+      background: rgba(0,0,0,.08); border-radius: 10px;
+      padding: 0 .4rem; font-size: .75rem; font-weight: 600;
+    }
+    .tab.active .tab-n { background: rgba(255,255,255,.25); }
+
+    .toolbar {
+      display: flex; align-items: center; gap: .75rem;
+      background: #fff; border-radius: 8px; padding: .75rem 1rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,.08);
+      margin-bottom: 1.75rem; font-size: .9rem; color: #555;
+    }
+    .toolbar strong { color: #1a1a1a; }
+    #btn-download {
+      margin-left: auto;
+      background: #0969da; color: #fff; border: none;
+      padding: .45rem 1rem; border-radius: 6px; cursor: pointer;
+      font-size: .88rem; font-weight: 600; font-family: inherit;
+    }
+    #btn-download:hover { background: #0550ae; }
+    #btn-download:disabled { background: #8ab; cursor: default; }
+
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .panel-head { margin-bottom: 1.25rem; }
+    .panel-head h1 { font-size: 1.2rem; font-weight: 700; }
+    .panel-head p { color: #666; font-size: .85rem; margin-top: .2rem; }
+
+    section { margin-bottom: 2.25rem; }
+    h2 { font-size: 1.05rem; font-weight: 600; margin-bottom: .7rem; }
+    .count { color: #888; font-weight: 400; font-size: .85rem; }
+    table { width: 100%; border-collapse: collapse; background: #fff;
+            border-radius: 8px; overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    tr { border-bottom: 1px solid #eee; transition: background .15s; }
+    tr:last-child { border-bottom: none; }
+    tr.checked { background: #f0fff4; }
+    td { padding: .7rem .9rem; vertical-align: top; }
+    .cb-cell { width: 36px; text-align: center; }
+    .cb-cell input { width: 17px; height: 17px; cursor: pointer; accent-color: #1a7f37; }
+    td:nth-child(2) { width: 60px; text-align: center; }
+    .badge { display: inline-block; color: #fff; font-weight: 700;
+             font-size: .8rem; padding: .2rem .5rem;
+             border-radius: 4px; white-space: nowrap; }
+    .fact { font-size: .97rem; line-height: 1.45; }
+    .fact a { color: #0969da; text-decoration: none; margin-left: .3rem; }
+    .fact a:hover { text-decoration: underline; }
+    .meta { font-size: .8rem; color: #555; width: 160px; }
+    .reason { color: #888; font-style: italic; }
+    .empty { color: #888; font-size: .9rem; background: #fff; padding: 1rem;
+             border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    footer { margin-top: 3rem; font-size: .8rem; color: #999; text-align: center; }
+    @media (max-width: 600px) { .meta { display: none; } }
+  </style>
+</head>
+<body>
+  <div class="masthead">
+    <h1>Quiz News</h1>
+    <p>2026-05-31 – 2026-06-06</p>
+  </div>
+
+  <nav class="archive"><span class="archive-label">Týdny</span><a class="wk" href="2026-W39.html" title="2026-09-27 – 2026-10-03">W39 &middot; 27.9.</a><a class="wk" href="2026-W33.html" title="2026-08-09 – 2026-08-15">W33 &middot; 9.8.</a><a class="wk" href="2026-W32.html" title="2026-08-02 – 2026-08-08">W32 &middot; 2.8.</a><a class="wk" href="2026-W31.html" title="2026-07-26 – 2026-08-01">W31 &middot; 26.7.</a><a class="wk" href="2026-W30.html" title="2026-07-19 – 2026-07-25">W30 &middot; 19.7.</a><a class="wk" href="2026-W29.html" title="2026-07-12 – 2026-07-18">W29 &middot; 12.7.</a><a class="wk" href="2026-W28.html" title="2026-07-05 – 2026-07-11">W28 &middot; 5.7.</a><a class="wk" href="2026-W27.html" title="2026-06-28 – 2026-07-04">W27 &middot; 28.6.</a><a class="wk" href="2026-W26.html" title="2026-06-21 – 2026-06-27">W26 &middot; 21.6.</a><a class="wk" href="2026-W25.html" title="2026-06-14 – 2026-06-20">W25 &middot; 14.6.</a><a class="wk" href="2026-W24.html" title="2026-06-07 – 2026-06-13">W24 &middot; 7.6.</a><span class="wk active" title="2026-05-31 – 2026-06-06">W23 &middot; 31.5.</span><a class="wk" href="2026-W22.html" title="2026-05-24 – 2026-05-30">W22 &middot; 24.5.</a><a class="wk" href="2026-W21.html" title="2026-05-17 – 2026-05-23">W21 &middot; 17.5.</a><a class="wk" href="2026-W20.html" title="2026-05-10 – 2026-05-16">W20 &middot; 10.5.</a><a class="wk" href="2026-W19.html" title="2026-05-03 – 2026-05-09">W19 &middot; 3.5.</a><a class="wk" href="2026-W18.html" title="2026-04-26 – 2026-05-02">W18 &middot; 26.4.</a><a class="wk" href="2026-W17.html" title="2026-04-19 – 2026-04-25">W17 &middot; 19.4.</a><a class="wk" href="2026-W16.html" title="2026-04-12 – 2026-04-18">W16 &middot; 12.4.</a><a class="wk" href="2026-W15.html" title="2026-04-05 – 2026-04-11">W15 &middot; 5.4.</a></nav>
+
+  <nav class="tabs"><button class="tab active" data-tab="week">Týden<span class="tab-n">51</span></button></nav>
+
+  <div class="toolbar">
+    <span>Tick the facts that were <strong>actually good</strong> for the quiz</span>
+    <span id="checked-count">0 selected</span>
+    <button id="btn-download" disabled>&#11015; Download feedback</button>
+  </div>
+
+  
+      <div class="panel active" data-panel="week">
+        <div class="panel-head">
+          <h1>Týden – nejlepší zprávy</h1>
+          <p>51 facts · 2026-05-31 – 2026-06-06</p>
+        </div>
+        
+        <section>
+          <h2>🇨🇿 Czech <span class="count">25</span></h2>
+          <table><tbody>
+            <tr data-id="week:0">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:0">
+              </td>
+              <td><span class="badge" style="background:#1a7f37">9/10</span></td>
+              <td class="fact">Šerpa přežil thanks to čokoládě <a href="https://www.seznamzpravy.cz/clanek/zahranicni-jeho-rodina-uz-chystala-pohreb-serpa-prezil-bez-kysliku-sest-dnu-na-everestu-307967" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">surprising survival story</span></td>
+            </tr>
+            <tr data-id="week:1">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:1">
+              </td>
+              <td><span class="badge" style="background:#1a7f37">9/10</span></td>
+              <td class="fact">Parazitolog testuje cizopasníky <a href="https://www.seznamzpravy.cz/clanek/zdravi-plus-roupi-v-detstvi-pomahaji-posilit-strevni-imunitu-v-dospelosti-tvrdi-parazitolog-307816" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">zajímavý vědecký experiment</span></td>
+            </tr>
+            <tr data-id="week:5">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:5">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Žralok zabil potápěče v Austrálii <a href="https://www.novinky.cz/clanek/zahranicni-svet-tri-mrtvi-za-tri-tydny-u-australie-opet-zabijel-zralok-40581930" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">shocking animal story</span></td>
+            </tr>
+            <tr data-id="week:6">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:6">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Archelogové našli 1700 let staré předměty u Notre-Dame <a href="https://www.seznamzpravy.cz/clanek/zahranicni-fotky-vykop-stoleti-pod-katedralou-notre-dame-nasli-1700-let-stare-predmety-307962" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">notable discovery</span></td>
+            </tr>
+            <tr data-id="week:7">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:7">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Kamioňák zachránil muže s amputovanou rukou <a href="https://www.novinky.cz/clanek/krimi-kamionak-u-brna-zachranoval-muze-s-amputovanou-rukou-ostatni-mezitim-stali-opodal-a-nehodu-si-nataceli-40581822" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">heroic act</span></td>
+            </tr>
+            <tr data-id="week:8">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:8">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Emilie Louise Flögeová byla múzou Klimta <a href="https://www.novinky.cz/clanek/lifestyle-osobnosti-emilie-louise-flogeova-byla-muzou-gustava-klimta-ale-take-uznavanou-navrharkou-40579664" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">známá osoba v umění</span></td>
+            </tr>
+            <tr data-id="week:9">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:9">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Důchodce nahlásil příjem ze sběru <a href="https://www.novinky.cz/clanek/koktejl-nemecky-duchodce-nahlasil-prijem-ze-sberu-lahvi-snizili-mu-podporu-40581915" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">zajímavý případ</span></td>
+            </tr>
+            <tr data-id="week:15">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:15">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Robert Fico kritizoval evropskou obranu <a href="https://ct24.ceskatelevize.cz/clanek/svet/hegseth-v-normandii-kritizoval-evropskou-obranu-374300" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">Czech-related surprise</span></td>
+            </tr>
+            <tr data-id="week:16">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:16">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Tomio Okamura má protiukrajinské názory <a href="https://www.novinky.cz/clanek/zahranicni-evropa-rusy-zaujaly-okamurovy-protiukrajinske-nazory-40581919" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">Czech politician&#x27;s statement</span></td>
+            </tr>
+            <tr data-id="week:17">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:17">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Kardinál Michael Czerny vede blahořečení <a href="https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zanechali-velmi-inspirujici-poselstvi-kardinal-blahoreci-zavrazdene-kneze-307937" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">známá osoba v Česku</span></td>
+            </tr>
+            <tr data-id="week:18">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:18">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Jiří David maluje imaginární krajiny <a href="https://www.seznamzpravy.cz/clanek/kultura-jiri-david-galerie-vaclava-spaly-vystava-307914" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">známý umělec</span></td>
+            </tr>
+            <tr data-id="week:26">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:26">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">USA dají spojencům íránská aktiva <a href="https://ct24.ceskatelevize.cz/clanek/svet/reuters-usa-daji-spojencum-v-perskem-zalivu-iranska-aktiva-na-povalecnou-obnovu-374302" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">vague country involvement</span></td>
+            </tr>
+            <tr data-id="week:27">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:27">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Peruánský kandidát čelí obvinění <a href="https://ct24.ceskatelevize.cz/clanek/svet/prezidentsky-kandidat-v-peru-musi-k-soudu-kvuli-financovani-kampane-374292" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">ČT24<br>
+                  <span class="reason">unexpected charge</span></td>
+            </tr>
+            <tr data-id="week:28">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:28">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Praha 1 má interkulturního pracovníka <a href="https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-na-radnici-prahy-1-maji-novou-pozici-interkulturniho-pracovnika-40581854" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">new city position</span></td>
+            </tr>
+            <tr data-id="week:29">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:29">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Ženy mohou jít na mamograf bez žádanky <a href="https://www.novinky.cz/clanek/domaci-od-zacatku-prazdnin-na-mamograf-bez-zadanky-40581588" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">new health rule</span></td>
+            </tr>
+            <tr data-id="week:30">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:30">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Oktoberfest zdražuje pivo <a href="https://www.novinky.cz/clanek/koktejl-tuplak-skoro-za-ctyri-stovky-mnichovsky-oktoberfest-opet-podrazi-40581580" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Novinky.cz<br>
+                  <span class="reason">unexpected price increase</span></td>
+            </tr>
+            <tr data-id="week:31">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:31">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Symfonický orchestr slaví 100 let <a href="https://www.irozhlas.cz/kultura/hudba/vlnohrani-pro-deti-ctyri-predkapely-i-jizda-valkyr-symfonicky-orchestr-ceskeho_2606061049_ape" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">milestone anniversary</span></td>
+            </tr>
+            <tr data-id="week:32">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:32">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Povodí Ohře slaví 60 let <a href="https://www.irozhlas.cz/zpravy-domov/povodi-ohre-slavi-60-let-velkymi-plany-pro-nejsussi-oblasti-ceska-postavi-nadrz_2606061049_brz" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">milestone anniversary</span></td>
+            </tr>
+            <tr data-id="week:33">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:33">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Babišova vláda zařízla referendum <a href="https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-10-sezona-babisova-vlada-zarizla-referendum-dobre-udelala-307924" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">Czech politics</span></td>
+            </tr>
+            <tr data-id="week:34">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:34">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">FIFA povolila fanouškům vlastní lahve na stadionu <a href="https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-fifa-vycouvala-fanouskum-na-ms-vlastni-lahve-na-stadionu-zase-povolila-307966" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">notable rule change</span></td>
+            </tr>
+            <tr data-id="week:35">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:35">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Česko darovalo Ukrajině stanice pro filtraci vody <a href="https://www.irozhlas.cz/zpravy-domov/regiony-olomouc-ukrajina-filtracni-stanice-arcidiecezni-olomoucka-charita_2606060953_brz" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">notable donation</span></td>
+            </tr>
+            <tr data-id="week:36">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:36">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Metro D bude dokončeno v roce 2032 <a href="https://www.irozhlas.cz/zpravy-domov/pristi-stanice-olbrachtova-delnici-bojuji-s-podlozim-pri-razbe-tunelu-metra-d_2606060600_mst" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">notable project milestone</span></td>
+            </tr>
+            <tr data-id="week:37">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:37">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Filipínská rýže obohacená o železo <a href="https://www.seznamzpravy.cz/clanek/tech-technologie-veda-nova-ryze-by-mohla-pomoci-milionum-deti-nikdo-ji-ale-nejspis-nezasadi-307618" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">Seznam Zprávy<br>
+                  <span class="reason">nová potravina</span></td>
+            </tr>
+            <tr data-id="week:38">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:38">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Divadlo uvádí hru o Rukopisech <a href="https://www.irozhlas.cz/kultura/divadlo/masaryk-hanka-rap-a-umela-inteligence-liberecke-divadlo-uvadi-hru-o-kauze_2606060600_mst" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">kulturní událost</span></td>
+            </tr>
+            <tr data-id="week:39">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:39">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Rusko spustí obdobu Starlinku <a href="https://www.irozhlas.cz/zpravy-svet/online-rusko-planuje-spustit-obdobu-satelitniho-systemu-starlink-provoz-zacne_2606060819_ape" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">iROZHLAS<br>
+                  <span class="reason">nová technologie</span></td>
+            </tr></tbody></table>
+        </section>
+        <section>
+          <h2>🌍 World <span class="count">26</span></h2>
+          <table><tbody>
+            <tr data-id="week:2">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:2">
+              </td>
+              <td><span class="badge" style="background:#1a7f37">9/10</span></td>
+              <td class="fact">Euromillions winner dies in hit-and-run <a href="https://www.bbc.com/news/articles/cqj1lljr5wjo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Shocking story</span></td>
+            </tr>
+            <tr data-id="week:3">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:3">
+              </td>
+              <td><span class="badge" style="background:#1a7f37">9/10</span></td>
+              <td class="fact">Elmo called traitor over Knicks <a href="https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Funny celebrity story</span></td>
+            </tr>
+            <tr data-id="week:4">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:4">
+              </td>
+              <td><span class="badge" style="background:#1a7f37">9/10</span></td>
+              <td class="fact">AI-designed vaccine tested <a href="https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Record-breaking event</span></td>
+            </tr>
+            <tr data-id="week:10">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:10">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Police officer joins Love Island US <a href="https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Unexpected celebrity connection</span></td>
+            </tr>
+            <tr data-id="week:11">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:11">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Duffy returns to live concert stage <a href="https://www.bbc.com/news/articles/ce8p8mzj4e8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Surprising comeback</span></td>
+            </tr>
+            <tr data-id="week:12">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:12">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Taylor Swift&#x27;s wedding rumored <a href="https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Celebrity gossip</span></td>
+            </tr>
+            <tr data-id="week:13">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:13">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Virtual space battle costs £400,000 <a href="https://www.bbc.com/news/articles/cnvp7364q5no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable gaming loss</span></td>
+            </tr>
+            <tr data-id="week:14">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:14">
+              </td>
+              <td><span class="badge" style="background:#2d8a1e">8/10</span></td>
+              <td class="fact">Bear escapes by opening window <a href="https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Viral animal story</span></td>
+            </tr>
+            <tr data-id="week:19">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:19">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Canadian warehouse workers unionize <a href="https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Notable business news</span></td>
+            </tr>
+            <tr data-id="week:20">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:20">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Anthony Head dies aged 72 <a href="https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable death</span></td>
+            </tr>
+            <tr data-id="week:21">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:21">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Giant banquets spark controversy <a href="https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Unusual event</span></td>
+            </tr>
+            <tr data-id="week:22">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:22">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Mice plagues devastate Australia <a href="https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Unusual environmental issue</span></td>
+            </tr>
+            <tr data-id="week:23">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:23">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Andrew sub-letting Royal Lodge <a href="https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Royal controversy</span></td>
+            </tr>
+            <tr data-id="week:24">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:24">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">ANU scandals cause $100m damage <a href="https://www.theguardian.com/australia-news/2026/jun/05/anu-australian-national-university-julie-bishop-scandals-reputational-damage-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Specific number</span></td>
+            </tr>
+            <tr data-id="week:25">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:25">
+              </td>
+              <td><span class="badge" style="background:#5a8a00">7/10</span></td>
+              <td class="fact">Trump&#x27;s White House plan doubles <a href="https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Specific comparison</span></td>
+            </tr>
+            <tr data-id="week:40">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:40">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Cake sheds make bakers £1,000 a week <a href="https://www.bbc.com/news/articles/crlpwd2prd0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable business news</span></td>
+            </tr>
+            <tr data-id="week:41">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:41">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Peter Phillips marries Harriet Sperling <a href="https://www.bbc.com/news/videos/cn8q7v27pw0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable wedding</span></td>
+            </tr>
+            <tr data-id="week:42">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:42">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Seven night sky events to watch <a href="https://www.bbc.com/weather/articles/cgepvrgepn4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable events</span></td>
+            </tr>
+            <tr data-id="week:43">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:43">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Man dies in shark attack <a href="https://www.theguardian.com/australia-news/2026/jun/06/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Notable incident</span></td>
+            </tr>
+            <tr data-id="week:44">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:44">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Aircraft carrier breaks down <a href="https://www.bbc.com/news/articles/c9q3q930vj1o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable malfunction</span></td>
+            </tr>
+            <tr data-id="week:45">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:45">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Canada bans Texas cattle <a href="https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Trade restriction</span></td>
+            </tr>
+            <tr data-id="week:46">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:46">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Doctor&#x27;s prescribing caused deaths <a href="https://www.theguardian.com/australia-news/2026/jun/06/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">The Guardian<br>
+                  <span class="reason">Medical negligence</span></td>
+            </tr>
+            <tr data-id="week:47">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:47">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">University crossbow attack occurs <a href="https://www.bbc.com/news/articles/cvgzg417yxno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable crime</span></td>
+            </tr>
+            <tr data-id="week:48">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:48">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Individuals can buy SpaceX shares <a href="https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable business news</span></td>
+            </tr>
+            <tr data-id="week:49">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:49">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">Burnham seeks Labour leadership <a href="https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable politics</span></td>
+            </tr>
+            <tr data-id="week:50">
+              <td class="cb-cell">
+                <input type="checkbox" class="fb-check" data-id="week:50">
+              </td>
+              <td><span class="badge" style="background:#8a6d00">6/10</span></td>
+              <td class="fact">One in four births is emergency caesarean <a href="https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">↗</a></td>
+              <td class="meta">BBC News<br>
+                  <span class="reason">Notable statistic</span></td>
+            </tr></tbody></table>
+        </section>
+      </div>
+
+  <footer>Generated from 2026-W23.json &middot;
+    <a href="https://github.com/LandiCZE/quiz_news">source</a></footer>
+
+  <script>
+    const WEEK_KEY  = "2026-W23";
+    const CATALOGUE = {"week:0": {"score": 9, "fact": "Šerpa přežil thanks to čokoládě", "reason": "surprising survival story", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/zahranicni-jeho-rodina-uz-chystala-pohreb-serpa-prezil-bez-kysliku-sest-dnu-na-everestu-307967", "view": "week"}, "week:1": {"score": 9, "fact": "Parazitolog testuje cizopasníky", "reason": "zajímavý vědecký experiment", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/zdravi-plus-roupi-v-detstvi-pomahaji-posilit-strevni-imunitu-v-dospelosti-tvrdi-parazitolog-307816", "view": "week"}, "week:2": {"score": 9, "fact": "Euromillions winner dies in hit-and-run", "reason": "Shocking story", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cqj1lljr5wjo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:3": {"score": 9, "fact": "Elmo called traitor over Knicks", "reason": "Funny celebrity story", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:4": {"score": 9, "fact": "AI-designed vaccine tested", "reason": "Record-breaking event", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:5": {"score": 8, "fact": "Žralok zabil potápěče v Austrálii", "reason": "shocking animal story", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/zahranicni-svet-tri-mrtvi-za-tri-tydny-u-australie-opet-zabijel-zralok-40581930", "view": "week"}, "week:6": {"score": 8, "fact": "Archelogové našli 1700 let staré předměty u Notre-Dame", "reason": "notable discovery", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-vykop-stoleti-pod-katedralou-notre-dame-nasli-1700-let-stare-predmety-307962", "view": "week"}, "week:7": {"score": 8, "fact": "Kamioňák zachránil muže s amputovanou rukou", "reason": "heroic act", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/krimi-kamionak-u-brna-zachranoval-muze-s-amputovanou-rukou-ostatni-mezitim-stali-opodal-a-nehodu-si-nataceli-40581822", "view": "week"}, "week:8": {"score": 8, "fact": "Emilie Louise Flögeová byla múzou Klimta", "reason": "známá osoba v umění", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-emilie-louise-flogeova-byla-muzou-gustava-klimta-ale-take-uznavanou-navrharkou-40579664", "view": "week"}, "week:9": {"score": 8, "fact": "Důchodce nahlásil příjem ze sběru", "reason": "zajímavý případ", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/koktejl-nemecky-duchodce-nahlasil-prijem-ze-sberu-lahvi-snizili-mu-podporu-40581915", "view": "week"}, "week:10": {"score": 8, "fact": "Police officer joins Love Island US", "reason": "Unexpected celebrity connection", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:11": {"score": 8, "fact": "Duffy returns to live concert stage", "reason": "Surprising comeback", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/ce8p8mzj4e8o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:12": {"score": 8, "fact": "Taylor Swift's wedding rumored", "reason": "Celebrity gossip", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:13": {"score": 8, "fact": "Virtual space battle costs £400,000", "reason": "Notable gaming loss", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cnvp7364q5no?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:14": {"score": 8, "fact": "Bear escapes by opening window", "reason": "Viral animal story", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:15": {"score": 7, "fact": "Robert Fico kritizoval evropskou obranu", "reason": "Czech-related surprise", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/hegseth-v-normandii-kritizoval-evropskou-obranu-374300", "view": "week"}, "week:16": {"score": 7, "fact": "Tomio Okamura má protiukrajinské názory", "reason": "Czech politician's statement", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/zahranicni-evropa-rusy-zaujaly-okamurovy-protiukrajinske-nazory-40581919", "view": "week"}, "week:17": {"score": 7, "fact": "Kardinál Michael Czerny vede blahořečení", "reason": "známá osoba v Česku", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zanechali-velmi-inspirujici-poselstvi-kardinal-blahoreci-zavrazdene-kneze-307937", "view": "week"}, "week:18": {"score": 7, "fact": "Jiří David maluje imaginární krajiny", "reason": "známý umělec", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/kultura-jiri-david-galerie-vaclava-spaly-vystava-307914", "view": "week"}, "week:19": {"score": 7, "fact": "Canadian warehouse workers unionize", "reason": "Notable business news", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal", "view": "week"}, "week:20": {"score": 7, "fact": "Anthony Head dies aged 72", "reason": "Notable death", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:21": {"score": 7, "fact": "Giant banquets spark controversy", "reason": "Unusual event", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:22": {"score": 7, "fact": "Mice plagues devastate Australia", "reason": "Unusual environmental issue", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:23": {"score": 7, "fact": "Andrew sub-letting Royal Lodge", "reason": "Royal controversy", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:24": {"score": 7, "fact": "ANU scandals cause $100m damage", "reason": "Specific number", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jun/05/anu-australian-national-university-julie-bishop-scandals-reputational-damage-ntwnfb", "view": "week"}, "week:25": {"score": 7, "fact": "Trump's White House plan doubles", "reason": "Specific comparison", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:26": {"score": 6, "fact": "USA dají spojencům íránská aktiva", "reason": "vague country involvement", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/reuters-usa-daji-spojencum-v-perskem-zalivu-iranska-aktiva-na-povalecnou-obnovu-374302", "view": "week"}, "week:27": {"score": 6, "fact": "Peruánský kandidát čelí obvinění", "reason": "unexpected charge", "source": "ČT24", "category": "cz", "url": "https://ct24.ceskatelevize.cz/clanek/svet/prezidentsky-kandidat-v-peru-musi-k-soudu-kvuli-financovani-kampane-374292", "view": "week"}, "week:28": {"score": 6, "fact": "Praha 1 má interkulturního pracovníka", "reason": "new city position", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-na-radnici-prahy-1-maji-novou-pozici-interkulturniho-pracovnika-40581854", "view": "week"}, "week:29": {"score": 6, "fact": "Ženy mohou jít na mamograf bez žádanky", "reason": "new health rule", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/domaci-od-zacatku-prazdnin-na-mamograf-bez-zadanky-40581588", "view": "week"}, "week:30": {"score": 6, "fact": "Oktoberfest zdražuje pivo", "reason": "unexpected price increase", "source": "Novinky.cz", "category": "cz", "url": "https://www.novinky.cz/clanek/koktejl-tuplak-skoro-za-ctyri-stovky-mnichovsky-oktoberfest-opet-podrazi-40581580", "view": "week"}, "week:31": {"score": 6, "fact": "Symfonický orchestr slaví 100 let", "reason": "milestone anniversary", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/kultura/hudba/vlnohrani-pro-deti-ctyri-predkapely-i-jizda-valkyr-symfonicky-orchestr-ceskeho_2606061049_ape", "view": "week"}, "week:32": {"score": 6, "fact": "Povodí Ohře slaví 60 let", "reason": "milestone anniversary", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-domov/povodi-ohre-slavi-60-let-velkymi-plany-pro-nejsussi-oblasti-ceska-postavi-nadrz_2606061049_brz", "view": "week"}, "week:33": {"score": 6, "fact": "Babišova vláda zařízla referendum", "reason": "Czech politics", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-10-sezona-babisova-vlada-zarizla-referendum-dobre-udelala-307924", "view": "week"}, "week:34": {"score": 6, "fact": "FIFA povolila fanouškům vlastní lahve na stadionu", "reason": "notable rule change", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-fifa-vycouvala-fanouskum-na-ms-vlastni-lahve-na-stadionu-zase-povolila-307966", "view": "week"}, "week:35": {"score": 6, "fact": "Česko darovalo Ukrajině stanice pro filtraci vody", "reason": "notable donation", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-domov/regiony-olomouc-ukrajina-filtracni-stanice-arcidiecezni-olomoucka-charita_2606060953_brz", "view": "week"}, "week:36": {"score": 6, "fact": "Metro D bude dokončeno v roce 2032", "reason": "notable project milestone", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-domov/pristi-stanice-olbrachtova-delnici-bojuji-s-podlozim-pri-razbe-tunelu-metra-d_2606060600_mst", "view": "week"}, "week:37": {"score": 6, "fact": "Filipínská rýže obohacená o železo", "reason": "nová potravina", "source": "Seznam Zprávy", "category": "cz", "url": "https://www.seznamzpravy.cz/clanek/tech-technologie-veda-nova-ryze-by-mohla-pomoci-milionum-deti-nikdo-ji-ale-nejspis-nezasadi-307618", "view": "week"}, "week:38": {"score": 6, "fact": "Divadlo uvádí hru o Rukopisech", "reason": "kulturní událost", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/kultura/divadlo/masaryk-hanka-rap-a-umela-inteligence-liberecke-divadlo-uvadi-hru-o-kauze_2606060600_mst", "view": "week"}, "week:39": {"score": 6, "fact": "Rusko spustí obdobu Starlinku", "reason": "nová technologie", "source": "iROZHLAS", "category": "cz", "url": "https://www.irozhlas.cz/zpravy-svet/online-rusko-planuje-spustit-obdobu-satelitniho-systemu-starlink-provoz-zacne_2606060819_ape", "view": "week"}, "week:40": {"score": 6, "fact": "Cake sheds make bakers £1,000 a week", "reason": "Notable business news", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/crlpwd2prd0o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:41": {"score": 6, "fact": "Peter Phillips marries Harriet Sperling", "reason": "Notable wedding", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/videos/cn8q7v27pw0o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:42": {"score": 6, "fact": "Seven night sky events to watch", "reason": "Notable events", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/weather/articles/cgepvrgepn4o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:43": {"score": 6, "fact": "Man dies in shark attack", "reason": "Notable incident", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jun/06/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast", "view": "week"}, "week:44": {"score": 6, "fact": "Aircraft carrier breaks down", "reason": "Notable malfunction", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/c9q3q930vj1o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:45": {"score": 6, "fact": "Canada bans Texas cattle", "reason": "Trade restriction", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:46": {"score": 6, "fact": "Doctor's prescribing caused deaths", "reason": "Medical negligence", "source": "The Guardian", "category": "world", "url": "https://www.theguardian.com/australia-news/2026/jun/06/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb", "view": "week"}, "week:47": {"score": 6, "fact": "University crossbow attack occurs", "reason": "Notable crime", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cvgzg417yxno?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:48": {"score": 6, "fact": "Individuals can buy SpaceX shares", "reason": "Notable business news", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:49": {"score": 6, "fact": "Burnham seeks Labour leadership", "reason": "Notable politics", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss", "view": "week"}, "week:50": {"score": 6, "fact": "One in four births is emergency caesarean", "reason": "Notable statistic", "source": "BBC News", "category": "world", "url": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&at_campaign=rss", "view": "week"}};
+    const TAB_KEY   = WEEK_KEY + ':tab';
+
+    // --- tabs ---
+    const tabs = document.querySelectorAll('.tab');
+    const panels = document.querySelectorAll('.panel');
+
+    function showTab(name) {
+      let found = false;
+      panels.forEach(p => {
+        const on = p.dataset.panel === name;
+        p.classList.toggle('active', on);
+        if (on) found = true;
+      });
+      if (!found) return false;
+      tabs.forEach(t => t.classList.toggle('active', t.dataset.tab === name));
+      try { localStorage.setItem(TAB_KEY, name); } catch (e) {}
+      return true;
+    }
+
+    tabs.forEach(t => t.addEventListener('click', () => showTab(t.dataset.tab)));
+
+    // Reopen whichever tab was last viewed. Storage can be empty or throw in a
+    // private window, so the week view stays the fallback.
+    try {
+      const last = localStorage.getItem(TAB_KEY);
+      if (last) showTab(last);
+    } catch (e) {}
+
+    // --- feedback selection, shared across every view ---
+    let checked = new Set();
+    try {
+      checked = new Set(JSON.parse(localStorage.getItem(WEEK_KEY) || '[]'));
+    } catch (e) {}
+
+    function save() {
+      try { localStorage.setItem(WEEK_KEY, JSON.stringify([...checked])); } catch (e) {}
+    }
+
+    // A story selected in both the week view and its day view occupies two ids,
+    // so count distinct facts — otherwise one tick reads as "2 selected".
+    function factKey(fact) {
+      return fact.url || fact.fact;
+    }
+
+    function distinctChecked() {
+      const keys = new Set();
+      for (const id of checked) {
+        const fact = CATALOGUE[id];
+        if (fact) keys.add(factKey(fact));
+      }
+      return keys;
+    }
+
+    function updateUI() {
+      const n = distinctChecked().size;
+      document.getElementById('checked-count').textContent =
+        n === 0 ? '0 selected' : n + ' selected';
+      document.getElementById('btn-download').disabled = n === 0;
+    }
+
+    // The same story can appear in the week view and in its day view. Ticking
+    // either marks both, so the download never contains it twice.
+    function sameFactIds(id) {
+      const fact = CATALOGUE[id];
+      if (!fact) return [id];
+      const key = factKey(fact);
+      return Object.keys(CATALOGUE).filter(
+        other => factKey(CATALOGUE[other]) === key);
+    }
+
+    function paint() {
+      document.querySelectorAll('.fb-check').forEach(cb => {
+        const on = checked.has(cb.dataset.id);
+        cb.checked = on;
+        cb.closest('tr').classList.toggle('checked', on);
+      });
+    }
+
+    document.querySelectorAll('.fb-check').forEach(cb => {
+      cb.addEventListener('change', () => {
+        const ids = sameFactIds(cb.dataset.id);
+        if (cb.checked) ids.forEach(i => checked.add(i));
+        else ids.forEach(i => checked.delete(i));
+        save();
+        paint();
+        updateUI();
+      });
+    });
+
+    paint();
+    updateUI();
+
+    // --- download feedback JSON (consumed by learn.py) ---
+    document.getElementById('btn-download').addEventListener('click', () => {
+      const seen = new Set();
+      const selected = [];
+      for (const id of checked) {
+        const f = CATALOGUE[id];
+        if (!f) continue;
+        const key = factKey(f);
+        if (seen.has(key)) continue;
+        seen.add(key);
+        selected.push({
+          week:     WEEK_KEY,
+          day:      f.date || '',
+          fact:     f.fact,
+          source:   f.source,
+          category: f.category,
+          score:    f.final_score || f.score,
+          url:      f.url || '',
+        });
+      }
+      const blob = new Blob([JSON.stringify(selected, null, 2)],
+                            {type: 'application/json'});
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'feedback_' + WEEK_KEY + '.json';
+      a.click();
+    });
+  </script>
+</body>
+</html>

@@ -1,11 +1,13 @@
 """
-Generates index.html from the newest facts file in facts/, plus the day files
-in days/ for that same week.
+Generates the published site from the files in facts/ and days/.
 
-The page has two views:
-  * Week — the re-ranked top facts, the ones meant for the quiz
-  * one tab per day — everything that day's run kept, before the week's
-    head-to-head re-rank thinned it down
+    index.html              the newest week
+    weeks/YYYY-Wnn.html     one page per week
+
+Every page carries a week picker, so older weeks stay reachable instead of
+being overwritten each Sunday. A week page shows the re-ranked top facts plus
+one tab per day from that week's day files; weeks older than per-day storage
+have no day strip at all.
 
 Run after the weekly analysis: python render.py
 
@@ -22,8 +24,10 @@ from string import Template
 
 import days
 
-FACTS_DIR = Path(__file__).parent / "facts"
-OUT_FILE  = Path(__file__).parent / "index.html"
+ROOT       = Path(__file__).parent
+FACTS_DIR  = ROOT / "facts"
+WEEKS_DIR  = ROOT / "weeks"
+INDEX_FILE = ROOT / "index.html"
 
 CATEGORY_LABEL = {"cz": "🇨🇿 Czech", "world": "🌍 World"}
 WEEKDAY_CS = ["Po", "Út", "St", "Čt", "Pá", "So", "Ne"]
@@ -36,9 +40,25 @@ SCORE_COLOR = {
 }
 
 
-def latest_facts_file() -> Path | None:
-    files = sorted(FACTS_DIR.glob("*.json"), reverse=True)
-    return files[0] if files else None
+def load_weeks() -> list[dict]:
+    """Every week in facts/, newest first. Unreadable files are skipped."""
+    weeks = []
+    for path in sorted(FACTS_DIR.glob("*.json"), reverse=True):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+            start = datetime.fromisoformat(data["week_start"]).date()
+            end = datetime.fromisoformat(data["week_end"]).date()
+        except (KeyError, ValueError, json.JSONDecodeError) as exc:
+            print(f"  skipping {path.name}: {exc}")
+            continue
+        weeks.append({
+            "key": path.stem,
+            "path": path,
+            "data": data,
+            "start": start,
+            "last": end - timedelta(days=1),
+        })
+    return weeks
 
 
 def score_badge(score: int) -> str:
@@ -81,7 +101,7 @@ def _rows(numbered: list[tuple[int, dict]], view: str) -> str:
 
 
 def _panel(facts: list[dict], view: str, heading: str, subtitle: str,
-           active: bool) -> str:
+           empty_text: str, active: bool) -> str:
     by_category: dict[str, list[tuple[int, dict]]] = {}
     for index, fact in enumerate(facts):
         by_category.setdefault(fact.get("category", "cz"), []).append((index, fact))
@@ -98,7 +118,7 @@ def _panel(facts: list[dict], view: str, heading: str, subtitle: str,
         </section>"""
 
     if not sections:
-        sections = '<p class="empty">No facts kept for this day.</p>'
+        sections = f'<p class="empty">{esc(empty_text)}</p>'
 
     return f"""
       <div class="panel{' active' if active else ''}" data-panel="{esc(view)}">
@@ -110,18 +130,33 @@ def _panel(facts: list[dict], view: str, heading: str, subtitle: str,
       </div>"""
 
 
-def render(facts_path: Path) -> str:
-    data = json.loads(facts_path.read_text(encoding="utf-8"))
+def _picker(weeks: list[dict], active_key: str, prefix: str) -> str:
+    """Chips linking every week, newest first. `prefix` is "" for pages that
+    sit inside weeks/ and "weeks/" for index.html at the repo root."""
+    chips = ""
+    for week in weeks:
+        number = week["key"].split("-W")[-1]
+        label = f'W{number} &middot; {week["start"].day}.{week["start"].month}.'
+        title = f'{week["start"]} – {week["last"]}'
+        if week["key"] == active_key:
+            chips += f'<span class="wk active" title="{esc(title)}">{label}</span>'
+        else:
+            chips += (f'<a class="wk" href="{esc(prefix + week["key"])}.html" '
+                      f'title="{esc(title)}">{label}</a>')
+    return chips
+
+
+def render_page(week: dict, weeks: list[dict], prefix: str) -> str:
+    data = week["data"]
     week_facts = data["facts"]
-    week_key = facts_path.stem                   # e.g. "2026-W40"
-    week_start = datetime.fromisoformat(data["week_start"]).date()
-    week_end = datetime.fromisoformat(data["week_end"]).date()
-    last_day = week_end - timedelta(days=1)
+    week_key = week["key"]
+    week_start = week["start"]
+    last_day = week["last"]
 
     # --- gather the week's day files ---
     day_views: list[dict] = []
     cursor = week_start
-    while cursor < week_end:
+    while cursor <= last_day:
         stored = days.load_day(cursor)
         day_views.append({
             "date": cursor,
@@ -133,9 +168,11 @@ def render(facts_path: Path) -> str:
         cursor += timedelta(days=1)
 
     # --- tabs ---
+    has_days = any(d["present"] for d in day_views)
+
     tabs = (f'<button class="tab active" data-tab="week">Týden'
             f'<span class="tab-n">{len(week_facts)}</span></button>')
-    for day in day_views:
+    for day in (day_views if has_days else []):
         classes = "tab" if day["present"] else "tab missing"
         label = f'{WEEKDAY_CS[day["date"].weekday()]} {day["date"].day}.{day["date"].month}.'
         count = (f'<span class="tab-n">{len(day["facts"])}</span>'
@@ -145,25 +182,30 @@ def render(facts_path: Path) -> str:
                  f'{label}{count}</button>')
 
     # --- panels ---
+    candidates = data.get("candidates")
+    subtitle = (f"Re-ranked top {len(week_facts)} from {candidates} candidates"
+                if candidates else f"{len(week_facts)} facts")
+
     panels = _panel(
         week_facts, "week",
         "Týden – nejlepší zprávy",
-        f"Re-ranked top {len(week_facts)} from {data.get('candidates', '?')} "
-        f"candidates · {week_start} – {last_day}",
+        f"{subtitle} · {week_start} – {last_day}",
+        "No facts for this week.",
         active=True,
     )
-    for day in day_views:
+    for day in (day_views if has_days else []):
         if day["present"]:
             s = day["stats"]
             subtitle = (f"Kept {s.get('kept', len(day['facts']))} of "
                         f"{s.get('scored', '?')} scored · "
                         f"{s.get('that_day', '?')} articles published that day")
         else:
-            subtitle = "No day file — the daily run did not produce one, or it was pruned."
+            subtitle = "No day file for this date."
         panels += _panel(
             day["facts"], day["view"],
             f'{WEEKDAY_CS[day["date"].weekday()]} {day["date"].isoformat()}',
             subtitle,
+            "No facts kept for this day.",
             active=False,
         )
 
@@ -177,13 +219,14 @@ def render(facts_path: Path) -> str:
 
     return Template(PAGE).safe_substitute(
         title=f"Quiz News — {week_start} – {last_day}",
+        picker=_picker(weeks, week_key, prefix),
         week_key=week_key,
         week_range=f"{week_start} – {last_day}",
         tabs=tabs,
         panels=panels,
         catalogue=json.dumps(catalogue, ensure_ascii=False),
         week_key_json=json.dumps(week_key),
-        source_file=facts_path.name,
+        source_file=week["path"].name,
     )
 
 
@@ -207,9 +250,28 @@ PAGE = """<!DOCTYPE html>
     .masthead h1 { font-size: 1.5rem; font-weight: 700; }
     .masthead p { color: #555; margin-top: .25rem; font-size: .9rem; }
 
+    .archive {
+      display: flex; flex-wrap: wrap; gap: .3rem; align-items: center;
+      margin: 1rem 0 1.25rem; padding-bottom: 1rem;
+      border-bottom: 1px solid #e1e4e8;
+    }
+    .archive-label {
+      font-size: .74rem; color: #666; margin-right: .3rem;
+      text-transform: uppercase; letter-spacing: .04em;
+    }
+    .wk {
+      font-size: .76rem; padding: .22rem .45rem; border-radius: 4px;
+      text-decoration: none; color: #0969da; background: #fff;
+      border: 1px solid #d8dee4; white-space: nowrap;
+    }
+    .wk:hover { border-color: #0969da; background: #f0f6ff; }
+    .wk.active {
+      background: #1a1a1a; border-color: #1a1a1a; color: #fff; font-weight: 600;
+    }
+
     .tabs {
       display: flex; flex-wrap: wrap; gap: .35rem;
-      margin: 1.25rem 0 1.5rem;
+      margin: 0 0 1.5rem;
     }
     .tab {
       display: inline-flex; align-items: center; gap: .4rem;
@@ -282,6 +344,8 @@ PAGE = """<!DOCTYPE html>
     <h1>Quiz News</h1>
     <p>$week_range</p>
   </div>
+
+  <nav class="archive"><span class="archive-label">Týdny</span>$picker</nav>
 
   <nav class="tabs">$tabs</nav>
 
@@ -424,12 +488,24 @@ PAGE = """<!DOCTYPE html>
 
 
 def main() -> None:
-    path = latest_facts_file()
-    if not path:
+    weeks = load_weeks()
+    if not weeks:
         print("No facts files found in facts/. Run the analysis first.")
         sys.exit(1)
-    OUT_FILE.write_text(render(path), encoding="utf-8")
-    print(f"Written {OUT_FILE}  (from {path.name})")
+
+    WEEKS_DIR.mkdir(exist_ok=True)
+    for week in weeks:
+        # Pages inside weeks/ link to their siblings, so no path prefix.
+        path = WEEKS_DIR / f'{week["key"]}.html'
+        path.write_text(render_page(week, weeks, prefix=""), encoding="utf-8")
+
+    newest = weeks[0]
+    INDEX_FILE.write_text(
+        render_page(newest, weeks, prefix="weeks/"), encoding="utf-8")
+
+    total = sum(len(w["data"]["facts"]) for w in weeks)
+    print(f"Written index.html (from {newest['path'].name}) and "
+          f"{len(weeks)} week pages in weeks/ — {total} facts archived")
 
 
 if __name__ == "__main__":

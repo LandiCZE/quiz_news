@@ -17,7 +17,8 @@ weekly  days.py      load the 7 files   ~140 candidates
         main.py      cross-day dedupe   same story from two days collapses
         analyzer.py  Groq LLM           one call, head-to-head re-rank
         facts/       YYYY-Wnn.json      the week's top 20
-        render.py    index.html         the published page
+        render.py    index.html         newest week
+                     weeks/*.html       one page per week, kept forever
 ```
 
 Raw articles are never stored. Each run processes one closed calendar day
@@ -122,7 +123,12 @@ documented in the comment block above them.
 
 ## The page
 
-`index.html` has a tab per view:
+`render.py` writes `index.html` for the newest week plus `weeks/YYYY-Wnn.html`
+for every week in `facts/`, so nothing is overwritten out of existence — each
+Sunday adds a page instead of replacing the only one. Every page carries a week
+picker across the top; weeks older than per-day storage have no day strip.
+
+Within a page there is a tab per view:
 
 ```
 [ Tyden 20 ] [ Ne 4.10. 20 ] [ Po 5.10. 20 ] [ St 7.10. - ] ...
