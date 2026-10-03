@@ -16,8 +16,12 @@ from groq import Groq, RateLimitError
 from fetcher import Article
 from selector import select
 
-# Free on Groq — fast and capable enough for this task
-MODEL = "llama-3.3-70b-versatile"
+# llama-3.3-70b-versatile is no longer served on Groq. Of what remains, qwen3.8
+# is the right fit: it answers in Czech, stays concise (~1.7k completion tokens
+# for a 20-article batch) and returns clean JSON. The gpt-oss models spend ~5x
+# more completion tokens per article, overrun max_tokens mid-array and lose the
+# whole batch to truncated JSON.
+MODEL = "qwen/qwen3.8-27b"
 
 # Only facts scoring at or above this threshold appear in the final output
 MIN_SCORE = 6
@@ -66,6 +70,9 @@ Respond with ONLY a JSON array. Each element must have exactly these fields:
   "reason": "<one short phrase: what makes it good or bad>"
 }
 
+Write every "fact" and "reason" in Czech. The quiz is Czech and the facts are
+read out in Czech. Keep names, places and titles in their usual Czech form.
+
 Do not include any text outside the JSON array.
 """
 
@@ -82,27 +89,33 @@ class ScoredFact:
 
 
 # --- Groq free-tier budget ---------------------------------------------------
-# Free tier for llama-3.3-70b-versatile: 30 RPM, 1000 RPD, 12k TPM, 100k TPD.
-# (Confirm against your own console: console.groq.com/settings/limits)
+# Free tier for qwen/qwen3.8-27b: 30 RPM, 1000 RPD, 8k TPM, 200k TPD — and one
+# limit the published tables do not mention: OTPM, output tokens per minute,
+# capped at 1000. It is enforced per request against max_tokens, and a request
+# over it is rejected outright:
 #
-# Measured on real Czech articles, at ~2.7 chars/token:
-#   system prompt            ~900 tokens, resent with every call
-#   20-article payload     ~2,480 tokens  (title + 200 chars of summary each)
-#   response               ~  930 tokens
-#   -> ~4,300 tokens per call
+#   Request too large ... on output tokens per minute (OTPM): Limit 1000,
+#   Requested 1500. ... reduce max_tokens ... and try again
 #
-# The daily run scores 180 articles = 9 calls = ~39,000 tokens, i.e. 39% of a
-# single day's TPD, leaving room for a failed run to be repeated by hand. The
-# token caps reset daily, which is the whole point of scoring daily instead of
-# once a week: a week now gets ~1,260 articles through the LLM rather than 180.
+# That is a permanent rejection, not throttling — retrying the same request
+# never succeeds. It is why MAX_TOKENS must stay at or below 1000, and it sets
+# the batch size: a 20-article batch measured 1,738 completion tokens, nearly
+# double the cap, so batches are 10.
 #
-# TPM, not TPD, is the binding constraint. Two calls per minute is ~8.6k TPM,
-# and still ~10.8k in the pessimistic case where Groq charges the reserved
-# max_tokens rather than the real output length. Hence a 30s gap.
-BATCH_SIZE     = 20   # articles per API call
-BATCH_SLEEP    = 30   # seconds between batches — paces us under the 12k TPM cap
-MAX_TOKENS     = 2000 # ~2x the measured response; keeps TPM low but leaves room
-                      # so a verbose batch is not truncated into invalid JSON
+# Measured against the live API per 10-article batch:
+#   prompt (system + payload)  ~2,140 tokens
+#   completion                 ~  870 tokens
+#   -> ~3,010 total per call
+#
+# OTPM, not TPM or TPD, is the binding constraint: ~870 output tokens per call
+# against 1000 per minute allows roughly one call a minute, hence the 60s gap.
+# 180 articles is then 18 calls, ~18 minutes and ~54k tokens — 27% of a day's
+# TPD. The caps reset daily, which is the point of scoring daily instead of
+# weekly: a week gets ~1,260 articles through the LLM rather than 180.
+BATCH_SIZE     = 10   # articles per API call — 20 overruns the 1000 OTPM cap
+BATCH_SLEEP    = 60   # seconds between batches — paces output under 1000/min
+MAX_TOKENS     = 1000 # the OTPM ceiling. Above it the request is rejected
+                      # outright; below ~900 a full batch risks truncation.
 MAX_RETRIES    = 4
 
 # Articles sent to the LLM per day, per category. Split 2:1 rather than evenly
@@ -110,13 +123,14 @@ MAX_RETRIES    = 4
 # the foreign desks, and the historical output ratio was ~2.7:1 as well.
 SCORE_BUDGET   = {"cz": 120, "world": 60}
 
-# What survives into the day file. The daily score is a per-article judgement,
-# so a 6 is filler — the weekly re-rank does the real head-to-head comparison.
+# What survives into the day file. qwen scores more conservatively than the old
+# model did — a strong fact lands at 7-8 rather than 9-10 — so the threshold is
+# 6 and the weekly re-rank does the real head-to-head comparison.
 #
 # Kept per category, not 20 overall: Czech articles outnumber world ones 2:1 in
 # the budget above, so a plain top-20 by score can return 20 Czech facts and no
 # world ones, and then the whole week has no world round.
-DAILY_MIN_SCORE = 7
+DAILY_MIN_SCORE = 6
 KEEP_PER_DAY    = {"cz": 13, "world": 7}
 
 
@@ -150,13 +164,21 @@ MAX_WAIT = 120   # seconds; a longer demand means the daily cap, not throttling
 
 
 def _wait_from_error(msg: str) -> float:
-    """Parse 'Please try again in 13.085s' from a Groq error message.
+    """How long to wait before retrying a Groq rate-limit error. 0 = never.
 
-    Returns 0 when the wait exceeds MAX_WAIT. A per-minute throttle clears in
-    seconds; a request to wait much longer means the daily token cap is gone,
-    and sleeping for it would hang the run for hours. The caller skips the
-    batch instead — days are separate files, so only that day needs redoing.
+    Three cases, and only one is worth waiting for:
+      * "Request too large ... reduce max_tokens" — the request exceeds a
+        per-request ceiling such as OTPM. Retrying it unchanged can never
+        succeed, so do not wait at all.
+      * "try again in 13.085s" — an ordinary per-minute throttle, clears in
+        seconds.
+      * a wait longer than MAX_WAIT — the daily cap is gone; sleeping for it
+        would hang the run for hours. Days are separate files, so skipping
+        costs only the current day.
     """
+    if "too large" in msg.lower() or "reduce max_tokens" in msg.lower():
+        return 0.0
+
     match = re.search(r"try again in ([\d.]+)s", msg)
     wait = float(match.group(1)) + 2 if match else 60.0
     return 0.0 if wait > MAX_WAIT else wait
@@ -211,13 +233,20 @@ def _analyze_batch(client: Groq, articles: list[Article], min_score: int) -> lis
         except RateLimitError as e:
             wait = _wait_from_error(str(e))
             if wait == 0:
-                print("  Rate limit wants a wait longer than "
-                      f"{MAX_WAIT}s — daily token cap reached, stopping this batch")
+                print(f"  Not retryable — {str(e)[:150]}")
                 return []
             print(f"  Rate limit — waiting {wait:.0f}s (attempt {attempt + 1}/{MAX_RETRIES})")
             time.sleep(wait)
     else:
         print("  Skipping batch after too many rate limit errors")
+        return []
+
+    # A response cut off at max_tokens ends mid-array, so the JSON never parses
+    # and the whole batch is lost. Say so explicitly — the symptom otherwise
+    # looks like a model that cannot follow the format.
+    if response.choices[0].finish_reason == "length":
+        print(f"  Response hit max_tokens ({MAX_TOKENS}) and was truncated — "
+              f"batch lost. Raise MAX_TOKENS or lower BATCH_SIZE.")
         return []
 
     results = _parse_json_array(response.choices[0].message.content)
@@ -283,6 +312,8 @@ RANK LOWER or DROP ENTIRELY:
 Aim for variety: do not fill the round with sport or with deaths. Keep a mix of
 Czech and world items roughly in proportion to how many you were given.
 
+Write every "why" in Czech.
+
 Respond with ONLY a JSON array, ordered best first. Each element must have
 exactly these fields:
 {{
@@ -294,6 +325,23 @@ exactly these fields:
 
 Do not include any text outside the JSON array.
 """
+
+
+def _by_daily_score(ordered: list[dict], top_n: int) -> list[dict]:
+    """Fallback ordering when the re-rank call cannot be used.
+
+    Still fills in rank and final_score: downstream renders "#{rank}" and a
+    badge, and a bare fact list would publish a page full of "#None".
+    """
+    chosen = []
+    for position, fact in enumerate(ordered[:top_n], 1):
+        chosen.append({
+            **fact,
+            "rank": position,
+            "final_score": fact.get("score", 0),
+            "why": fact.get("reason", ""),
+        })
+    return chosen
 
 
 def rank_week(
@@ -340,18 +388,23 @@ def rank_week(
         except RateLimitError as e:
             wait = _wait_from_error(str(e))
             if wait == 0:
-                print(f"  Daily token cap reached — falling back to daily scores")
-                return ordered[:top_n]
+                print(f"  Not retryable — falling back to daily scores. {str(e)[:120]}")
+                return _by_daily_score(ordered, top_n)
             print(f"  Rate limit — waiting {wait:.0f}s (attempt {attempt + 1}/{MAX_RETRIES})")
             time.sleep(wait)
     else:
         print("  Re-rank failed — falling back to daily scores")
-        return ordered[:top_n]
+        return _by_daily_score(ordered, top_n)
+
+    if response.choices[0].finish_reason == "length":
+        print(f"  Re-rank truncated at max_tokens ({MAX_TOKENS}) — "
+              f"falling back to daily scores")
+        return _by_daily_score(ordered, top_n)
 
     results = _parse_json_array(response.choices[0].message.content)
     if not results:
         print("  Re-rank returned unusable JSON — falling back to daily scores")
-        return ordered[:top_n]
+        return _by_daily_score(ordered, top_n)
 
     chosen: list[dict] = []
     seen: set[int] = set()
@@ -369,7 +422,7 @@ def rank_week(
 
     if not chosen:
         print("  Re-rank matched no candidates — falling back to daily scores")
-        return ordered[:top_n]
+        return _by_daily_score(ordered, top_n)
 
     print(f"  Kept {len(chosen)} of {len(candidates)} candidates")
     return chosen[:top_n]

@@ -99,23 +99,47 @@ reporting a thinner week.
 
 ## Staying on the Groq free tier
 
-Free tier for `llama-3.3-70b-versatile` is 30 RPM, 1,000 RPD, 12k TPM, 100k TPD
-(check your own at [console.groq.com/settings/limits](https://console.groq.com/settings/limits)).
-Measured on real Czech articles at ~4,300 tokens per call:
+The model is `qwen/qwen3.8-27b`. `llama-3.3-70b-versatile` is no longer served
+on Groq, and of what remains qwen is the right fit: it answers in Czech, stays
+concise and returns clean JSON. The gpt-oss models spend roughly five times
+more completion tokens per article, overrun `max_tokens` mid-array and lose the
+whole batch to truncated JSON.
 
-| | Per run | Free-tier limit | |
+The published limits are 30 RPM, 1,000 RPD, 8k TPM, 200k TPD — plus one the
+tables do not mention and which turns out to be the binding constraint:
+
+**OTPM, output tokens per minute, capped at 1,000.** It is checked per request
+against `max_tokens`, and an oversized request is refused outright:
+
+```
+Request too large ... on output tokens per minute (OTPM):
+Limit 1000, Requested 1500. ... reduce max_tokens ... and try again
+```
+
+That is permanent, not throttling — retrying the identical request never
+succeeds. So `MAX_TOKENS` stays at 1,000, and since a 20-article batch measured
+1,738 completion tokens (nearly double the cap), batches are 10.
+
+Measured against the live API per 10-article batch: ~2,140 prompt + ~870
+completion = ~3,010 total.
+
+| | Per run | Limit | |
 |---|---|---|---|
-| Daily: tokens | ~39,000 | 100,000 /day | 39% |
-| Daily: requests | 9 | 1,000 /day | |
-| Weekly: tokens | ~4,000 | 100,000 /day | 4% |
-| Weekly: requests | 1 | 1,000 /day | |
-| Either: tokens/min | ~8,700 | 12,000 | paced by `BATCH_SLEEP` |
+| Daily: tokens | ~54,000 | 200,000 /day | 27% |
+| Daily: requests | 18 | 1,000 /day | |
+| Daily: output/min | ~870 | **1,000 (OTPM)** | the real ceiling |
+| Weekly: tokens | ~4,000 | 200,000 /day | 2% |
 
-Scoring daily rather than weekly is the point: the caps reset every day, so a
-week now gets ~1,260 articles through the LLM instead of 180, at no extra cost.
-TPM is the only binding constraint, which is why `BATCH_SLEEP` is 30s and
-`MAX_TOKENS` is 2000 — that stays under 12k TPM even if Groq bills the reserved
-`max_tokens` rather than the real response length.
+~870 output tokens per call against 1,000 a minute allows roughly one call a
+minute, hence `BATCH_SLEEP` of 60s — so 180 articles takes about 18 minutes.
+Lower `SCORE_BUDGET` if that is too long; TPD is only 27% used, so the cap on
+coverage is wall-clock time, not tokens.
+
+Both call sites detect a response truncated at `max_tokens`
+(`finish_reason == "length"`) and say so, because the symptom otherwise looks
+like a model that cannot follow the format. `_wait_from_error` tells a
+per-request refusal apart from an ordinary throttle and does not retry the
+former.
 
 The knobs are `SCORE_BUDGET`, `KEEP_PER_DAY`, `DAILY_MIN_SCORE`,
 `WEEKLY_SHORTLIST` and `WEEKLY_TOP` in `analyzer.py`; the budget math is
