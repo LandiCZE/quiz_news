@@ -1,12 +1,17 @@
-name: Fetch & Store Articles
+name: Daily Fact Scoring
 
 on:
   schedule:
     - cron: "0 7 * * *"   # every day at 7:00 UTC (9:00 Prague time)
-  workflow_dispatch:        # allow manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Day to score (YYYY-MM-DD). Blank = yesterday. Sitemaps only reach back ~2 days."
+        required: false
+        type: string
 
 jobs:
-  fetch:
+  score:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -25,14 +30,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch and store articles
-        run: python main.py --store-only
+      # Scores one closed Prague day: ~180 articles, 9 calls, ~39k of the
+      # 100k daily Groq tokens. Writes a ~6 kB days/<date>.json.
+      - name: Score the day
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python main.py daily ${{ inputs.date && format('--date {0} --force', inputs.date) || '' }}
 
-      - name: Commit updated articles.json
+      - name: Commit the day file
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add articles.json
-          git diff --cached --quiet || git commit -m "chore: daily article fetch $(date +%Y-%m-%d)"
+          git add days/
+          git diff --cached --quiet || git commit -m "chore: daily facts $(date -u -d yesterday +%Y-%m-%d)"
           git pull --rebase origin main
           git push origin main

@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-30",
+  "generated": "2026-10-03T10:49:50+00:00",
+  "stats": {
+    "scored": 120,
+    "kept": 20,
+    "by_category": {
+      "world": 7,
+      "cz": 13
+    },
+    "analyst": "claude-opus-5 (manual backfill, expired Groq key)"
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Kopilot letu z Dubaje do Tel Avivu se pokusil poslat letadlo s pasažéry střemhlav k zemi.",
+      "reason": "šokující incident, konkrétní linka",
+      "title": "Kopilot letadla do Tel Avivu chtěl stroj s pasažéry poslat střemhlav k zemi",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-kopilot-letadla-do-tel-avivu-chtel-stroj-s-pasazery-poslat-stremhlav-k-zemi-40600090"
+    },
+    {
+      "score": 9,
+      "fact": "Ruské tajné služby chystaly v létě vraždu šachisty a disidenta Garriho Kasparova.",
+      "reason": "slavné jméno, odhalený plán",
+      "title": "Rusko chystalo vraždu Garriho Kasparova",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-rusko-chystalo-vrazdu-garriho-kasparova-40600146"
+    },
+    {
+      "score": 9,
+      "fact": "V budově soudu na Fidži někdo vyměnil 40 kilogramů zabaveného kokainu za mouku.",
+      "reason": "absurdní krádež s konkrétním číslem",
+      "title": "V budově soudu na Fidži někdo vyměnil 40 kilogramů zabaveného kokainu za mouku",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-budove-soudu-na-fidzi-nekdo-vymenil-40-kilogramu-zabaveneho-kokainu-za-mouku-316442"
+    },
+    {
+      "score": 9,
+      "fact": "V Salcbursku někdo ukradl z malého letiště vrtulník a přeletěl s ním nad chorvatským ostrovem.",
+      "reason": "bizarní krádež, konkrétní trasa",
+      "title": "V Salcbursku kdosi ukradl vrtulník, přeletěl nad chorvatským ostrovem",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-salcbursku-kdosi-ukradl-vrtulnik-preletel-nad-chorvatskym-ostrovem-40600206"
+    },
+    {
+      "score": 9,
+      "fact": "Před soudem v Hongkongu stanuli otec a dva synové za vraždu modelky Abby Choi, jejíž ostatky se našly v hrnci na polévku.",
+      "reason": "makabrózní detail, konkrétní jméno",
+      "title": "Kusy těla zavražděné modelky našli v hrnci na polévku. Před soudem v Hongkongu stanuli otec a dva synové",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-kusy-tela-zavrazdene-modelky-nasli-v-hrnci-na-polevku-pred-soudem-v-hongkongu-stanuli-otec-a-dva-synove-40600216"
+    },
+    {
+      "score": 9,
+      "fact": "Herečka Greta Garbo, která zemřela před 36 lety, se díky umělé inteligenci objevila v nové reklamě švédské firmy.",
+      "reason": "AI vrací slavnou hvězdu, konkrétní jméno",
+      "title": "Díky AI znovu na scéně. Ikonická Greta Garbo září v nové reklamě švédské společnosti",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-diky-ai-znovu-na-scene-ikonicka-greta-garbo-zari-v-nove-reklame-svedske-spolecnosti-40600048"
+    },
+    {
+      "score": 9,
+      "fact": "Tři a půl metru dlouhý žralok uvázl v městském kanálu v jihokorejském Pusanu a stal se turistickou atrakcí.",
+      "reason": "bizarní, konkrétní rozměr a místo",
+      "title": "V městském kanálu v Jižní Koreji uvázl žralok. Vyvolal turistické šílenství",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-v-mestskem-kanalu-v-jizni-koreji-uvazl-zralok-vyvolal-turisticke-silenstvi-40600002"
+    },
+    {
+      "score": 9,
+      "fact": "Chráněného orla mořského odchovaného ve Francii našli vědci zastřeleného u Lesonic na Třebíčsku, nalézt ho pomohla GPS vysílačka.",
+      "reason": "konkrétní místo, překvapivý konec",
+      "title": "Let chráněného orla z Francie skončil tragicky na Třebíčsku. Vědci ho našli zastřeleného",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-let-chraneneho-orla-z-francie-skoncil-tragicky-na-trebicsku-vedci-ho-nasli-zastreleneho-40600062"
+    },
+    {
+      "score": 9,
+      "fact": "Slavný francouzský klub Girondins Bordeaux, kde hráli Vladimír Šmicer i Jaroslav Plašil, se prodal za jedno euro.",
+      "reason": "neuvěřitelná cena, česká jména",
+      "title": "Slavný klub se prodal za jedno euro. Dříve za něj váleli Šmicer nebo Plašil",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-evropske-ligy-slavny-klub-se-prodal-za-jedno-euro-drive-za-nej-valeli-smicer-nebo-plasil-5545782"
+    },
+    {
+      "score": 8,
+      "fact": "David Pastrňák zvládl kapitánskou premiéru, Boston vyhrál na úvod NHL nad New Yorkem Rangers 3:0.",
+      "reason": "premiéra v nové roli, konkrétní výsledek",
+      "title": "Pastrňákova kapitánská premiéra byla úspěšná! Hronek dvakrát asistoval",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-nhl-pastrnakova-kapitanska-premiera-byla-uspesna-dobes-vychytal-vyhru-5545741"
+    },
+    {
+      "score": 8,
+      "fact": "České houfnice Morana na podvozku Tatra Force posílí armádu Lotyšska.",
+      "reason": "český zbrojní export, konkrétní stroj",
+      "title": "Česká houfnice Morana zamíří do Pobaltí. CSG podepsala dohodu s Lotyšskem",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ceska-houfnice-morana-zamiri-do-pobalti-csg-podepsala-dohodu-s-lotysskem-316530"
+    },
+    {
+      "score": 8,
+      "fact": "Toyota shodila na nový elektrický Hilux karavan a zopakovala tak legendární test z Top Gearu.",
+      "reason": "vtipná reklamní akce, známý odkaz",
+      "title": "Toyota shodila na nový Hilux karavan, připomněla tak legendární test Top Gearu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-toyota-shodila-na-novy-hilux-karavan-pripomnela-tak-legendarni-test-top-gearu-40600121"
+    },
+    {
+      "score": 8,
+      "fact": "V Tokiu pršelo rekordních 35 dní v řadě, celé září tam bylo se srážkami.",
+      "reason": "rekord s konkrétním číslem",
+      "title": "V Tokiu prší už rekordních 35 dní v kuse",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-v-tokiu-prsi-uz-rekordnich-35-dni-v-kuse-40600044"
+    },
+    {
+      "score": 8,
+      "fact": "Qantas chystá do dvou let nejdelší linku mezi Sydney a New Yorkem, let má trvat osmnáct hodin.",
+      "reason": "rekordní linka, konkrétní čísla",
+      "title": "Osmnáct hodin ve vzduchu. Ultradálková linka propojí Sydney a New York za dva roky",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/cestovani-osmnact-hodin-ve-vzduchu-ultradalkova-linka-propoji-sydney-a-new-york-za-dva-roky-40599477"
+    },
+    {
+      "score": 8,
+      "fact": "Americká skupina Faith No More se po letech pauzy představí na festivalu Rock for People.",
+      "reason": "velký návrat, konkrétní festival",
+      "title": "Faith No More přijedou na Rock for People",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-faith-no-more-prijedou-na-rock-for-people-40600055"
+    },
+    {
+      "score": 8,
+      "fact": "Odborníci navrhli, aby rodiče měli při volbách tolik hlasů navíc, kolik mají dětí.",
+      "reason": "neotřelý návrh, snadno zapamatovatelný",
+      "title": "Neotřelý nápad pro Česko. Ať mají lidi u voleb tolik hlasů, kolik mají dětí",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-at-voli-i-deti-experti-mluvi-o-neotrelem-navrhu-pro-starnouci-cesko-316122"
+    },
+    {
+      "score": 8,
+      "fact": "Poslední zbytky věčného sněhu na horách Nové Guineje mohou zmizet do dvou let.",
+      "reason": "klimatický milník s termínem",
+      "title": "„Věčný“ sníh z vrcholků hor na Nové Guineji může zmizet do dvou let",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vecny-snih-z-vrcholku-hor-na-nove-guineji-muze-zmizet-do-dvou-let-378094"
+    },
+    {
+      "score": 8,
+      "fact": "České bezpečnostní složky používají software na prolomení telefonů s ruským pozadím, úřad prověřuje rizika.",
+      "reason": "bezpečnostní riziko s českým dopadem",
+      "title": "České bezpečnostní složky mají software z Ruska. Úřad prověřuje rizika",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ceske-bezpecnostni-slozky-maji-software-z-ruska-urad-proveruje-rizika-316493"
+    },
+    {
+      "score": 8,
+      "fact": "V Bulharsku zastřelili v jednu hodinu ráno majitele prvoligového fotbalového klubu Botev Plovdiv.",
+      "reason": "vražda, konkrétní klub",
+      "title": "V Bulharsku zastřelili majitele prvoligového fotbalového klubu",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-bulharsku-zastrelili-majitele-prvoligoveho-fotbaloveho-klubu-316456"
+    },
+    {
+      "score": 8,
+      "fact": "Chilská poušť Atacama, jedno z nejsušších míst na Zemi, rozkvetla kobercem květin kvůli dešťům od El Niña.",
+      "reason": "vizuálně silné, konkrétní místo",
+      "title": "Fotky: Poušť rozkvetla. El Niño probudilo semena z dlouhého spánku",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-poust-rozkvetla-el-nino-probudilo-semena-z-dlouheho-spanku-316424"
+    }
+  ]
+}

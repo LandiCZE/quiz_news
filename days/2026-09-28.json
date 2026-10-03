@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-28",
+  "generated": "2026-10-03T10:48:41+00:00",
+  "stats": {
+    "scored": 115,
+    "kept": 20,
+    "by_category": {
+      "cz": 13,
+      "world": 7
+    },
+    "analyst": "claude-opus-5 (manual backfill, expired Groq key)"
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Martin Nečas bude se 14 miliony dolarů dvanáctým nejlépe placeným hráčem NHL a vydělá nejvíc z českých hokejistů v historii.",
+      "reason": "historický milník s konkrétním číslem",
+      "title": "Nečas bude dvanáctým nejlépe placeným hráčem NHL. Bookmakeři mají jasno o největším favoritovi",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-nhl-necas-bude-dvanactym-nejlepe-placenym-hracem-nhl-bookmakeri-maji-jasno-o-nejvetsim-favoritovi-5544588"
+    },
+    {
+      "score": 9,
+      "fact": "Policie obvinila jihočeského chovatele Radima Holovského z odvážení labutí z pražské Vltavy.",
+      "reason": "rozuzlení virální záhady, konkrétní jméno",
+      "title": "„Já to nebyl.“ Našli jsme muže, který odvážel labutě z Vltavy. Už je stíhaný",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-ve-stinu-ja-to-nebyl-nasli-jsme-muze-ktery-odvazel-labute-z-vltavy-uz-je-stihany-315621"
+    },
+    {
+      "score": 9,
+      "fact": "Jednaosmdesátiletý Rod Stewart vystoupí příští rok v Praze a poté ukončí kariéru.",
+      "reason": "slavné jméno, konec kariéry, Praha",
+      "title": "„Nastal čas se rozloučit.“ Rod Stewart zazpívá v Praze a pak ukončí kariéru",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-rod-stewart-praha-2027-koncert-316325"
+    },
+    {
+      "score": 9,
+      "fact": "Nalezené kosti mamutů pozdržely dokončení justičního paláce v Ústí nad Labem až do jara 2028.",
+      "reason": "absurdní důvod zdržení stavby",
+      "title": "Naleziště mamutů pozdrželo dokončení stavby justičního paláce v Ústí až do jara 2028",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-ustecky-kraj-naleziste-mamutu-pozdrzelo-dokonceni-stavby-justicniho-palace-v-usti-az-do-jara-2028-40599425"
+    },
+    {
+      "score": 9,
+      "fact": "Káně se stalo zaměstnancem měsíce v mexickém závodě Fordu, kde vyřešilo letitý problém s holuby.",
+      "reason": "vtipné, konkrétní firma",
+      "title": "Káně zaměstnancem měsíce. Fordu pomohla vyřešit letitý problém",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-kane-zamestnancem-mesice-fordu-pomohla-vyresit-letity-problem-316314"
+    },
+    {
+      "score": 9,
+      "fact": "Maďarský parlament zbavil poslanecké imunity premiéra Pétera Magyara a dva exministry Orbánovy vlády.",
+      "reason": "překvapivý krok proti premiérovi",
+      "title": "Maďarský parlament zbavil imunity premiéra Magyara a dva exministry Orbánovy vlády",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-madarsky-parlament-zbavil-imunity-premiera-magyara-a-dva-exministry-orbanovy-vlady-40599776"
+    },
+    {
+      "score": 8,
+      "fact": "Taylor Swift se stala nejúspěšnější umělkyní v historii cen MTV Video Music Awards, nejvíc sošek má ale Madonna.",
+      "reason": "rekord, dvě slavná jména",
+      "title": "Taylor Swift překonala rekord na cenách MTV, nejvíc sošek si odnáší Madonna",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-taylor-swift-mtv-2026-cena-316319"
+    },
+    {
+      "score": 8,
+      "fact": "O titulu nejlepšího morčete na novozélandské celostátní výstavě rozhodoval český rozhodčí.",
+      "reason": "absurdní spojení Česka a morčat",
+      "title": "Na Novém Zélandu vybírali nejlepší morče, hodnotil český rozhodčí",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-na-novem-zelandu-vybirali-nejlepsi-morce-hodnotil-cesky-rozhodci-40599792"
+    },
+    {
+      "score": 8,
+      "fact": "Ve věku 74 let zemřel skotský autor detektivek Peter May, tvůrce série Ostrov Lewis.",
+      "reason": "úmrtí, konkrétní jméno a dílo",
+      "title": "Zemřel autor detektivek Peter May",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/zemrel-autor-detektivek-peter-may-378032"
+    },
+    {
+      "score": 8,
+      "fact": "Rusko zabralo tamní velkoobchody Metro, ve kterých mají podíl Daniel Křetínský a Patrik Tkáč.",
+      "reason": "čeští miliardáři, konkrétní firma",
+      "title": "Rusové vytáhli proti Křetínskému a Tkáčovi. Zabrali tamní velkoobchody Metro",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-rusove-vytahli-proti-kretinskemu-a-tkacovi-zabrali-tamni-velkoobchody-metro-316341"
+    },
+    {
+      "score": 8,
+      "fact": "Cristiano Ronaldo zůstal v zápase portugalské reprezentace na lavičce poprvé po 18 letech.",
+      "reason": "milník s číslem u slavného jména",
+      "title": "Neobvyklý pohled. Nasupený Ronaldo v situaci, která ho nepotkala skoro dvacet let",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-liga-narodu-neobvykly-pohled-zadne-zdraveni-ronaldo-se-ocitl-v-situaci-jakou-nepoznal-skoro-dvacet-let-5544646"
+    },
+    {
+      "score": 8,
+      "fact": "Prezident Realu Madrid Florentino Pérez se kvůli výrokům o ukradených titulech a podplácení dostal s Barcelonou k soudu.",
+      "reason": "ostrý citát, dva velkokluby",
+      "title": "Tituly mi ukradli, podpláceli! Spor prezidenta Realu obviňujícího Barcelonu jde k soudu",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-la-liga-tituly-mi-ukradli-podplaceli-spor-prezidenta-realu-obvinujiciho-barcelonu-jde-k-soudu-5544721"
+    },
+    {
+      "score": 8,
+      "fact": "Singapur začal platit lidem za to, že denně stráví alespoň čtvrt hodiny s knihou.",
+      "reason": "neobvyklé státní opatření",
+      "title": "Ne, raději knihu. V Singapuru platí lidem za čtení",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-ne-radeji-knihu-v-singapuru-plati-lidem-za-cteni-40598922"
+    },
+    {
+      "score": 8,
+      "fact": "Australský soud zprostil obvinění z vraždy ženu, která otrávila svého smrtelně nemocného manžela.",
+      "reason": "šokující případ s překvapivým verdiktem",
+      "title": "Australanka otrávila smrtelně nemocného manžela. Soud ji obvinění z vraždy zprostil",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-australanka-otravila-smrtelne-nemocneho-manzela-soud-ji-obvineni-z-vrazdy-zprostil-40599791"
+    },
+    {
+      "score": 8,
+      "fact": "Laureátkou Ceny Václava Havla se stala íránská právnička Nasrín Sotudíová.",
+      "reason": "české ocenění, konkrétní jméno",
+      "title": "Laureátkou Ceny Václava Havla je íránská právnička Sotudíová",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-sotudiova-laureatkou-ceny-vaclava-havla-40599797"
+    },
+    {
+      "score": 8,
+      "fact": "Loď Starship se poprvé dostala na oběžnou dráhu a vrátila se na Zemi.",
+      "reason": "první úspěch, konkrétní stroj",
+      "title": "Loď Starship se z oběžné dráhy vrátila na Zemi",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kosmicka-lod-starship-se-uspesne-dostala-na-obeznou-drahu-378028"
+    },
+    {
+      "score": 8,
+      "fact": "Švédský právník, který za války zachránil desetitisíce Židů, se dožil sta let a inspiroval Netflix.",
+      "reason": "silný příběh, kulaté číslo",
+      "title": "Zachránil tisíce Židů. Švédský právník se dožil sta let a inspiroval Netflix",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-delam-jen-svou-praci-neznamy-hrdina-ze-svedska-zachranoval-i-ceske-zidy-316116"
+    },
+    {
+      "score": 8,
+      "fact": "Irští fotbalisté odmítli před zápasem podat ruku izraelským hráčům.",
+      "reason": "politické gesto ve sportu",
+      "title": "Fotbalisté Irska nepodali Izraelcům ruku. „Upozornili na problém,“ říká trenér",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-irove-nepodali-fotbalistum-izraele-ruku-upozornili-svet-rika-jejich-trener-316311"
+    },
+    {
+      "score": 7,
+      "fact": "Rysí kočka Lucka odchovala v podhůří Šumavy tři mláďata, což zoologové považují za překvapivé.",
+      "reason": "zvířecí historka s konkrétním jménem",
+      "title": "Neobvyklý případ: Rysí kočka Lucka odchovala tři mláďata",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-neobvykly-pripad-rysi-kocka-lucka-odchovala-v-podhuri-sumavy-tri-mladata-40599710"
+    },
+    {
+      "score": 7,
+      "fact": "Počet nakažených ebolou v Demokratické republice Kongo překročil 8 tisíc, úmrtí se blíží 4 tisícům.",
+      "reason": "konkrétní čísla epidemie",
+      "title": "Počet nakažených ebolou v DR Kongo překročil 8 tisíc",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-pocet-nakazenych-ebolou-v-dr-kongo-prekrocil-8-tisic-40599794"
+    }
+  ]
+}

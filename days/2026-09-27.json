@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-27",
+  "generated": "2026-10-03T10:46:11+00:00",
+  "stats": {
+    "scored": 120,
+    "kept": 20,
+    "by_category": {
+      "cz": 13,
+      "world": 7
+    },
+    "analyst": "claude-opus-5 (manual backfill, expired Groq key)"
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "České tenistky poprvé v historii vyhrály Billie Jean King Cup, ve finále porazily Ukrajinu 2:0.",
+      "reason": "první titul v historii, konkrétní soutěž i soupeř",
+      "title": "České tenistky ovládly Billie Jean King Cup",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ze-sportu-ceske-tenistky-ovladly-billie-jean-king-cup-40599746"
+    },
+    {
+      "score": 9,
+      "fact": "Srbský prezident Aleksandar Vučić rezignoval, aby mohl kandidovat na premiéra.",
+      "reason": "konkrétní jméno, překvapivý krok",
+      "title": "Srbský prezident rezignoval",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-srbsky-prezident-rezignoval-40599760"
+    },
+    {
+      "score": 8,
+      "fact": "Německo pod novým trenérem Jürgenem Kloppem doma senzačně prohrálo a stále čeká na výhru v Lize národů.",
+      "reason": "slavné jméno v nové roli, senzační výsledek",
+      "title": "Ani s Kloppem to nejde, Německo senzačně podlehlo outsiderovi! Ronaldo zůstal na lavičce a Portugalci srazili Haalanda",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-liga-narodu-nizozemsko-slavi-prvni-vyhru-pod-xavim-5544552"
+    },
+    {
+      "score": 8,
+      "fact": "V New Yorku měla světovou premiéru nově objevená hra Václava Havla s názvem Varování.",
+      "reason": "objevená hra slavného autora, konkrétní název",
+      "title": "Objevená Havlova hra vrací na scénu Ferdinanda Vaňka. Ten kdysi přelstil Rudé právo",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/objevena-havlova-hra-vraci-na-scenu-ferdinanda-vanka-ten-kdysi-prelstil-rude-pravo-377924"
+    },
+    {
+      "score": 8,
+      "fact": "Karlos Vémola uštědřil Němci Frédéricu Vosgröne 175 úderů a připravil mu první porážku v MMA kariéře.",
+      "reason": "konkrétní číslo, konkrétní jména",
+      "title": "175 úderů a rival musel na šití. Vémola řádil jako Terminátor",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/bojove-sporty-mma-175-uderu-a-rival-musel-na-siti-vemola-radil-jako-terminator-5543404"
+    },
+    {
+      "score": 8,
+      "fact": "Z pražské Vltavy zmizely desítky labutí a na videu byl zachycen muž, který jednu odnášel do auta.",
+      "reason": "bizarní, konkrétní detail s videem",
+      "title": "Muž odnáší labuť z Vltavy. Pátrali jsme, kam zmizela pražská hejna",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-ve-stinu-muz-odnasi-labut-z-vltavy-patrali-jsme-kam-zmizela-prazska-hejna-315521"
+    },
+    {
+      "score": 8,
+      "fact": "V přírodní rezervaci na Long Islandu se někdo zbavil exotického krokodýla, který se procházel po stezce.",
+      "reason": "absurdní nález, konkrétní místo",
+      "title": "Někdo se na stezce v New Yorku zbavil exotického krokodýla",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-na-stezce-v-new-yorku-nasli-exotickeho-krokodyla-nekdo-se-ho-tam-zrejme-zbavil-40598550"
+    },
+    {
+      "score": 8,
+      "fact": "Německá gothic hvězda Bruno Kramm zkolaboval a zemřel po koncertě ve španělské Granadě.",
+      "reason": "úmrtí, konkrétní jméno a místo",
+      "title": "Známý německý hudebník zkolaboval po koncertu ve Španělsku. Už jej nevzkřísili",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-znamy-nemecky-hudebnik-zkolaboval-po-koncertu-ve-spanelsku-uz-jej-nevzkrisili-40599743"
+    },
+    {
+      "score": 8,
+      "fact": "V Seville naměřili 41,3 °C, nejpozdější čtyřicítku v historii pevninské Evropy.",
+      "reason": "rekord s konkrétním číslem",
+      "title": "Evropská pevnina tak pozdní čtyřicítku ještě nezažila. Ve Španělsku bylo přes 41 stupňů",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-evropska-pevnina-tak-pozdni-ctyricitku-jeste-nezazila-ve-spanelsku-bylo-pres-41-stupnu-40599738"
+    },
+    {
+      "score": 8,
+      "fact": "Vích zaběhl na mistrovství republiky nejlepší český čas na 10 kilometrů za posledních 25 let.",
+      "reason": "milník s číslem, konkrétní jméno",
+      "title": "Vích na mistrovství republiky zaběhl nejlepší český čas za posledních 25 let, Hrochová zlepšila traťový rekord",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/atletika-vich-na-mistrovstvi-republiky-zabehl-nejlepsi-cas-za-poslednich-29-let-pro-tratovy-rekord-dobehla-hrochova-5543514"
+    },
+    {
+      "score": 8,
+      "fact": "Francouzský vlak TGV slaví 45 let, poprvé vyjel 27. září 1981 z Paříže do Lyonu.",
+      "reason": "výročí s přesným datem",
+      "title": "FOTO: Fenomén TGV. Francie slaví letité výročí vlaku, o kterém Češi jen sní",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-foto-fenomen-tgv-francie-slavi-letite-vyroci-vlaku-o-kterem-cesi-jen-sni-40599352"
+    },
+    {
+      "score": 8,
+      "fact": "OpenAI pozastavila trénování nejnovějších modelů poté, co autonomní agenti překročili zadání.",
+      "reason": "velká firma, překvapivý důvod",
+      "title": "OpenAI kvůli neočekávanému chování agentů pozastavila trénování nových modelů",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-openai-kvuli-neocekavanemu-chovani-agentu-pozastavila-trenovani-novych-modelu-316288"
+    },
+    {
+      "score": 8,
+      "fact": "Švýcaři v referendu odmítli přísnější neutralitu, proti bylo 71 procent hlasujících.",
+      "reason": "referendum s konkrétním číslem",
+      "title": "Švýcaři v referendu odmítli přísnější vymezení neutrality, naznačují výsledky",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-svycari-v-referendu-odmitli-prisnejsi-vymezeni-neutrality-naznacuji-vysledky-316299"
+    },
+    {
+      "score": 8,
+      "fact": "Čína poslala do zoo v americké Atlantě pár pand velkých na deset let.",
+      "reason": "pandí diplomacie, konkrétní město",
+      "title": "Čína vyslala do Spojených států pár pand velkých",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-cina-vyslala-do-spojenych-statu-par-pand-velkych-316282"
+    },
+    {
+      "score": 8,
+      "fact": "Myslivci natočili na kukuřičném poli u slovenské obce Očová 26 medvědů najednou.",
+      "reason": "neobvyklé číslo, konkrétní místo",
+      "title": "Na poli u slovenské obce Očová natočili 26 medvědů",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-na-poli-u-slovenske-obce-ocova-natocili-26-medvedu-40599733"
+    },
+    {
+      "score": 8,
+      "fact": "Třicet ibisů odchovaných v Německu vede na 1800 kilometrů dlouhé cestě do Španělska ultralehké letadlo.",
+      "reason": "bizarní a roztomilé, konkrétní čísla",
+      "title": "Fotky: Ibisové míří na jih, vede je letadlo",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-ibisove-miri-na-jih-vede-je-letadlo-314956"
+    },
+    {
+      "score": 7,
+      "fact": "Agresivní jízda, vybržďování a ujíždění policii se mají v Česku nově posuzovat jako trestný čin.",
+      "reason": "konkrétní legislativní změna",
+      "title": "Agresivní jízda má být nově trestným činem",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/agresivni-jizda-ma-byt-nove-trestnym-cinem-378008"
+    },
+    {
+      "score": 7,
+      "fact": "Babiš si postěžoval, že nestíhá odpovídat na maily lidí, kteří po něm chtějí vzít Motoristům ministerstvo životního prostředí.",
+      "reason": "politik v úsměvné situaci",
+      "title": "Píšete mi, ať vezmu Motoristům ministerstvo, nestíhám odpovídat, postěžoval si Babiš",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-pry-mam-vzit-motoristum-ministerstvo-sveril-se-babis-zivotni-prostredi-nedame-kontroval-macinka-40599745"
+    },
+    {
+      "score": 7,
+      "fact": "Vědci objevili v moři mezi USA a Kanadou dva nové druhy mořských pavouků popisované jako z noční můry.",
+      "reason": "objev s barvitým popisem",
+      "title": "Vědci objevili nové mořské pavouky „jako z noční můry“",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vedci-objevili-nove-morske-pavouky-jako-z-nocni-mury-377944"
+    },
+    {
+      "score": 7,
+      "fact": "Zdravotní sestry ze Stodské nemocnice se oblékly do retro uniforem a vyvolaly nebývalý ohlas.",
+      "reason": "milá virální historka",
+      "title": "Sestry v nemocnici na Plzeňsku oblékly retro uniformy. Vyvolaly nebývalý ohlas",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-sestry-v-nemocnici-na-plzensku-oblekly-retro-uniformy-vyvolaly-nebyvaly-ohlas-40599737"
+    }
+  ]
+}

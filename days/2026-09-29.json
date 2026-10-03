@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-29",
+  "generated": "2026-10-03T10:48:41+00:00",
+  "stats": {
+    "scored": 120,
+    "kept": 20,
+    "by_category": {
+      "cz": 13,
+      "world": 7
+    },
+    "analyst": "claude-opus-5 (manual backfill, expired Groq key)"
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Česká desková hra Krycí jména míří na Netflix, kde vznikne speciální herní televizní verze.",
+      "reason": "česká hra na světové platformě",
+      "title": "Česká deskovka Krycí jména míří na Netflix",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ceska-deskovka-kryci-jmena-miri-na-netflix-316175"
+    },
+    {
+      "score": 9,
+      "fact": "Piráti bojují proti Airbnb videem, ve kterém Zdeněk Hřib v přilbě cvaká zámečnickými kleštěmi v sultánské posteli.",
+      "reason": "bizarní předvolební video, konkrétní politik",
+      "title": "Nislerová vedle Hřiba v sultánské posteli: Piráti bojují proti Airbnb bizarním videem",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/volby-komunalni-nislerova-vedle-hriba-v-sultanske-posteli-pirati-bojuji-proti-airbnb-bizarnim-videem-40599956"
+    },
+    {
+      "score": 9,
+      "fact": "Baťa zavře závod v Dolním Němčí, svou jedinou obuvnickou továrnu ve střední Evropě.",
+      "reason": "ikonická česká značka, konec éry",
+      "title": "Baťa zavře závod v Dolním Němčí, jediný ve střední Evropě",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-bata-zavre-zavod-v-dolnim-nemci-jediny-ve-stredni-evrope-316397"
+    },
+    {
+      "score": 9,
+      "fact": "Česká modelka a herečka Iveta Maurerová získala na New York Fashion Weeku titul Fashion Icon of the Year 2026.",
+      "reason": "české jméno, světové ocenění",
+      "title": "Iveta Maurerová získala na newyorském Fashion Weeku titul módní ikony",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-moda-kosmetika-ceska-kraska-dobyla-new-york-iveta-maurerova-ziskala-na-fashion-weeku-titul-modni-ikony-2026-40599841"
+    },
+    {
+      "score": 9,
+      "fact": "Premier League potvrdila vinu Manchesteru City ve všech bodech kauzy porušení finančních pravidel z let 2009 až 2018.",
+      "reason": "velká kauza, konkrétní klub a roky",
+      "title": "Manchester City porušil finanční pravidla, Premier League potvrdila jeho vinu",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-premier-league-manchester-city-porusil-financni-pravidla-premier-league-potvrdila-jeho-vinu-5545176"
+    },
+    {
+      "score": 9,
+      "fact": "Na slovenské základní škole ve Staškově napadl žák osmé třídy nožem učitelky, jedna z nich zraněním podlehla.",
+      "reason": "šokující případ s konkrétním místem",
+      "title": "Učitelka zemřela po napadení žákem ve škole poblíž slovenské Čadce",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ucitelka-zemrela-po-napadeni-zakem-ve-skole-pobliz-slovenske-cadce-378051"
+    },
+    {
+      "score": 9,
+      "fact": "Slovenský parlament odvolal ministra životního prostředí Tomáše Tarabu, když se jeho vlastní strana spojila s opozicí.",
+      "reason": "překvapivý politický obrat",
+      "title": "Slovenský parlament vyslovil nedůvěru ministru Tarabovi",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensky-parlament-vyslovil-neduveru-ministru-tarabovi-40600022"
+    },
+    {
+      "score": 9,
+      "fact": "Maďarský premiér Péter Magyar se po audienci u papeže projel po Římě na legendárním skútru Vespa.",
+      "reason": "vtipná vizuální historka, konkrétní jméno",
+      "title": "Magyar se projel po Římě na legendárním skútru Vespa",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-magyar-se-projel-po-rime-na-legendarnim-skutru-vespa-40599695"
+    },
+    {
+      "score": 9,
+      "fact": "Douglas Stewart Carter byl po více než 40 letech v cele smrti propuštěn v Utahu díky testu DNA.",
+      "reason": "nevina po 40 letech v cele smrti, konkrétní jméno",
+      "title": "Přes 40 let čekal v cele na trest smrti, Utah ho nyní propustil díky testu DNA",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pres-40-let-cekal-v-cele-na-trest-smrti-utah-ho-nyni-propustil-diky-testu-dna-316347"
+    },
+    {
+      "score": 9,
+      "fact": "Vedoucího herního inženýra deníku New York Times zastřelili v Kalifornii jeho sedmasedmdesátiletí tchán a tchyně.",
+      "reason": "neuvěřitelný případ, konkrétní detaily",
+      "title": "Vedoucího herního inženýra NYT zastřelili jeho tchán a tchyně v Kalifornii",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-vedouciho-herniho-inzenyra-nyt-zastrelili-jeho-tchan-a-tchyne-v-kalifornii-40599946"
+    },
+    {
+      "score": 8,
+      "fact": "Po otravě salmonelou ve škole v Újezdu nad Lesy je evidováno 391 nemocných, 25 z nich skončilo v nemocnici.",
+      "reason": "konkrétní čísla, jedna škola",
+      "title": "Po otravě ve škole v Újezdu nad Lesy už 391 nakažených. Škola ve středu otevře",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-po-otrave-ve-skole-v-ujezdu-nad-lesy-uz-391-nakazenych-skola-ve-stredu-otevre-40600014"
+    },
+    {
+      "score": 8,
+      "fact": "Kolébkou netopýrů byla podle dosud nejrozsáhlejšího výzkumu Evropa, jejich předkové se tu objevili před 65 miliony let.",
+      "reason": "překvapivý objev s číslem",
+      "title": "Netopýři pocházejí z Evropy",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-netopyri-pochazeji-z-evropy-jejich-rodokmen-pomohli-prepsat-cesti-odbornici-40599970"
+    },
+    {
+      "score": 8,
+      "fact": "Berlínští vědci vytvořili kopii oceánu Saturnova měsíce Enceladu a pozemské mikroorganismy v něm přežily.",
+      "reason": "fascinující experiment, konkrétní měsíc",
+      "title": "Vědci vytvořili kopii oceánu Enceladu a vypustili tam pozemské mikroorganismy",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vedci-vytvorili-kopii-oceanu-enceladu-a-vypustili-tam-pozemske-mikroorganismy-378048"
+    },
+    {
+      "score": 8,
+      "fact": "Při říjnových volbách se uskuteční rekordních 19 referend o výstavbě větrných turbín.",
+      "reason": "rekordní číslo",
+      "title": "Při říjnových volbách se uskuteční rekordních 19 referend o větrnících",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-pri-rijnovych-volbach-se-uskutecni-rekordnich-19-referend-o-vetrnicich-316367"
+    },
+    {
+      "score": 8,
+      "fact": "První oznámenou hvězdou příštího festivalu Colours of Ostrava je Robbie Williams.",
+      "reason": "slavné jméno, konkrétní festival",
+      "title": "První hvězda Colours: Robbie Williams přiveze nové album i hity 90. let",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-robbie-williams-colours-of-ostrava-2027-316349"
+    },
+    {
+      "score": 8,
+      "fact": "Etiopské běžkyni Tigst Assefaové se v závěru Berlínského maratonu trhala achilovka a následovala okamžitá operace.",
+      "reason": "dramatický konec pokusu o rekord",
+      "title": "Bolest místo světového rekordu. Achilovka se při běhu trhala, následovala okamžitá operace",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/atletika-bolest-misto-svetoveho-rekordu-achilovka-se-pri-behu-trhala-nasledovala-okamzita-operace-5544747"
+    },
+    {
+      "score": 8,
+      "fact": "Matterhorn byl na konci září až k vrcholu převážně bez sněhu, místo bílé pokrývky dominovaly holé skály.",
+      "reason": "nápadná klimatická anomálie",
+      "title": "To není normální. Pohled na Matterhorn na konci září vzbuzuje údiv",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-to-neni-normalni-matterhorn-je-na-konci-zari-bez-snehu-40599998"
+    },
+    {
+      "score": 8,
+      "fact": "V Amurské oblasti se zřítil ruský strategický bombardér Tu-95MS, šest členů posádky zemřelo.",
+      "reason": "konkrétní typ letadla a počet",
+      "title": "V Rusku se zřítil strategický bombardér Tu-95. Šest členů posádky je po smrti",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-rusku-se-zritil-strategicky-bombarder-tu-95-sest-clenu-posadky-je-po-smrti-40599989"
+    },
+    {
+      "score": 8,
+      "fact": "Ve věku 52 let zemřela Petra Wünschová, zakladatelka centra Locika pomáhajícího dětem zasaženým domácím násilím.",
+      "reason": "úmrtí známé osobnosti, konkrétní jméno",
+      "title": "Zemřela zakladatelka centra Locika Petra Wünschová, bylo jí 52 let",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zemrela-zakladatelka-centra-locika-petra-wunschova-40599847"
+    },
+    {
+      "score": 8,
+      "fact": "Estonsko oznámilo, že srpnový žhářský útok na zbrojní podnik Milrem Robotics v Tallinnu si objednaly ruské tajné služby.",
+      "reason": "konkrétní firma, obvinění státu",
+      "title": "Za žhářským útokem na zbrojní závod v Tallinu stojí Rusové, tvrdí Estonsko",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-za-zharskym-utokem-na-zbrojni-zavod-v-tallinu-stoji-rusove-tvrdi-estonsko-40599916"
+    }
+  ]
+}

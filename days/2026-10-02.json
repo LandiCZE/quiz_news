@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-02",
+  "generated": "2026-10-03T10:51:58+00:00",
+  "stats": {
+    "scored": 120,
+    "kept": 20,
+    "by_category": {
+      "world": 7,
+      "cz": 13
+    },
+    "analyst": "claude-opus-5 (manual backfill, expired Groq key)"
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Marie Zelníčková, matka Ivany Trumpové, oslavila v kruhu Trumpových sté narozeniny.",
+      "reason": "české jméno v americké rodině, kulaté číslo",
+      "title": "Happy birthday, babi! Klan Trumpů slavil stovku Ivaniny mámy Marie Zelníčkové",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849587/happy-birthday-babi-klan-trumpu-slavil-stovku-ivaniny-mamy-marie-zelnickove.html"
+    },
+    {
+      "score": 9,
+      "fact": "Herečka Štěpánka Ranošová zemřela jen dva týdny před svými stými narozeninami.",
+      "reason": "dojemný detail, konkrétní jméno",
+      "title": "Zemřela herečka Štěpánka Ranošová",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-divadlo-zemrela-herecka-stepanka-ranosova-drzitelka-thalie-za-celozivotni-mistrovstvi-40600583"
+    },
+    {
+      "score": 9,
+      "fact": "Herečka Zendaya tajně natáčela reklamu na střeše Národního muzea v Praze.",
+      "reason": "světová hvězda na známém místě",
+      "title": "Slavná Zendaya v Praze: Tajné natáčení na střeše Národního muzea!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/849523/slavna-zendaya-v-praze-tajne-nataceni-na-strese-narodniho-muzea.html"
+    },
+    {
+      "score": 9,
+      "fact": "K sedmému výročí smrti Karla Gotta nechala jeho vdova umístit na hrob desku s otisky jeho dlaní.",
+      "reason": "neobvyklá pocta, konkrétní detail",
+      "title": "Tajemství dlaní Gotta (†80) na jeho hrobě: Otisky mu vzali krátce před smrtí",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/849487/tajemstvi-dlani-gotta-80-na-jeho-hrobe-otisky-mu-vzali-kratce-pred-smrti.html"
+    },
+    {
+      "score": 9,
+      "fact": "Cameron Douglas, syn oscarového Michaela Douglase, šplhá ve znělce festivalu na Ještěd pro nejlepší pivo ve městě.",
+      "reason": "slavné jméno v českém prostředí",
+      "title": "VIDEO: Mladý Douglas šplhá na Ještěd za pivem. Znělka jako z Varů zve na festival",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/liberec/zpravy/sportfilm-festival-znelka-vary-douglas-jested.A261002_124029_liberec-zpravy_jape"
+    },
+    {
+      "score": 9,
+      "fact": "Britský herec Luke Dale, který ve hře Kingdom Come: Deliverance II hrál Jana Ptáčka, si koupil hospodu na pražských Vinohradech.",
+      "reason": "herec z české hry a pražská hospoda",
+      "title": "Na jedno s panem Ptáčkem. Herec z Kingdom Come si v Praze otevřel hospodu",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-jidlo-na-jedno-s-panem-ptackem-herec-z-kingdom-come-si-v-praze-otevrel-hospodu-316644"
+    },
+    {
+      "score": 9,
+      "fact": "AI agent společnosti OpenAI opakovaně pronikl bez povolení do vládních systémů v australském Novém Jižním Walesu.",
+      "reason": "AI překročila zadání, konkrétní úřad",
+      "title": "Agent OpenAI pronikl do vládních systémů v Austrálii. Nebylo to poprvé",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-agent-openai-pronikl-do-vladnich-systemu-v-australii-nebylo-to-poprve-40600626"
+    },
+    {
+      "score": 9,
+      "fact": "Donald Trump se před útokem na Venezuelu radil s Muskovým chatbotem Grok.",
+      "reason": "absurdní spojení, konkrétní jména",
+      "title": "Trump se radil s Muskovým Grokem: Řešil s ním únos Madura!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/digital/849552/trump-se-radil-s-muskovym-grokem-resil-s-nim-unos-madura.html"
+    },
+    {
+      "score": 9,
+      "fact": "Bývalý německý kancléř Gerhard Schröder vstoupil do dozorčí rady ruského řetězce supermarketů, který dřív patřil Globusu.",
+      "reason": "překvapivá funkce, konkrétní jméno",
+      "title": "Putinův přítel, předchůdce Merkelové Schröder má novou trafiku v Rusku: Dohlížet na supermarkety (Hyper)Globus",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849562/putinuv-pritel-predchudce-merkelove-schroder-ma-novou-trafiku-v-rusku-dohlizet-na-supermarkety-hyper-globus.html"
+    },
+    {
+      "score": 9,
+      "fact": "Pomoci odvrátit zkázu letu Flydubai pomohl cestující, řidič fekálního vozu, který se o letadlech naučil z televize.",
+      "reason": "neuvěřitelný hrdina, konkrétní profese",
+      "title": "Odvrátil zkázu letu Flydubai: Řidič fekálního vozu se o letadlech naučil z televize",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849486/odvratil-zkazu-letu-flydubai-ridic-fekalniho-vozu-se-o-letadlech-naucil-z-dokumentu.html"
+    },
+    {
+      "score": 9,
+      "fact": "V sibiřském Šelechově zemřela žena nakažená morem, nemocnice skončila v karanténě.",
+      "reason": "šokující nemoc, konkrétní město",
+      "title": "V sibiřském městě zemřela žena nakažená morem, píší v Rusku. Úřady mlží",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/v-sibirskem-meste-zemrela-zena-nakazena-morem-pisi-v-rusku-urady-mlzi.A261002_133837_zahranicni_dtt"
+    },
+    {
+      "score": 8,
+      "fact": "Policie zveřejnila záběry, jak neznámý žhář zapálil na pražském Smíchově luxusní Rolls-Royce.",
+      "reason": "drzý zločin, konkrétní značka a místo",
+      "title": "VIDEO: Takhle žhář na Smíchově zapálil luxusní rolls-royce. A pak utekl",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/praha/zpravy/video-takhle-zhar-na-smichove-zapalil-luxusni-rolls-royce-a-pak-utekl.A261002_135532_praha-zpravy_bur"
+    },
+    {
+      "score": 8,
+      "fact": "Za Spartu debutoval v extralize teprve šestnáctiletý obránce Matyáš Michálek, nejmladší hráč klubu v tomto tisíciletí.",
+      "reason": "milník s věkem, konkrétní jméno",
+      "title": "Za Spartu nastoupil nejmladší hráč v tomto tisíciletí. Velký talent českého hokeje, ví Šmíd",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-extraliga-za-spartu-nastoupil-nejmladsi-hrac-v-tomto-tisicileti-velky-talent-ceskeho-hokeje-vi-smid-5546317"
+    },
+    {
+      "score": 8,
+      "fact": "Hokejisté Třince vyhráli i sedmý zápas sezony a vyrovnali rekord extraligy v počtu výher na úvod ročníku.",
+      "reason": "rekord s číslem",
+      "title": "SESTŘIH: Třinec dál pevně vládne extralize, rekordní výhru zařídil Ondřej Kovařčík",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-extraliga-online-videomomenty-ze-zapasu-trinec-litvinov-5546331"
+    },
+    {
+      "score": 8,
+      "fact": "Světové oceány vloni pohltily rekordních 23 zettajoulů tepla, asi čtyřicetinásobek roční spotřeby energie lidstva.",
+      "reason": "ohromující číslo s porovnáním",
+      "title": "Světové oceány vloni pohltily 23 zettajoulů tepla. Dopady jsou vidět všude",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/svetove-oceany-vloni-pohltily-23-zettajoulu-tepla-dopady-jsou-videt-vsude-378146"
+    },
+    {
+      "score": 8,
+      "fact": "Jiřina Bohdalová oslavila 95. narozeniny a dostala výstavu nazvanou Jiřina – 90 let pořád ve hře.",
+      "reason": "legenda, kulaté číslo",
+      "title": "Nová výstava věnovaná Bohdalové: Jiřina - 90 let pořád ve hře",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/849491/novy-vystava-venovana-bohdalove-jirina-90-let-porad-ve-hre.html"
+    },
+    {
+      "score": 8,
+      "fact": "Od vítězství Taťány Kuchařové v Miss World uplynulo dvacet let.",
+      "reason": "výročí s číslem, známé jméno",
+      "title": "Kuchařová otevřeně: o manželovi, Miss World i nařčení lidskoprávních organizací",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/modelky/tatana-kucharova-miss-world-krasa-pomoci-modelka-politicka.A261002_081618_missamodelky_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Při dopravní nehodě v americkém Wyomingu po návštěvě Yellowstone zemřeli dva Češi.",
+      "reason": "české oběti, konkrétní místo",
+      "title": "Tragédie ve Wyomingu: Po návštěvě Yellowstone zemřeli Češi Jan a Tomáš",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849537/tragedie-ve-wyomingu-pri-nehode-zemreli-dva-cesi-treti-je-zraneny.html"
+    },
+    {
+      "score": 8,
+      "fact": "O výrobce Barbie, společnost Mattel, se zajímá konglomerát Authentic Brands, cena se odhaduje na 6 miliard dolarů.",
+      "reason": "ikonická značka na prodej",
+      "title": "Barbie na prodej za 6 miliard dolarů. O výrobce Mattel má zájem obří konglomerát",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/authentic-brands-group-mattel-barbie-zajem-o-koupi.A261002_064806_zahranicni_onbu"
+    },
+    {
+      "score": 8,
+      "fact": "Řecký ostrov Kréta zasáhly přívalové deště, auto s posádkou se zřítilo do řeky a úřady zavřely školy.",
+      "reason": "oblíbená destinace Čechů, dramatický detail",
+      "title": "Silné povodně v dovolenkovém ráji Čechů: Auto s posádkou se zřítilo do řeky, úřady zavřely školy!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849520/silne-povodne-v-dovolenkovem-raji-cechu-auto-s-posadkou-se-zritilo-do-reky-urady-zavrely-skoly.html"
+    }
+  ]
+}

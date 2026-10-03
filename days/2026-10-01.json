@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-01",
+  "generated": "2026-10-03T10:50:49+00:00",
+  "stats": {
+    "scored": 120,
+    "kept": 20,
+    "by_category": {
+      "world": 7,
+      "cz": 13
+    },
+    "analyst": "claude-opus-5 (manual backfill, expired Groq key)"
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Christa Pikeová v Tennessee přežila podání dvou smrtících injekcí, poprava se nezdařila a skončila v nemocnici.",
+      "reason": "neuvěřitelný případ, konkrétní jméno",
+      "title": "Poprava Christy Pikeové se nezdařila. Přežila podání dvou smrtících injekcí, je v nemocnici",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/poprava-christy-pikeove-se-nezdarila-prezila-podani-dvou-smrticich-injekci-je-v_2610010733_elev"
+    },
+    {
+      "score": 9,
+      "fact": "Dres Michaela Jordana z finále Posledního tance se vydražil za rekordních 12,26 milionu dolarů.",
+      "reason": "rekordní suma, ikonické jméno",
+      "title": "Dres s číslem 23 překonal rekord. Jordanův trikot z ‚Posledního tance‘ se vydražil za 12 milionů dolarů",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/dres-s-cislem-23-prekonal-rekord-jordanuv-trikot-z-posledniho-tance-se-vydrazil_2610011315_vsn"
+    },
+    {
+      "score": 9,
+      "fact": "Americký soud povolil skupině Paramount Skydance převzít Warner Bros. Discovery za 110 miliard dolarů.",
+      "reason": "fúze hollywoodských gigantů",
+      "title": "Soud povolil převzetí Warner Bros. skupinou Paramount. Kritici mluví o kapitulaci",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-soud-povolil-prevzeti-warner-bros-skupinou-paramount-kritici-mluvi-o-kapitulaci-40600296"
+    },
+    {
+      "score": 9,
+      "fact": "Turecký Pegasus Airlines dokončil nákup ČSA a Smartwings za 3,8 miliardy korun.",
+      "reason": "prodej národní letecké značky",
+      "title": "Turecký Pegasus dokončil nákup ČSA a Smartwings za téměř 4 miliardy",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-turecky-pegasus-dokoncil-nakup-csa-a-smartwings-za-temer-4-miliardy-316619"
+    },
+    {
+      "score": 9,
+      "fact": "Woody Allen začal v Madridu natáčet svůj jednapadesátý film, který zatím nemá název.",
+      "reason": "konkrétní číslo filmu, slavný režisér",
+      "title": "Woody Allen začne v pondělí v Madridu natáčet svůj 51. film, název zatím nemá",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/film/woody-allen-zacne-v-pondeli-v-madridu-natacet-svuj-51-film-nazev-zatim-nema/r~aaa29616882b25c32204d01ab6187051/"
+    },
+    {
+      "score": 9,
+      "fact": "Devětadevadesátiletá žena chtěla na Oktoberfestu pohladit koně, její vozík se převrátil a o šest dní později zemřela.",
+      "reason": "tragikomický detail, konkrétní věk",
+      "title": "Smrtelný pád na Oktoberfestu: Seniorka (†99) chtěla pohladit koně",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/849449/smrtelny-pad-na-oktoberfestu-seniorka-99-chtela-pohladit-kone.html"
+    },
+    {
+      "score": 9,
+      "fact": "Zpěvačka Eva Burešová si nechala matrikou schválit nové jméno Saija.",
+      "reason": "bizarní změna jména známé osobnosti",
+      "title": "Zpěvačka Eva Burešová přijala jméno Saija. Matrika jí ho schválila",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/eva-saija-buresova-jmeno-zpevacka-metal-mlc.A261001_110207_lidicky_nh"
+    },
+    {
+      "score": 9,
+      "fact": "V zlínské zoo zemřela při operaci poškozeného klu nejmladší slonice Kali.",
+      "reason": "konkrétní jméno zvířete, neobvyklá příčina",
+      "title": "Zlínskou zoo zasáhla druhá smrt slonice za několik měsíců. Zemřela nejmladší Kali",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/priroda/zlinskou-zoo-zasahla-druha-smrt-slonice-za-nekolik-mesicu-zemrela-nejmladsi-kali_2610011718_raf"
+    },
+    {
+      "score": 9,
+      "fact": "Gruzínský soud nařídil vyhoštění Rusa, který močil z balkonu v Tbilisi a provolával slávu Rusku.",
+      "reason": "absurdní důvod vyhoštění",
+      "title": "Rus v Tbilisi močil z balkonu a opěvoval Rusko. Gruzínci se s ním nemazlili",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-rus-v-tbilisi-mocil-z-balkonu-a-opevoval-rusko-gruzinci-se-s-nim-nemazlili-40600277"
+    },
+    {
+      "score": 9,
+      "fact": "Ruská vláda chce zrušit lovecké kvóty na medvědy, kteří od jara zabili nejméně 22 lidí.",
+      "reason": "šokující číslo, konkrétní opatření",
+      "title": "Rusko řeší problémy s medvědy. Od jara zabili nejméně 22 lidí, vláda chce zrušit lovecké kvóty",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/medvedi-rusko-moskva-opatreni_2610010717_elev"
+    },
+    {
+      "score": 9,
+      "fact": "Český dirigent Jakub Hrůša provede v londýnské Královské opeře celý Wagnerův Prsten Nibelungův, tedy patnáct hodin hudby.",
+      "reason": "české jméno, extrémní číslo",
+      "title": "Wagnerovský maraton v Londýně: Hrůša oddiriguje v Královské opeře 15 hodin hudby",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/wagnerovsky-maraton-v-londyne-hrusa-oddiriguje-v-kralovske-opere-15-hodin-hudby/r~aaa2993b79f02280ec71c5de6b66bbf2/"
+    },
+    {
+      "score": 9,
+      "fact": "Indický kapitán Smit Maččhar i těžce pobodaný zabránil kopilotovi zřítit se s letadlem Flydubai.",
+      "reason": "hrdinský čin, konkrétní jméno",
+      "title": "Hrdina z Flydubai zabránil dalšímu 11. září: Těžce zraněný pilot čelil útočníkovi a sekeře?",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849416/hrdina-z-flydubai-zabranil-dalsimu-11-zari-tezce-zraneny-pilot-celil-utocnikovi-a-sekere.html"
+    },
+    {
+      "score": 8,
+      "fact": "Jiří Suchý slaví 95. narozeniny, slavit je ale odmítá.",
+      "reason": "legenda, kulaté číslo",
+      "title": "Žít ve stejné době jako pan Jiří Suchý",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-divadlo-zit-ve-stejne-dobe-jako-pan-jiri-suchy-40600237"
+    },
+    {
+      "score": 8,
+      "fact": "Ve věku 63 let zemřel Cronos, vlastním jménem Conrad Lant, zpěvák a baskytarista blackmetalové kapely Venom.",
+      "reason": "úmrtí, dvě jména téže osoby",
+      "title": "Do nebe, nebo do pekla? Ve věku 63 zemřel Cronos z blackmetalové kapely Venom",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/hudba/venom-cronos-smrt.A261001_174816_hudba_jgo"
+    },
+    {
+      "score": 8,
+      "fact": "Sportovcem roku ministerstva vnitra se stal olympijský vítěz v rychlobruslení Metoděj Jílek, předstihl i Lindu Noskovou.",
+      "reason": "konkrétní jména a anketa",
+      "title": "Jílek porazil i vítězku Wimbledonu Noskovou. Olympijský šampion ovládl prestižní anketu",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/ostatni-jilek-porazil-i-vitezku-wimbledonu-noskovou-olympijsky-sampion-ovladl-prestizni-anketu-5546213"
+    },
+    {
+      "score": 8,
+      "fact": "Do 136. ročníku Velké pardubické se přihlásilo jen deset koní, nezvykle málo.",
+      "reason": "konkrétní číslo a ročník",
+      "title": "Nezvykle nízký počet koní ještě klesl. Startovní listina Velké pardubické končí desítkou!",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/ostatni-nezvykle-nizky-pocet-koni-jeste-klesl-startovni-listina-velke-pardubicke-konci-desitkou-5546117"
+    },
+    {
+      "score": 8,
+      "fact": "Režisérovi Davidu Fincherovi vypršel kontrakt s Netflixem a on ho neobnovil.",
+      "reason": "slavné jméno, konec spolupráce",
+      "title": "House of Cards, Zabiják a konec? Režiséru Fincherovi vypršel kontrakt s Netflixem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/david-fincher-netflix.A261001_101534_filmvideo_jgo"
+    },
+    {
+      "score": 8,
+      "fact": "Čtyři výrobci kabelů dostali od antimonopolního úřadu rekordní pokutu 1,94 miliardy korun za kartel.",
+      "reason": "rekordní pokuta s číslem",
+      "title": "Kartel výrobců kabelů dostal rekordní sankci. Pokuty přesáhly 1,9 miliardy korun",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/kartel-vyrobcu-kabelu-dostal-rekordni-sankci-pokuty-presahly-1-9-miliardy-korun/r~aaa299095643127dd3dca0b5c0556206/"
+    },
+    {
+      "score": 8,
+      "fact": "V Bělehradu zemřela ve věku 96 let Biljana Plavšičová, někdejší prezidentka bosenských Srbů.",
+      "reason": "historická postava, konkrétní věk",
+      "title": "Zemřela Biljana Plavšičová, někdejší prezidentka bosenských Srbů",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/zemrela-biljana-plavsicova-nekdejsi-prezidentka-bosenskych-srbu/r~aaa29eb24bbe91bff342c822c48c52cb/"
+    },
+    {
+      "score": 8,
+      "fact": "Dva říjnové koncerty rapera Kanyeho Westa v Rusku byly zrušeny.",
+      "reason": "slavné jméno, překvapivé zrušení",
+      "title": "Raper Kanye West v Rusku nakonec nevystoupí. Organizátoři koncerty zrušili",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/planovane-koncerty-americkeho-rappera-kanyeho-westa-v-rusku-byly-zruseny.A261001_172010_hudba_dvou"
+    }
+  ]
+}

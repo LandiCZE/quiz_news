@@ -1,12 +1,18 @@
-name: Weekly Quiz Facts Analysis
+name: Weekly Quiz Facts
 
 on:
   schedule:
     - cron: "0 10 * * 0"  # every Sunday at 10:00 UTC (12:00 Prague time)
-  workflow_dispatch:        # allow manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      weeks_ago:
+        description: "1 = last week (default), 0 = the current week so far"
+        required: false
+        default: "1"
+        type: string
 
 jobs:
-  analyze:
+  merge:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -25,16 +31,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch latest articles into DB
-        run: python main.py --store-only
-
-      - name: Run analysis, save facts, prune old articles
+      # No fetching here — the week is assembled from the seven day files the
+      # daily job already wrote. Saturday's file lands at 07:00 UTC today, so
+      # all seven exist by now. One LLM call re-ranks the week's best.
+      - name: Merge and re-rank the week
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: |
-          mkdir -p facts
-          FILENAME="facts/$(date +%Y-W%V).json"
-          python main.py --weeks-ago 1 --save "$FILENAME" --prune
+        run: python main.py week --weeks-ago ${{ inputs.weeks_ago || 1 }}
 
       - name: Render index.html
         run: python render.py
@@ -43,7 +46,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add facts/ index.html articles.json
-          git diff --cached --quiet || git commit -m "chore: weekly facts $(date +%Y-W%V)"
+          git add facts/ index.html
+          git diff --cached --quiet || git commit -m "chore: weekly facts $(date -u +%Y-W%V)"
           git pull --rebase origin main
           git push origin main
