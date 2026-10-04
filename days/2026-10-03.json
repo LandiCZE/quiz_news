@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-03",
+  "generated": "2026-10-04T13:20:24+00:00",
+  "stats": {
+    "fetched": 942,
+    "that_day": 381,
+    "deduped": 340,
+    "scored": 180,
+    "passed": 57,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Žena, která dříve padělala vysvědčení, dnes pořádá akci o duševním zdraví dětí se záštitou Hradu a premiéra.",
+      "reason": "Ironický kontrast a konkrétní, šokující osobnost.",
+      "title": "Padělala vysvědčení, teď pořádá akci pro děti pod záštitou Hradu i premiéra",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-padelala-vysvedceni-ted-porada-akci-pro-deti-pod-zastitou-hradu-i-premiera-316660"
+    },
+    {
+      "score": 9,
+      "fact": "Ewa Farna ukončila po třinácti letech manželství s Martinem Chobotem.",
+      "reason": "Velký celebritní šok, konkrétní počet let, známá postava.",
+      "title": "Zpěvačka Ewa Farna šokovala: Rozchod po 13 letech",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/849626/zpevacka-ewa-farna-sokovala-rozchod-po-13-letech.html"
+    },
+    {
+      "score": 9,
+      "fact": "Na palubě letadla z Dubai se ukázal zubař, který záchranářem kapitána před smrtí.",
+      "reason": "Shocking, dramatic, specific profession (dentist) saving a pilot's life in a viral story.",
+      "title": "„Nechci tady zemřít.“ Zubař popsal záchranu pobodaného kapitána v prudce klesajícím letadle",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/nechci-tady-zemrit-zubar-popsal-zachranu-pobodaneho-kapitana-v-prudce-klesajicim-letadle/r~aaa2987ff9a768be9c92bd81572429f1/"
+    },
+    {
+      "score": 9,
+      "fact": "Soňa Červená v mládí ukradla tělo své matky z vězeňské márnice.",
+      "reason": "Absurdní a šokující fakt o známé osobnosti s jediným slovním klíčem.",
+      "title": "Tajemství pěvkyně Červené (†97): Ukradla matku z márnice!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/849114/tajemstvi-pevkyne-cervene-97-ukradla-matku-z-marnice.html"
+    },
+    {
+      "score": 9,
+      "fact": "V Brně je k vidění ďábelská koruna Karla Gotta z Troškových pohádek.",
+      "reason": "Popkulturní ikona, konkrétní artefakt, láká na odpověď GOTT.",
+      "title": "V Brně jsou k vidění kostýmy z Troškových pohádek, včetně ďábelské koruny Karla Gotta",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-v-brne-jsou-k-videni-kostymy-z-troskovych-pohadek-vcetne-dabelske-koruny-karla-gotta-40599735"
+    },
+    {
+      "score": 9,
+      "fact": "Baťa ukončil výrobu obuvi v Dolním Němčí, jediná středoevropská továrna firmy tak skončila.",
+      "reason": "Skončení éry legendární české značky s konkrétním dojmem (ukončení výroby v Česku/střední Evropě).",
+      "title": "Globální firma, která změnila moderní obuvnický průmysl, říká o Baťovi Ševeček",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/globalni-firma-ktera-zmenila-moderni-obuvnicky-prumysl-rika-o-batovi-sevecek-378192"
+    },
+    {
+      "score": 9,
+      "fact": "Švýcar porušil světový rekord rychlostí 312 km/h v Porsche ve Francii.",
+      "reason": "Netypický rekord s konkrétní číselnou hodnotou a značkou auta.",
+      "title": "Švýcar se svým Porsche trhl francouzský rekord. Hrozí mu tři měsíce vězení a mastná pokuta",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-svycar-se-svym-porsche-trhl-francouzsky-rekord-hrozi-mu-tri-mesice-vezeni-a-mastna-pokuta-40600336"
+    },
+    {
+      "score": 8,
+      "fact": "Baskytarista Clif Burton z Metalliky zemřel při dopravní nehodě na turné.",
+      "reason": "Slavné jméno (Metallica) a „40 let po“ dávají dobrý moment pro kvíz",
+      "title": "SEX, STORY, ROKENROL: Cliff Burton z Metalliky zemřel při tragické nehodě na turné",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-sex-story-rokenrol-cliff-burton-z-metalliky-zemrel-pri-tragicke-nehode-na-turne-40600586"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel bývalý předseda pražského Vrchního soudu Zdeněk Sovák obžalovaný ze 150 milionového úplatku.",
+      "reason": "Konkrétní smrt známé kontroverzní postavičky české spravedlnosti, ideální pro kolo o aktuálních událostech.",
+      "title": "Zemřel bývalý soudce Sovák obžalovaný kvůli 150milionovému úplatku",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-zemrel-byvaly-soudce-sovak-obzalovany-kvuli-150milionovemu-uplatku-316715"
+    },
+    {
+      "score": 8,
+      "fact": "Událení divadelních cen Thálie navštívil i Spejbl s Hurvínkem.",
+      "reason": "Kultovní postavičky na slavnostním ceremoniálu, překvapivá detailní fakta.",
+      "title": "Thálie mají Majer, Margita, Kožená či Nárožný. Dorazili i Spejbl s Hurvínkem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/divadlo/ceny-thalie-martin-mysicka-petr-narozny-jaroslava-kretschmerova.A261002_102619_divadlo_jgo"
+    },
+    {
+      "score": 8,
+      "fact": "Russell Crowe zhubl 26 kilogramů a představil mladší partnerku.",
+      "reason": "Slavnostní osobnost s konkrétním číslem a vizuální změnou, lákadlo.",
+      "title": "Russell Crowe zhubl 26 kilo. Pochlubil se o dvacet let mladší partnerkou",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/russell-crowe-hubnuti-25-kilo-postava-fit-mladsi-partnerka-britney-theriot.A260929_141758_sex_zar"
+    },
+    {
+      "score": 8,
+      "fact": "Herečka Mandy Pepperidgeová ze Zvěřince zemřela ve věku 79 let.",
+      "reason": "Známá herečka z kultovního filmu, které český divák dnes již nepouští, úmrtí slavné osoby je hvězdou.",
+      "title": "Zemřela herečka Mary Louise Wellerová",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-zemrela-herecka-mary-louise-wellerova-40600455"
+    },
+    {
+      "score": 8,
+      "fact": "Čeští nemocniční lékaři podávají pacientům antibiotika o 190 procent více než bývá běžné v Evropě.",
+      "reason": "Konkrétní a šokující statistika s jasným číslem.",
+      "title": "Životně důležité léky přestávají fungovat. Lidé můžou začít umírat i na běžné nemoci",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/zdravotnictvi-22850dba-908b-4192-badc-0e7f1c003a00/bakterie-vitezi-nad-antibiotiky-cesko-jim-nahrava-rekordni-spotrebou/r~aaa297339d4de8c643bf0d67a21741ff/"
+    },
+    {
+      "score": 8,
+      "fact": "Místní v Rusku převáželi vrtulník Mi-2 na střeše pickupu a auto se převrhlo.",
+      "reason": "Absurdní a vizuálně přitažlivý příběh ideální pro otázku na logiku nebo smysl pro humor.",
+      "title": "VIDEO: Ruský bizár. Převáželi vrtulník pickupem, dopadlo to jako obvykle",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/video-vrtulnik-mi-2-rusko-ukrajina-krasnodarsky-kraj-nehoda-pad-vozidlo.A261003_185929_zahranicni_mikp"
+    },
+    {
+      "score": 8,
+      "fact": "Slovensko u Dukelského průsmyku odhalilo kontroverzní sochu maršála Koněva.",
+      "reason": "Blízko českých hranic, konkrétní historická osoba a politický kontext (ruska-nato).",
+      "title": "Slovensko u Dukelského průsmyku odhalilo sochu sovětského maršála Koněva",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-u-dukelskeho-prusmyku-odhalilo-sochu-sovetskeho-marsala-koneva-40600685"
+    },
+    {
+      "score": 8,
+      "fact": "Ruská pacientka zemřela na mor a nemocnice skončila v karanténě.",
+      "reason": "Vzácná nemoc (mor) a dramatický zdravotní incident.",
+      "title": "Darja (†28) náhle zemřela na mor. Můžou za to sysli, nebo rozbitá zkumavka?",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849603/darja-28-nahle-zemrela-na-mor-muzou-za-to-sysli-nebo-rozbita-zkumavka.html"
+    },
+    {
+      "score": 8,
+      "fact": "USA poprvé otevřeně přiznaly, že mají rozmístěné zbraně na oběžné dráze Země.",
+      "reason": "Prokolené milník v historii kosmických sil s důrazem na slovo 'poprvé'.",
+      "title": "Prolomené tabu: USA ohlásily, že mají na oběžné dráze zbraně. Rusové je prostě nepřiznávají",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/848248/prolomene-tabu-usa-ohlasily-ze-maji-na-obezne-draze-zbrane-rusove-je-proste-nepriznavaji.html"
+    },
+    {
+      "score": 8,
+      "fact": "Za útokem na letišťi Lipsko stojí ruský motorkář s lotyšským pasem.",
+      "reason": "Konkrétní podivný profil pachatele (motorkář) je skvělý kvízový háček.",
+      "title": "Za útokem na letišti v Lipsku je motorkář s kontakty na ruskou rozvědku, píšou média",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-motorkar-pokus-atentat-utok-bomby-letiste-lipsko.A261003_090806_zahranicni_fohl"
+    },
+    {
+      "score": 8,
+      "fact": "Na dně vyschlého švýcarského jezera se objevily obří nápisy Help a SOS.",
+      "reason": "Weird and specific visual phenomenon, great for a quiz question about the letters.",
+      "title": "Na dně vyschlého švýcarského jezera se objevily obří nápisy volající o pomoc",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-na-dne-vyschleho-svycarskeho-jezera-se-objevily-obri-napisy-volajici-o-pomoc-40600666"
+    },
+    {
+      "score": 7,
+      "fact": "Po neúspěšné popravě, kdy vězeňkyňka skončila v kome, skončí šéfka tennesseejské vězeňské správy.",
+      "reason": "Konkrétní selhání úřadu s jasným následkem pro vedoucího pracovníka.",
+      "title": "Šéf vězeňské správy v Tennessee po neúspěšné popravě skončí",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-sef-vezenske-spravy-v-tennessee-po-neuspesne-poprave-skonci-316727"
+    }
+  ]
+}
