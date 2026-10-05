@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-04",
+  "generated": "2026-10-05T15:51:03+00:00",
+  "stats": {
+    "fetched": 1048,
+    "that_day": 360,
+    "deduped": 334,
+    "scored": 180,
+    "passed": 49,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Boxer Tyson Fury si přeje být do ringu veden Donaldem Trumpem.",
+      "reason": "Celebrity + politik + absurdita, perfect visual quiz question.",
+      "title": "S Trumpem po boku? Prezident má Furyho vést do ringu v zápase o miliony",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/s-trumpem-po-boku-prezident-ma-furyho-vest-do-ringu-v-zapase-o-miliony/r~aaa2906a44eccfaee61f207b1853adce/"
+    },
+    {
+      "score": 9,
+      "fact": "Luka Modrič prohlásil, že se po porážce 0:7 se stydí poprvé za 20 let.",
+      "reason": "Slavná postava + citát s konkrétním časovým rozmezím (20 let) a historickým výsledkem.",
+      "title": "Jako by nás hrálo o pět míň, nechápe Modrič, co se dělo. Poprvé za 20 let se styděl",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/jako-by-nas-hralo-o-pet-mene-nechape-modric-co-se-delo-poprve-za-20-let-se-stydel/r~aaa29310e5747f8133a65635c5b1c566/"
+    },
+    {
+      "score": 9,
+      "fact": "Jemenskému pilotovi, jenž sekerou napadl kapitána Flydubai, mu dříve Omán zakázal létat.",
+      "reason": "Dostihl ho ironický osud, přesná a překvapivá detailka.",
+      "title": "V Ománu mu zakázali létat, u Flydubai prošel. Co se ví o útočníkovi z kokpitu",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-oman-air-mu-zakazaly-letat-uspel-jinde-co-se-vi-o-utocnikovi-z-kokpitu-316748"
+    },
+    {
+      "score": 9,
+      "fact": "Došlo k diskusi, zda popravenou Christy Pikeovou utlučít pro jistotu baseballovou pálkou",
+      "reason": "Absurdní detail a velmi specifická, ale šokující způsoby řešení zpackaného trestu",
+      "title": "Utrpení vražedkyně Christy Pikeové. Umlátí ji pro jistotu baseballovou pálkou?",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-utrpeni-christy-pikeove-kolik-poprav-ji-jeste-ceka-316742"
+    },
+    {
+      "score": 9,
+      "fact": "Severokorejský diktátor Kim Čong-un váží přes 140 kilo, varuje jihokorejská tajná služba.",
+      "reason": "Spektakulární fyzický fakt o slavné osobnosti, skvělé na paměť a úsměv.",
+      "title": "Humři, kaviár a jatýrka: Diktátor Kim má přes 140 kilo! Hrozí mu vážné nemoci srdce",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849407/humri-kaviar-a-jatyrka-diktator-kim-ma-pres-140-kilo-hrozi-mu-vazne-nemoci-srdce.html"
+    },
+    {
+      "score": 8,
+      "fact": "Spisovatelka Jackie Collins napsala 32 románů a všechny se staly bestsellery New York Times.",
+      "reason": "Impozantní statistika (32 bestsellerů) a odkaz na slavnou autorku.",
+      "title": "Co pohoršuje, to přitahuje. Romány ze světa bohatých Jackie Collinsové šly na dračku",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/literatura/co-pohorsuje-to-pritahuje-romany-ze-sveta-bohatych-jackie-collinsove-sly-na-dracku.A260921_210352_literatura_bury"
+    },
+    {
+      "score": 8,
+      "fact": "Pardubický jezdce Lukáše Kvěcha vyhrál Zlatou přilbu a ukončil devítileté čekání Čechů.",
+      "reason": "Konkretizovaný sportovní mílestone s číslem (9 let) a jménem vítěze.",
+      "title": "Devítileté čekání na český triumf je u konce. Kvěch vyhrál v Pardubicích Zlatou přilbu",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/devitilete-cekani-na-cesky-triumf-je-u-konce-kvech-vyhral-v-pardubicich-zlatou_2610041721_rej"
+    },
+    {
+      "score": 8,
+      "fact": "Prezident Petr Pavel vynechal obecní volby kvůli soukromé zahraniční cestě, což politici označili za chybu.",
+      "reason": "Překvapivé rozhodnutí čelního státníka ignorovat volby",
+      "title": "Koaliční i opoziční politici se pozastavují nad Pavlovou neúčastí u voleb",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/koalicni-i-opozicni-politici-se-pozastavuji-nad-pavlovou-neucasti-u-voleb-378224"
+    },
+    {
+      "score": 8,
+      "fact": "Fotbalový zápas Severní Makedonie a Skotska v úvodu narušil pes na hřišti.",
+      "reason": "Klasický „viral animal story“ s konkrétním الحدثem, který je lehký a vtipný.",
+      "title": "Zápas Ligy národů mezi Severní Makedonií a Skotskem narušil pes",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-zapas-ligy-narodu-mezi-severni-makedonii-a-skotskem-narusil-pes-5548219"
+    },
+    {
+      "score": 8,
+      "fact": "Nikola Bartůňková (20) vyřadila v Pekingu světovou dvojku Sabalenkovou (6:4, 6:3).",
+      "reason": "Konkrétní mladá hvězda porazila velkou tenisovou hvězdu, skóre",
+      "title": "Bartůňková šokovala vyřazením světové dvojky, Muchovou nebezpečná Ruska nezaskočila",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/vitezstvi-kariery-dvacetileta-bartunkova-sokovala-vyrazenim-sabalenkove/r~aaa29a591076b5b71ce0ec5b4ae35ecb/"
+    },
+    {
+      "score": 8,
+      "fact": "Zara stáhla dětský kostým, který připomínal uniformu z koncentračního tábora.",
+      "reason": "Šokující a kontroverzní obchodní chyba s jasným, zřetelným objektem.",
+      "title": "Řetězec Zara po skandálu stáhl z nabídky dětský kostým připomínající uniformu z Osvětimi",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-retezec-zara-po-skandalu-stahl-z-nabidky-detsky-kostym-pripominajici-uniformu-z-osvetimi-40600747"
+    },
+    {
+      "score": 8,
+      "fact": "Marine Le Penová se otevřeně postavila za kontroverzního předsedu strany Bardellu.",
+      "reason": "Velké jméno, rizikovost kroku, jasná politická figura.",
+      "title": "Le Penová podpořila Bardellu. Riskuje poškození své prezidentské kampaně",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/le-penova-podporila-bardellu-riskuje-poskozeni-sve-prezidentske-kampane-378233"
+    },
+    {
+      "score": 8,
+      "fact": "Trump donutil republikánského senátora řeknou ANO zákon o čase zveřejněním jeho mobilního čísla",
+      "reason": "Kombinace známé celebrity (Trump) a absurdního, útočného taktického manévru",
+      "title": "Spor o změnu času. Trump zveřejnil telefonní číslo republikánského senátora",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-spor-o-zmenu-casu-trump-zverejnil-telefonni-cislo-republikanskeho-senatora-316744"
+    },
+    {
+      "score": 8,
+      "fact": "Pašeráci koní napomáhají šíření bzučivky lidožravé přes mexickou hranici do USA",
+      "reason": "Neobvyklé spojení mezi běžným pašováním koní a krvávací parazitickou hrozbou",
+      "title": "Obrazem: Bzučivka lidožravá se šíří do USA. Podezření padá na pašeráky koní",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-obrazem-bzucivka-lidozrava-se-siri-do-usa-podezreni-pada-na-paseraky-koni-316382"
+    },
+    {
+      "score": 7,
+      "fact": "Tento týden uplynulo 35 let od schválení lustračního zákonu Federálním shromážděním.",
+      "reason": "Konkrétní milník (35 let) s výborným potenciálem pro jiná témata.",
+      "title": "Lustrační zákon vyvolával naději i pochyby",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/lustracni-zakon-vyvolaval-nadeji-i-pochyby-378228"
+    },
+    {
+      "score": 7,
+      "fact": "Třinečtí Oceláři jako první v historii otevřeli sezónu extraligy osmi výhrami.",
+      "reason": "Nový historický rekord v českém hokeji.",
+      "title": "Neporazitelní Oceláři přepsali historické tabulky extraligy, šlágr kola patřil Dynamu",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/hokej/neporazitelni-ocelari-smetli-olomouc-a-prepsali-historicke-tabulky-extraligy/r~aaa2944997aac39472eb3cbec9402479/"
+    },
+    {
+      "score": 7,
+      "fact": "Vstupenky na festival Glastonbury 2027 se vyprodaly za pouhé 42 minut.",
+      "reason": "Fakt s konkrétním číslem (42 minut) ohledně slavného svetoveho festivalu.",
+      "title": "Vstupenky na Glastonbury zmizely během 42 minut",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-vstupenky-na-glastonbury-zmizely-behem-42-minut-316753"
+    },
+    {
+      "score": 7,
+      "fact": "Sabalenková ve světě řeší výraz 'Tahle Češka' po prohře s Bartůňkovou.",
+      "reason": "Globální sportovní drama s přesným slovem, které vyvolalo mezinárodní reakci.",
+      "title": "Tahle Češka žhne, píší ve světě. Vzteklá Sabalenková čelí kritice, řeší se i podání ruky",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/tahle-ceska-zhne-pisi-ve-svete-vztekla-sabalenkova-celi-kritice-resi-se-i-podani-ruky/r~aaa2970b8fd29df5506e7f43422bc271/"
+    },
+    {
+      "score": 7,
+      "fact": "Max Verstappen vyhrál v Malajsii po devíti letech, opakuje vítězství z roku 2015.",
+      "reason": "Konkrétní časová data (9 years) a comeback dávají otázce silnější kontext",
+      "title": "Verstappen se nejlépe popasoval s chaosem v Malajsii a poprvé v sezoně slaví vítězství",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-verstappen-bude-mit-v-malajsii-jedinecnou-sanci-na-prvni-vitezstvi-v-sezone-5547841"
+    },
+    {
+      "score": 7,
+      "fact": "Zdravotnické letadlo se šesti lidmi zmizelo v blízkosti Bermudského trojúhelníku.",
+      "reason": "Shrnutí s titulem Bermudský trojúhelník dává příběhu mystický nádech suitable pro kvíz.",
+      "title": "Letadlo zmizelo u Bermudského trojúhelníku: Rozsáhlé pátrání!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/849632/letadlo-zmizelo-u-bermudskeho-trojuhelniku-rozsahle-patrani.html"
+    }
+  ]
+}
