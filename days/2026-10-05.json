@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-05",
+  "generated": "2026-10-06T14:12:48+00:00",
+  "stats": {
+    "fetched": 1223,
+    "that_day": 540,
+    "deduped": 475,
+    "scored": 180,
+    "passed": 62,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Rosťa Novák si cenu Thálie dlouho považoval za vtip a proto na zvelebení nereagoval.",
+      "reason": "Ozvěnu slavné osobnosti s nečekaným chováním v momentu doručení ceny",
+      "title": "Thálie? Považoval jsem to dlouho za vtip a nereagoval, přiznal Rosťa Novák nad cenou",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/divadlo/ceny-thalie-rosta-novak-rozhovor.A261004_035412_divadlo_ts"
+    },
+    {
+      "score": 9,
+      "fact": "Tereza Bučková ukázala milostný dopis Václava Havla od Anny Kohoutové.",
+      "reason": "Neběný záznam, odpověď: Anna Kohutová",
+      "title": "Spisovatelka Boučková ukázala Havlův milostný dopis: Tajné rande s Andulkou!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/radce-zdravi-a-zivotni-styl-zivotni-styl/849689/spisovatelka-bouckova-ukazala-havluv-milostny-dopis-tajne-rande-s-andulkou.html"
+    },
+    {
+      "score": 9,
+      "fact": "Avengers: Endgame po sedmi letech znovu přetlačí Allatara.",
+      "reason": "Překročení rekordů, odpověď: Avengers: Endgame",
+      "title": "Avengers už zase překonali Avatara. Film Endgame je nejvýdělečnějším vůbec",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/avengers-endgame-encore-avatar-disney-marvel-nejvydelecnejsi-film-vsech-dob.A261005_114649_filmvideo_nh"
+    },
+    {
+      "score": 9,
+      "fact": "Kety Perry víruje z lásky ke kanadskému expremiérovi Justinu Trudeauovi.",
+      "reason": "Záhadná, věcmi odpovědi: Justin Trudeau",
+      "title": "Je na úplně jiné úrovni než mí bývalí, říká Katy Perry o expremiérovi Trudeauovi",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/katy-perry-justin-trudeau-zpevacka-expremier-laska-vztah.A260930_091714_sex_sub"
+    },
+    {
+      "score": 9,
+      "fact": "Američan díky umělé inteligenci rozluštil šifrovaný Napoleonův dopis, jehož obsah byl 217 let tajemstvím.",
+      "reason": "Konkrétní vynález/událost s jasným výsledkem a časovým kontextem.",
+      "title": "Američan rozluštil díky AI šifrovaný Napoleonův dopis. Jeho obsah byl 217 let záhadou",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-american-rozlustil-diky-ai-sifrovany-napoleonuv-dopis-jeho-obsah-byl-217-let-zahadou-40600698"
+    },
+    {
+      "score": 9,
+      "fact": "Samovršej Lehata Sevrta Smith zvezl svou rodinu k nacistickému pozdravu.",
+      "reason": "Skandální moment s nacistickým pozdravem a konkrétním politikem.",
+      "title": "„Zvedněte pravici, Heil Hitler.“ Tohle neměl nikdo vidět, premiér malé země se kaje",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/zvednete-pravici-heil-hitler-tohle-nemel-nikdo-videt-premier-male-zeme-se-kaje/r~aaa298d22903e1e1986fa9b4ae162e2a/"
+    },
+    {
+      "score": 9,
+      "fact": "Bill Clinton zahrál na saxofon oslavu narozenin Václava Havla na jeho počest.",
+      "reason": "Out-of-the-box celebrity connection: Clinton vs. Havel, netypický nástroj.",
+      "title": "VIDEO: Osobní pocta drahému příteli. Clinton zahrál pro Havla na saxofon píseň k výročí narozenin",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/video-osobni-pocta-drahemu-priteli-clinton-zahral-pro-havla-na-saxofon-pisen_2610051059_ako"
+    },
+    {
+      "score": 8,
+      "fact": "Ve věku 97 let zemřel rakouský herec Albert Rueprecht známý pro Františka Josef.",
+      "reason": "Úmrtí známé osobnosti s kvízovým detailem (rolí).",
+      "title": "Zemřel herec Albert Rueprecht",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-zemrel-herec-albert-rueprecht-40600960"
+    },
+    {
+      "score": 8,
+      "fact": "Žalobci začali řešit masakr v Postoloprtech, kde Češi v roce 1945 podle historiků povraždili tisíce Němců.",
+      "reason": "Šokující historický právní krok a kontroverzní téma",
+      "title": "Masakr, kdy Češi povraždili tisíce Němců, začali řešit žalobci. Objevil se nový nález",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/spravedlnost-si-opet-posviti-na-postoloprtsky-masakr-statni-zastupitelstvi-resi-nalez-ostatku/r~aaa29547b60fc9386d6d8f822aabc62d/"
+    },
+    {
+      "score": 8,
+      "fact": "Cena Vize 97 se letos uděluje naposledy, posledním vítězem je Václav Havel.",
+      "reason": "Sentimentální událost s významným českým jménem a konkrétním milníkem.",
+      "title": "Cena Vize 97 se letos udělovala naposled, posledním laureátem je Václav Havel",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/cena-vize-97-se-letos-udelovala-naposled-poslednim-laureatem-je-vaclav-havel/r~aaa2970daa793b38672b725d3d761947/"
+    },
+    {
+      "score": 8,
+      "fact": "A$AP Rocky na pražském koncertu část přehrál z ližiny vrtulníku.",
+      "reason": "Vizualizovatelný a neobvytlý detail ze slávové hvězdy, dobře funguje ve kvízu.",
+      "title": "Recenze: A$AP Rocky poprvé v Praze. Část koncertu odrapoval z ližiny vrtulníku",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-asap-rocky-o2-arena-recenze-316838"
+    },
+    {
+      "score": 8,
+      "fact": "Fotbalisté Beninu, těšící se na zápas s Messim, prožívají po příletu do Argentiny horor",
+      "reason": "Kontext Messiovy rozlucky a vtipný kontrast 'hororu' místo zážitku",
+      "title": "Těšili se na životní zápas proti Messimu. Místo toho prožívají fotbalisté po příletu do Argentiny horor",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-bizar-pred-messiho-rozluckou-souper-nema-mice-zavazadla-ani-teplou-vodu-5549273"
+    },
+    {
+      "score": 8,
+      "fact": "Hvězda Charlieho andílci Jaclyn Smithová prozradila, že kolegyně nabádala ke švédské trojce",
+      "reason": "Slavný serióz, nepatrný a zvláštní detail vhodný pro 'vítejte' kvíz",
+      "title": "Kolegyně mi nabídla švédskou trojku, vzpomíná hvězda seriálu Charlieho andílci",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/jaclyn-smith-charlieho-andilci-svedska-trojka-nabidka-sexu.A260930_100746_sex_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Poslední kancléř Mathé vzpomíná, že Havla mrzelo, že jen jsme potýnali s Zemanem.",
+      "reason": "Úzkej vztah Havela s Zemanem, specifická anedkta z posledního obdobi",
+      "title": "Havla mrzelo, že si se Zemanem potykal, vzpomíná jeho poslední kancléř Mathé",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-historie-havla-mrzelo-ze-si-se-zemanem-potykal-vzpomina-jeho-posledni-kancler-mathe-316690"
+    },
+    {
+      "score": 8,
+      "fact": "Ikoničný havajský přírodní oblouk na velkém ostrově dlouho zmizí.",
+      "reason": "Pravděpodobná příroda zmizí, odpověď: oblouk/zábrana",
+      "title": "Stál od dob Kolumba. Jedna z největších havajských ikon teď náhle zmizela",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/stal-od-dob-kolumba-jedna-z-nejvetsich-havajskych-ikon-ted-nahle-zmizela/r~aaa29eee06207d941944be575fcf46c0/"
+    },
+    {
+      "score": 8,
+      "fact": "Pátináctiletý student přišel při francouzských protestech o ruku kvůli výbuchu granátu.",
+      "reason": "Šokující a velmi specifický dopad studentských protestů na mladého člověka.",
+      "title": "Studentské protesty ve Francii: Mladík (15) přišel kvůli granátu o ruku",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849731/studentske-protesty-ve-francii-mladik-15-prisel-kvuli-granatu-o-ruku.html"
+    },
+    {
+      "score": 8,
+      "fact": "Prokremelský server označil Česko za zavšivenou díru v reakci na sochu Koněva.",
+      "reason": "Humorný citát a ostře kontrastující názor na českou adresu.",
+      "title": "V Rusku oslavují Bratislavu kvůli soše Koněva. Česko označili za zavšivenou díru",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-rusku-oslavuji-bratislavu-kvuli-sose-koneva-cesko-oznacili-za-zavsivenou-diru-40600911"
+    },
+    {
+      "score": 8,
+      "fact": "Během francouzských studentských protestů vtrhl policie a jeden studentův soudruž zešimanul zbraňový granát.",
+      "reason": "Konkrétní, šokující detail (bodnutí zbraní/prostředkí) spojený s velkou událostí.",
+      "title": "Vřava ve Francii nabírá tragické rozměry, policejní granát utrhl chlapci ruku",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/francie-studenti-demonstrace-skoly-nasili-skody.A261005_135340_zahranicni_dtt"
+    },
+    {
+      "score": 8,
+      "fact": "V Rusku zemřela výzkumnice z laboratoře zabývající se morem.",
+      "reason": "Mystery surrounding a death connected to the plague is a great quiz hook.",
+      "title": "V Rusku zemřela výzkumnice z laboratoře na mor. USA žádají Moskvu o urychlené sdílení informací",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/plicni-mor-v-rusku-laborator-rusko-usa_2610051114_ako"
+    },
+    {
+      "score": 7,
+      "fact": "Ve Francii ukradli z muzea bronzový obal knihy od Salvadora Dalího.",
+      "reason": "Krádež uměleckého díla slavného autora, konkrétní předmět.",
+      "title": "Nevyčíslitelná škoda. Ve Francii ukradli z muzea bronzový obal knihy od Dalího",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/daliho-bronzovy-obal-zmizel-z-muzea-v-issoire-skoda-je-nevycislitelna.A261005_214752_zahranicni_ichuc"
+    }
+  ]
+}
