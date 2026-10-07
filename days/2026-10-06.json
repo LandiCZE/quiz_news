@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-06",
+  "generated": "2026-10-07T14:30:08+00:00",
+  "stats": {
+    "fetched": 1349,
+    "that_day": 555,
+    "deduped": 495,
+    "scored": 180,
+    "passed": 65,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Chorvatští民警 zadrželi Afghánce s českými jmény Kníže Trpimír a Král Ladislav.",
+      "reason": "Absurdní rozpor mezi reálným Afgháncem a českými historickými jmény vyláká úroveň reakce (viralita).",
+      "title": "Afghánci se jmény Kníže Trpimír a Král Ladislav zaujali chorvatskou policii",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-afghanci-se-jmeny-knize-trpimir-a-kral-ladislav-zaujali-chorvatskou-policii-40601072"
+    },
+    {
+      "score": 9,
+      "fact": "Do domů finských poslanců se vniklo a jeden našel cizí výkaly na záchodě.",
+      "reason": "Absurdní a hodně virální detail (výkaly), který si lidé pamatují.",
+      "title": "Hnědý vzkaz z Kremlu? Finsko řeší bizarní vloupání do domů politiků",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/podezrela-vloupani-ve-finsku-politik-vini-ruske-agenty-z-nesplachnute-toalety/r~aaa29abbad77b02137bf07acb800dcc5/"
+    },
+    {
+      "score": 9,
+      "fact": "Prvním předsedou zemského sněmu v Německu z strany AfD se stal Tobiases Rauche.",
+      "reason": "Historický mílek v politice a šokující kontroverze (výsledek volby).",
+      "title": "Zemský sněm Saska-Anhaltska poprvé povede politik z Alternativy pro Německo",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zemsky-snem-saska-anhaltska-poprve-povede-politik-z-alternativy-pro-nemecko-316894"
+    },
+    {
+      "score": 9,
+      "fact": "Paramount Skydance dokončil převzetí Warner Bros. Discovery za zhruba 110 miliard dolarů.",
+      "reason": "Hlavní media událost roku se dvěma známými značkami a fantastickou částkou.",
+      "title": "Paramount Skydance dokončil převzetí Warner Bros. Discovery",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-paramount-skydance-dokoncil-prevzeti-warner-bros-discovery-40601114"
+    },
+    {
+      "score": 9,
+      "fact": "Maria zemřela, protože nemocniční personál nechal ji 46 hodin ve skladu",
+      "reason": "shockující příběh s přesným číslem hodin a trpkým koncem",
+      "title": "Maria strávila 46 hodin na pohotovosti: Nechali ji ležet ve skladu! Druhý den zemřela",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/849782/maria-stravila-46-hodin-na-pohotovosti-nechali-ji-lezet-ve-skladu-druhy-den-zemrela.html"
+    },
+    {
+      "score": 9,
+      "fact": "Nicolas Cage označil Marvel Cinematic Universe za příliš dobře dotovaný wrestling.",
+      "reason": "Slavná osobnost s nečekaným a kontroverzním výročkem o populárním záměru.",
+      "title": "Z Marvelu se stává dobře dotovaný wrestling, hlásá Nicolas Cage",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-z-marvelu-se-stava-dobre-dotovany-wrestling-hlasa-nicolas-cage-40599298"
+    },
+    {
+      "score": 8,
+      "fact": "Poprvé od roku 1649 se britský princ Andrew sňatobratil se svými problémy s koronou",
+      "reason": "Královská dynastie, král mu najevo a velké číslo konkrétního roku",
+      "title": "Poprvé od roku 1649. Exprinc Andrew žaluje stát, vztahy s králem znovu trpí",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kralovska-rodina-poprve-od-roku-1649-exprinc-andrew-zaluje-stat-vztahy-s-kralem-znovu-trpi-300759"
+    },
+    {
+      "score": 8,
+      "fact": "Z Jižní Koreje, spojence Ukrajiny, se za dva měsíce dostalo 176 tisíc tun paliva do Ruska.",
+      "reason": "Konkrétní šokující číslo a geopolitický rozpor (spojelec vs. nepřítel).",
+      "title": "Spojenec Ukrajiny zásobuje palivem Rusko. Vozí ho i sankcionované tankery",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-spojenec-ukrajiny-zasobuje-palivem-rusko-vozi-ho-i-sankcionovane-tankery-316873"
+    },
+    {
+      "score": 8,
+      "fact": "Trump vtipná ponauka: Ať Írán zničí Los Angeles nebo San Diego.",
+      "reason": "Šokující a absurdní výrok prezidenta, které funguje jako výborná legrační otázka.",
+      "title": "Nechme Írán zničit Los Angeles nebo San Diego, vyhlásil Trump",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-nechme-iran-znicit-los-angeles-nebo-san-diego-vyhlasil-trump-40601016"
+    },
+    {
+      "score": 8,
+      "fact": "Německá policie zadržela expředsedu tajné služby BND Augusta Hanninga pro podezření ze špionáže.",
+      "reason": "Šokující arší ředitele význačné tajné služby, odpovídá zlatému standardu pro kvízové otázky.",
+      "title": "Špionážní skandál v Německu: Zatkli exšéfa rozvědky! Pracoval pro cizí tajnou službu?",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849773/spionazni-skandal-v-nemecku-zatkli-exsefa-rozvedky-pracoval-pro-cizi-tajnou-sluzbu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Zářijová zahrada za nafty v Česku dohodila 50 korun za litr.",
+      "reason": "Konkrétní číslo (50 Kč) je pamatovatelné a hmatatelné.",
+      "title": "Dražší jsou energie, nájmy i nemovitosti. Inflace v září zrychlila",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/drazsi-jsou-energie-najmy-i-nemovitosti-inflace-v-zari-zrychlila-378309"
+    },
+    {
+      "score": 8,
+      "fact": "Fernando Alonso vyhlásil, že v lednu nastoupí i do Rallye Dakaru po své rychlé kótotině F1.",
+      "reason": "Slavný pilot spojuje dvě odlišné disciplíny motorsportu v jednom roce.",
+      "title": "Alonso hledá hranice svých možností. V lednu se vrátí na Rallye Dakar",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-rallye-alonso-hleda-hranice-svych-moznosti-v-lednu-se-vrati-na-rallye-dakar-5549977"
+    },
+    {
+      "score": 8,
+      "fact": "Formule 1 má v roce 2030 poprvé po 37 letech zamířit zpět do Afriky.",
+      "reason": "Specifická číselná událost (rok 2030, mezera od 1993) zajímá sportovní nadšence.",
+      "title": "Formule 1 se má v roce 2030 vrátit do Afriky",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-formule-1-se-ma-v-roce-2030-vratit-do-afriky-5550344"
+    },
+    {
+      "score": 8,
+      "fact": "Úkoloví nalezeni 623 čeští vojáci zmlizelé útoky u Dukly před 82 lety.",
+      "reason": "Konkrétní historický objev s přesným číslem a emotivním podtónem.",
+      "title": "Objev na Dukle. Našlo se 623 Čechoslováků, kteří na 82 let zmizeli",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-historie-objev-na-dukle-naslo-se-623-cechoslovaku-kteri-na-82-let-zmizeli-316502"
+    },
+    {
+      "score": 8,
+      "fact": "Armáda odebrala záštitu konferenci Future Air Force kvůli publicitnímu blámu organizátorů.",
+      "reason": "Specific institutional reaction to a public episode involving the military.",
+      "title": "Armáda kvůli aktivitám organizátorů odebrala záštitu konferenci Future Air Force",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/armada-kvuli-aktivitam-organizatoru-odebrala-zastitu-konferenci-future-air-force-378285"
+    },
+    {
+      "score": 8,
+      "fact": "Radka Denemarková bude hlavní českou tváří Frankfurtského knižního veletrhu.",
+      "reason": "Prezentace české autority na mezinárodní scéně, konkrétní událost.",
+      "title": "Spisovatelka Radka Denemarková zahájí frankfurtský knižní veletrh",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-knihy-spisovatelka-radka-denemarkova-zahaji-frankfurtsky-knizni-veletrh-40600806"
+    },
+    {
+      "score": 7,
+      "fact": "Ve věku 102 let zemřela herečka Eva Marie Saintová, laurátka Oscara.",
+      "reason": "Úmrtí legendy klasy B, věk je zajímavým detailem.",
+      "title": "Zemřela herečka Eva Marie Saintová",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-zemrela-posledni-herecka-zlate-ery-hollywoodu-40601170"
+    },
+    {
+      "score": 7,
+      "fact": "První dáma Eva Pavlová kvůli přísným pravidlům nedojde na letosní vzdálené volby.",
+      "reason": "Něco překvapivého u významné veřejné osoby, s důvodem.",
+      "title": "Po prezidentovi otazník i nad Pavlovou. První dáma si rýpla do pravidel, Hrad mlčí",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/po-prezidentovi-otaznik-i-nad-pavlovou-prvni-dama-si-kopla-do-pravidel-hrad-mlci/r~aaa299818bfad4b3bb4525c0af9423ec/"
+    },
+    {
+      "score": 7,
+      "fact": "Petr Pavel si potvrdí, že se v roce 2026 nezúčastní voleb do Evropského parlamentu.",
+      "reason": "Významné vyslovení českého prezidenta konkrétního roku.",
+      "title": "Volby 2026 ONLINE: Pavel se voleb nezúčastní, potvrdil Hrad",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/volby/komunalni-senatni-volby-2026-online-souhrn.A261002_142329_volby_tof"
+    },
+    {
+      "score": 7,
+      "fact": "Na aukci se draží plně funkční 50 let starý komputer Apple s podpisy spoluzakladatelů.",
+      "reason": "Tuzemský nájezd na technologickou historii s konkrétním objektem.",
+      "title": "Za miliony korun se draží 50 let starý počítač Apple. A je plně funkční",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-k-mani-je-legendarni-pocitac-apple-1-muze-prekonat-vlastni-rekord-316914"
+    }
+  ]
+}
