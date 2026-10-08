@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-07",
+  "generated": "2026-10-08T14:40:11+00:00",
+  "stats": {
+    "fetched": 1336,
+    "that_day": 573,
+    "deduped": 522,
+    "scored": 180,
+    "passed": 56,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Evropský parlament vystavil v Štrasburku pozlacenou sochu nahého amerického prezidenta.",
+      "reason": "Směšný a šokující vizuál s hříčkou jmen ('Oranžový mor').",
+      "title": "Oranžový mor. V Evropském parlamentu vystavili sochu nahého Trumpa",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-oranzovy-mor-v-evropskem-parlamentu-vystavili-sochu-naheho-trumpa-40601186"
+    },
+    {
+      "score": 9,
+      "fact": "Petr Macinka přirovnal Evu Pavlovou k bývalému ruskému premiérovi Viktoru Černomyrdinovi.",
+      "reason": "Konkrétní český politik v kontroverzním a vtipném momentu.",
+      "title": "Macinka přirovnal ženu prezidenta Pavla k sovětskému politikovi Černomyrdinovi",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/volby/macinka-prirovnal-zenu-prezidenta-pavla-sovetskemu-politikovi-cernomyrdinovi.A261007_220752_volby_kop"
+    },
+    {
+      "score": 9,
+      "fact": "Zemřel příběhový spisovatel Jeffrey Archer, který mohl být vlastní postavou.",
+      "reason": "Smrt známé postavy, legendární autor, se skvělým kontextem.",
+      "title": "Spisovatel, který mohl být vlastní literární postavou. Zemřel Jeffrey Archer",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-spisovatel-ktery-mohl-byt-vlastni-literarni-postavou-zemrel-jeffrey-archer-317006"
+    },
+    {
+      "score": 9,
+      "fact": "Meghan Fox se propůjčila kampani na pilulky proti erektilní dysfunkci.",
+      "reason": "Šokující kombinace slavné herečky a neobvyklého produktu, ideální pro diskusí v hospodě.",
+      "title": "Megan Foxová v rudém: Zahrála si na pilulku proti erektilní dysfunkci",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/megan-foxova-erektilni-dysfunkce-reklama.A261006_113853_lidicky_nh"
+    },
+    {
+      "score": 9,
+      "fact": "Ronaldo přestal v Portugalsku hrát kvůli trenérovi, který měl radit, aby ho chválil jako Pelého.",
+      "reason": "Koketní detail z kulisů zpravodajství ohledně Ronaldo",
+      "title": "Bizarní zákulisí Ronaldova úprku. Kouč měl napsáno, aby o hráči mluvil jako o Pelém",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/bizarni-zakulisi-ronaldova-uprku-kouc-mel-napsano-aby-o-hraci-mluvil-jako-o-pelem/r~aaa29060ace208a899ee531999a86bf7/"
+    },
+    {
+      "score": 8,
+      "fact": "87letá španělka, jejíž nedůstojné vystěhování vyvolalo masové demonstrace, zemřela v nemocnici.",
+      "reason": "Dramatický příběh, který spojil sociální revoltu s tragickým osudem konkrétní osoby.",
+      "title": "Její vystěhování v Madridu spustilo protesty. V nemocnici 87letá žena zemřela",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-jeji-vystehovani-v-madridu-spustilo-protesty-v-nemocnici-87leta-zena-zemrela-317027"
+    },
+    {
+      "score": 8,
+      "fact": "Maricarmen Abascalová zemřela, stala se symbolem španělských protestů proti dluhům a nájmu.",
+      "reason": "Silné jméno spojeno s velkou národní událostí, ideální pro úlohu typu 'kdo to byl?'.",
+      "title": "V Madridu zemřela žena, která se stala symbolem protestů za lepší podmínky nájemníků",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/v-madridu-zemrela-zena-ktera-se-stala-symbolem-protestu-za-lepsi-podminky-najemniku/r~aaa29721585a3f4470b2148e334c5174/"
+    },
+    {
+      "score": 8,
+      "fact": "Dánský umělec Jens Galschiöt vystavil v europarlamentu sochu nahého Trumpa na zádech štíhlejšího muže.",
+      "reason": "Spektakulární vizuál s národní povahou umělce a podivným detailem",
+      "title": "V europarlamentu vystavili nahého Trumpa: Ze zlata a na zádech štíhlejšího muže!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849910/v-europarlamentu-vystavili-naheho-trumpa-ze-zlata-a-na-zadech-stihlejsiho-muze.html"
+    },
+    {
+      "score": 8,
+      "fact": "Vstoupil do Litvy z Kaliningradu, byl vrácen a odsouzen k 6 letům.",
+      "reason": "Značeký osud sedmasedmdesátiletoho Ruska, konkrétní a překvapující výsledek.",
+      "title": "Přeplul řeku do Litvy, pohraničníci ho poslali zpět: V Rusku dostal šest let!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/849896/preplul-reku-do-litvy-pohranicnici-ho-poslali-zpet-v-rusku-dostal-sest-let.html"
+    },
+    {
+      "score": 8,
+      "fact": "Vražedkyně Christa Pikeová přežila popravu, látka těkla mimo žílu.",
+      "reason": "Šokující a konkrétní příběh s jasným detailem (přežila smrt).",
+      "title": "Detaily o stavu vražedkyně, která přežila popravu: Smrtící látka skončila mimo žílu?",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849854/detaily-o-stavu-vrazedkyne-ktera-prezila-popravu-smrtici-latka-skoncila-mimo-zilu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Američanku, která přežila spící smrtící podání, zastihl zápal plic, ale vědomí se jí vrací.",
+      "reason": "Šokující a unikátní událost (přežití popravu) s konkrétním podáním jména a situace.",
+      "title": "Ví, co se jí stalo. Američanka, která přežila popravu, má zápal plic a komunikuje",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/americanka-ktera-prezila-popravu-je-podle-pravniku-pri-vedomi-a-komunikuje.A261007_060818_zahranicni_iluj"
+    },
+    {
+      "score": 8,
+      "fact": "Valteri Bottas na kole zvládl přejezd z Malajsie do Singapuru.",
+      "reason": "Vizualita běžného jezdce F1 je jedinečná a silně postavičná.",
+      "title": "Bottas po čtyřech dnech zvládl na kole přejezd z Malajsie do Singapuru",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-bottas-po-ctyrech-dnech-zvladl-na-kole-prejezd-z-malajsie-do-singapuru-5550620"
+    },
+    {
+      "score": 8,
+      "fact": "Ve divizním západo padl gól z téměř poloviny hřiště mezi Znojmem a Humpolcem.",
+      "reason": "Neuvěřitelný amaterský fotbalový výkon s vizuálním efektem.",
+      "title": "VIDEO: Neskutečný gól. Tohle kluky učím, vtipkuje bývalý Klokan",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-divizi-oslnil-gol-z-pulky-kluky-tohle-ucim-vtipkuje-byvaly-klokan-5550376"
+    },
+    {
+      "score": 8,
+      "fact": "Renata Zachová vybojovala na mistrovství světa v Baku bronz po 27 letech čekání.",
+      "reason": "Výrazné sportovní zlatý jmení (šestnáct let) s konkrétním výsledkem.",
+      "title": "Senzační medaile po 27 letech. Judistka Zachová získala světový bronz",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/senzacni-medaile-po-27-letech-judistka-zachova-ziskala-svetovy-bronz/r~aaa29b5ba55452fb5013e5fe1f1090f5/"
+    },
+    {
+      "score": 8,
+      "fact": "Michael Bay a Steven Spielberg vrací seriál Transformers po vzniku studia Skydance.",
+      "reason": "Vrácení kultovního seriálu s hvězdnou dvojicí jmen.",
+      "title": "Transformers se vrací. A Michael Bay se Stevenem Spielbergem s nimi",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-transformers-se-vraci-a-michael-bay-se-stevenem-spielbergem-s-nimi-40601169"
+    },
+    {
+      "score": 8,
+      "fact": "Tom Felton vtipkoval, že dnes vypadá lépe než jeho dospělá verze jako Draco Malfoy.",
+      "reason": "Slavný herec + popová kultura + konkrétní a zabystřovací výrok.",
+      "title": "Vypadám dnes lépe, než dospělý Draco z Harryho Pottera, vtipkuje Tom Felton",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/tom-felton-harry-potter-film-broadway-starnuti-vzhled.A260929_141853_lidicky_zar"
+    },
+    {
+      "score": 8,
+      "fact": "Dvacetiletá Kristýna utáhla z Hodonína do Říma pěšky 2200 kilometrů za všechny úměrně.",
+      "reason": "Inspirováni osudový příběh s konkrétním číslem (2200 km) a dramatickým cílem.",
+      "title": "Z Hodonína do Říma pěšky. Ušla přes 2200 kilometrů, aby pomohla útulku",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-z-hodonina-do-rima-pesky-usla-pres-2200-kilometru-aby-pomohla-utulku-40600844"
+    },
+    {
+      "score": 8,
+      "fact": "Zpěvák Fredy Jackson zemřel s pouhým třídenním odstupem od svých 70. narozenin.",
+      "reason": "Smrt slavné hudební ikony těsně po kulatých narozeninách je silný, srozumitelný fakt.",
+      "title": "Zemřel zpěvák Freddie Jackson",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-zemrel-zpevak-freddie-jackson-40601177"
+    },
+    {
+      "score": 8,
+      "fact": "Veronika Žilková a Jan Čenský se po 44 letech setkali jako filmoví manželé.",
+      "reason": "Oslavěná česká dvojice a specifické číslo let činí z tohoto zprávy výbornou otázku.",
+      "title": "Veronika Žilková a Jan Čenský: Setkání filmových manželů po 44 letech",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/849844/veronika-zilkova-a-jan-censky-setkani-filmovych-manzelu-po-44-letech.html"
+    },
+    {
+      "score": 7,
+      "fact": "Maďarská kandidatura na olympiádu 2036 přivádí část závodů na Slovensko.",
+      "reason": "Prekvapivý nedobrovolný 'spolupráce' sousedních zemí v dokumentu.",
+      "title": "Šílený nápad Maďarů. Část olympiády chtějí pořádat na Slovensku",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/olympiada-olympiada-na-slovensku-sileny-napad-madaru-pocita-s-bratislavou-ci-samorinem-5550621"
+    }
+  ]
+}
