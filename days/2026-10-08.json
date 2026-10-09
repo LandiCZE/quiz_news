@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-08",
+  "generated": "2026-10-09T14:25:33+00:00",
+  "stats": {
+    "fetched": 1322,
+    "that_day": 562,
+    "deduped": 511,
+    "scored": 180,
+    "passed": 54,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Prezident Petr Pavel jezdil po marocké poušti na tereňáku při Rallye du Maroc.",
+      "reason": "Prezident, exotické místo, nečekaná aktivita (rally) a konkrétní dopadení.",
+      "title": "Vysmátý Pavel řádí v Maroku. Objevily se další fotky z dovolené, za kterou to schytal",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/pavel-na-motodovolene-v-pousti-prezidenta-prozradily-pred-volbami-dalsi-fotky/r~aaa29ad36d67c50f686071b9696f923e/"
+    },
+    {
+      "score": 9,
+      "fact": "Nobelovu cenu za literaturu získala 66letá kanadská básnířka Anne Carsonová.",
+      "reason": "Velká mezinárodní událost s jasným a snadno odpovídatelným jménem.",
+      "title": "Nobelovu cenu za literaturu získala kanadská básnířka Anne Carsonová",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/literatura/svedska-akademie-ved-udeli-nobelovu-cenu-za-literaturu.A261008_094906_literatura_ts"
+    },
+    {
+      "score": 9,
+      "fact": "Bývalý velvyslanec v Praze a šéf rozvědky BND byl obviněn z prodeje tajných dat Číně a Ázerbájdžánu.",
+      "reason": "Šokující podivín, který propojil českou diplomatickou misi se závažnou mezinárodní zradou.",
+      "title": "Špionská atomová bomba. Německo má největší průšvih za půl století",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-spionska-atomova-bomba-nemecko-ma-nejvetsi-prusvih-za-pul-stoleti-317057"
+    },
+    {
+      "score": 8,
+      "fact": "NBA hvězda Shai Gilgeous-Alexander koupila podíl v Atletico Madrid.",
+      "reason": "konkrétní celoslavná postava + překvapivá investice do evropského fotbalu",
+      "title": "Podíl v Atlétiku Madrid koupila hvězda NBA",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-la-liga-podil-v-atletiku-madrid-koupila-hvezda-nba-5551044"
+    },
+    {
+      "score": 8,
+      "fact": "Elizaveta Maximová získala v Soulu cenu za nejlepší herečku za film Máma.",
+      "reason": "Konkrétní herečka, mezinárodní úspěch a specifická cena.",
+      "title": "Elizaveta Maximová získala v Soulu cenu pro nejlepší herečku za snímek Máma",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-elizaveta-maximova-ziskala-v-soulu-cenu-pro-nejlepsi-herecku-za-snimek-mama-40601599"
+    },
+    {
+      "score": 8,
+      "fact": "Brusel zkoumá vliv Křetínského EP Group na francouzský knižní trh po zisku Fnacu.",
+      "reason": "Křetínský jako postava, překvapující spojení s francouzským knižním ohniskem.",
+      "title": "Francouzi se obávají o svůj knižní trh, Brusel zkoumá Křetínského akvizici",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-francouzi-se-obavaji-o-svuj-knizni-trh-brusel-zkouma-kretinskeho-akvizici-317099"
+    },
+    {
+      "score": 8,
+      "fact": "Hvězda skupiny Blue Lee Ryan oznámil, že se stane sedminásobným otcem.",
+      "reason": "Konkrétní číslo (7x) a celebrity, zábavný tón vyzpovídání.",
+      "title": "Někdejší dívčí idol z britské skupiny Blue Lee Ryan bude sedminásobným otcem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/lee-ryan-britsky-zpevak-skupina-blue-sedminasobny-otec-tata.A261005_101058_sex_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřela Margaret Hamilton, jejíž software pomohl Apollu 11 přistát na Měsíci.",
+      "reason": "Legendární vědkyně, spojení s ikonickým úspěchem apolloa",
+      "title": "Zemřela vědkyně, jejíž software pomohl Apollu 11 přistát na Měsíci",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-zemrela-vedkyne-jejiz-software-pomohl-apollu-11-pristat-na-mesici-40601414"
+    },
+    {
+      "score": 8,
+      "fact": "Ve věku 99 let zemřel Jakub S. Trojan, který pohřbíval Jana Palacha.",
+      "reason": "Konec éry slavného teologa s silnou historickou vazbou na 68.",
+      "title": "Ve věku 99 let zemřel teolog Jakub S. Trojan, který pohřbíval Jana Palacha",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-ve-veku-99-let-zemrel-teolog-jakub-s-trojan-ktery-pohrbival-jana-palacha-40601418"
+    },
+    {
+      "score": 8,
+      "fact": "Petřvald je největší město, kde ještě sídlí komunistický starosta.",
+      "reason": "Stručná a úderná politická fakta s historickým překvapením.",
+      "title": "Největší město, kde vládnou komunisté. Teď už nevyhrajeme, připouští starosta",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-mladi-to-tak-nevidi-komuniste-se-pripravuji-na-neuspech-v-posledni-baste-316688"
+    },
+    {
+      "score": 8,
+      "fact": "Léčitel Richard zemřel rukou vlastních žaček po vyjádření 134 milionů korún.",
+      "reason": "Detail o smrti rukou žaček je šokující a velmi dobře padne do otázky.",
+      "title": "Temné stopy – Sekty, 1. díl: Zoubková víla a guru Richard. Léčitel, který vybral 134 milionů – a zemřel rukou vlastních žaček",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/849860/temne-stopy-sekty-1-dil-zoubkova-vila-a-guru-richard-lecitel-ktery-vybral-134-milionu-a-zemrel-rukou-vlastnich-zacek.html"
+    },
+    {
+      "score": 8,
+      "fact": "Dominika Gottová se přiznala, že po smrti matky prosí o peníze macechu Ivanu Gottovou.",
+      "reason": "Šokující odhalení finanční závislosti známé celebrity, přímo z pohovoru s Bleskem.",
+      "title": "Dominika Gottová nemá na pohřeb mámy (†91): O peníze prosí Ivanu!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/849933/dominika-gottova-nema-na-pohreb-mamy-91-o-penize-prosi-ivanu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Trump označil za nepřítele každého, kdo používá termín umělá inteligence místo super inteligence.",
+      "reason": "Absurdní tvrzení od světového lídra, ideální na kvíz.",
+      "title": "Trump opět šokuje: „Říkáš umělá inteligence místo super inteligence? Jsi nepřítel!“",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850035/trump-opet-sokuje-rikas-umela-inteligence-misto-super-inteligence-jsi-nepritel.html"
+    },
+    {
+      "score": 8,
+      "fact": "Policie uznala domovní prohlídky u expřince Andrewa v Epsteinově kauze za nezákonné.",
+      "reason": "Vzácný právní úspěch britského prince, který přímým rozhodnutím blokuje vyšetřování.",
+      "title": "Policie uznala domovní prohlídky u exprince Andrewa v kauze Epstein za nezákonné",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/policie-uznala-domovni-prohlidky-u-exprince-andrewa-v-kauze-epstein-za-nezakonne/r~aaa29b27faeda17398ae7cd37b603c11/"
+    },
+    {
+      "score": 8,
+      "fact": "Rusko pochválilo Slovensko za nový pomník Koněvovi, Česko označilo za 'barbary' kvůli starému.",
+      "reason": "Grafický diplomatický a ironický srovnávací fakt mezi sousedními státy v regionu.",
+      "title": "Rusko pochválilo Slovensko za pomník Koněvovi. Česko označilo za barbary",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-pochvalilo-slovensko-za-pomnik-konevovi-cesko-oznacilo-za-barbary-317122"
+    },
+    {
+      "score": 8,
+      "fact": "Británie vymění na bankovkách Churchilla za sovu, čmeláka, papugu a ježíka.",
+      "reason": "Nečekaný vtipný zvrat, konkretní obrázky, zmiňuje Churchilla",
+      "title": "Místo Churchilla čmelák. Britské bankovky změní tvář",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/misto-churchilla-cmelak-britske-bankovky-zmeni-tvar-378365"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřela Margaret Hamilton, jejíž kód byl klíčový pro réussir Apollo 11 přistání na Měsíci.",
+      "reason": "Přepojení s history Apollo 11 + programování, silná fakta",
+      "title": "Zemřela inženýrka Hamiltonová, její kód zachránil přistání Apolla 11 na Měsíci",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zemrela-inzenyrka-hamiltonova-jeji-kod-zachranil-pristani-apolla-11-na-mesici-317032"
+    },
+    {
+      "score": 8,
+      "fact": "Dánský europoslanec přizval sochu amerického prezidenta k hlasování v europarlamentu.",
+      "reason": "Vizuelní a absurdní scéna, ideální pro otázkou typu 'Co přizval...'.",
+      "title": "V europarlamentu vyrostl ‚Oranžový mor‘. Sochu amerického prezidenta přizval dánský europoslanec",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/v-europarlamentu-vyrostl-oranzovy-mor-sochu-americkeho-prezidenta-prizval-dansky_2610080825_raf"
+    },
+    {
+      "score": 7,
+      "fact": "Elizaveta Maximová porazila konkurenci a porovnávala se s Cate Blanchett v Soulu.",
+      "reason": "Dobré vyzdvižení česko-slovenského talentu s mezinárodními srovnaními.",
+      "title": "Pocta pro Maximovou. Za roli ve filmu Máma si odnesla cenu jako Cate Blanchett",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/elizaveta-maximova-mama-oceneni-soul-jiri-strach-mentalni-postizeni-role.A261008_160017_filmvideo_lysa"
+    },
+    {
+      "score": 7,
+      "fact": "Andrej Babiš vynechal závěr volební kampaně kvůli horečce.",
+      "reason": "Důležitá politická postava a nečekaná nepřítomnost ve důležitém momentě.",
+      "title": "Babiše ze závěru kampaně vyřadila horečka. S Hušbauerem si zavolal",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/volby/premier-andrej-babis-hnuti-ano-nemoc-kampan-husbauer-volby.A261008_164735_volby_linh"
+    }
+  ]
+}
