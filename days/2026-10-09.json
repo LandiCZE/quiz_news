@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-09",
+  "generated": "2026-10-10T13:34:48+00:00",
+  "stats": {
+    "fetched": 1160,
+    "that_day": 560,
+    "deduped": 507,
+    "scored": 180,
+    "passed": 58,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Václav Marhoul natáčí film v Hollywoodu s herci Nickem Noltem a Jamesem Francem.",
+      "reason": "Slavní hvězdy ve spolupráci s českým režisérem, silný mediální příběh",
+      "title": "Václav Marhoul natočil film v Hollywoodu. Hraje v něm Nick Nolte či James Franco",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/film/vaclav-marhoul-natocil-film-v-hollywoodu-hraje-v-nem-nick-nolte-ci-james-franco/r~aaa293b8a41aef0faba44ab07ea5b8e1/"
+    },
+    {
+      "score": 9,
+      "fact": "Starostou peruvské obce byl zvolen muž jménem Hitler Mussolini Simeon Flores.",
+      "reason": "Výborná legrační otázka s nezvyklým jménem ve volbách.",
+      "title": "V Peru se k moci dostal Hitler Mussolini. Kuriózní jméno starosty zaujalo svět",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/hitler-mussolini-simeon-flores-peru-volby.A261009_162133_zahranicni_jhr"
+    },
+    {
+      "score": 8,
+      "fact": "Trump zřídil speciální výbor k vyšetřování guvernérky Fedu Lisu Cookové.",
+      "reason": "Konkrétní figurka a výrazný political krok",
+      "title": "Trump zřídil výbor, který bude vyšetřovat guvernérku Fedu Cookovou",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-trump-zridil-vybor-ktery-bude-vysetrovat-guvernerku-fedu-cookovou-317250"
+    },
+    {
+      "score": 8,
+      "fact": "Princ Harry přiznal, že měl sklony závislosti a klamal se bohatstvím Meghan.",
+      "reason": "Slavná postava + nečekané přiznání v osobním životě",
+      "title": "Přiznání prince Harryho: Deprese a závislost na Meghan",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-kralovske-rodiny/850095/priznani-prince-harryho-deprese-a-zavislost-na-meghan.html"
+    },
+    {
+      "score": 8,
+      "fact": "Petr Pavel v den voleb letěl soukromým tryskáčem z Maroka do Černoucka a zpátky.",
+      "reason": "Kontrast luxusu soukromého letu a nutnosti odvolit, silný vizuál \"fly-in/fly-out\".",
+      "title": "TMBK: Petr Pavel si musí cestu z Maroka do Černoučku a zpět odpracovat",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-petr-pavel-si-musi-cestu-z-maroka-do-cernoucku-a-zpet-odpracovat-317239"
+    },
+    {
+      "score": 8,
+      "fact": "Pavel letěl kvůli jednomu hlasu soukromým tryskáčem do Černoucka a hned zpět do Maroka.",
+      "reason": "Žhavé téma s kontrovérzním komfortem, skvělý pro debatu i fakta o létání.",
+      "title": "Pavlova cesta mezi Marokem a Českem soukromým tryskáčem: Luxus i ambulance!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/850108/pavlova-cesta-mezi-marokem-a-ceskem-soukromym-tryskacem-luxus-i-ambulance.html"
+    },
+    {
+      "score": 8,
+      "fact": "Šéf české diplomacie Petr Macinka označil Nobelovu cenu za mír za politické gesto.",
+      "reason": "Pímá reakce ministryna na mezinárodní událost, vhodná pro aktuální politický kvíz.",
+      "title": "Cena pro aparátčici, politické gesto, tepe Macinka rozhodnutí Nobelova výboru",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/udeleni-nobelova-cena-miru-pillayova-petr-macinka-politicke-gesto.A261009_143845_domaci_ikro"
+    },
+    {
+      "score": 8,
+      "fact": "Za padesát let se populace volně žijících obratlovců na světě přiběhla o 73 procent.",
+      "reason": "Konkrétní statistické číslo (73 %) a globalní kontext je ideální na vyostrující otázku.",
+      "title": "Za padesát let zmizely tři čtvrtiny volně žijících obratlovců",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/za-padesat-let-zmizely-tri-ctvrtiny-volne-zijicich-obratlovcu-378400"
+    },
+    {
+      "score": 8,
+      "fact": "Při začátkách vývoje elektrického Ferrari byl klíčovým inspirátorem majitel Amazonu Jeff Bezos.",
+      "reason": "Slavný miliardář v přímém spojení s exkluzivní italskou značkou aut.",
+      "title": "Elektrické Ferrari se začalo rodit před deseti lety, u vzniku byl i Jeff Bezos",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-elektricke-ferrari-se-zacalo-rodit-pred-deseti-lety-u-vzniku-byl-i-jeff-bezos-40601731"
+    },
+    {
+      "score": 8,
+      "fact": "Sydney Sweeney je vzdálená sestřenice Marilyn Monroe v devátém kolenu.",
+      "reason": "Nepřekvapující spojení dvou silné hollywoodských jmen, skvělá kurióznost",
+      "title": "Herečka Sydney Sweeney je příbuzná s Marilyn Monroe. Vidíte podobu?",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/sydney-sweeney-marilyn-monroe-herecka-myheritage-pribuzni.A261009_103823_lidicky_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Ze známého italského vinařství Antinori bylo ukradena 30 tisíc lahví vína za 120 milionů korun.",
+      "reason": "Rekordní loupež s konkrétním jménem firmy a šokujícím objemem krádeže.",
+      "title": "Rekordní loupež: Zloději ukradli 30 tisíc lahví luxusního vína za 120 milionů",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-rekordni-loupez-zlodeji-ukradli-30-tisic-lahvi-luxusniho-vina-za-120-milionu-40601634"
+    },
+    {
+      "score": 8,
+      "fact": "Meryl Streepová nadabuje Ježíše v nové verzi Narnie a konzervativní křesťané z toho mají nervy.",
+      "reason": "Silný celebrity + kontroverzní téma kombinace, které vyvolává debatu.",
+      "title": "Ježíš má mluvit ženským hlasem? Křesťané se bouří proti roli Meryl Streepové v Narnii",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/narnie-meryl-streepova-greta-gerwigova.A261008_150152_filmvideo_jgo"
+    },
+    {
+      "score": 8,
+      "fact": "Petr Janda připlul stylingově po Vltavě na křest nového alba skupiny Olympic.",
+      "reason": "Vizuálně zajímavé a humorné gesto proslulého divadla, vhodné na vizuální kvíz.",
+      "title": "Netradiční křest skupiny Olympic: Připluli po Vltavě",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850036/netradicni-krest-skupiny-olympic-pripluli-po-vltave.html"
+    },
+    {
+      "score": 8,
+      "fact": "Pilot Flydubai chtěl letadlem zaútočit na Ben Gurion inspirován 11. zářím.",
+      "reason": "Konkrétní plán útoku s jasním cílem a datem.",
+      "title": "Ománský pilot se při únosu letadla FlyDubai inspiroval 11. zářím, potvrdil prokurátor",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-omansky-pilot-chtel-unest-letadlo-flydubai-a-podle-vzoru-11-zari-zautocit-na-letiste-v-tel-avivu-40601806"
+    },
+    {
+      "score": 8,
+      "fact": "Čerstvá nobelistka Navanethem Pillayová žertovala, že chce sdílet cenu s Donaldem Trumpem.",
+      "reason": "Humorný výrok konkrétního slavíka, který přitahuje pozornost.",
+      "title": "„Tleskejte víc a budu sdílet cenu s Trumpem,“ žertovala čerstvá nobelistka",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-nobelovu-cenu-miru-dostala-jihoafricka-pravnicka-navanethem-pillayova-317157"
+    },
+    {
+      "score": 8,
+      "fact": "Nobelovu cenu za mír získala jihoafrická právnička a soudkyně Navanethem Pillayová.",
+      "reason": "Žhavá aktuální událost, specifické jméno vítězky je ideální pro rychlé kolo.",
+      "title": "Hájila Mandelu, trestala zločiny ve Rwandě. Nobelovu cenu za mír získala jihoafrická právnička",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/nobelovu-cenu-za-mir-ziskala-jihoafricka-soudkyne-tribunalu-pro-rwandu/r~aaa2916c7796ee8ac728ef6a32a82dc6/"
+    },
+    {
+      "score": 7,
+      "fact": "Letos se Velké pardubice o 30 koní podělí kvůli nedostatku vody na dálnici.",
+      "reason": "Historický rekordy (nejméně od 1993) je výborný materiál",
+      "title": "‚Tréninkové dráhy neměly dostatek vody.‘ Velká pardubická bude mít letos nejméně koní od roku 1993",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/treninkove-drahy-nemely-dostatek-vody-velka-pardubicka-bude-mit-letos-nejmene_2610091900_mim"
+    },
+    {
+      "score": 7,
+      "fact": "Francouzští policisté našli dva ukradené Renoirovy obrazy v obyčejné garáži.",
+      "reason": "Konkrétní událost s known jménem (Renoir) a nečekaným místem nálezů.",
+      "title": "Francouzská policie objevila dva Renoirovy obrazy ukradené v září",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/francouzska-policie-objevila-dva-renoirovy-obrazy-ukradene-v-zari-378408"
+    },
+    {
+      "score": 7,
+      "fact": "Španělska 87letá důchodkyně Maricarmen zemřela krátce po nuceném vystěhování z bytu, v němž žila 70 let.",
+      "reason": "Smutná, ale konkrétní lidská tragédie s názvem a věkem.",
+      "title": "FOTO: Smrt vystěhované důchodkyně spustila ve Španělsku další protesty",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-foto-smrt-vystehovane-duchodkyne-spustila-ve-spanelsku-dalsi-protesty-40601711"
+    },
+    {
+      "score": 7,
+      "fact": "Několik českých europoslanců hlasovalo pro uznání legitimacy volby do ruské Dumy.",
+      "reason": "Politicky kontroverzní a šokující postoj členů parlamentu, vhodný pro diskusi.",
+      "title": "Europoslanci odmítli legitimitu ruské Dumy. Zastali se jí Slováci i několik Čechů",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/evropsky-parlament-rezoluce-rusko-statni-duma-volby-proti-blaha-konecna-mazurek-dostal-david.A261009_094307_zahranicni_kha"
+    }
+  ]
+}
