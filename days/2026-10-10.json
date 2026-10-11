@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-10",
+  "generated": "2026-10-11T14:03:46+00:00",
+  "stats": {
+    "fetched": 1125,
+    "that_day": 490,
+    "deduped": 437,
+    "scored": 180,
+    "passed": 54,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Portugalská fotbalová federace suspendovala Cristiana Ronalda za opustění národního týmu během Ligy národů.",
+      "reason": "Šokující krok vůči nejdražší fotbalové hvězdě světa, konkrétní událost.",
+      "title": "S Ronaldem se nemažou. Portugalci vyřkli první trest nad největší hvězdou",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/s-ronaldem-se-nemazou-portugalci-vyrkli-prvni-trest-nad-nejvetsi-hvezdou/r~aaa2911b2c6a020a37841ed4721e016e/"
+    },
+    {
+      "score": 9,
+      "fact": "Cole Palmer prodloužil smlouvu s Chelsea do roku 2034.",
+      "reason": "Kontrakt až do roku 2034 je extrémně dlouhý a snadno zapamatatelný míle.",
+      "title": "Chelsea si pojistila reprezentanta Palmera do roku 2034",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-premier-league-chelsea-si-pojistila-fotbaloveho-reprezentanta-palmera-do-roku-2034-5552123"
+    },
+    {
+      "score": 9,
+      "fact": "Petra Nesvačilová musela načerpat dva dny před dětem Star Dance.",
+      "reason": "Šokující odložení světoznámé herečky v populární taneční soutěži.",
+      "title": "Konec Nesvačilové ve StarDance ještě před začátkem: Vyděšená Drexler i smutná Schneiderová",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-serialy-filmy-kino-a-tv/850144/konec-nesvacilove-ve-stardance-jeste-pred-zacatkem-vydesena-drexler-i-smutna-schneiderova.html"
+    },
+    {
+      "score": 9,
+      "fact": "Trump oznámil dohodu s Putinem na dodávky 300 tisíc tun ropy.",
+      "reason": "Závazná dohoda dvou nepravděpodobných stran, šokující téma",
+      "title": "Trump se dohodl s Putinem na dodávkách nafty. Ještě nedávno přitom Rusko trestal sankcemi",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/trump-se-dohodl-s-putinem-na-dodavkach-nafty-jeste-nedavno-pritom-rusko-trestal-sankcemi/r~aaa296fc8370dbdc4071eb01f6d924db/"
+    },
+    {
+      "score": 9,
+      "fact": "Starostou peruského okresu se stal politician se jménem Hitler Mussolini Simeón Flores.",
+      "reason": "Kuriozní jméno a titul starosty – perfektní fakt pro rychlé odhalení v kvízu.",
+      "title": "Volební bizár v horském okrese: starostou se stal Hitler Mussolini. Vyhrál o 25 hlasů",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/volebni-bizar-v-horskem-okrese-starostou-se-stal-hitler-mussolini-vyhral-o-25-hlasu/r~aaa297ee7fa24f6500d665c76c431d9d/"
+    },
+    {
+      "score": 9,
+      "fact": "Norsko poprvé za 20 let potrestalo příšlost válečné služby dvěma týdny vězení.",
+      "reason": "Jasný mezník s číslem a netypický trest",
+      "title": "Nechceš na vojnu, jdeš sedět! Do Evropy se vrací tresty pro odpírače, důvod je jasný",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/nechces-na-vojnu-jdes-sedet-do-evropy-se-vraci-tresty-pro-odpirace-duvod-je-jasny/r~aaa2921f84e5278a069890c0a85a43a1/"
+    },
+    {
+      "score": 8,
+      "fact": "Jitka Volfová porazila hejtmana Půtu, ale ztratila radnici v České Lípě.",
+      "reason": "Volební paradox (výhra i prohra najednou) je ideální na kvíz",
+      "title": "Vítězství i zmar. Volfová porazila Půtu v boji o Senát, ale ztratila radnici v České Lípě",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/volby-vitezstvi-i-zmar-volfova-porazila-putu-v-boji-o-senat-ale-ztratila-radnici-v-ceske-lipe-40602020"
+    },
+    {
+      "score": 8,
+      "fact": "Brno poprvé v historii směřuje k tomu, že bude mít lidoveckého primátora.",
+      "reason": "Historická prvorádová událost v největším moravském městě",
+      "title": "Výsledky voleb v Brně: Poprvé v historii vítězí lidovci, ODS se propadla",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/volby/brno/komunalni-volby-2026-brno-lidovci-hruska-vitez-ods-propadla.A261010_192625_brno-volby_zubr"
+    },
+    {
+      "score": 8,
+      "fact": "Paul Seixas je novým nejmladším historickým vítězem cyklistického monumentu Kolem Lombardie.",
+      "reason": "Historický rekord s konkrétním tvarem (nejmladší vítěz) a sportovním kontextem.",
+      "title": "Monument Kolem Lombardie ovládl Seixas a stal se jeho nejmladším vítězem",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/cyklistika-monument-kolem-lombardie-ovladl-seixas-a-stal-se-jeho-nejmladsim-vitezem-5552512"
+    },
+    {
+      "score": 8,
+      "fact": "Motoristé mají na č. 8 prvního zastupitele, který je v Černoučku.",
+      "reason": "Nevíšvícká událost se silným regionálem a specifikem.",
+      "title": "Motoristé slaví prvního zastupitele, zvolili ho v Pavlově Černoučku",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/vysadime-tam-strom-motoriste-maji-prvniho-zastupitele-zvolen-byl-v-cernoucku/r~aaa29672ee927421de8cf9fc56568cd9/"
+    },
+    {
+      "score": 8,
+      "fact": "Céline Dion při svém comebackovém koncertu v Paříži zakopla a tvrdě upadla na jeviště.",
+      "reason": "Nepředvídatelný zážitek s velkou hvězdou, přímo dotýká se aktuální hovorovosti.",
+      "title": "Nemocná Céline Dion (58) upadla na jevišti",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/850148/nemocna-celine-dion-58-upadla-na-jevisti.html"
+    },
+    {
+      "score": 8,
+      "fact": "Zakladatel restaurací L'Osteria, 63letý Klaus Rader, zemřel v autě v Španělsku.",
+      "reason": "Smrt úspěšného podnikatele v luxusním autě na Mallorce.",
+      "title": "Zakladatel oblíbené sítě restaurací zemřel: Smrt ve sporťáku!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/850143/zakladatel-oblibene-site-restauraci-zemrel-smrt-ve-sportaku.html"
+    },
+    {
+      "score": 8,
+      "fact": "Brit přišel kvůli zubnímu výletu do Turecka s infekcí mozku a pěti operacemi.",
+      "reason": "Dramatická a bizarní historie lékáren v Turecku.",
+      "title": "Bývalý obchodník chtěl v Turecku nové zuby: Málem přišel o život!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/849602/byvaly-obchodnik-chtel-v-turecku-nove-zuby-malem-prisel-o-zivot.html"
+    },
+    {
+      "score": 8,
+      "fact": "Do Vltavy ve Praze spadlo policejní auto, osádku zachránil ranní běžec.",
+      "reason": "Konkrétní nehoda se zvratem (záchránář běhal)",
+      "title": "Policejní auto spadlo do Vltavy. Pro osádku skočil do vody ranní běžec",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-na-hlavkove-moste-spadlo-policejni-auto-spadlo-do-vltavy-317266"
+    },
+    {
+      "score": 8,
+      "fact": "Mezi Kielem a Oslem pendluje trajekt s wellness, kasinou a vězením.",
+      "reason": "Nadpřirozená kombinace zmíněných služeb, kuriozita",
+      "title": "Wellness, kabaret, levný alkohol i vězení. Mezi Kielem a Oslem pendluje největší trajekt světa",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/cestovani/wellness-kabaret-levny-alkohol-i-vezeni-mezi-kielem-a-oslem-pendluje-nejvetsi_2610101044_bva"
+    },
+    {
+      "score": 8,
+      "fact": "Na Borneu platí pytlákům za fotografie divokých zvířat, aby se stali ochránci přírody.",
+      "reason": "Kuriozita: pytláci jako ochránci přírody je skvělý hook na pozornost.",
+      "title": "Fotky: Na Borneu dělají z pytláků ochránce. Platí jim za snímky zvířat",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-na-borneu-delaji-z-pytlaku-ochrance-plati-jim-za-snimky-zvirat-316373"
+    },
+    {
+      "score": 8,
+      "fact": "Na místě, kde spolu žili Ján Kuciak a Martina Kušnírová, vyrostl nový památník.",
+      "reason": "Emoční tón a specifické místo spojené s ikonou české a slovenské demokracie.",
+      "title": "‚Bez vás pokračujeme za vás.‘ Na místě, kde spolu žili Ján Kuciak a Martina Kušnírová, vyrostl památník",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/bez-vas-pokracujeme-za-vas-na-miste-kde-spolu-zili-jan-kuciak-a-martina_2610101323_jho"
+    },
+    {
+      "score": 8,
+      "fact": "Trump ohrozil, že Spojené státy nezapomenou Norsku za udělení Nobelovy ceny právničce.",
+      "reason": "Trumpova verbální agrese k Norsku je šokující a quizovatelná.",
+      "title": "Tu vítěznou paní neznám, Norsku to nezapomenu. Trumpa rozlítila udělená Nobelovka",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/trump-oznacil-udeleni-nobelovy-ceny-za-mir-za-ostudne-usa-to-norsku-nezapomenou/r~aaa2951ff92ab0822e46dbb7d279b67b/"
+    },
+    {
+      "score": 8,
+      "fact": "Putin nařídil generáloví Surovikinovi, aby zničil sedm mostů přes Dněpr.",
+      "reason": "Konkrétní číslo (7 mostů) a známý generál",
+      "title": "Sedm mostů přes Dněpr. Generál Surovikin dostal od Putina první úkol",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-sedm-mostu-pres-dnepr-general-surovikin-dostal-od-putina-prvni-ukol-40601778"
+    },
+    {
+      "score": 7,
+      "fact": "Rozšířená popularita léků na hubnutí, jako je Ozempic, mění provozuschopnost restaurací v americké gastronomii.",
+      "reason": "Zajímavý kulturní a ekonomický trend s konkrétním produktem (Ozempic) ve hře.",
+      "title": "Méně jídla, menší útraty. Léky na hubnutí přepisují pravidla americké gastronomie",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/restaurace-usa-leky-na-hubnuti.A261005_121516_eko-zahranicni_rie"
+    }
+  ]
+}
