@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-11",
+  "generated": "2026-10-12T16:47:26+00:00",
+  "stats": {
+    "fetched": 1250,
+    "that_day": 412,
+    "deduped": 372,
+    "scored": 179,
+    "passed": 66,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Herec Jiří Štěpnička zemřel v neděli ve věku 79 let.",
+      "reason": "Smrt světoznámého českého herece je důležitá pro news kolo",
+      "title": "Haly s nějakou kapelou? To dokáže každý. Štěpnička radil Krajčovi, ať je jen hercem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/divadlo/jiri-stepnicka-richard-krajco-vzpominka.A261011_135545_divadlo_ts"
+    },
+    {
+      "score": 9,
+      "fact": "Václav Pithart vyjednal u Fidela Castra propuštění dvojice Bubeníka a Pilipy z Kuby.",
+      "reason": "Historická anekdota se slavným jménem (Pithart/X Castro) a zajímavým kontextem.",
+      "title": "Pilipovi a Bubeníkovi hrozilo na Kubě až 20 let. Jak Pithart vyjednal s Castrem jejich propuštění?",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/historie/pilipovi-a-bubenikovi-hrozilo-na-kube-az-20-let-jak-pithart-vyjednal-s-castrem_2610111304_cen"
+    },
+    {
+      "score": 9,
+      "fact": "Herec Jiří Štěpnička zemřel ve 79 letech a jeho hlasem mluvil Harrison Ford v českém znění.",
+      "reason": "Smuteční zpráva se silným pojmem známosti (Harrison Ford) a konkrétním věkem.",
+      "title": "Zemřel Jiří Štěpnička. Hrál v Národním i Gottwalda, namluvil Forda či Douglase",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/divadlo/jiri-stepnicka-smrt.A261011_123707_divadlo_ts"
+    },
+    {
+      "score": 9,
+      "fact": "Herec John Goodman nazhlučkal úhrnně 90 kilů díky změně stravy.",
+      "reason": "Velká změna postavu známé celebrity, konkrétní číslo a důvod.",
+      "title": "John Goodman zhubl 90 kilo. Pomohla mu změna stravy i pravidelný pohyb",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/john-goodman-hubnuti-pohyb-chuze-dieta-herec-film-digger.A261005_104434_lidicky_sub"
+    },
+    {
+      "score": 9,
+      "fact": "Po chybě při amputaci přišla žena o obě nohy, místo jedné plánuvané.",
+      "reason": "Šokující医疗ical error, dramatický konflikt, jasná odpověď pro kvíz (oba/lékaři).",
+      "title": "Neuvěřitelná chyba lékařů. Spletli se při amputaci, žena přišla o obě nohy",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/neuveritelna-chyba-lekaru-spletli-se-pri-amputaci-zena-prisla-o-obe-nohy/r~aaa29f54ebf2d47ab44ccc188e197a57/"
+    },
+    {
+      "score": 9,
+      "fact": "Muž zemřel poté, co v zoo v Británii vstoupil do výběhu tygra.",
+      "reason": "Šokující tragédie s jednoduchou a zábavnou otázkou (co byl zvíře), což publikum dává přednost.",
+      "title": "Tragédie v britské zoo. Muž zemřel poté, co vlezl do výběhu tygra",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/tragedie-v-britske-zoo-muz-zemrel-po-vstupu-do-vybehu-tygra/r~aaa2901eadd12f9ea913eec0ad93eb95/"
+    },
+    {
+      "score": 9,
+      "fact": "Muž zabitý tygrem v anglické zoologické zahradě před smrtí pokusil zůstat stát vztyčeným prstem.",
+      "reason": "Zábavný a shokující vizuální detail, ideální pro rychlou odpověď.",
+      "title": "Před smrtí v tygřím výběhu se návštěvník pokusil zastavit šelmu vztyčeným prstem",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-pred-smrti-v-tygrim-vybehu-se-navstevnik-pokusil-zastavit-selmu-vztycenym-prstem-40602137"
+    },
+    {
+      "score": 9,
+      "fact": "Sýrie zvažuje, že Izraeli pošle ostatky slavného špiona Eliho Kohena.",
+      "reason": "Historický twist, méně známý fakt, skvělá nápad pro kvíz.",
+      "title": "Návrat špiona století? Sýrie zvažuje, že Izraeli pošle ostatky Eliho Kohena",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-navrat-spiona-stoleti-syrie-zvazuje-ze-izraeli-posle-ostatky-eliho-kohena-317163"
+    },
+    {
+      "score": 8,
+      "fact": "Jiří Štěpnička měl konflikt se StB, jeho osud ilustruje 20. století.",
+      "reason": "Kultovní jméno + čtvrté století + potlačenost, skvělý kontext",
+      "title": "Hvězdný lesk, konfident StB, samotka. Osud Štěpničků ilustruje naše 20. století",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/divadlo/jirina-stepnickova-jiri-stepnicka-osud.A261011_151724_divadlo_ts"
+    },
+    {
+      "score": 8,
+      "fact": "Michael Douglas v baru naznačil užití drog a rakovinu z orálního sexu.",
+      "reason": "Slavná hvězda, šokující nebo nepříjemné přiznání",
+      "title": "Neřestné vzpomínky Michaela Douglase (82): Trochu dealer, trochu feťák i rakovina z orálního sexu",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/850164/nerestne-vzpominky-michaela-douglase-82-trochu-dealer-trochu-fetak-i-rakovina-z-oralniho-sexu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Bývalý guvernér ČNB Jiří Rusnok označil plán Schillerové za obráceného Jánošíka.",
+      "reason": "Barevné české politické srovnání od známé osobnosti",
+      "title": "„Je to obrácený Jánošík.“ Rusnok odmítl plán Schillerové na daňové úlevy",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/je-to-obraceny-janosik-rusnok-odmitl-plan-schillerove-na-danove-ulevy/r~aaa295f7990a7094212fd69b5dc5116f/"
+    },
+    {
+      "score": 8,
+      "fact": "Jiří Martínek, známý jako Doktoř Vševěd z pořadu Na lovu, oslavil mezi lety padesátiny.",
+      "reason": "Slavnostní věk slavné osobnosti a příjemný koutek pro generaci 90tých.",
+      "title": "Jiří Martínek alias Doktor Vševěd: Nejsem stroj, ale denně čtu noviny od A do Z",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-jiri-martinek-alias-doktor-vseved-nejsem-stroj-ale-denne-ctu-noviny-od-a-do-z-40601082"
+    },
+    {
+      "score": 8,
+      "fact": "Český brankář Šimon Zajíček vstřelil ve druhé lize kromě bezúspěšnosti i jedinou gól.",
+      "reason": "Nepřirozený sportovní moment (brankář střílí gól), číteš na jedné odpovědi.",
+      "title": "Český brankář jako Šesťorkin? V zápase farmy Bruins padl bizarní gól",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/hokej/cesky-brankar-jako-sestorkin-v-zapase-farmy-bruins-padl-bizarni-gol/r~aaa296f66bcb988ad4b63cfd728b5df6/"
+    },
+    {
+      "score": 8,
+      "fact": "Chilská poušť Atacama, nejsušší místo na Zemi, díky El Niño vykvetla tisíci květy.",
+      "reason": "Vizuálně silný, až magický přirodní jev s konkrétním místem.",
+      "title": "Fotky: Atacama ožila. Nejsušší místo na Zemi se proměnilo v květinový ráj",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/obrazem-fotky-atacama-ozila-nejsussi-misto-na-zemi-se-promenilo-v-kvetinovy-raj-317516"
+    },
+    {
+      "score": 8,
+      "fact": "Vítěz Velké pardubické dostane nový pohár z dílny Ajeto s rubíny.",
+      "reason": "Konkrétní novinka, slavnostní tradice a speciální detail.",
+      "title": "Patnáct kilo skla a rubínů. Vítěze Velké pardubické čeká unikátní pohár",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/nova-trofej-pro-viteze-velke-pardubicke-symbolizuje-dravost-koni-i-nastrahy-trati/r~aaa293c0695bcf80b73ed24fdd706512/"
+    },
+    {
+      "score": 8,
+      "fact": "Porodnice v Jablonci odhalila seznam kuriózních jmen dětí, jako jsou Pipi Lotta nebo Baltazar.",
+      "reason": "Veselé a konkrétní odpovědi (jména) které vyvolají diskuzi a smích u piva.",
+      "title": "Pipi Lotta, Anouk či Baltazar: Česká porodnice odhalila kuriózní jména miminek",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/850015/pipi-lota-anouk-ci-baltazar-ceska-porodnice-odhalila-kuriozni-jmena-miminek.html"
+    },
+    {
+      "score": 8,
+      "fact": "Zakladatel řetězce L’Osteria Klaus Rader zahynul, když se jeho Porsche zřítilo do rokle.",
+      "reason": "Smrt známého podnikatele spojeného s lokálií, kterou znají Češi, velmi dramatická smrt.",
+      "title": "Zemřel zakladatel řetězce restaurací L'Osteria Klaus Rader. Jeho porsche se zřítilo do horské rokle",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-zemrel-zakladatel-retezce-restauraci-l-osteria-klaus-rader-jeho-porsche-se-zritilo-do-horske-rokle-40602174"
+    },
+    {
+      "score": 8,
+      "fact": "Ukrajinský dronový útok odstavil třetí datové centrum ruské firmy Yandex za pár dní.",
+      "reason": "Silná vojensko-technologická s příkrá pointou o opakovaných zásazích.",
+      "title": "Ukrajinský útok odstavil datové centrum ruského Yandexu",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinsky-utok-odstavil-datove-centrum-ruskeho-yandexu-40602131"
+    },
+    {
+      "score": 8,
+      "fact": "Nepál zkrátil lhůtu pro prohlášení za mrtvého po záplavách z dvanácti let na čtyřicet pět dní.",
+      "reason": "Konkrétní změna legislativního pravidla se šokujícím výstupem (45 dní),",
+      "title": "Z 12 let na 45 dní. Ničivé záplavy v Nepálu změnily pravidla pro prohlašování za mrtvé",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-z-12-let-na-45-dni-nicive-zaplavy-v-nepalu-zmenily-pravidla-pro-prohlasovani-za-mrtve-40602110"
+    },
+    {
+      "score": 7,
+      "fact": "Verstappen poprvé v kariéře vyhrál závod v Singapuru při svém 250. startu.",
+      "reason": "Milník ve formuli 1 s konkrétním číslem a lokací.",
+      "title": "Verstappen stylově oslavil 250. start v F1 a poprvé vyhrál závod v Singapuru",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/ostatni-sporty/verstappen-stylove-oslavil-250-start-v-f1-a-poprve-vyhral-zavod-v-singapuru_2610112144_vdv"
+    }
+  ]
+}
