@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-13",
+  "generated": "2026-10-14T12:56:34+00:00",
+  "stats": {
+    "fetched": 1379,
+    "that_day": 591,
+    "deduped": 533,
+    "scored": 180,
+    "passed": 63,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Komunisté financovali laboratoře parapsychologií, které proutky hledaly uran.",
+      "reason": "šokující a nesmyslně vtipný fakt z komunistické éry, ideální na sálový smích",
+      "title": "Parapsychologové v Československu proutky hledali uran a rukama rakovinu",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/parapsychologove-v-ceskoslovensku-proutky-hledali-uran-a-rukama-rakovinu-378548"
+    },
+    {
+      "score": 9,
+      "fact": "Van Goghův obraz Kaštanové míří do aukce v Hongkongu po 60 letech, kdy byl veřejnosti skrytý.",
+      "reason": "Slavný umělec, konkrétní dílo a atraktivní časový údaj (60 let).",
+      "title": "Zájem o van Gogha v Hongkongu. Obraz, který byl 60 let skrytý, míří do aukce",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/zajem-o-van-gogha-v-hongkongu-obraz-ktery-byl-60-let-skryty-miri-do-aukce/r~aaa299750118ccf785fb799381188935/"
+    },
+    {
+      "score": 9,
+      "fact": "CSG Michala Strnada se stala největším akcionářem kanadské kosmické firmy MDA Space.",
+      "reason": "Spekulant zdánlivě se stal kosmickým drakou, konkrétní jména.",
+      "title": "CSG získala největší podíl v kanadském výrobci vesmírných technologií. Vlastní 9,5 procenta",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/podniky/csg-se-stala-nejvetsim-akcionarem-v-kanadskem-vyrobci-vesmirnych-technologii.A261013_072927_ekoakcie_ijan"
+    },
+    {
+      "score": 9,
+      "fact": "Papeži Leovi XIV. lékaři diagnostikovali rakovinu plic a odstranili lalok.",
+      "reason": "Zdravotní stav světového lídra je šokující a velká zpráva",
+      "title": "Papež Lev XIV. (71) má rakovinu! Lékaři mu odstranili část pravé plíce",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850410/sokujici-nalez-u-papeze-rakovina-plic.html"
+    },
+    {
+      "score": 8,
+      "fact": "Gottova dcera Dominika se rozhodla nezúčastnit pohřu své matky Antonie Zacpalové.",
+      "reason": "Slavnostní scanda s konkrétním jménem a dramatickým rozhodnutím.",
+      "title": "Ostudné dění po smrti matky (†91) Gottovy dcery: Boj o tělo mrtvé maminky! Jakou roli v tom má Ivana?",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850314/ostudne-deni-po-smrti-matky-91-gottovy-dcery-boj-o-telo-mrtve-maminky-jakou-roli-v-tom-ma-ivana.html"
+    },
+    {
+      "score": 8,
+      "fact": "Formule 1 se po 32 letech vrátí do Afriky, kde desítky hostí Rwanda.",
+      "reason": "Specifická země a přesná historická mezera (32 let) создают dobrý kvízový hádanku.",
+      "title": "Potvrzeno. Formule 1 se vrátí do Afriky",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-potvrzeno-formule-1-se-vrati-do-afriky-5554985"
+    },
+    {
+      "score": 8,
+      "fact": "Herci z Breaking Bad, RJ Mitte (34), zemřel náhle.",
+      "reason": "Nečekaná smrt hvězdy zvery oblíbeného seriálu Je to tématická zpráva.",
+      "title": "Ve věku 34 let zemřel herec RJ Mitte, proslavil se v seriálu Breaking Bad",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/umrti-rj-mitte-serial-pernikovy-tata.A261013_080921_filmvideo_pluh"
+    },
+    {
+      "score": 8,
+      "fact": "Známý hudební kritik Jan Rejžek sjel na volby na vozíku po amputaci nohy.",
+      "reason": "Dobré místní téma s lidským příběhem.",
+      "title": "Hudební kritik Jan Rejžek (72) po amputaci: Volit jel i bez nohy",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850311/hudebni-kritik-jan-rejzek-72-po-amputaci-volit-jel-i-bez-nohy.html"
+    },
+    {
+      "score": 8,
+      "fact": "Ruský server přiznal, že Rusové nejsou schopni moderně vyrábět auta.",
+      "reason": "Výrazný fakt, přirovnání k SSSR.",
+      "title": "„Jako za Sovětského svazu.“ Rusové sebekriticky přiznávají, že auta vyrábět neumí",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/auto/zajimavosti/jako-za-sovetskeho-svazu-rusove-sebekriticky-priznavaji-ze-jim-vyroba-aut-nejde/r~aaa294c0af7d54a19e670cadf82a13b5/"
+    },
+    {
+      "score": 8,
+      "fact": "Slovenským ministryňům Šimkovičové a Blanárovi volal krajan v Sydney: „Toto není Rusko.“",
+      "reason": "Konkrétní citace a menší diplomatický incident se jmény",
+      "title": "Toto není Rusko, vyslechla si v Sydney od krajana Šimkovičová s Blanárem",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-toto-neni-rusko-vyslechla-si-v-sydney-od-krajana-simkovicova-s-blanarem-40602614"
+    },
+    {
+      "score": 8,
+      "fact": "Zosnovatel vraždy Tupaca Shاكura dostal po třiceti letech rozsudek 40 let.",
+      "reason": "Důležité milníkové rozhodnutí v populárnímu historický případu",
+      "title": "Davis dostal za zosnování vraždy Tupaca 40 let až doživotí. Rozsudek padl 30 let po zabití rapera",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/davis-dostal-za-zosnovani-vrazdy-tupaca-40-let-az-dozivoti-rozsudek-padl-30-let_2610132211_mst"
+    },
+    {
+      "score": 8,
+      "fact": "Exsnoubenka Trumpova syna končí jako velvyslankyně v Řecku kvůli zneužívání konexí.",
+      "reason": "Slavná personáž, neobvyklé propuštění a konkrétní důvod.",
+      "title": "Exsnoubenka Trumpova syna končí jako velvyslankyně v Řecku. Konexí měla zneužívat",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/exsnoubenka-trumpova-syna-konci-jako-velvyslankyne-v-recku-konexi-mela-zneuzivat_2610131750_mst"
+    },
+    {
+      "score": 8,
+      "fact": "Polský turista sjížděl Vysoké Tatry na elektrické jednokolce.",
+      "reason": "Virová absurdita, vizuální příběh, lehká otázka.",
+      "title": "Sjížděl hory na jednokolce. Polský turista ve Vysokých Tatrách vyrazil kolemjdoucím dech",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-sjizdel-hory-na-jednokolce-polsky-turista-ve-vysokych-tatrach-vyrazil-kolemjdoucim-dech-40602609"
+    },
+    {
+      "score": 8,
+      "fact": "Japonec přežil pád z 11. patra, ale při dopadu zahubil nevinnou kolemjdoucí.",
+      "reason": "Šokující příběh s konkrétním motivem (sebevražda) a nečekaným výsledkem.",
+      "title": "Sebevrah v Japonsku pádem z 11. patra zabil ženu, sám přežil. Otec oběti žádá obvinění z vraždy",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-sebevrah-v-japonsku-padem-z-11-patra-zabil-zenu-sam-prezil-otec-obeti-zada-obvineni-z-vrazdy-40602591"
+    },
+    {
+      "score": 8,
+      "fact": "Rus Alexej Molčanov se na jeden nádech ponořil na rekordních 137 metrů.",
+      "reason": "Konkrétní rekord s drsným číslem, ideální pro tradiční kategorii 'rekordy a fakta'.",
+      "title": "Video: Ponor na hraně možností. Rekordman popsal, co se dělo ve 137 metrech",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-ponor-na-hrane-moznosti-rekordman-popsal-co-se-delo-ve-137-metrech-317238"
+    },
+    {
+      "score": 7,
+      "fact": "Byl odsouzen nový pachatelní vrah Tupaca Shakura, gangster Duane Davis.",
+      "reason": "Zajímavý fakt s konkrétním jménem a kontextem 'zabití Tupaca'.",
+      "title": "Někdejší vůdce gangu byl odsouzen za vraždu Tupaca Shakura",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-nekdejsi-vudce-gangu-byl-odsouzen-za-vrazdu-tupaca-shakura-317805"
+    },
+    {
+      "score": 7,
+      "fact": "Kandidát ODS do Senátu podpořil na billboardech kandidátky za ANO.",
+      "reason": "Parkétní politické zlemování se konkrétním jménem (Aschenbrenner) a stranami.",
+      "title": "Překvapil. Neúspěšný kandidát do Senátu za ODS podpořil sokyni z ANO",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/volby-komunalni-prekvapil-neuspesny-kandidat-do-senatu-za-ods-podporil-sokyni-z-ano-40602658"
+    },
+    {
+      "score": 7,
+      "fact": "Šéf sněmovního rozpočtového výboru Vladimír Pikora zasedání přerušil, protože skončil v nemocnici.",
+      "reason": "Náhlé a nečekané událostí, která divákům napovídá o zdravotním stavu.",
+      "title": "„Mám teď zdravotní problémy.“ Šéf rozpočtového výboru za Motoristy Pikora skončil v nemocnici",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/mam-ted-zdravotni-problemy-poslanec-pikora-skoncil-v-nemocnici/r~aaa29eb92cf38853fa2606e1392f6a05/"
+    },
+    {
+      "score": 7,
+      "fact": "Vozítko Perseverance na Marsu ujelo 45,2 km a stalo se tak rekordmanem v jízdě na jiném světě.",
+      "reason": "Konkrétní rekord s přesným číslem u známého tématu.",
+      "title": "45,2 km na Marsu. Vozítko Perseverance překonalo rekord ve vzdálenosti ujeté na jiném světě",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-452-km-na-marsu-vozitko-perseverance-prekonalo-rekord-ve-vzdalenosti-ujete-na-jinem-svete-40602626"
+    },
+    {
+      "score": 7,
+      "fact": "Princezna Kate si s dcerou Charlotte užila jízdu londýnským metrem bez levského doprovodu.",
+      "reason": "Slavná rodina + neobvyklá situace (metro místo autokortu) = dobrý kvízní motiv.",
+      "title": "Princezna Kate s dcerou Charlotte (11): Dobrodružství v londýnském metru!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-kralovske-rodiny/850369/princezna-kate-s-dcerou-charlotte-11-dobrodruzstvi-v-londynskem-metru.html"
+    }
+  ]
+}
