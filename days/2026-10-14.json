@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-14",
+  "generated": "2026-10-15T12:44:51+00:00",
+  "stats": {
+    "fetched": 1335,
+    "that_day": 610,
+    "deduped": 546,
+    "scored": 180,
+    "passed": 62,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Španělský tenista Rafael Jódar byl sprostý na dětského podavače a nechal to rozhodčího.",
+      "reason": "Nepříjemný, morálně silná historie s konkrétním jménem, ideál pro povzbuzení publika.",
+      "title": "Ostudná tenisová scéna v Šanghaji. Hvězdný Španěl byl sprostý na dětského podavače",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/ostudna-tenisova-scena-v-sanghaji-hvezdny-spanel-byl-sprosty-na-detskeho-podavace/r~aaa29bb07f23b6e77da7da4cfdd0beff/"
+    },
+    {
+      "score": 9,
+      "fact": "Bývalý tajemník odhalil, že Diana utíkala nočními výlety z Kensingtonu, a Karlovi byl radosti.",
+      "reason": "Skandální detail, celebrity + překvapivá informace, ideální pro kvíz.",
+      "title": "Smutný život princezny Diany (†36): Noční výlety za potěšením! I pravda o radosti z její smrti",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-kralovske-rodiny/850413/smutny-zivot-princezny-diany-36-nocni-vylety-za-potesenim-i-pravda-o-radosti-z-jeji-smrti.html"
+    },
+    {
+      "score": 9,
+      "fact": "Robot v Kolíně nad Rýnem šestnáctiletou dívkou seksualně obtěhoval a předváděl sex.",
+      "reason": "Absurdní a zvláštní příběh s jedním slovem na odpověď ('robot').",
+      "title": "Robot v Německu obtěžoval šestnáctiletou dívku. Předváděl kopulaci",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/robot-nemecko-sexualni-obtezovani-kolin-nad-rynem.A261014_143309_zahranicni_jhr"
+    },
+    {
+      "score": 8,
+      "fact": "AI agent Muse od Mety srazil ceny akcií Bookingu a Trivagy.",
+      "reason": "Jasný vliv technologického konkrétního produktu na známé markety.",
+      "title": "Nový agent Mety vybere hotel i cestu. A akcie Bookingu i Trivaga padají",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-novy-agent-mety-vybere-hotel-i-cestu-a-akcie-bookingu-i-trivaga-padaji-317853"
+    },
+    {
+      "score": 8,
+      "fact": "Festival Obscene Extreme se po 27 letech stěhuje do Hradce Králové, kde hraje vedle Rock for People.",
+      "reason": "Dlouhý historický milník (27 let) spojený s lokalitou a konkurence s RFP.",
+      "title": "Festival Obscene Extreme míří do Hradce. V Trutnově mu už bylo těsno",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/hradec-kralove/zpravy/festival-obscene-extreme-trutnov-bojiste-park-360-presun.A261014_122438_hradec-zpravy_tuu"
+    },
+    {
+      "score": 8,
+      "fact": "Franouzská letecká společnost Air France potvrdila, že bakaláře z řady muslimských zemí nedopustí do Izraele.",
+      "reason": "Kontroverzní světová událost spojená s celosvětově známou značkou",
+      "title": "Air France bude dodržovat nová pravidla. Muslimské posádky do Izraele nepoletí",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/doprava/air-france-zavede-izraelska-omezeni-pro-cleny-posadky-ze-31-muslimskych-zemi.A261014_142632_eko-doprava_iluj"
+    },
+    {
+      "score": 8,
+      "fact": "Biatlonista Michael Krčmář si vysmál porážku Slavie v Baku a dostal viralbu.",
+      "reason": "Slavná osobnost (Krčmář) kritizuje konkrétní sportovní tým (Slavii) – typický trefný kytár.",
+      "title": "Krčmář se vysmál Slavii za ostudu v Baku. Na sociálních sítích to okamžitě schytal",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/karma-je-zdarma-zajel-krcmar-do-slavie-po-ostude-v-baku-hned-dostal-nalozeno/r~aaa29f5f91e870bc0cd80ee14dbcd052/"
+    },
+    {
+      "score": 8,
+      "fact": "The Telegraph vyhlásil jako nejlepší píseň nultých let skladbu Back to Black od Amy Winehouse.",
+      "reason": "Konkrétní hudební žebříček se jménem interpreta odpovídá duchu kvízu.",
+      "title": "Nejlepší písničku nultých let zpívá Amy Winehouse. Na stupních vítězů jsou i Coldplay a Eminem",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-nejlepsi-pisnicku-nultych-let-zpiva-amy-winehouse-na-stupnich-vitezu-jsou-i-coldplay-a-eminem-40602639"
+    },
+    {
+      "score": 8,
+      "fact": "Vozítko Perseverance na Marsu překonalo rekord v nejdelší vzdálenosti ujeté na jiném světě.",
+      "reason": "Kosmický rekord s jasným pojmem „nejdelší ujetá vzdálenost na jiném tělese“.",
+      "title": "Vozítko Perseverance překonalo rekord ve vzdálenosti ujeté na jiném světě",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vozitko-perseverance-prekonalo-rekord-ve-vzdalenosti-ujete-na-jinem-svete-378580"
+    },
+    {
+      "score": 8,
+      "fact": "Slavie propadla premiérovou domácí souboj v Lize mistrů tým Sabahu z dneška.",
+      "reason": "Historicky první domácí utkání Slavie v LM skončilo prohrou — velký moment.",
+      "title": "Trenér Sabahu si rýpl do Slavie: Nejde jen o fyzické ukazatele, rozhoduje i taktika",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-liga-mistru-hrali-jsme-opravdu-skvele-liboval-si-trener-premozitele-slavie-5555152"
+    },
+    {
+      "score": 8,
+      "fact": "Seriál Harry Potter z Hogwarts delší, než fanoušci očekávali.",
+      "reason": "Slávina IP, potvrzené záludné informace od herce.",
+      "title": "Seriál Harry Potter bude delší, než se čekalo, prozradil představitel Malfoye",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/serial-harry-potter-bude-delsi-nez-se-cekalo-prozradil-predstavitel-malfoye.A261013_114146_filmvideo_zust"
+    },
+    {
+      "score": 8,
+      "fact": "Marine Le Penová označila nejednotněji Andreje Babiše za významného spojence v Evropské unii.",
+      "reason": "Překvapivé spojení dvou politických figur s konkrétním kontextem EU.",
+      "title": "„Zájmy a hlas občanů.“ Le Penová označila Babiše za významného spojence v EU",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/le-penova-oznacila-babise-za-vyznamneho-spojence-v-evropske-unii.A261014_203751_zahranicni_tmps"
+    },
+    {
+      "score": 8,
+      "fact": "Mars rover Perseverance přečí záznam ve voždění až 43,8 km, Curiosity a všech vozíků.",
+      "reason": "Konkrétní numerická rekord s názvem sondy; skvělá vědomostní otázka.",
+      "title": "FOTO: Projížďka po Marsu. Rekordní vozítko umí i selfie",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-foto-projizdka-po-marsu-rekordni-vozitko-umi-i-selfie-40602794"
+    },
+    {
+      "score": 8,
+      "fact": "V Hamburku začal proces s ukrajinským důstojkem Serhijem K. kvůli výbuchům Nord Streamu.",
+      "reason": "Dlouho sledované téma došlo k konkrétní procesní události.",
+      "title": "Začíná proces kvůli Nord Streamu. V Hamburku stanul před soudem první obžalovaný",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-zacina-proces-kvuli-nord-streamu-v-hamburku-stanul-pred-soudem-prvni-obzalovany-40602720"
+    },
+    {
+      "score": 8,
+      "fact": "Davis dostal za zosnování vraždy rapera Tupaca 40 let vězení a odvolal se.",
+      "reason": "Slavný hudební idol, zločinný příběh, vysoká vzpomínka na Tupaca.",
+      "title": "‚Odvolám se.‘ Davis dostal za zosnování vraždy Tupaca 40 let vězení, hádal se kvůli odsezenému trestu",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/odvolam-se-davis-dostal-za-zosnovani-vrazdy-tupaca-40-let-vezeni-hadal-se-kvuli_2610140955_vaa"
+    },
+    {
+      "score": 8,
+      "fact": "Trump nazval Grónsko „naším novým a krásným Grónskem“ a oznámil průzkum ložisek.",
+      "reason": "Slavný politik, absurdní frase, velké geopolitické dávkování.",
+      "title": "„Naše nové a krásné Grónsko.“ Trump znovu promluvil o arktickém ostrově. Sdělil, co se tam chystá",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/nase-nove-a-krasne-gronsko-trump-znovu-promluvil-o-arktickem-ostrove-sdelil-co-se-tam-chysta/r~aaa299ac0db17467f225e1cfaed08e35/"
+    },
+    {
+      "score": 7,
+      "fact": "PSG porazilo Manchester City 4:2 v Lize mistrů, rozhodl kiks brankáře Donnarummyho.",
+      "reason": "Velký klub, konkrétní hráč a šokující výsledek – dobrý kvizinový materiál.",
+      "title": "V dramatickém šlágru Ligy mistrů slavilo PSG, pomohl i kiks Donnarummy",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/barcola-hattrickem-reziroval-demolici-lince-miliardovy-prestup-se-zacal-vyplacet/r~aaa2943acf22b4e0dc73141edfbcb679/"
+    },
+    {
+      "score": 7,
+      "fact": "Babiš chtěl koupit náměst, protože staré vládní letadlo mělo za tři roky tři poruchy.",
+      "reason": "Konkrétní politik a smíšnídetail s číslem, slušný tah do politiky/statu.",
+      "title": "Další porucha starého vládního letadla. Kupte nové, chtějí Babiš i Macinka",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-dalsi-porucha-vladniho-airbusu-letku-ma-resit-zuna-reaguje-babis-317863"
+    },
+    {
+      "score": 7,
+      "fact": "Mladík ujížděl před policejní hlídkou po Praze rychlostí 210 km/h a v protisměru.",
+      "reason": "Konkrétní číslo rychlosti dělá z běžné dopravní zprávy přeháněný příběh.",
+      "title": "Zběsilý úprk Prahou. Auto jelo až 210 km za hodinu, policie se nakonec hodně divila",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/zbesily-uprk-prahou-auto-jelo-az-200-km-za-hodinu-policie-se-nakonec-hodne-divila/r~aaa2983166f2a7a32d7da39f8ddd0d1e/"
+    },
+    {
+      "score": 7,
+      "fact": "Podvodníci v Latvijsku přišli s falešným festivalem dinosaurů a lékařských dat.",
+      "reason": "Vtipný nápad podvodníků; 'festivalu dinosaurů' je dobré vtipné úkol.",
+      "title": "Podvodníci v Lotyšsku přišli s falešným „festivalem dinosaurů“",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/podvodnici-v-lotyssku-prisli-s-falesnym-festivalem-dinosauru-378596"
+    }
+  ]
+}
