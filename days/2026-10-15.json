@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-15",
+  "generated": "2026-10-16T12:23:32+00:00",
+  "stats": {
+    "fetched": 1350,
+    "that_day": 596,
+    "deduped": 533,
+    "scored": 180,
+    "passed": 59,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Pátináleť v Guatemale usedla během pohřbu v rakvi a požádala o pití.",
+      "reason": "Šokující, absurdní a srozumitelný příběh s jasným záverem.",
+      "title": "Posadila se a požádala o vodu. Dívka v rakvi šokovala příbuzné na svém pohřbu v Guatemale",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-posadila-se-a-pozadala-o-vodu-divka-v-rakvi-sokovala-pribuzne-na-svem-pohrbu-v-guatemale-40602515"
+    },
+    {
+      "score": 9,
+      "fact": "Němečtí celníci našli v zavazadle Mexičana skryto 92 hadů a ještěrů.",
+      "reason": "Konkrétní číslo (92) u neobvyklého předmětu a vizuálně silný příběh.",
+      "title": "Zmije, chřestýš nebo leguán. Celníci v Německu našli v zavazadle Mexičana 92 hadů a ještěrů",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/zmije-chrestys-nebo-leguan-celnici-v-nemecku-nasli-v-zavazadle-mexicana-92-hadu_2610152345_vsn"
+    },
+    {
+      "score": 9,
+      "fact": "Nová Trumpova mluvčí Katie Zacharia odešla od mikrofonu po 14 minutách.",
+      "reason": "Konkrétní číslo a krátký čas předávalí je skvělý kvízní details.",
+      "title": "Průšvih Trumpovy Barbie: Nová mluvčí se pletla, po 14 minutách utekla a mlží o právnické kariéře",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850415/prusvih-trumpovy-barbie-nova-mluvci-se-pletla-po-14-minutach-utekla-a-mlzi-o-pravnicke-kariere.html"
+    },
+    {
+      "score": 9,
+      "fact": "Papež František bojuje s adenokarcinomem plic, lékaři mu vybrali celý lalok.",
+      "reason": "Hlavní světová osobnost + neočekávaná závažná diagnóza + konkrétní medicínský postup (řízek celého laloku).",
+      "title": "Papež bojuje s rakovinou plic: Co znamená jeho diagnóza, jaká je prognóza a jaká léčba ho může čekat?",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850433/papez-bojuje-s-rakovinou-plic-co-znamena-jeho-diagnoza-jaka-je-prognoza-a-jaka-lecba-ho-muze-cekat.html"
+    },
+    {
+      "score": 8,
+      "fact": "Prezident Pavel se z dovolené v Maroku vrátil s přestupem běžnou linkou.",
+      "reason": "Nepřekvapivý kontrast s obvykly soukromým letadlem, láká na trest pro prezidenta.",
+      "title": "Prezident Pavel se vrátil z dovolené v Maroku, letěl běžnou linkou s přestupem",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-prezident-pavel-se-vratil-z-dovolene-v-maroku-letel-beznou-linkou-s-prestupem-317992"
+    },
+    {
+      "score": 8,
+      "fact": "Firma Cohere kupuje start-up AISLE, jehož zakladatelem je bývalý šéf Avastu Ondřej Vlček.",
+      "reason": "Příběh české technologické hvězdy a velká korporace, ideální na \"kdo kdo\".",
+      "title": "Kanadská společnost Cohere kupuje firmu bývalého šéfa Avastu",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-kanadska-spolecnost-cohere-kupuje-firmu-byvaleho-sefa-avastu-317988"
+    },
+    {
+      "score": 8,
+      "fact": "U tureckého pobřeží našli archeologové vrak nejstarší lidové lodi věku 5000 let.",
+      "reason": "Důležité archeologické milník ('nejstarší') s konkrétním místem a věkem.",
+      "title": "U pobřeží Turecka našli dosud nejstarší pozůstatky lodi",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/u-pobrezi-turecka-nasli-dosud-nejstarsi-pozustatky-lodi-378654"
+    },
+    {
+      "score": 8,
+      "fact": "Finská hudební kapela Nightwish se rozloučila se svou zpěvačkou Floor Jansen.",
+      "reason": "Velký šok pro fanoušky žánru, specifická osoba a kontextová změna.",
+      "title": "Kapela Nightwish se rozešla se zpěvačkou Floor Jansenovou",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-kapela-nightwish-se-rozesla-se-zpevackou-floor-jansenovou-40603056"
+    },
+    {
+      "score": 8,
+      "fact": "V Chilských Andách se kvůli rekordnímu sněhu poprvé v historii lyžuje dokonce do listopadu.",
+      "reason": "Record-breaking událost se specifickým místem a neučesaným časovým rozdílem.",
+      "title": "V Chilských Andách se bude poprvé v historii lyžovat až do listopadu, může za to El Niño",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-v-chilskych-andach-se-bude-poprve-v-historii-lyzovat-az-do-listopadu-muze-za-to-el-nino-40602518"
+    },
+    {
+      "score": 8,
+      "fact": "Elizaveta Maximová získala cenu za nejlepší herečku na festivalu v Soulu za hrůzu Hory.",
+      "reason": "Czech celebrity + international recognition, specific drama, überraschender Erfolg.",
+      "title": "Máma zasáhla i lidi na druhé straně zeměkoule, těší Maximovou oceněnou v Soulu",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/mama-zasahla-i-lidi-na-druhe-strane-zemekoule-tesi-maximovou-ocenenou-v-soulu-378631"
+    },
+    {
+      "score": 8,
+      "fact": "Demoliční odstraňovacím odstřelem shořela anténa Liblice B, která byla nejvyšší stavbou České republiky.",
+      "reason": "Překvapivá událost, konec významné národní rekordovní stavby, jasná odpověď.",
+      "title": "Podívejte se: Nejvyšší stavba Česka šla k zemi",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-vysilac-liblice-odstrel-zive-317862"
+    },
+    {
+      "score": 8,
+      "fact": "Za volební debakl SPD viní Brusel a Ukrajince, což doložilo jejich přínos.",
+      "reason": "Neferné tvrzení, které si vynutuje konkrétní pojmy v otázce a smích.",
+      "title": "KEMEL: Přínos Ukrajinců a Bruselu ve volbách",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/vtipy-kemel-prinos-ukrajincu-a-bruselu-ve-volbach-40602908"
+    },
+    {
+      "score": 8,
+      "fact": "Baxa kritizoval Klempíře s dotazem, zda splní dotační podmínky Hašek.",
+      "reason": "Literární odkaz k cíli, dobré jméno a úsměvná situace.",
+      "title": "Splnil by Jaroslav Hašek dotační podmínky? Baxa kritizoval Klempíře",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/poslanecka-snemovna-interpelace-mezinarodni-smlouvy-nemecko-slovensko-hranice-spoluprace.A261014_141748_domaci_jira"
+    },
+    {
+      "score": 8,
+      "fact": "Veronika Kánská, známá z triptychu Slunce, seno, oslavit šedesátku v tichu knihovny.",
+      "reason": "Ikonická česká herečka překvapivě opustila slávu a žije v ústraní.",
+      "title": "Blažena ze Slunce, seno slaví 60. Proč se Veronika Kánská vzdala herectví?",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/veronika-kanska-blazena-skopkova-slunce-seno-richard-chlad.A261014_085826_lidicky_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Komunita Život v srdci z Plase, vedena šaškem Bohušem, přivedla ke smrti ženu po domácném porodu.",
+      "reason": "Šokující souvislost sektarchy s tragICKOU SUDBOU a konkrétním datem konce.",
+      "title": "Temné stopy – Sekty, 2. díl: Bůh šašek z Plas. Komunita Život v srdci, bába šedivá a smrt po porodu",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/850420/temne-stopy-sekty-2-dil-buh-sasek-z-plas-komunita-zivot-v-srdci-baba-sediva-a-smrt-po-porodu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Politico po odchodu Orbána označilo Roberta Fica za nejvýraznějšího Putinova spojence v EU.",
+      "reason": "Silný celebritní/politický fakt s konkrétním názvem média.",
+      "title": "Web Politico označil Fica za nejvýraznějšího Putinova spojence v EU",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-web-politico-oznacil-fica-za-nejvyraznejsiho-putinova-spojence-v-eu-40602929"
+    },
+    {
+      "score": 8,
+      "fact": "Ve Velké Británii se přestaly prodávat knihy autorky Sally Rooney. Důvodem je její podpora hnutí, které je považováno za teroristické.",
+      "reason": "Konkrétní slavná autorka a neočekávaný důvod stažení knih z trhu.",
+      "title": "V Británii už se nebudou prodávat knihy Sally Rooney. Podporuje zakázané hnutí",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-britanii-se-nebudou-prodavat-knihy-rooneyove-po-jeji-podpore-palestine-action-317938"
+    },
+    {
+      "score": 7,
+      "fact": "Mohamed Salah vstřelil v utkání Konferenční ligy svůj první gól historie.",
+      "reason": "Mílník pro fotbalové fanoušky, ale odpověď je často předvídatelná.",
+      "title": "Kodaň s Králem porazila Bragu, Salah se poprvé trefil v Konferenční lize",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-evropska-konferencni-liga-salah-pomohl-trabzonsporu-ve-svem-prvnim-zapase-v-konferencni-lize-golem-a-asistenci-k-vitezstvi-5556090"
+    },
+    {
+      "score": 7,
+      "fact": "El Niño způsobilo rekordní rozvodnění největšího systému vodopádů na světě Iguazú.",
+      "reason": "Impozantní přirodnní dění se specifickým jménem, ale chybí šokující „twekst“.",
+      "title": "Fotky: Deště rozdivočily největší systém vodopádů na světě",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-iguacu-deste-rozdivocily-nejvetsi-system-vodopadu-na-svete-317961"
+    },
+    {
+      "score": 7,
+      "fact": "Polské obchody stáhly z polic halloweenské kostýmy v reakci na školní útoky.",
+      "reason": "Podivná reakce na tragédii, hodí se na otázku o absurditě.",
+      "title": "Některé obchody v Polsku po školních útocích stahují halloweenské zboží",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/nektere-obchody-v-polsku-po-skolnich-utocich-stahuji-halloweenske-zbozi/r~aaa29d89e026eb175fcaa4354095309c/"
+    }
+  ]
+}
