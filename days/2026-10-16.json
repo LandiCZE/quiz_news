@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-16",
+  "generated": "2026-10-17T11:39:57+00:00",
+  "stats": {
+    "fetched": 1193,
+    "that_day": 585,
+    "deduped": 526,
+    "scored": 180,
+    "passed": 53,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Třetí češinou Bavarů. Matouš Srb do Bayernu, The Guardian jej označil za klenot.",
+      "reason": "Konkrétní české jméno + sportovní význam + zahraniční pozornost.",
+      "title": "Britové vytáhli Čecha mezi evropské klenoty. Kouč popsal, jestli má v Bayernu šanci zazářit",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/cech-v-bayernu-mnichov-na-mladika-se-sype-chvala-britove-ho-vytahli-mezi-klenoty/r~aaa295b9750c66c84996c1886783a14e/"
+    },
+    {
+      "score": 9,
+      "fact": "Soudce Roman Kafka obžalován z podvodu škodou 32 milionů korun.",
+      "reason": "Šokující kriminalita zášahy (soudce) s konkrétním číslem škody",
+      "title": "Státní zástupkyně obžalovala soudce Kafku z podvodu za 32 milionů korun",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/statni-zastupkyne-obzalovala-byvaleho-soudce-kafku-z-podvodu-za-32-milionu-korun.A261016_134657_domaci_aoc"
+    },
+    {
+      "score": 9,
+      "fact": "Český hokejista Jakub Vrána odmítl během hryanahranovat kvůli špatnému výkonui vsadil na návrat.",
+      "reason": "Nepředvídatelný čin slavného sportovce, konkrétní a dramatický.",
+      "title": "Švédsko opět řeší Vránu. Úplně šílené! zuřil vytočený Čech a nestačil se divit",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-evropske-ligy-svedsko-opet-resi-vranu-uplne-silene-zuril-vytoceny-cech-a-nestacil-se-divit-5556303"
+    },
+    {
+      "score": 9,
+      "fact": "Telo Antonie Zacpalove zminelo z marnice predi temoz socialnim pohrebem.",
+      "reason": "Skandalni, zamytany storyokolo pohrebu slavimoho umelce s jemou zvratkou.",
+      "title": "Další zmatky kolem pohřbu Gottovy lásky: Tělo Antonie zmizelo z márnice! Dominika to neřeší…",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850565/dalsi-zmatky-kolem-pohrbu-gottovy-lasky-telo-antonie-zmizelo-z-marnice-dominika-to-neresi.html"
+    },
+    {
+      "score": 9,
+      "fact": "Nový papež Lev XIV. po úterní operaci mluvil po telefonu s Putinem.",
+      "reason": "Velmi nové jméno (Lev XIV) a překvapivý kontakt s Putinem.",
+      "title": "Stav papeže Lva XIV. se po operaci se lepší, mluvil s Putinem",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/vatikan-zverejnil-prvni-snimky-papeze-po-operaci-jeho-stav-se-zlepsuje.A261016_155056_zahranicni_ichuc"
+    },
+    {
+      "score": 9,
+      "fact": "Lotyšský premiér Andris Kulbergs vyzval Evropany, aby pro podporu Ukrajiny přestali pít pivo.",
+      "reason": "Spektákulární a lidový požadavek na oběť, při kterém je pivo v centru pozornosti.",
+      "title": "„Přestaňte pít pivo.“ Premiér malé země našel překvapivý recept na boj s Ruskem",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/prestante-pit-pivo-premier-male-zeme-nasel-prekvapivy-recept-na-boj-s-ruskem/r~aaa29da8574b654ccba2d20139fd95cb/"
+    },
+    {
+      "score": 8,
+      "fact": "Václav Marhoul natočil film ze Stalinovy éry s scénářem Bena Shapiroa.",
+      "reason": "Nápadné spojení českého režiséra a amerického komentátora.",
+      "title": "Marhoul natočil anglicky film z éry Stalina. Scénář napsal americký konzervativec",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/marhoul-natocil-anglicky-film-z-ery-stalina-scenar-napsal-americky-konzervativec-378701"
+    },
+    {
+      "score": 8,
+      "fact": "Bývalý důstojník CIA tvrdí, že USA chytili mimozemšťany, kteří umřeli hlady.",
+      "reason": "Konspirační teorie od oficiálního zdroje, velký téma na debatu.",
+      "title": "Důstojník CIA šokoval: Chytili jsme mimozemšťany! Umřeli hlady...",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/850613/dustojnik-cia-sokoval-chytili-jsme-mimozemstany-umreli-hlady.html"
+    },
+    {
+      "score": 8,
+      "fact": "Operovaný papež Lev XIV. požádal Putina o příměří na Ukrajině.",
+      "reason": "Je to faktická zpráva s jasným aktérem a cílem, ale chybí jí šok.",
+      "title": "Papež Lev XIV. po operaci sloužil mši. Putina žádal o příměří na Ukrajině",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/galerie-a-videa/vatikan-zverejnil-prvni-fotografie-papeze-lva-xiv-po-operaci/r~aaa29d6c5039753b53378c3dc60bedcd/"
+    },
+    {
+      "score": 8,
+      "fact": "Hurikán Simon rozvibroval atmosféru 80 kilometrů nad povrchem Země.",
+      "reason": "Neobvyklý vědecký fenomén spojující pověd s kosmickým měřítkem.",
+      "title": "Hurikán Simon rozvibroval atmosféru desítky kilometrů nad Zemí",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/hurikan-simon-rozvibroval-atmosferu-desitky-kilometru-nad-zemi-378690"
+    },
+    {
+      "score": 8,
+      "fact": "Leon Tsoukernik podal na Olgu Menzelovou žalobu kvůli nesplacené charitativní aukci za 1,7 milionu korun.",
+      "reason": "Slavnostní osoba a známá herečka v právním sporu kvůli konkrétní částce.",
+      "title": "Král kasin a přítel Gottové Leon Tsoukernik: Žaloba na Menzelovou",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850571/kral-kasin-a-pritel-gottove-leon-tsoukernik-zaloba-na-menzelovou.html"
+    },
+    {
+      "score": 8,
+      "fact": "Tělo horolezce přibalené pod vrcholem horalyčilo až po 35 letech skvělý osud sourozence.",
+      "reason": "Dramatický příběh legendárního Messnera s konkrétní časovou událostí.",
+      "title": "Nechal bratra pod vrcholem zemřít? Příběh Messnera potvrdilo tělo až po 35 letech",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/nechal-bratra-pod-vrcholem-zemrit-pribeh-messnera-potvrdilo-telo-az-po-35-letech/r~aaa292d4e5247a5b992ac6d90613cfde/"
+    },
+    {
+      "score": 8,
+      "fact": "Po odstřelu antén je nejvyšší stavbou v Česku vysílač Krašov na Plzeňsku.",
+      "reason": "Změna rekordu/výstavby s konkrétními názvy (Krašov vs. Liblice).",
+      "title": "FOTO: Liblice padly. Nejvyšší stavba v Česku je teď na Plzeňsku",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-foto-liblice-padly-nejvyssi-stavba-v-cesku-je-ted-na-plzensku-40603020"
+    },
+    {
+      "score": 8,
+      "fact": "Miliardový odpadový trest byl zrušen, protože experti zapomněli přiložit jeden formulář.",
+      "reason": "Absurdní byrokratický omyl s vysokou finanční částkou je výborné téma.",
+      "title": "„Chyběl jeden papír.“ Miliardovou kauzu zastavil úřad Motoristů trikem",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-obri-kauzu-shodil-urad-motoristu-klickou-s-posudky-totalni-svinstvo-rika-znalec-317824"
+    },
+    {
+      "score": 8,
+      "fact": "Náctiletý Nor odseduje 20 let za nájemnou vraždu naverbovanou Íránem podporovaným gangu.",
+      "reason": "Šokující příběh: dorostlý cizinec naverbován státem pro vraždu v Anglii",
+      "title": "Náctiletého Nora naverboval pro nájemnou vraždu v Británii gang podporovaný Íránem. Odsedí si 20 let",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-nactileteho-nora-naverboval-pro-najemnou-vrazdu-v-britanii-gang-podporovany-iranem-odsedi-si-20-let-40603312"
+    },
+    {
+      "score": 8,
+      "fact": "Studie tvrdí, že čínská populace má o 130 milionů obyvatel méně, než uvádí stát.",
+      "reason": "Obrovské číslo (130 mil) a témata demografie jsou úderná.",
+      "title": "Čína lže o počtu obyvatel, má jich o 130 milionů méně, uvádí výbušná studie",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/cina-populace-demograf-i-fu-sien-yi-fuxian-studie-130-milionu-lidi-chybi.A261016_115635_zahranicni_kha"
+    },
+    {
+      "score": 8,
+      "fact": "KFC po téměř 40 letech mění dodavatele nápojů z Pepsi na Coca-Colu.",
+      "reason": "Kulturní korporátní změna s přesnou délkou trvání spolupráce.",
+      "title": "KFC v USA mění dodavatele nápojů. Po letech přechází od Pepsi ke Coca-Cole",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/kfc-v-usa-meni-dodavatele-napoju-od-pepsico-prechazi-ke-coca-cole.A261016_092434_eko-zahranicni_vebe"
+    },
+    {
+      "score": 8,
+      "fact": "Giorgia Meloni při kritice Trumpa připomněla cenzuru Velkého novinářského klubu roku 1968.",
+      "reason": "Mezinárodní politický moment s lokálním kontextem (Pražské jaro), konkrétní osoba.",
+      "title": "Italská premiérka se rozohnila. Zpražila Trumpa a vzpomněla temnou kapitolu českých dějin",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/italska-premierka-zarila-zchladila-trumpa-a-pripomnela-tanky-v-praze/r~aaa296f4855380e84c924fe6d813dfb7/"
+    },
+    {
+      "score": 7,
+      "fact": "Ve finále senátních voleb hlasovali ministré Macinka, Rakušan i副prezident Havel.",
+      "reason": "Konkrétní jednotlivci z politiky v kontextu voleb.",
+      "title": "Účast ve finále senátních voleb je zatím mezi 10 až 15 procenty. Hlasovali Macinka, Rakušan i Havel",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/online-zacalo-druhe-kolo-senatnich-voleb-lide-mohou-hlasovat-do-sobotnich-14_2610161400_vdv"
+    },
+    {
+      "score": 7,
+      "fact": "Vatikán zveřejnil první fotografie zotavujícího se papeže po odstranění části plíce kvůli rakovině.",
+      "reason": "Šokující zdrahodání nového papeže bojujícího s rakovinou",
+      "title": "Papež po odstranění části plíce kvůli rakovině: První foto z nemocnice! Co odhalili lékaři?",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850640/papez-po-odstraneni-casti-plice-kvuli-rakovine-prvni-foto-z-nemocnice-co-odhalili-lekari.html"
+    }
+  ]
+}
