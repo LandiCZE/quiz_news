@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-17",
+  "generated": "2026-10-18T12:14:12+00:00",
+  "stats": {
+    "fetched": 979,
+    "that_day": 443,
+    "deduped": 402,
+    "scored": 180,
+    "passed": 59,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Andrej Babiš před kamerami nosil tričko s nápisem „Sorry jako“.",
+      "reason": "Vizuální šok, konkrétní osoba, nečekaný gestus, perfektní na výsledek „tričko“.",
+      "title": "Obrazem: Babiš se oblékl do trička Sorry jako. A vítězové jako Pat a Mat",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/obrazem-obrazem-rozhoduje-se-o-22-senatorech-sledujte-deni-ve-volebnich-stabech-318099"
+    },
+    {
+      "score": 9,
+      "fact": "Musk podle zdrojů sám navrhl Trumpovi omezení satelitů Starshield, které pak popíral.",
+      "reason": "Konspirační twist: slavný „kdo to zaplatil“ náhle nese odpovědnost za vrácení svědomí.",
+      "title": "Za omezení Starshieldu nemohu, tvrdil Musk. Podle zdrojů jej však sám navrhl",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-za-omezeni-starlinku-nemuzu-tvrdil-musk-podle-zdroju-jej-vsak-sam-navrhl-318108"
+    },
+    {
+      "score": 9,
+      "fact": "Ruský plukovník Viktor Baranec veřejně přiznal, že malajsijský let MH17 sestřelili ruští vojáci.",
+      "reason": "Skandální přiznání k válečnému zločinu konkrétní osobou, silný „novwainý“ materiál.",
+      "title": "Byli jsme to my… Ruský plukovník šokoval přiznáním k válečnému zločinu",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/byli-jsme-to-my-rusky-plukovnik-sokoval-priznanim-k-valecnemu-zlocinu/r~aaa298b70b58e8c86d13a930564736d1/"
+    },
+    {
+      "score": 8,
+      "fact": "Hnutí STAN získalo v senátních volbách deset z čtrnácti křesel, šest let po svém posledním vítězství.",
+      "reason": "Jasný politický fakt s konkrétními čísly a historickým kontextem.",
+      "title": "Nejvíc senátorů získalo ve volbách hnutí STAN, ANO žádného",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/skoncilo-druhe-kolo-senatnich-voleb-komise-zacinaji-scitat-hlasy-378705"
+    },
+    {
+      "score": 8,
+      "fact": "Trenér Zlína po porážce 0:3 řekl, že se nebude svírat v křečích.",
+      "reason": "Humorný citát konkrétní osoby („svírat v křečích“) po sportovním selhání.",
+      "title": "Trenér Zlína po dalším výprasku: Nebudu se svírat v křečích. Na světě jsou horší věci",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-ceska-1-liga-trener-zlina-po-dalsim-vyprasku-nebudu-se-svirat-v-krecich-na-svete-jsou-horsi-veci-5557406"
+    },
+    {
+      "score": 8,
+      "fact": "Matěj Havel naznačuje, že Václav Havel by dnes neměl moc opíjet.",
+      "reason": "Sestavový vtip spojující obě Havlova jména, lehký na vyrozumění, specifický kontext.",
+      "title": "„Vzkázal bych mu, ať se dnes moc neopije.“ Havel slaví úspěch TOP 09 v Senátu",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/volby/vzkazal-bych-mu-at-se-dnes-moc-neopije-havel-slavi-uspech-top-09-v-senatu.A261017_165257_domaci_stvo"
+    },
+    {
+      "score": 8,
+      "fact": "ANO Andreje Babiše poprvé v historii nezískalo v senátních volbách ani jediný mandát.",
+      "reason": "Historická politická metla (first time ever) pro premiéra, silný fakt.",
+      "title": "Babiš na lopatkách: ANO poprvé nezískalo v senátních volbách ani jeden mandát",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/babis-na-lopatkach-ano-poprve-neziskalo-v-senatnich-volbach-ani-jeden-mandat/r~aaa295fdfd177cfdfc860dc3147d1e40/"
+    },
+    {
+      "score": 8,
+      "fact": "Generál Karel Řehka (STAN) byl zvolen senátorem za Plzeň město.",
+      "reason": "Bývalý generál ve světě politiky, poctivá a očekávaná odpověď.",
+      "title": "Volby do Senátu v Plzni: Lidé zvolili novým senátorem generála Karla Řehku",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/volby/plzen/senatni-volby-2026-2-kolo-stan-karel-rehka-ano-lucie-kantorova.A261012_090313_vary-volby_vb"
+    },
+    {
+      "score": 8,
+      "fact": "Slavná tenistka Martina Navrátilová oslavila 70. narozeniny.",
+      "reason": "Ikonická osobnost, milníkoví číslo (70) se zbytní na den.",
+      "title": "Martina Navrátilová oslaví 70. narozeniny. ‚Nejen v tenise ukázala spoustu odvahy,‘ říká trenér Pála",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/tenis/tenis-wta-martina-navratilova-cesky-tenis_2610171500_ssi"
+    },
+    {
+      "score": 8,
+      "fact": "Karel Gott zakázal Dominice Gottové studovat japanologii na vysoké škole.",
+      "reason": "Prekvapivý fakt o známé celebrities a jejich soukromí.",
+      "title": "Antonie Zacpalová (†91) o dospívání Dominiky Gottové: Karel jí zakázal vysněnou školu!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850128/antonie-zacpalova-91-o-dospivani-dominiky-gottove-karel-ji-zakazal-vysnenou-skolu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Martin Nečas jako první český hráč nasbíral v jedné sezoně NHL 10 bodů.",
+      "reason": "Hokej je v ČR populární a jde o unikátní „první“ dosavadní rekord.",
+      "title": "Bruins pokazili Dostálovi čísla, Pastrňák překonal legendu. Zářil i Nečas",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/hokej/nhl/pastrnak-prekonal-dostala-a-prispel-k-obratu-zaril-i-necas/r~aaa2975b18ac935de6227943761c9da4/"
+    },
+    {
+      "score": 8,
+      "fact": "Archeologové popsali neandertálce zabitého před 75 tisíci lety v iráckém Kurdistánu.",
+      "reason": "Senzační náhled do prahistorie („nejstarší vražda“) s konkrétním věkem.",
+      "title": "Nejstarší vražda? Archeologové popsali neandertálce zabitého před 75 tisíci lety",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/nejstarsi-vrazda-archeologove-popsali-neandertalce-zabiteho-pred-75-tisici-lety-378709"
+    },
+    {
+      "score": 8,
+      "fact": "Nobelův laureát Kim Aris přijel do Prahy hájit vězněnou matku Su Ťij.",
+      "reason": "Přímočařný odkaz na nobelovku v souvislosti s aktuálním přednáškajícím příbuzným v Praze.",
+      "title": "Syn nobelistky hájí vězněnou matku: Lidé ji odsoudili, aniž by ji vyslechli",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-syn-nobelistky-haji-veznenou-matku-lide-ji-odsoudili-aniz-by-ji-vyslechli-317770"
+    },
+    {
+      "score": 8,
+      "fact": "Nový papež Lev XIV. byl po operaci plic propuštěn z nemocnice.",
+      "reason": "Významný světový zájem o zdraví a první „novinky“ od nástupu nové papeže.",
+      "title": "Papež bude odpoledne propuštěn z nemocnice, v neděli přednese tradiční modlitbu",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/papez-bude-odpoledne-propusten-z-nemocnice-v-nedeli-prednese-tradicni-modlitbu/r~aaa29e879384048bdcd17dc1e01ca4c6/"
+    },
+    {
+      "score": 8,
+      "fact": "Na Seychelách žije více obřích želv než lidí.",
+      "reason": "Paradoxní statistika s konkrétním místem",
+      "title": "Želvy ovládly exotický ráj! Na Seychelách je jich už víc než lidí",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850061/zelvy-ovladly-exoticky-raj-na-seychelach-je-jich-uz-vic-nez-lidi.html"
+    },
+    {
+      "score": 8,
+      "fact": "AI dešifrovala tajný Napoleonský dopis z roku 1809 za pár hodin.",
+      "reason": "Historická osobnost napojená na moderní technologii",
+      "title": "Napoleonův tajný dopis z roku 1809 dešifrovala AI za pár hodin",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-napoleonuv-tajny-dopis-z-roku-1809-desifrovala-ai-za-par-hodin-318090"
+    },
+    {
+      "score": 8,
+      "fact": "Italské město se roztrhalo o mizení vepřové krkovičky ze školních jídelen kvůli muslimům.",
+      "reason": "Konkrétní jídlo (krkovička) a absurdní politická hádka v Itálii sedí do českého stylu.",
+      "title": "Neustupujte muslimům! Italské město rozdělil boj o krkovičku ve školní jídelně",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/neustupujte-muslimum-italske-mesto-rozdelil-boj-o-krkovicku-ve-skolni-jidelne/r~aaa297cf72243d8eda4bd560226c4f7a/"
+    },
+    {
+      "score": 7,
+      "fact": "Soupeř Zdeněk Chlopčík udělil Hane Dvorské v tanci na StarDance jen sedmičku.",
+      "reason": "Kulturní triviality z populární show jsou pro obecenstvo často zábavnější než suchá politika.",
+      "title": "Druhý večer StarDance: První odpadlík! Sexy Jandová a překvapení pro Dvorskou",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-stardance/850686/druhy-vecer-stardance-eben-prekvapil-dvorskou.html"
+    },
+    {
+      "score": 7,
+      "fact": "Vít Rakušan označil zisk 10 senátních mandátů pro STAN za absolutně nad očekávání.",
+      "reason": "Konkrétní osoba (Rakušan) komentuje překvapivý úspěch (10 mandátů), dobre chytí pozornost.",
+      "title": "Absolutně nad očekávání, hodnotí výsledek senátních voleb Rakušan",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/jasny-dukaz-poptavky-po-politice-starostu-mini-vlcek-o-vysledku-voleb-378735"
+    },
+    {
+      "score": 7,
+      "fact": "Fiala byl označen jako ta, který přeběhl k Našemu Česku. Senát chce vést Vystrčil.",
+      "reason": "Politický příběh s konkrétními jmény a kontroverzním přesunem.",
+      "title": "Kupka: Vystrčila chceme udržet v čele Senátu. S Fialou, který ‚přeběhl‘ k Našemu Česku, chceme spolupracovat",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/volby/kupka-vystrcila-chceme-udrzet-v-cele-senatu-s-fialou-ktery-prebehl-k-nasemu_2610171749_mst"
+    }
+  ]
+}
