@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-18",
+  "generated": "2026-10-19T14:37:38+00:00",
+  "stats": {
+    "fetched": 1040,
+    "that_day": 361,
+    "deduped": 329,
+    "scored": 180,
+    "passed": 60,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Český inženýr Jaroslav Polívkna se podílel na konstrukci spirály v Guggenheimově muzeu.",
+      "reason": "Prezidentská událost propojující česka, slavnostní architekturu a novinky.",
+      "title": "Čech navrhl slavnou spirálu v Guggenheimově muzeu, na jeho zámek jezdil Mucha",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-architektura-guggenheimovo-muzeum-zacali-stavet-pred-70-lety-bez-ceskeho-inzenyra-by-nevzniklo-317666"
+    },
+    {
+      "score": 9,
+      "fact": "Komunistický režim potrestal Miroslavu Bendlovou kvůli Navrátilově emigraci.",
+      "reason": "Dramatická historka slavných tenistek s šokujícím následkem.",
+      "title": "Soudruzi, Navrátilová emigrovala! Režim se pomstil na její spoluhráčce",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-navratilova-utekla-a-ji-se-pomstili-ceskou-sampionku-komuniste-nezlomili-317943"
+    },
+    {
+      "score": 8,
+      "fact": "Eli Šarabi přežil v tunelu Gazy 491 dní v zajetí Hamásu.",
+      "reason": "Konkrétní, úderné číslo (491 dní) a osobní příběh.",
+      "title": "Pro dcery přežil 491 dní v podzemí Gazy. Když vyšel ze tmy, čekaly na něj tři hroby",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/pro-dcery-prezil-491-dni-v-podzemi-gazy-kdyz-vysel-ze-tmy-cekaly-na-nej-tri-hroby/r~aaa29e9cb34fa6c04eba4ef4803c0777/"
+    },
+    {
+      "score": 8,
+      "fact": "Pětadvacetiletá Sophie Rain vydělává na OnlyFans přes 870 milionů korun ročně.",
+      "reason": "Konkrétní člověk, obrovská suma peněz, viralita.",
+      "title": "Nejslavnější panna Sophie Rain: Vydělává 870 milionů ročně!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/850708/nejslavnejsi-panna-sophie-rain-vydelava-870-milionu-rocne.html"
+    },
+    {
+      "score": 8,
+      "fact": "Muž zemřel po vstoupení do výběhu tygra v parku Yorkshire",
+      "reason": "Atraktivní tragédie se zvířetem, ideální na rychlou otázku.",
+      "title": "VIDEA TÝDNE: Tygr zabiják, návrat prezidenta a mluvčí na jedno použití",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/videa-tydne-tygr-zabijak-navrat-prezidenta-mluvci-na-jedno-pouziti.A261018_151411_domaci_vrja"
+    },
+    {
+      "score": 8,
+      "fact": "Josef Babka, ostravský zastupitel nejdelší sloužící funkce, končí po 38 letech v zastupitelstvu.",
+      "reason": "Konkrétní osoba s unikátním mžitkovým číslem (38 let) a politik.",
+      "title": "V zastupitelstvu seděl od roku 1986. Respektovaný komunista v Ostravě končí",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-v-zastupitelstvu-sedel-od-roku-1986-respektovany-komunista-v-ostrave-konci-317918"
+    },
+    {
+      "score": 8,
+      "fact": "Elizabeth Hurley ukázala prsten, spekulace o zásnubách s otcem Miley Cyrus Billym Rayem Cyrusem.",
+      "reason": "Šocující hvězdný pár, koneční fanoušci poznají spojení s Miley.",
+      "title": "Elizabeth Hurley ukázala prsten. Mluví se o zásnubách s otcem Miley Cyrus",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/elizabeth-hurley-billy-ray-cyrus-damian-prsten-zasnoubeni.A261018_122602_lidicky_nh"
+    },
+    {
+      "score": 8,
+      "fact": "Z vysychajícího čínského jezera se vynořil pětistový letý most o délce přes dva kilometry.",
+      "reason": "Vizuálně silný příběh s konkrétním artefaktem a rekordní délkou.",
+      "title": "Čínské jezero vysychá nezvykle rychle. Z vody se vynořil přes dva kilometry dlouhý historický most",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-cinske-jezero-vysycha-nezvykle-rychle-z-vody-se-vynoril-pres-dva-kilometry-dlouhy-historicky-most-40602974"
+    },
+    {
+      "score": 8,
+      "fact": "Gretchen Walshová vylepšila vlastní světový rekord na 50 metrů kraul o 0,08 sekundy.",
+      "reason": "Konkrétní sportovkyně, platný světový rekord a přesný čas",
+      "title": "Američanka Walshová znovu zaplavala světový rekord na 50 metrů kraul",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/vodni-sporty-americanka-walshova-znovu-zaplavala-svetovy-rekord-na-50-metru-kraul-5557609"
+    },
+    {
+      "score": 8,
+      "fact": "Horolezec Jakub Šolc jako první přešel celou Bavorskou hřebenovku.",
+      "reason": "Unikátní sportovní výkon s konkrétním jménem a místem.",
+      "title": "Byl jsem hrozně natěšenej. Německo mě překvapilo. Jakub Šolc vymyslel a přešel Bavorskou hřebenovku",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/cestovani/byl-jsem-hrozne-natesenej-nemecko-me-prekvapilo-jakub-solc-vymyslel-a-presel_2610180811_bva"
+    },
+    {
+      "score": 8,
+      "fact": "Albert Szent-Györgyi dostal Nobelovku za objev vitaminu C v paprice.",
+      "reason": "Faktická odpověď (vitamin C) je konkretní, příběh je atraktivní a podáváni.",
+      "title": "Bál se říct ženě, že nechce papriku. Tak ji odnesl do laboratoře a dostal Nobelovku",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/bal-se-rict-zene-ze-nechce-papriku-tak-ji-odnesl-do-laboratore-a-dostal-nobelovku/r~aaa2911f84bc9f5da9af334b83346e38/"
+    },
+    {
+      "score": 8,
+      "fact": "Tokio přijde kvůli klimatickým změnám o zeleň rovnou se třemi Central Parky.",
+      "reason": "Konkrétní, zarážející srovnání se známou lokací.",
+      "title": "My chceme stromy! Klima se mění a Tokio ztrácí zeleň, zmizely „tři Central Parky“",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/tokio-japonsko-stromy-vedra.A261012_095613_zahranicni_pluh"
+    },
+    {
+      "score": 8,
+      "fact": "OpenAI zveřejnila stovky nových matematických důkazů pro problémy, které lidé nepovedlo vyřešit.",
+      "reason": "Konkrétní technologický milník od velkého jména, překvapivý postup v abstraktním odvětví.",
+      "title": "„Plakal jsem. Rozprášili mou oblast výzkumu.“ Začala revoluce v matematice",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-plakal-jsem-rozprasili-mou-oblast-vyzkumu-zacala-revoluce-v-matematice-317710"
+    },
+    {
+      "score": 8,
+      "fact": "AI OpenAI vyleštila stovky nových matematických důkazů pro problémy, které lidé nedokázali vyřešit.",
+      "reason": "Globální technologická změna nesená konkrétní společností, silný téma.",
+      "title": "„Plakal jsem. Rozprášili mou oblast výzkumu.“ Začala revoluce v matematice",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-plakal-jsem-rozprasili-mou-oblast-vyzkumu-zacala-revoluce-v-matematice-317710"
+    },
+    {
+      "score": 8,
+      "fact": "Japonské hostince lákají na „hamací“ večeři přesunuji řezání celého tuňáka za 200 dolarů.",
+      "reason": "Zvláštní a vizuální zážitek se zaokrouhlenou a snadno zapamatovatelnou cenou, ideální pro rychlou otázku s volbou A/B.",
+      "title": "Tuňák za 200 dolarů. Japonské restaurace lákají na neobvyklou show",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/tunak-japonsko-usa-gastronomie-restaurace.A261008_135821_eko-zahranicni_elsy"
+    },
+    {
+      "score": 8,
+      "fact": "Norský státní fond s aktivum 2 biliony euro zvažuje investice do vývojáři jaderných zbraní.",
+      "reason": "Enormní číslo (2 bilióny €) kontrastuje s tematickou váha, což připomíná móno „tzv. rekordní cena za obraz“.",
+      "title": "Do zbrojení může vstoupit i ta nejtěžší váha. Severská země překvapila",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/do-zbrojeni-muze-vstoupit-i-ta-nejtezsi-vaha-severska-zeme-prekvapila/r~aaa296964ec83d46d60a78e7e5fe831e/"
+    },
+    {
+      "score": 8,
+      "fact": "Polské bobry zničila ceduli, jež varovala právě před bobřími škodami.",
+      "reason": "Virální, vtipná zvířecí historka s ironickým detailem.",
+      "title": "Neuvěřitelná situace. Bobři zničili ceduli, která před nimi varovala",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/nechteli-abyste-to-vedeli-bobri-znicili-lesnikum-varovani-pred-nicivymi-bobry/r~aaa29073d896682568fac5c3cb0433fc/"
+    },
+    {
+      "score": 7,
+      "fact": "Zemřel herec a dabér Ota Jirák, který přes 40 let daboval Hele. ",
+      "reason": "Smuteční zpráva s konkrétním jménem známé hlasové postavy.",
+      "title": "Dobrácké Hele přišlo o hlas. Zemřel herec a dabér Ota Jirák (†77)",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/684688/dobracke-hele-prislo-o-hlas-zemrel-ota-jirak-77.html"
+    },
+    {
+      "score": 7,
+      "fact": "Senátor Róbert Šlachta jedná o přestupu z klubu ANO",
+      "reason": "Politická novinka se jménem, typický bod na aktuální dění.",
+      "title": "Šlachta jedná o přestupu ze senátního klubu ANO. Legitimní, míní Mračková Vildumetzová",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-vysledcich-senatnich-voleb-378752"
+    },
+    {
+      "score": 7,
+      "fact": "Trump ocenil Netanjahua jako Bibli vyprskne klame před volbami.",
+      "reason": "Slavná postava, překvapivé označení, dobře se oslovuje.",
+      "title": "Bibi vás nikdy nezklame, chválil Trump Netanjahua před izraelskými volbami",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-netanjahu-volby-izrael-usa.A261018_173011_zahranicni_dvou"
+    }
+  ]
+}
