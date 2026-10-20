@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-19",
+  "generated": "2026-10-20T12:49:42+00:00",
+  "stats": {
+    "fetched": 1187,
+    "that_day": 589,
+    "deduped": 520,
+    "scored": 180,
+    "passed": 60,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Sázkaři stihli během senátních voleb vsadit v Tipsportu celkem 3,6 milionu korun.",
+      "reason": "Velmi konkrétní a překvapivý systém v politickém kontextu, fajn otazka na sázkové šumy.",
+      "title": "Překvapení v Senátu zamíchala sázkami. Roli sehrál i Michal David",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/volby/prekvapeni-v-senatu-zamichala-sazkami-roli-sehral-i-michal-david.A261019_162821_domaci_ichuc"
+    },
+    {
+      "score": 9,
+      "fact": "Český YouTube influencer Hejlovec odešel z Minecraftu do prestižní mise pro NATO.",
+      "reason": "Zásadně neúplně a lákavá personalita, s cílovým datem neúplně, překvapující přesah.",
+      "title": "Česká hvězda YouTube Hejlovec šokuje: Z Minecraftu míří do mise pro NATO!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-kultura/850812/hejlovec-minecraft-nato.html"
+    },
+    {
+      "score": 9,
+      "fact": "Dvacetiletý českeh hokejista Petr Sikora se ve šlágreru porval s kapitánem Bruins.",
+      "reason": "Specific young celebrity in a violent/dramatic situation is high-engagement news.",
+      "title": "„To se jen tak nevidí.“ Čech se porval s kapitánem Bruins, v zámoří uhranul energií",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/hokej/to-se-jen-tak-nevidi-cech-se-porval-s-kapitanem-bruins-v-zamori-uhranul-energii/r~aaa298aa09bb8e84431e5cc1eeff6f83/"
+    },
+    {
+      "score": 9,
+      "fact": "Zuzana Kocumová se vrátila do lyžování a získala titul 26 let po ukončení kariéry.",
+      "reason": "Český sportovec, neuvěřitelný časový odstup (26 let), ptačí příběh kariéry",
+      "title": "„Popření biologie.“ Svět v údivu, Kocumová je šampionkou 26 let po konci kariéry",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/popreni-biologie-svet-v-udivu-kocumova-je-sampionkou-26-let-po-konci-kariery/r~aaa29dc1fd77f14c12ab172513ae6c9c/"
+    },
+    {
+      "score": 9,
+      "fact": "Nizozemský premiér Rob Jetten oznámil, že čekají první dítě s pomocí náhradní matky.",
+      "reason": "Slavnostní osobnost, osobní zvrat, nenápadné počtení a náhradní matky.",
+      "title": "„Uvidíme se v roce 2027.“ Nizozemský premiér bude mít dítě, pomohla náhradní matka",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/nizozemsko-rob-jetten-potomek-snoubenec-nicolas-keenan-nahradni-matka.A261019_171624_zahranicni_kha"
+    },
+    {
+      "score": 9,
+      "fact": "Elon Musk chce příští rok darovat každému americkému dítěti jednu akcii SpaceX.",
+      "reason": "Konkrétní osoba, neuvěřitelný akt a velký rozpočet",
+      "title": "Balíček za 10 miliard dolarů. Musk chce věnovat každému dítěti v USA akcii SpaceX",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/musk-slibil-ze-kazdemu-diteti-v-usa-venuje-akcii-spacex.A261019_132332_eko-zahranicni_iluj"
+    },
+    {
+      "score": 9,
+      "fact": "Čech Lukáš Podiuk objel na motorce svět a v Paquistánu ho uzavřeli do uprchlického tábora.",
+      "reason": "Osobní história s nápadným detailom a specifickým menom",
+      "title": "„Tak tohle je smrt.“ Čech objel svět na motorce, v Pákistánu ho zavřeli do uprchlického tábora",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://magazin.aktualne.cz/tak-tohle-je-smrt-cech-objel-svet-na-motorce-v-pakistanu-ho-zavreli-do-uprchlickeho-tabora/r~aaa29469d325ed1088947656a9c28e71/"
+    },
+    {
+      "score": 8,
+      "fact": "Historický československý Spitfire z roku 1945 se vrátil do Česka a přistál na letišti Točná.",
+      "reason": "Konkrétní historický artefakt a dramatický moment přistání.",
+      "title": "Legenda se vrátila z Austrálie. Československý Spitfire přistál na Točné",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/legenda-se-vratila-z-australie-ceskoslovensky-spitfire-pristal-na-tocne/r~aaa290f4a2c591382a7ec56ec46b7465/"
+    },
+    {
+      "score": 8,
+      "fact": "Bojový letoun Spitfire československých letců se po desítkách let vrátil do Česka.",
+      "reason": "Historická relikvie a návrat do země má dobrý narativ.",
+      "title": "Spitfire československých letců RAF se vrátil do Česka, je k vidění v Točné",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-spitfire-ceskoslovenskych-letcu-raf-se-vratil-do-ceska-je-k-videni-v-tocne-318251"
+    },
+    {
+      "score": 8,
+      "fact": "Ikonický dabér Ota Jirák propůjčil svůj hlas postávám jako Alfa nebo Hagrid.",
+      "reason": "Smuteční vlna k velké osobnosti s jasnými odkazy na populární filmy.",
+      "title": "Dabingová ikona Ota Jirák (†77): Kdo všechno mluvil jeho hlasem?",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850750/dabingova-ikona-ota-jirak-77-kdo-vsechno-mluvil-jeho-hlasem.html"
+    },
+    {
+      "score": 8,
+      "fact": "Stoletá Betty McGuire zemřela, hrála Vayu v Deep Space Nine.",
+      "reason": "Smrt desatiletké hvězdy kultovního sci-fi je solidní obecného vzdělávání.",
+      "title": "Zemřela herečka Betty McGuireová",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-zemrela-herecka-betty-mcguireova-40603680"
+    },
+    {
+      "score": 8,
+      "fact": "Miroslava Němcová označila ministryně financí Petra Macinku za proruského kolaboranta.",
+      "reason": "Syndicated clash between prominent Czech politicians with a spicy label.",
+      "title": "Macinka doporučil Němcové Čuka a Geka. Označila ho za proruského kolaboranta",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/macinka-doporucil-nemcove-cist-knihy-pro-deti-oznacilo-za-proruskeho-kolaboranta.A261019_154133_domaci_kop"
+    },
+    {
+      "score": 8,
+      "fact": "Na letišti Točná byla veřejnosti představena historická stíhačka Spitfire z 312. peruti.",
+      "reason": "Unique visual subject (WWII fighter jet at local airport) makes a great cross-category question.",
+      "title": "Na pražském letišti Točná je k vidění Spitfire 312. perutě",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-na-prazskem-letisti-tocna-je-k-videni-spitfire-312-perute-40603540"
+    },
+    {
+      "score": 8,
+      "fact": "Legendární norská běžkyně Therese Johaugová se hlásí k lovu kvalifikace do maratonu na LOH 2028.",
+      "reason": "Nesmyslná kombinace zimní sportovkyně a letních her, vzpomínka na dopingový skandál.",
+      "title": "Legendární běžkyně na lyžích touží po účasti na letní olympiádě v Los Angeles",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/zimni-sporty-lyzovani-legendarni-bezkyne-na-lyzich-touzi-po-ucasti-na-letni-olympiade-v-los-angeles-5558998"
+    },
+    {
+      "score": 8,
+      "fact": "Nobelovka Elfriede Jelineková slaví osmdesátiny pod přezdívkou „rudá pornografka“.",
+      "reason": "Slavná osobnost, přemilý milník a pikantní přezdívka - ideální trivia.",
+      "title": "Provokatérka s přezdívkou „rudá pornografka“. Elfriede Jelineková slaví 80 let",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/literatura/provokaterka-s-prezdivkou-ruda-pornografka-elfriede-jelinekova-slavi-80-let/r~aaa29402d0d3ea0a52d285b3953100da/"
+    },
+    {
+      "score": 8,
+      "fact": "Soud na Floridě vydal zatykač na Raúla Castra kvůli sestřelu letadel před 28 lety.",
+      "reason": "Nesměrnouslivá událost u slabšího politika, spojení historie s dneškem.",
+      "title": "Floridský soud vydal zatykač na Raúla Castra",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/floridsky-soud-vydal-zatykac-na-raula-castra/r~aaa299da640d9fe63210b21eb0653c21/"
+    },
+    {
+      "score": 8,
+      "fact": "Policie v Německu zabavila humanoidního robota použitého k obtěžování šestnáctileté dívky.",
+      "reason": "Všudeprítomný, bizerní příběh s jasnoduchým konkrétním objektem (robot).",
+      "title": "„Vystajlovaný“ robot osahával 16letou dívku! Německá policie zabavila stroj i mobily mladíků",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850601/vystajlovany-robot-osahaval-16letou-divku-nemecka-policie-zabavila-stroj-i-mobily-mladiku.html"
+    },
+    {
+      "score": 8,
+      "fact": "Putin navrhl Trumpovi a Si Ťin-pchingovi třístranný summit k ukončení války na Ukrajině.",
+      "reason": "Významní lídři a netypická diplomatická nabídka",
+      "title": "Putin navrhl Trumpovi americko-čínsko-ruský summit o Ukrajině",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-putin-navrhl-trumpovi-americko-cinsko-rusky-summit-o-ukrajine-318183"
+    },
+    {
+      "score": 8,
+      "fact": "Zkázu milánské Via Torino způsobili děti ve věku 11 až 13 let.",
+      "reason": "Shokující věk pachateli specifického incidentu v Miláně.",
+      "title": "Šokovaná Itálie. Centrum Milána devastovaly děti ve věku 11 až 13 let",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-sokovana-italie-centrum-milana-devastovaly-deti-ve-veku-11-az-13-let-40603580"
+    },
+    {
+      "score": 7,
+      "fact": "Ve 40 letech zemřel ruský boxer přezdívaný „ruský Tyson\", kterému kariéru zničil incident v metru.",
+      "reason": "Neobvyklý příběh a smrt známé sportovní postavy s divokou historií.",
+      "title": "Ve 40 letech zemřel ruský Tyson, hvězdnou kariéru i život mu zničil záhadný incident v metru",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/bojove-sporty-tragicky-osud-ruskeho-boxera-hvezdnou-karieru-mu-znicil-zahadny-incident-jedenact-let-po-nem-zemrel-5559001"
+    }
+  ]
+}
