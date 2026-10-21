@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-20",
+  "generated": "2026-10-21T13:00:32+00:00",
+  "stats": {
+    "fetched": 1337,
+    "that_day": 564,
+    "deduped": 510,
+    "scored": 180,
+    "passed": 57,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Funkční počítač Apple 1 s podpisem Wozniaka se prodal za téměř 25 milionů korun.",
+      "reason": "Užší a neobvyklý předmět, konkrétní suma, spojení s iconickým jménem.",
+      "title": "Sběratelé se přetahovali o vzácný počítač Apple 1. Prodal se za téměř 25 milionů",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-hardware-sberatele-se-pretahovali-o-vzacny-pocitac-apple-1-prodal-se-za-temer-25-milionu-40603762"
+    },
+    {
+      "score": 9,
+      "fact": "NHL hvězda Kevin Hayes opustil ruskou ligu po pouhých pěti odehraných zápasech zdůvodněná strachem o bezpečnost.",
+      "reason": "Nečekaný osud známého športovce se specifickým číslem a regionem.",
+      "title": "Neměl záchvaty paniky, to až v Rusku. Hvězdný Američan po úprku odhalil, co se dělo",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/hokej/jsi-pripraven-jit-do-valky-slysel-v-rusku-hvezdny-american-po-uprku-lici-co-se-delo/r~aaa293ced3549862c4cc2c67bb79dbfc/"
+    },
+    {
+      "score": 9,
+      "fact": "Za Céline Dion vyšla speciální panenka Barbie v šatech z Oscarů.",
+      "reason": "Bulvární hit, známé jméno, konkrétní produkt, ideální pro 'cot je to?' kolo.",
+      "title": "Céline Dion má vlastní Barbie. Připomíná Titanic a Oscary",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/celine-dion-ma-vlastni-barbie-pripomina-titanic-a-oscary.A261015_104026_lidicky_skr"
+    },
+    {
+      "score": 9,
+      "fact": "Legendární americká zpravodajka Christiane Amanpourová opouští stanici CNN po 43 letech práce.",
+      "reason": "Mediální hvězda a silné časové míle (cca 40 let v branži).",
+      "title": "Zpravodajka CNN Christiane Amanpourová po 43 letech na stanici příští rok skončí",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zpravodajka-cnn-christiane-amanpourova-po-43-letech-na-stanici-pristi-rok-skonci-318356"
+    },
+    {
+      "score": 9,
+      "fact": "Trump prohlásil, že Rusko Ukrajince vlastně moc netrestá.",
+      "reason": "Konkerní, šokující a absurdní výroka aktuálního prezenta USA.",
+      "title": "Chování Ruska vůči Ukrajině je v pořádku, moc jí toho nedělá, prohlásil Trump",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/donald-trump-rusko-ukrajina-chovani-ruska-vuci-ukrajine-v-poradku-vyrok_2610201033_ako"
+    },
+    {
+      "score": 9,
+      "fact": "Kanaďský turista v USA unesl plameňáka a táhl ho po hotelu, hrozí mu vězení.",
+      "reason": "Absurdní příběh s konkrétním zvířetem a divným spojením.",
+      "title": "Turistovi z Kanady hrozí v USA vězení za týrání zvířat. V opilosti unesl plameňáka a táhl ho po hotelu",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/turistovi-z-kanady-hrozi-v-usa-vezeni-za-tyrani-zvirat-v-opilosti-unesl_2610200729_vdv"
+    },
+    {
+      "score": 8,
+      "fact": "Do Rady Českého rozhlasu byl zvolen moderátor a influencer Jakub Jíra.",
+      "reason": "Barevný předsudek (influenzer) na vážném institutu, dobré jméno pro odpověď.",
+      "title": "Na neobsazené místo v Radě ČRo zvolila Sněmovna Jíru, Dittrich neuspěl",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-na-neobsazene-misto-v-rade-cro-zvolila-snemovna-jiru-dittrich-neuspel-318358"
+    },
+    {
+      "score": 8,
+      "fact": "Meta postaví kábel Petal, první, který nabídne rychlost miliónu gigabitů za sekundu.",
+      "reason": "Tech novinka s konkrétním názvem a extrémním číslem, slušný trivia.",
+      "title": "Milion gigabitů za sekundu. Nový podmořský kabel propojí USA a Evropu",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/milion-gigabitu-za-sekundu-novy-podmorsky-kabel-propoji-usa-a-evropu-378832"
+    },
+    {
+      "score": 8,
+      "fact": "Modelka a expartnerka Justina Biebera, Sahara Ray, zemřela na předávkování fentanynem ve 34 letech.",
+      "reason": "Namluvená osobe + tragická smrt na látku, která dlouho vyděsila svět.",
+      "title": "Zemřela slavná modelka a ex Biebera (†34). V lednu porodila dceru, teď podlehla látce, která děsí svět",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/850866/zemrela-slavna-modelka-a-ex-biebera-34-v-lednu-porodila-dceru-ted-podlehla-latce-ktera-desi-svet.html"
+    },
+    {
+      "score": 8,
+      "fact": "Křetínského EP Group může získat většinový podíl ve francouzském obchodě Fnac Darty.",
+      "reason": "Znamení velký biznis, známé jméno Křetínský a reálná akvizice.",
+      "title": "Křetínského skupina EP Group smí získat většinový podíl ve Fnac Darty",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-kretinskeho-skupina-ep-group-smi-ziskat-vetsinovy-podil-ve-fnac-darty-40603830"
+    },
+    {
+      "score": 8,
+      "fact": "Přísní diváci zaplnili Národní divadlo při loučení s Jiřím Štěpničkou.",
+      "reason": "Úmrtí slavného herce, velké zájmové prostředí, možnost na jméno a místo.",
+      "title": "Foto: Lidé se loučí s Jiřím Štěpničkou, zaplnili Národní divadlo",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-foto-posledni-rozlouceni-jiri-stepnicka-318297"
+    },
+    {
+      "score": 8,
+      "fact": "Moderátorka Christiane Amanpourová po 43 letech opouští americkou televizi CNN.",
+      "reason": "Mileston s konkrétním číslem let a slavným jménem, dobrá odpověď.",
+      "title": "Slavná moderátorka končí: Zpovídala i Petra Pavla, po 43 letech opouští Amanpourová americkou CNN",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/850837/slavna-moderatorka-konci-zpovidala-i-petra-pavla-po-43-letech-opousti-amanpourova-americkou-cnn.html"
+    },
+    {
+      "score": 8,
+      "fact": "Poválecký stíhač Spitfire vylétal s československými důstojníky Královského letectva a po 80 letech se vrátil do Česka.",
+      "reason": "Dobrá historická osprávnění s konkrétním letadlem a časovým údajem.",
+      "title": "Legenda Spitfire je po téměř 80 letech zpátky v Česku. Létali s ním českoslovenští piloti Královského letectva",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/legenda-spitfire-je-po-temer-80-letech-zpatky-v-cesku-letali-s-nim_2610200955_aha"
+    },
+    {
+      "score": 8,
+      "fact": "Zpěvák Marcel Zmožek ukončil kariéru kvůli duševnímu onemocnění.",
+      "reason": "Slavný český interpret končí kariéru z vážného zdravotního důvodu.",
+      "title": "Marcel Zmožek končí s hudbou. Důvodem je duševní onemocnění, oznámila rodina",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/marcel-zmozek-zpevak-hudba-dusevni-onemocneni-konec-kariery.A261020_080500_lidicky_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Žralok v Jihoafrické republice ukousl 65leté ženě nohu a paži a zabí ji.",
+      "reason": "Šokující šokující detail (dvě končetiny) a jednoznačná odpověď (žralak).",
+      "title": "Žralok ukousl nohu a paži 65leté ženě u pláže v Jihoafrické republice",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zralok-plaz-utok-pobrezi-jihoafricka-republika-smrt-zena.A261020_175918_zahranicni_mikp"
+    },
+    {
+      "score": 8,
+      "fact": "Saúdská Arábie popravila dvojice z Bangladéše za cizoložství přenesením v mešitě v Mekce.",
+      "reason": "Šokující provinění, specifické místo a zem, vyžaduje jednoznačnou odpověď.",
+      "title": "Saúdská Arábie popravila dvojici z Bangladéše za údajné cizoložství v mešitě v Mekce",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-saudska-arabie-popravila-dvojici-z-bangladese-za-udajne-cizolozstvi-v-mesite-v-mekce-40603822"
+    },
+    {
+      "score": 7,
+      "fact": "Radovan Vitek po jedenácti letech podle verdiktu soudu v Lucembursku vyhrál soudní spor.",
+      "reason": "Mizantropie s číselným faktorem: spojení miliardáře a délky sporu volá po úctě.",
+      "title": "Firma Radovana Vítka nepravomocně vyhrála soud v Lucembursku. Spor se táhl 11 let",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/podniky/lucembursky-soud-odmitl-zalobu-kingstown-cpi-fim-radovan-vitek.A261020_182550_ekonomika_lupr"
+    },
+    {
+      "score": 7,
+      "fact": "Ruský satelit provedl manévr a přiblížil se k finské družici Iceye.",
+      "reason": "Napínavý detail o konkrétní instituci (Iceye) v kontextu Rusko-ukrajinského konfliktu.",
+      "title": "Podezřelý manévr. Ruský satelit se přiblížil k družici finské firmy spolupracující s Kyjevem",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/podezrely-manevr-rusky-satelit-se-priblizil-k-druzici-finske-firmy-spolupracujici-s-kyjevem-378823"
+    },
+    {
+      "score": 7,
+      "fact": "Sergej Lavrov prohlásil, že konec Volodymyra Zelenského je klíčem k možnému míru.",
+      "reason": "Provokativní výrok prominentní politicianské postavi s vysokou srozumitelností.",
+      "title": "Lavrov: Jakákoliv dohoda přijatelná pro Rusko i USA bude znamenat konec Zelenského",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-lavrov-jakakoliv-dohoda-prijatelna-pro-rusko-i-usa-bude-znamenat-konec-zelenskeho-40603924"
+    },
+    {
+      "score": 7,
+      "fact": "Due to political persecution, Turks fake criminal cases to gain asylum in Germany.",
+      "reason": "Škrtající kriminální trick s vazbou na Německo, přenosný do češtiny.",
+      "title": "„S tímhle získáš azyl kdekoli.“ Turci objevili kuriózní trik, jak se dostat do Německa",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/s-timhle-ziskas-azyl-kdekoli-turci-objevili-kuriozni-trik-jak-se-dostat-do-nemecka/r~aaa29966fceb1f636a2ade175b2a055d/"
+    }
+  ]
+}
