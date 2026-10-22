@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-21",
+  "generated": "2026-10-22T13:04:19+00:00",
+  "stats": {
+    "fetched": 1344,
+    "that_day": 605,
+    "deduped": 548,
+    "scored": 180,
+    "passed": 69,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Meta podala přezkum, ale soud nařídil jej zaplatit pokutu ve výši 25 miliard dolarů.",
+      "reason": "Obrovská kwanta číslo v milovárou kauze se zajímavým spojením.",
+      "title": "Kauza Cambridge Analytica má po letech dohru, Meta musí zaplatit miliardy dolarů",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/kauza-cambridge-analytica-ma-po-letech-dohru-meta-musi-zaplatit-miliardy-dolaru/r~aaa297ef40da22d255bc740dcfba02ad/"
+    },
+    {
+      "score": 9,
+      "fact": "Europoslankyně Kateřina Konečná přistoupila do europarlamentní frakce Patrioti pro Evropu společně s hnutím ANO.",
+      "reason": "Šokující aliancký přesun české levicové poslankyně do frakce vedle ANO.",
+      "title": "Europoslankyně Konečná vstoupila do frakce Patrioti pro Evropu",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-europoslankyne-konecna-vstoupila-do-frakce-patrioti-pro-evropu-318381"
+    },
+    {
+      "score": 9,
+      "fact": "V Pákistánu zatkli muže, který způsobil americké poště ztrátu 126 milionů dolarů.",
+      "reason": "Šokující suma peněz ztracená díky jedinému člověku zajatém v asijské zemi.",
+      "title": "V Pákistánu zatkli muže obviněného z toho, že způsobil americké poště ztrátu 126 milionů dolarů",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/v-pakistanu-zatkli-muze-obvineneho-z-toho-ze-zpusobil-americke-poste-ztratu-126_2610211947_jar"
+    },
+    {
+      "score": 9,
+      "fact": "Poloviční kradené francouzské loupeže jsou masově v inzerátech na odkupní platformě Vinted.",
+      "reason": "Vtrhlá, vtipná pravda s konkrétním názvem platformy.",
+      "title": "Drzí lupiči z rozbouřené Francie: Už prodávají kořist!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850945/drzi-lupici-z-rozbourene-francie-uz-prodavaji-korist.html"
+    },
+    {
+      "score": 8,
+      "fact": "Christině Applegate po pěti letech lékaři vyvrátili diagnózu roztroušené sklerózy, příčina neznámé.",
+      "reason": "Slavnostní jméno,Medical mystery, long timeline",
+      "title": "Hvězda Ženatý se závazky Christina Applegate (54): 5 let utrpení kvůli špatné diagnóze!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/850996/hvezda-zenaty-se-zavazky-christina-applegate-54-5-let-utrpeni-kvuli-spatne-diagnoze.html"
+    },
+    {
+      "score": 8,
+      "fact": "Senát povoli, že cesty dálkačních zánamok se nebudou zdražovat.",
+      "reason": "Direct financial impact on millions of citizens",
+      "title": "Ceny dálničních známek se nebudou pravidelně zvyšovat, umožnil to Senát",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senat-se-bude-zabyvat-cenami-dalnicnich-znamek-378852"
+    },
+    {
+      "score": 8,
+      "fact": "Španělský herec Antonio Banderas osobně blahopřál českému hudebnímu projektu Vivaldianno.",
+      "reason": "Slavná osobnost (Banderas) a nečekaný vztah k tuzemskému projektu.",
+      "title": "Český projekt zaujal Banderase, hudebníkům šel osobně blahopřát",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/hudba/cesky-projekt-zaujal-banderase-hudebnikum-sel-osobne-blahoprat/r~aaa29706599e3ecd3e3f896e574e1edc/"
+    },
+    {
+      "score": 8,
+      "fact": "Dehonestovaný americký vědec David Sabatini nyní pracuje pro český stát.",
+      "reason": "Konkrétní osoba, nečekaný obrat kariéry a spojení s Českem",
+      "title": "Dehonestovaný americký vědec vyhrál soud nad ženou, která ho obvinila. Teď pracuje pro Česko",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/dehonestovany-americky-vedec-vyhral-soud-nad-zenou-ktera-ho-obvinila-ted-pracuje-pro-cesko-378868"
+    },
+    {
+      "score": 8,
+      "fact": "Na pohřebu herce Jiřího Štěpničky se objevil i syn Jakub, s nímž otce desítky let neviděl.",
+      "reason": "Sensace kolem slavné osobnosti a nečekané rodinné rekoncile.",
+      "title": "Obří pohřeb Jiřího Štěpničky (†79) v Národním: Zatracený syn v první řadě!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850903/obri-pohreb-jiriho-stepnicky-79-v-narodnim-zatraceny-syn-v-prvni-rade.html"
+    },
+    {
+      "score": 8,
+      "fact": "Náhodný svědek nicknamed Pan Běžec skočil do Vltavy a zachranil policii, která s autom spadla na Hlávkův most.",
+      "reason": "Dramatický příběh hrdiny a specifický překrývací detail 'Pan Běžec'.",
+      "title": "Neváhal a skočil. Kdo je Pan Běžec, který zachránil policejní hlídku z Vltavy",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-vedeni-policie-podekovalo-panu-bezci-za-zachranu-policejni-hlidky-z-reky-40604010"
+    },
+    {
+      "score": 8,
+      "fact": "Neznámý sběratel zaplatil za první vydání Koperníka zhruba padesát milionů korun.",
+      "reason": "Kovysoká částka a známé jméno Koperník dělají z faktátu dobrý kvíz.",
+      "title": "Padesát milionů za Koperníka. Kdysi zakázanou knihu koupil neznámý sběratel",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/padesat-milionu-za-kopernika-kdysi-zakazanou-knihu-koupil-neznamy-sberatel-378854"
+    },
+    {
+      "score": 8,
+      "fact": "Radnice v Birminghamu omylem prodala dům s domovinou základní školy a teď ji chce zpět.",
+      "reason": "Absurdní a podivná administrativa s jasným, drobným detažováním.",
+      "title": "Radnice v Birminghamu před 13 lety omylem prodala základní školu, teď ji chce zpět",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-radnice-v-birminghamu-pred-13-lety-omylem-prodala-zakladni-skolu-ted-ji-chce-zpet-40602263"
+    },
+    {
+      "score": 8,
+      "fact": "Sněmovna zvolila do Rady ČRo influencera a moderátora Jakuba Jíru.",
+      "reason": "Překvapivý výběr z nečekané skupiny kandidátů.",
+      "title": "Na neobsazené místo v Radě ČRo zvolila Sněmovna moderátora a influencera Jíru",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-na-neobsazene-misto-v-rade-cro-zvolila-snemovna-moderatora-a-influencera-jiru-40603934"
+    },
+    {
+      "score": 8,
+      "fact": "SpaceX zaznamenala tržby 14,58 mld. dolarů a Musk naznačil fúzi s Teslou.",
+      "reason": "Významné business zprávy o miliardářích a možných korporátních změnách.",
+      "title": "SpaceX oznámila po ztrátách nečekaně velký zisk, Musk mluví o fúzi s Teslou",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-spacex-oznamila-po-ztratach-necekane-velky-zisk-musk-mluvi-o-fuzi-s-teslou-318369"
+    },
+    {
+      "score": 8,
+      "fact": "Australské poslankyni Helen Hainesové amputovali obě nohy po automobilovém útoku.",
+      "reason": "Černý humor smrti, specifická a šokující fyzická újma na veřejné osobnosti.",
+      "title": "Automobilový útok v Austrálii: Poslankyně (65) přišla o obě nohy!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850992/automobilovy-utok-v-australii-poslankyne-65-prisla-o-obe-nohy.html"
+    },
+    {
+      "score": 8,
+      "fact": "Soud uložil firmě Meta zaplatit 25 miliard dolarů za manipulaci s daty.",
+      "reason": "Obrovské číslo a globální tech gigant v roli viníka.",
+      "title": "Soud v Novém Mexiku uložil Metě zaplatit 25 miliard dolarů za nakládání s daty",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/soud-v-novem-mexiku-ulozil-mete-zaplatit-25-miliard-dolaru-za-nakladani-s-daty-378886"
+    },
+    {
+      "score": 8,
+      "fact": "Americký vyslanec Witkoff označil Putina za lidumila a vzdal mu tím hold.",
+      "reason": "Směšná diplomatická chyba s konkrétním jménem a překvapivým sloganem.",
+      "title": "Další ostuda Witkoffa v Rusku. Putina označil za lidumila a vzdal mu hold",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/dalsi-ostuda-witkoffa-v-rusku-putina-oznacil-za-lidumila-a-vzdal-mu-hold/r~aaa296e8e46d6d9f0461309c97e9316a/"
+    },
+    {
+      "score": 8,
+      "fact": "Američan Stephen Hubbard po propuštění z ruského vězení dostal vzkaz s požehnáním od Putina.",
+      "reason": "Rarita spojená se jménem ve spojení s ruským prezidentským vzkazem.",
+      "title": "První záběry Američana propuštěného z ruského vězení. Dostal vzkaz od Putina",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-propustilo-americkeho-vezne-ktereho-zadrzelo-na-ukrajine-318392"
+    },
+    {
+      "score": 8,
+      "fact": "Úřady osvobodily žraloka uvezeného v kanále Marea Busan až při třetím pokusu.",
+      "reason": "Divoký příběh s animálním hrdinou po třech pokusech o záchranu.",
+      "title": "Po měsíci a třech pokusech konečně na svobodě. V Jižní Koreji osvobodili uvízlého žraloka",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/po-mesici-a-trech-pokusech-konecne-na-svobode-v-jizni-koreji-osvobodili-uvizleho-zraloka/r~aaa296d35b491bea01bdd03ba208f05a/"
+    },
+    {
+      "score": 7,
+      "fact": "Nováček v Lize mistrů Como Itálie deklasoval Manchester United přesvědčivým výsledkem 4:1.",
+      "reason": "Silný překvapivý sportovní výsledek oblíbeného týmu.",
+      "title": "Nováček v Lize mistrů Como přejelo dalšího favorita. Italský celek deklasoval Manchester United 4:1",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/novacek-v-lize-mistru-como-prejelo-dalsiho-favorita-italsky-celek-deklasoval_2610212143_mim"
+    }
+  ]
+}
