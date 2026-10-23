@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-22",
+  "generated": "2026-10-23T12:42:30+00:00",
+  "stats": {
+    "fetched": 1420,
+    "that_day": 637,
+    "deduped": 569,
+    "scored": 180,
+    "passed": 45,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Poslanec Ševčík ze Sněmovny vyzval kolegyňu, ať si vezme menopauzu.",
+      "reason": "Provokativní politický incident se stopřesnou citací kontroverzního výrazu",
+      "title": "Ševčík se ve Sněmovně utrhl na Šebelovou.\nVezměte si menopauzu, vzkázal jí",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/vezmete-si-menopauzu-volal-sevcik-na-sebelovou-musi-se-to-resit-mini-poslankyne.A261022_085013_domaci_jira"
+    },
+    {
+      "score": 9,
+      "fact": "Skupina dezinformátorů „Doppelgänger“ přesvědčila amerického viceprezidenta JD Vancea sdílet ruskou propagandu",
+      "reason": "Konkrétní osoba (JD Vance), překvapivý úspěch ruských „dvojníků“ je přímo střílený materiál pro pořad.",
+      "title": "Putinovi „Dvojníci“. The Insider popsal fungování kremelské dezinformační skupiny",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/putinovi-dvojnici-the-insider-popsal-fungovani-kremelske-dezinformacni-skupiny-378922"
+    },
+    {
+      "score": 9,
+      "fact": "V Tachrúru lidé obdivují životně velkou klec s maskou Donalda Trumpa.",
+      "reason": "Sarkasmus, politik, specifické kulturní číslo a místní – dokonalá novina pro kvíz.",
+      "title": "Video: „Živý“ Trump se prochází vězením v Teheránu. Íránci jsou nadšení",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-zivy-trump-se-prochazi-vezenim-v-teheranu-iranci-jsou-nadseni-318522"
+    },
+    {
+      "score": 8,
+      "fact": "Ve věku 93 let zemřel herec Tom Skerritt, známý z filmu Aliens.",
+      "reason": "Smrt slavné hvězdy, která si zaslouží být v souhrnu.",
+      "title": "Zemřel herec Tom Skerritt",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-zemrel-herec-tom-skerritt-40604437"
+    },
+    {
+      "score": 8,
+      "fact": "Poslanec Ševčík řekl některé kolegyni, ať si vzala menopauzu.",
+      "reason": "Konkrétní, šokující a nevkusné výročení, které dobře funguje jako kvízková otázka.",
+      "title": "TMBK: Rozjetý Ševčík na cestě na další schůzi Sněmovny",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-rozjety-sevcik-na-ceste-na-dalsi-schuzi-snemovny-318554"
+    },
+    {
+      "score": 8,
+      "fact": "Simona Stašová odehrála 1000. reprizou roli ve hře Shirley Valentine.",
+      "reason": "Impozantní numerické milníky (1000 repríz, 2833 hodin) u známé herečky.",
+      "title": "Simona Stašová (71) byla už 1000krát Shirley Valentine: 2 833 hodin a 20 minut na jevišti!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850975/simona-stasova-71-byla-uz-1000-x-shirley-valentine-2-833-hodin-a-20-minut-na-jevisti.html"
+    },
+    {
+      "score": 8,
+      "fact": "Andrej Babiš přivedl poslance Ševčíka ke schůzce, aby mu podal omluvu za předmět menopauzy.",
+      "reason": "Politická bitka s konkrétním, čichovým gestem zvednutým premiérem.",
+      "title": "Toto je hulvátství, prohlásil Babiš k Ševčíkovi a přivedl ho k pultu",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-takove-kecy-se-vedou-v-hospode-sevcik-celi-kritice-za-vykriky-o-menopauze-318487"
+    },
+    {
+      "score": 8,
+      "fact": "Influencer Jakub Jíra z organizace Clash of the Stars byl zvolen do Rady Českého rozhlasu.",
+      "reason": "Konkrétní osoba z kontroverzního prostředí obsadila veřejnou funkci, což je bizarní.",
+      "title": "Bizarní zápasy i přátelství s Okamurou. Mladičký influencer usedne v Radě Českého rozhlasu",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/bizarni-zapasy-i-pratelstvi-s-okamurou-mladicky-influencer-usedne-v-rade-ceskeho-rozhlasu/r~aaa29880cf15076d3148c12b3160d88d/"
+    },
+    {
+      "score": 8,
+      "fact": "Herní vývojář Daniel Vávrovi ministr Macinka udělil oficiální státní ocenění.",
+      "reason": "Neočekávané spojení moderního herní vývojáře s oficiálním státním oceněním.",
+      "title": "Macinka dal ocenění vývojáři Danu Vávrovi",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-macinka-dal-oceneni-vyvojari-vavrovi-40604234"
+    },
+    {
+      "score": 8,
+      "fact": "Céline Dion si na akci oblékla silikonový odlitek místo korzetu.",
+      "reason": "Eccentrictý dress code, specifický celebritní detail k vyjmenování.",
+      "title": "Zpěvačka Teyana Taylorová: Sexy odlitek místo korzetu",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/850997/zpevacka-teyana-taylorova-sexy-odlitek-misto-korzetu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Ve 105 letech zemřela francouzská protinacistická bojovnice Mélanie Berger-Volleová",
+      "reason": "Specifická osoba, extrémně vysoký věk (mílestone) a historická souvislost udělají z toho dobrou otázku.",
+      "title": "Ve 105 letech zemřela protinacistická bojovnice Berger-Volleová",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-105-letech-zemrela-protinacisticka-bojovnice-berger-volleova-40604435"
+    },
+    {
+      "score": 7,
+      "fact": "Sucho na Lipně odhalilo meandr známý jako Srdce Vltavy.",
+      "reason": "Vizuálně silný a specifický jmenovický fakt.",
+      "title": "Přehrady nejsou jen vodní plochy, ale historická a kulturní krajina, říká archeolog",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/prehrady-nejsou-jen-vodni-plochy-ale-historicka-a-kulturni-krajina-rika-archeolog-378883"
+    },
+    {
+      "score": 7,
+      "fact": "Dolly Buster, nejznámější česká pornoherečka, se narodila v pražském Žižkově.",
+      "reason": "Celebrita + odkaz k místu výskytu může fungovat jako kontextová otázka.",
+      "title": "Jak sexbomba ze Žižkova ovládla pornobyznys v Německu. Dolly Buster měla něco navíc",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/onadnes/vztahy/jak-sexbomba-ze-zizkova-ovladla-pornobyznys-v-nemecku-dolly-buster-mela-neco-navic.A260930_104858_lidicky_bury"
+    },
+    {
+      "score": 7,
+      "fact": "Čínský maker AI DeepSeek získal od investorů přes 300 miliard korun během jednoho kola.",
+      "reason": "Konkrétní a obrovské číslo u velké technologické události, ale nikde nehromádí jmen.",
+      "title": "Čínský DeepSeek získal od investorů přes 300 miliard",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-cinsky-deepseek-ziskal-od-investoru-pres-300-miliard-40604211"
+    },
+    {
+      "score": 7,
+      "fact": "Prahu budou společně vést STAN a Spolu, pokud do listopadu nevznikne koalice s Prahou sobě.",
+      "reason": "Významná politická událost ve třetím městě, konkrétní strany a časový rámec.",
+      "title": "Dohoda v Praze. Město povede STAN a Spolu, do koalice chtějí třetího",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-pirati-nabidku-odmitli-do-koalice-se-stan-a-spolu-ma-blize-praha-sobe-318478"
+    },
+    {
+      "score": 7,
+      "fact": "Pavol Habera znovu oslovil fanoušky legendárními džínovými kraťasy, které nosí desítky let.",
+      "reason": "Vizualizovaný kultovní detail české hvězdy je ideální na povelíku.",
+      "title": "Palo Habera (64) dráždí fanoušky: Návrat legendy! Solaříková se neudržela...",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851036/palo-habera-64-drazdi-fanousky-navrat-legendy-solarikova-se-neudrzela.html"
+    },
+    {
+      "score": 7,
+      "fact": "We Francii poprvé dokázali přítomnost viru Shamonda u člověka a pacient zemřel",
+      "reason": "Zdravotní novinka se specifickým názvem viru a tragickým závěrem, dobře se šikovno zapamatovat.",
+      "title": "Ve Francii poprvé zjistili virus Shamonda u člověka. Nakažený zemřel",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/ve-francii-poprve-zjistili-virus-shamonda-u-cloveka-nakazeny-zemrel/r~aaa29b3deb8d1785f14f3059b4c7d076/"
+    },
+    {
+      "score": 7,
+      "fact": "Vězeň Stephen Hubbard se po čtyřech letech vrátil do USA z Ruska.",
+      "reason": "Konkrétní jméno spojené s mezinárodním incidentem a uplynulým časem.",
+      "title": "Američan Stephen Hubbard se po čtyřech letech vrátil z ruského vězení zpátky do USA",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/usa-rusko-vezeni-propusteni-americkeho-obcana_2610221700_zfr"
+    },
+    {
+      "score": 7,
+      "fact": "Hackeři v Carrefouoru na dálku zahřáli mrazáky ve 80 obchodech.",
+      "reason": "Vtipný a konkrétní detail kybernetického útoku, který si publika rychle zapamatují.",
+      "title": "Řetězce jsou pro hackery snadný cíl. Problémy s mrazáky mělo ve Francii 80 obchodů",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/hackerske-utoky-supermarkety-mrazaky-potraviny-francie-skody.A261021_155446_eko-zahranicni_jla"
+    },
+    {
+      "score": 7,
+      "fact": "Australský reportér zachránil řidiče z potápějícího se auta uprostřed povodní během živé reportáže.",
+      "reason": "Dramatický a vizuálně silný příběh, vhodný jako otázkový háček na odvahu reportéra.",
+      "title": "Video: Reportáž z povodní se změnila v boj o život. Kamera natáčela dál",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-reportaz-z-povodni-se-zmenila-v-boj-o-zivot-kamera-natacela-dal-318491"
+    }
+  ]
+}
