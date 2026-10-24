@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-23",
+  "generated": "2026-10-24T12:08:15+00:00",
+  "stats": {
+    "fetched": 1300,
+    "that_day": 655,
+    "deduped": 593,
+    "scored": 180,
+    "passed": 61,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Zaměstnanci ČT a ČRo vyhlásili celodenní stávku na den „Dny české nezávislosti“.",
+      "reason": "Paradoxního data (3.11.) a konkrétní akce veřejnoprávních médií.",
+      "title": "Pracovníci ČT a ČRo budou 3. listopadu stávkovat",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/iniciativa-verejnopravne-k-projednavani-zruseni-poplatku-za-ct-a-cro-378956"
+    },
+    {
+      "score": 9,
+      "fact": "Electronic Arts nedlouho po koupi zrušilo slavné herní studio BioWare.",
+      "reason": "Velká herní zpráva spojená s kontroverzním přejevem vlastníka.",
+      "title": "Skončilo slavné herní studio BioWare",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/skoncilo-slavne-herni-studio-bioware-378958"
+    },
+    {
+      "score": 9,
+      "fact": "Pavel Novotný se po base vězení stal místostarostou a starostkou je jeho sestra.",
+      "reason": "Šokující rodinná politická intrika s konkretními jmíny a nepříjemným prstem.",
+      "title": "Rebel ODS Novotný po base: Velký návrat na radnici v Řeporyjích!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/851101/rebel-ods-novotny-po-base-velky-navrat-na-radnici-v-reporyjich.html"
+    },
+    {
+      "score": 9,
+      "fact": "Ukrajinské vojsko po boji v plynovém potrubí pralo uniformu v octu.",
+      "reason": "Infantilní detail s jedním slovem – ocet – bohužel.",
+      "title": "Video: Překvapivý manévr. Ukrajinci využili během bojů o Kupjansk potrubí",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-prekvapivy-manevr-ukrajinci-vyuzili-behem-boju-o-kupjansk-potrubi-318607"
+    },
+    {
+      "score": 9,
+      "fact": "U otce Meghan Markleové našel syn krabice s dětskou pornografií a nahlásil ho policii.",
+      "reason": "Saské téma skandálu u královské rodiny s překvapivou odhalovací rolí syna.",
+      "title": "U otce Meghan Markleové našli krabice plné dětské pornografie. Nahlásil ho vlastní syn",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-u-otce-meghan-markleove-nasli-krabice-plne-detske-pornografie-udal-ho-vlastni-syn-40604593"
+    },
+    {
+      "score": 8,
+      "fact": "Trumpův ministr zahraničí Marco Rubio přistál v Praze jen na dotankování letounu.",
+      "reason": "Nálevná úprcha legendární postavy na nečekané místo.",
+      "title": "Trumpův klíčový muž nečekaně přistál v Praze. A pochvaloval si Česko",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/trumpuv-klicovy-muz-necekane-pristal-v-praze-a-pochvaloval-si-cesko/r~aaa29827d06d88a4c636cf28a0b0b673/"
+    },
+    {
+      "score": 8,
+      "fact": "Radůza napsala Vondráčkové píseň po sébě na benzínové pumpě.",
+      "reason": "Překvapující a baretní anekdeta sloužící jako výborný kvízový háček.",
+      "title": "Helena Vondráčková představuje nový singl Stříbrný vítr. Píseň pro ni napsala Radůza",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-kultura/851165/helena-vondrackova-predstavuje-novy-singl-stribrny-vitr-pisen-pro-ni-napsala-raduza.html"
+    },
+    {
+      "score": 8,
+      "fact": "Bournemouth porazil fotbalistu Sappho v prvním zápasu nového ročníku Evropské ligy.",
+      "reason": "Můžeme se podívat na surfařského giganta, bezmocný Sappho se přiklonil k Bournemouthu, který šokoval.",
+      "title": "Soupeř Sparty a Plzně smetl italského giganta. Noc snů, rozplývají se na Ostrovech",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-evropska-liga-souper-sparty-a-plzne-smetl-italskeho-giganta-noc-snu-rozplyvaji-se-na-ostrovech-5560735"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel herec Tom Skerritt, který proslavil snímky jako M*A*S*H nebo Vetřelec.",
+      "reason": "Smrt známého herce, odpovědí je jeho jméno, typický fakt prvního kola.",
+      "title": "Zemřel herec Tom Skerritt. Proslavil se ve snímcích M*A*S*H, Vetřelec či Top Gun",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/tom-skerritt-umrti-herec-tom-skerritt-top-gun-vetrelec.A261023_094100_filmvideo_hock"
+    },
+    {
+      "score": 8,
+      "fact": "Helena Vondráčková a Radůza natočily společnou píseň po náhodném setkání na benzínce.",
+      "reason": "Příběh s netypickým začátkem a dvěma slavnými jmény, vhodný na hádanku.",
+      "title": "Potkaly se na benzínce a vznikla píseň. Helena Vondráčková spojila síly s Radůzou",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/hudba/helena-vondrackova-raduza-stribrny-vitr-pisnicka-spoluprace-zpevacka.A261022_104201_hudba_lysa"
+    },
+    {
+      "score": 8,
+      "fact": "Ukrajinský voják Kosťjan Vlasenko si ve frontové linii sám amputoval druhou nohu.",
+      "reason": "Konkrétní jméno a šokující detail samostatné amputace.",
+      "title": "Amputoval si svou nohu. Neuvěřitelný příběh ze zóny smrti, popsal ho raněný Ukrajinec",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/amputoval-si-svou-nohu-neuveritelny-pribeh-ze-zony-smrti-popsal-ho-raneny-ukrajinec/r~aaa296976eb15e76f46301d8e6e09cd2/"
+    },
+    {
+      "score": 8,
+      "fact": "Pomocníci amerického ministra války roztřískali Eisenhowerův památný glóbus.",
+      "reason": "Konkrétní, zvláštní a vizuálně silný příběh s jmenem.",
+      "title": "Hegseth zatoužil po Eisenhowerově glóbu, jeho lidé ho roztřískali",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/hegseth-eisenhower-globus.A261023_094834_zahranicni_aha"
+    },
+    {
+      "score": 8,
+      "fact": "Řecko se stalo první zemí v EU se zákazem sítí pro děti do 15 let.",
+      "reason": "Jasný rekordní mezník ('první země v EU') a aktuální témata pro cílovou skupinu.",
+      "title": "Řecký parlament schválil zákaz sociálních sítí pro osoby mladší 15 let",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-recky-parlament-schvalil-zakaz-socialnich-siti-pro-osoby-mladsi-15-let-318575"
+    },
+    {
+      "score": 8,
+      "fact": "Petr Pavel se stal jedním z hlavních činitelů EU ve vyjednávání s Putinem o míru.",
+      "reason": "Významný český politik v globální roli, poutavý a aktuální fakt pro českou diváckou základnu.",
+      "title": "Může vyjednat mír s Putinem? Prezident Pavel je mezi pěti favority na klíčovou roli",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/pavel-jako-evropsky-vyjednavac-o-ukrajine-cesky-prezident-patri-mezi-pet-favoritu/r~aaa29d84a5f9a71469ff2a53c02bad47/"
+    },
+    {
+      "score": 8,
+      "fact": "Český muž se oženil se 105 ženami za účelem podvodení a loupeže.",
+      "reason": "Šokující konkrétní číslo (105), typický příběh pro koupatelní kvízovné otázky.",
+      "title": "Láska jako past na peníze. Český učitel obral 30 žen, jiný si jich vzal 105",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://magazin.aktualne.cz/snatkovi-podvodnici-kteri-sokovali-svet-jeden-si-vzal-si-105-zen-jiny-hral-miliardare/r~aaa2999600cf4cb968923a03be151489/"
+    },
+    {
+      "score": 7,
+      "fact": "Skylar Blakelyová se stala nejmladší mistryní světa v gymnastickém víceboji za 14 let.",
+      "reason": "Konkrétní sportovní úspěch, ale mírně zájem only pro sportovní publikum.",
+      "title": "Američanka Blakelyová je poprvé mistryní světa v gymnastickém víceboji",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/ostatni-americanka-blakelyova-je-poprve-mistryni-sveta-v-gymnastickem-viceboji-5561667"
+    },
+    {
+      "score": 7,
+      "fact": "Opavští vědci navazují na výzkum nobelisty Francis Halzena.",
+      "reason": "Konkrétní vědecká kolaborace spojující českou univerzitu s nobelistou.",
+      "title": "V Opavě navazují na objev letošního nobelisty Halzena, který mění astronomii",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-v-opave-navazuji-na-objev-letosniho-nobelisty-halzena-ktery-meni-astronomii-40604310"
+    },
+    {
+      "score": 7,
+      "fact": "Vědci poprvé rekonstruovali vzhled denisovanů pomocí nedávno nalezené části lebky.",
+      "reason": "Významný archeologický pokrok, který překvapí a odpovídá na otázku 'jak vypadali?'",
+      "title": "Vědci poprvé rekonstruovali vzhled záhadných denisovanů",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vedci-poprve-rekonstruovali-vzhled-zahadnych-denisovanu-378938"
+    },
+    {
+      "score": 7,
+      "fact": "Zemřel Petr Slaný, před 50 lety získal Baníku první titul.",
+      "reason": "Smuteček, ale s konkrétní historickou kulatou výročím (50 let).",
+      "title": "Zemřel bývalý fotbalista a ligový šampion Slaný",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-zemrel-byvaly-fotbalista-a-ligovy-sampion-slany-5560721"
+    },
+    {
+      "score": 7,
+      "fact": "Český vzdělávací projekt DouČTo vyhrál cenu PRIX EUROPA 2026.",
+      "reason": "Konkrétní úspěch s jasným jménem ceny a projektu, slušná hrdinská klauzule.",
+      "title": "DouČTo se stalo nejlepším evropským on-line mediálním projektem roku své kategorie",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/media/doucto-se-stalo-nejlepsim-evropskym-on-line-medialnim-projektem-roku-sve-kategorie-378936"
+    }
+  ]
+}
