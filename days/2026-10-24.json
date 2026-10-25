@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-24",
+  "generated": "2026-10-25T12:38:02+00:00",
+  "stats": {
+    "fetched": 1003,
+    "that_day": 377,
+    "deduped": 344,
+    "scored": 180,
+    "passed": 57,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Jiří Mádl slavil 40. narozeniny v kostýmu mimozemšťana.",
+      "reason": "Specific, funny celebrity detail that is easy to recall and fun.",
+      "title": "Tajná oslava 40 Jirky Mádla: Divočina u baru a archivní tajemství",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851186/tajna-oslava-40-jirky-madla-oslavenec-v-prevleku-ufo-divocina-u-baru-a-archivni-tajemstvi.html"
+    },
+    {
+      "score": 9,
+      "fact": "Zesnulý botanik Větrvička zaslal na zvučeckých karetních 400 kaktusů.",
+      "reason": "Unikátní, roztomilý osobnostní příběh konkrétního čísla a divadla.",
+      "title": "Nesnášel tituly, kvůli zvědavosti rozeslal 400 kaktusů. Lidé vzpomínali na botanika Větvičku",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-pardubicky-kraj-nesnasel-tituly-kvuli-zvedavosti-rozeslal-400-kaktusu-lide-vzpominali-na-botanika-vetvicku-40604553"
+    },
+    {
+      "score": 9,
+      "fact": "Premiér Babiš osobně volá občanům, aby obhájil zachování koncesionářského poplatku.",
+      "reason": "Poznamenející politická událost s konkrétním jménem a chováním, slušně hratelné v kvízu.",
+      "title": "„Volal mi Babiš.“ Premiér telefonuje lidem, kteří jsou proti rušení poplatků",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-rikal-ze-media-lzou-babis-vola-lidem-kteri-mu-napsali-kvuli-poplatkum-318645"
+    },
+    {
+      "score": 9,
+      "fact": "Požár z velké části zničil Hitlerovo Orlí hnízdo v bavorských Alpách.",
+      "reason": "Kulturní památka spálená, silný vizuál a jasné odpovědi",
+      "title": "Sídlo Adolfa Hitlera zničil požár. Policie zadržela muže, který vůdcův dům podpálil",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/orli-hnizdo-hitlerovo-horske-sidlo-zachvatil-pozar-policie-zadrzela-podezreleho/r~aaa29b6f2ef8525d2d8bddfe4001b31d/"
+    },
+    {
+      "score": 8,
+      "fact": "Tereza Hrochová v Plzni překonala české rekordy v hodinovce a na 20 000 metrů.",
+      "reason": "Konkrétní sportovní rekord s jmenem sportovkyně a disciplín.",
+      "title": "Běžkyně Hrochová překonala české rekordy v hodinovce a na 20 000 metrů",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/atletika-bezkyne-hrochova-prekonala-ceske-rekordy-v-hodinovce-a-na-20-000-metru-5562508"
+    },
+    {
+      "score": 8,
+      "fact": "Piráti plánují navrhnout odvolání Tomia Okamury z funkce předsedy Sněmovny.",
+      "reason": "Nepříjemný politický krok cílený na konkrétní osobu (Okamuru).",
+      "title": "‚Bezprecedentní zásah proti občanské společnosti.‘ Piráti navrhnou odvolání Okamury z čela Sněmovny",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/tomio-okamura-odvolani-z-cela-snemovny-pirati-hrib_2610241534_tec"
+    },
+    {
+      "score": 8,
+      "fact": "ATP tenise v Bruselu musel prostory uvolnit pro koncerty skupiny Duran Duran.",
+      "reason": "Konkrétní skupina, zajímavá kulturní kolize sportu a koncertní sály, kvůtná událost.",
+      "title": "Tenisté v Bruselu museli do jiné haly, aby uvolnili místo Duran Duran",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/tenis-teniste-v-bruselu-museli-do-jine-haly-aby-uvolnili-misto-duran-duran-5562005"
+    },
+    {
+      "score": 8,
+      "fact": "Gaël Monfils reagoval na rozvod s Elinou Svitolinovou způsobem, který vyvolal šok.",
+      "reason": "Celebrity divorce with a surprising/reaction-driven angle fits the 25-45 demo.",
+      "title": "Nedůstojné kopačky od Svitolinové? Zdrcený Monfils promluvil, svou reakcí šokoval",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/nedustojne-kopacky-od-svitolinove-zdrceny-monfils-promluvil-svou-reakci-sokoval/r~aaa29cecfa643ca309f847bc1d70dd50/"
+    },
+    {
+      "score": 8,
+      "fact": "Slovenská zpěvačka Adéla Jergová v americké show učila tančit Jimmyho Fallona.",
+      "reason": "Celebrity crossover with a specific, visual and memorable action.",
+      "title": "V osmi si připadala pozadu. Teď Adéla Jergová učila tančit Jimmyho Fallona",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/zpevacka-adela-jergova-talk-show-jimmy-fallon-tanec.A261023_124220_lidicky_hrat"
+    },
+    {
+      "score": 8,
+      "fact": "Herečka Nela Boudová se v divadelní hře převléká přímo v gynekologické ordinaci.",
+      "reason": "Shock value and a very specific, unusual setting for a performer.",
+      "title": "Herečka Nela Boudová: Muži jsou často ztracení víc než ženy",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-herecka-nela-boudova-muzi-jsou-casto-ztraceni-vic-nez-zeny-40603732"
+    },
+    {
+      "score": 8,
+      "fact": "Meghan Markleova otec čelí vyšetřování kvůli podozření z dětské pornografie.",
+      "reason": "Známná postavička a šokující obvinění",
+      "title": "Otec Meghan čelí vyšetřování kvůli dětské pornografii. Vévodkyně reagovala",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/meghan-markle-thomas-otec-vysetrovani-detska-pornografie-fbi.A261024_081903_lidicky_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Desetibojař Petr Svoboda vyhrál svůj hlavní závod po poražení zákeřné nemoci rakoviny.",
+      "reason": "Touchující lidský příběh se sportovním vrcholem",
+      "title": "Nejdřív kašel, pak rakovina. Svůj hlavní závod jsem vyhrál, říká atlet",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-proc-se-to-deje-zrovna-mne-zpoved-ceskeho-atleta-ktery-porazil-rakovinu-318501"
+    },
+    {
+      "score": 8,
+      "fact": "Ruská tenistka Alisa Okťabreva změnila občanství a stala se Češkou.",
+      "reason": "Kulturová čestnost, specifické jméno, válečný kontext (ruská hvězda → Čech), silný faktor zprávy.",
+      "title": "Alisa se stala Češkou a září. Zhrzení Rusové? Kontroverzní šéf šíří dezinformace",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/alisa-je-ceskou-a-ohromuje-zhrzeni-rusove-boss-bud-lhal-nebo-o-ni-nic-nevi/r~aaa29a3a59d6d3ccc6080fe25df0e29f/"
+    },
+    {
+      "score": 8,
+      "fact": "Ministr Macinka požádá o policejní ochranu pro ministra kultury Klempíře kvůli návrhu na zrušení poplatků.",
+      "reason": "Nepřekvapivé spojení politiků, které zní absurdně a je kontextově aktuální.",
+      "title": "Macinka požádá o policejní ochranu pro ministra kultury Klempíře",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/sef-motoristu-sobe-macinka-pozada-o-policejni-ochranu-pro-ministra-kultury-klempire.A261023_234726_domaci_kop"
+    },
+    {
+      "score": 8,
+      "fact": "Trump od Republikánské strany dostal ocenění „Mus století“ jako reakci na ztracený Nobel.",
+      "reason": "Humorný a osobní detail s konkrétním jménem a reakcí předsedy.",
+      "title": "Muž století. Trump od republikánů obdržel další vymyšlené ocenění, zářil štěstím",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-oceneni-muz-stoleti-republikani-usa-cena.A261024_135014_zahranicni_fohl"
+    },
+    {
+      "score": 8,
+      "fact": "Studenti v Srbsku mohou po 12 letech svrhnout místopředsedu a premiéra Vučice.",
+      "reason": "Záhadný konkrétní prvek (12 let) a studentské hnutí proti premiérovi.",
+      "title": "Srbsko čeká souboj o budoucnost. Vučiće mohou po 12 letech sesadit studenti",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-srbsko-ceka-souboj-o-budoucnost-vucice-mohou-po-12-letech-sesadit-studenti-318440"
+    },
+    {
+      "score": 8,
+      "fact": "Robert Fico křičel, že ani náboj pro Ukrajinu, ale Slovak­sko loni vyvezlo munici za miliardy korun.",
+      "reason": "Konkrétní český/slovenský politik v momentu paradoxu a klamu.",
+      "title": "Fico kritizuje Ukrajinu, ale dodává jí zbraně. Jak Slovensko vydělává na válce",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/fico-kritizuje-ukrajinu-ale-dodava-ji-zbrane-jak-slovensko-vydelava-na-valce/r~aaa29f314d32abf457a85c42b07a5a1a/"
+    },
+    {
+      "score": 8,
+      "fact": "Britka se při pokusu o záchranu svých dvou synů v silném proudu utopila na Bahamách.",
+      "reason": "Dramatický lidský příběh s jasným začátkem a tragickým koncem, dobrý emocionální hák.",
+      "title": "Britka se při pokusu o záchranu synů utopila na Bahamách",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-britka-se-pri-pokusu-o-zachranu-synu-utopila-na-bahamach-40604718"
+    },
+    {
+      "score": 8,
+      "fact": "Zelenskyj prohlásil, že Ukrajina získala za posledních devadesát dní jen 24 raket do Patriotů.",
+      "reason": "Zarážející nízko číslo (24) u mimořádně drahé zbraně, snadno zapamatovatelný detail.",
+      "title": "Zelenskyj: Ukrajina za tři měsíce obdržela pouze 24 raket do patriotů",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-zelenskyj-ukrajina-za-tri-mesice-obdrzela-pouze-24-raket-do-patriotu-40604706"
+    },
+    {
+      "score": 8,
+      "fact": "Hitlerova raketa V-2 vynesla kameru, která sebrala první fotku Země z kosmu.",
+      "reason": "Příjemný historický zvrat a konkrétní datum/událost",
+      "title": "Místo bomby vynesla kameru. První fotku Země z kosmu přivezla Hitlerova V-2",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://magazin.aktualne.cz/nacisticka-zbran-vynesla-do-vesmiru-kameru-zachytila-pohled-ktery-svet-jeste-nevidel/r~aaa29f3b3806d89658edc3296b64b46f/"
+    }
+  ]
+}
