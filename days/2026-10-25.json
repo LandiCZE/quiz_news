@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-25",
+  "generated": "2026-10-26T14:10:50+00:00",
+  "stats": {
+    "fetched": 1022,
+    "that_day": 405,
+    "deduped": 366,
+    "scored": 180,
+    "passed": 51,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "David Pastrňák smazal rekord Gima Latilky, který platil v Bostonu 47 let.",
+      "reason": "Konkrétní sportovní míle, srovnání s legendou a přesný věk rekordu lákající sportovní fanoušky.",
+      "title": "Pastrňák má na mušce legendy. V Bostonu jde po rekordu, který platí skoro 50 let",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-nhl-pastrnak-ma-na-musce-legendy-v-bostonu-jde-po-rekordu-ktery-plati-skoro-50-let-5562871"
+    },
+    {
+      "score": 9,
+      "fact": "Partnerka biohackera Bryana Johnsona používá za 346 tisíc Kč sondu měřící noční vzrušení.",
+      "reason": "Chutnatečný detail, specificky pojmenovaná technologie a kontext slavného 'biohackera'.",
+      "title": "Partnerka biohackera Bryana Johnsona měří noční vzrušení sondou za 346 tisíc",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/bryan-johnson-kate-tol-mereni-vzruseni-sonda-sexualni-zdravi.A261020_113351_sex_sub"
+    },
+    {
+      "score": 9,
+      "fact": "Za kauzu Diag Human chce Štávo kvůli odoškodnění od Čech přes 17 miliard korun.",
+      "reason": "Obrovské číslo a známé jméno Babiš; typický fact pro druhou kolom.",
+      "title": "Miliardový účet pro Babiše. Exministr Blažek sehrál klíčovou roli v kauze Diag Human",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/miliardovy-ucet-pro-babise-exministr-blazek-sehral-klicovou-roli-v-kauze-diag-human/r~aaa29b77e3c1194e555a85b71614cb37/"
+    },
+    {
+      "score": 9,
+      "fact": "Rusko poprvé od začátku války hostí mistrovství světa ve vzpírání.",
+      "reason": "Výjimka v olympijském sportu, specifický timeframe, konkrétní organizace",
+      "title": "Vzpěračská federace udělila pořadatelství MS Rusku. Jako první od začátku války",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzperacska-federace-udelila-poradatelstvi-ms-rusku-jako-prvni-od-zacatku-valky-378993"
+    },
+    {
+      "score": 8,
+      "fact": "Patrik Schick jako jediný hráč ligy dal gól v každém kole, dokud nevyšel naprázdno.",
+      "reason": "Slavná osobnost + zlomený rekord/serió vydatných výkonů.",
+      "title": "Schick vyšel poprvé naprázdno, Leverkusen vyfasoval v Hoffenheimu tři góly",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-bundesliga-schick-vysel-poprve-naprazdno-leverkusen-vyfasoval-v-hoffenheimu-tri-goly-5563461"
+    },
+    {
+      "score": 8,
+      "fact": "Žena způsobila smrtící nehodu, protože na dálnici sledovala pornů.",
+      "reason": "Šokující a konkrétní detail (sledování porna při jízdě) je výborný na kvíz.",
+      "title": "Řidička během jízdy sledovala porno: Při nehodě zemřel milovaný táta",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/851142/ridicka-behem-jizdy-sledovala-porno-pri-nehode-zemrel-milovany-tata.html"
+    },
+    {
+      "score": 8,
+      "fact": "Martin Zajíc zaběhl v Frankfurtu nejrychlejší maraton v historii ČR za posledních 22 let.",
+      "reason": "Speциfický sportovní rekord s jasným číslem (22 let) a jménem sportovce.",
+      "title": "Debut jako hrom! Zajíc zaběhl nejrychlejší český maraton za posledních 22 let, je čtvrtý v historii",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/atletika-debut-jako-hrom-zajic-zabehl-nejrychlejsi-cesky-maraton-za-poslednich-22-let-je-ctvrty-v-historii-5563163"
+    },
+    {
+      "score": 8,
+      "fact": "Haalandův bratranec skóroval čtyřmi góly ve utkání Sparta - Slovácko 5:1.",
+      "reason": "Nepřirozené pojmenování 'Haalandův bratranec' je výborný háček pro otázky.",
+      "title": "Sparta - Slovácko 5:1. Haalandův bratranec si otevřel střelnici, dal čtyři góly",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/ceska-liga/sparta-slovacko-tym-z-uherskeho-hradiste-chce-po-liberci-venku-prekvapit-i-spartu/r~aaa292f01127fb266798f818a3d12b6c/"
+    },
+    {
+      "score": 8,
+      "fact": "Miminko v Sheffieldu zemřelo po 33 zraněních včetně 15 bodných ran jen několik hodin po narození.",
+      "reason": "Těžký a kontroverzní příběh s jasným šokujícím číslem a brutálním contextem, který těží pozornost.",
+      "title": "Matka Andrea sedí ve vazbě kvůli vraždě miminka: Mrazivé detaily",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/851131/matka-andrea-sedi-ve-vazbe-kvuli-vrazde-miminka-mrazive-detaily.html"
+    },
+    {
+      "score": 8,
+      "fact": "Andrej Babiš přiznal, že 14 hodin telefonoval s odpůrci rušení koncesionářských poplatků.",
+      "reason": "Zvonečný detail chování předsedy vlády, který je překvapivý pro českou politickou scénu.",
+      "title": "Volal jsem si 14 hodin s chvilkaři. Babiš popsal telefonáty odpůrcům rušení poplatků",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/volal-jsem-si-14-hodin-z-chvilkari-babis-popsal-telefonaty-odpurcum-ruseni-poplatku/r~aaa2955c6b364304af7861380d981896/"
+    },
+    {
+      "score": 8,
+      "fact": "Potomek Arthura Conana Doyla odhalil, že jeho předek Sherlocka Holmesa rozhodně neměl rád.",
+      "reason": "Zajímavá anekdota o slavném románu s nečekaným faktem o autorově potomkovi.",
+      "title": "Sherlocka neměl rád, jeho slávu nechápal, překvapil potomek Arthura Conana Doyla",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/literatura/richard-pooley-arthur-conan-doyle-sherlock-holmes-pravnuk-vystava-bila-labut-detektiv.A261020_211245_literatura_lysa"
+    },
+    {
+      "score": 8,
+      "fact": "Zdeněk Zerzáň sjel v roce 1980 nejvyšší africkou horu Kilimandžáro na lyžích.",
+      "reason": "Divoký příběh se specifickým jménem a překvapivým detailem.",
+      "title": "S lyžemi na Kilimandžáro. Výpravu málem překazili okresní funkcionáři KSČ",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-historie-s-lyzemi-na-kilimandzaro-vypravu-malem-prekazili-okresni-funkcionari-ksc-318201"
+    },
+    {
+      "score": 8,
+      "fact": "Rakouský sochař Erwin Wurm má své dílo ve videoklipu kapely Red Hot Chili Peppers.",
+      "reason": "Slavná světová kapela a tělesná tvorená umělecká díla, překvapivé spojení.",
+      "title": "Inspiroval Red Hot Chili Peppers, teď mačká auta. Evropa zaspala, varuje umělec",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/liberec/zpravy/erwin-wurm-sochar-red-hot-chili-peppers-vystava-liberec-prumysl.A261023_131448_liberec-zpravy_jape"
+    },
+    {
+      "score": 8,
+      "fact": "Meghan ukončila kontakt s otcem kvůli podezření na sexuální zneužívání.",
+      "reason": "Slavná osoba, šokující rodinný důvod, konkrétní jméno",
+      "title": "Vévodkyně Meghan přerušila kontakt s otcem kvůli sexuálnímu zneužívání",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-vevodkyne-meghan-prerusila-kontakt-s-otcem-kvuli-obvineni-ze-zneuzivani-318692"
+    },
+    {
+      "score": 8,
+      "fact": "Výzkumníci v Silicon Valley se vrací ke kouření, protože věří, že AI vyléčí rakovinu.",
+      "reason": "Výrazný kontrast techniky a zdravotního rizika, cílí na zvědavost a pobavení, klíčové je meno šéfa Palantiru.",
+      "title": "Nebezpečný trend: Výzkumníci na poli AI se vrací k cigaretám. „AI vyléčí rakovinu,“ jsou přesvědčeni",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850488/nebezpecny-trend-vyzkumnici-na-poli-ai-se-vraci-k-cigaretam-ai-vyleci-rakovinu-jsou-presvedceni.html"
+    },
+    {
+      "score": 8,
+      "fact": "Satelitní snímky odhalily, že Kim Čong-un má na své jáhtě 50 metrů bazén.",
+      "reason": "Spekulantní fakt o diktátorově luxusu, ideální pro kvízní 'kvinkl' nebo 'cokoliv'.",
+      "title": "Plovoucí palác Kim Čong-una: Diktátor z KLDR si užívá luxusu na jachtě za desítky miliard!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850754/plovouci-palac-kim-cong-una-diktator-z-kldr-si-uziva-luxusu-na-jachte-za-desitky-miliard.html"
+    },
+    {
+      "score": 7,
+      "fact": "Rodinná firma Gundových v důchodu nepropustila ani jednoho zaměstnance za 75 let.",
+      "reason": "Impozantní a konkrétní statistika, která upoutá pozornost.",
+      "title": "Firma, která za 75 let nepropouštěla. Opravdu existuje a funguje",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-firma-ktera-za-75-let-nepropoustela-opravdu-existuje-a-funguje-318574"
+    },
+    {
+      "score": 7,
+      "fact": "Zemřel ruský nacionalistický rapper Miša Mavaši, zakladatel hnutí 'Severní člověk', ve věku 41 let.",
+      "reason": "Nesečkaná smrt kontroverzního rappera a jeho nejasná příčina (nehoda či sebevražda).",
+      "title": "Nehoda, nebo sebevražda? Zemřel nacionalistický ruský rapper adorující válku na Ukrajině",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-nehoda-nebo-sebevrazda-zemrel-nacionalisticky-rusky-rapper-adorujici-valku-na-ukrajine-40604820"
+    },
+    {
+      "score": 7,
+      "fact": "Kandidát podpořený Robertem Ficem na post hejtmany Bratislavy ve voľbách prohrál.",
+      "reason": "Záporný výsledek pro značnú osobnost z blízkého okolia, relevantní pražským divákům.",
+      "title": "Všichni hejtmani na Slovensku obhájili ve volbách funkce. Ficem podporovaný kandidát v Bratislavě neuspěl",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/volby-slovensko_2610250941_tec"
+    },
+    {
+      "score": 7,
+      "fact": "Řidička v Utahu sledovala za volantem porno a zahynul při ní člověk.",
+      "reason": "Shokující a absurdní skutečný příběh s fatálním následkem",
+      "title": "Řidička v Utahu sledovala za volantem porno a způsobila nehodu, při níž zahynul člověk",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-ridicka-v-utahu-sledovala-za-volantem-porno-a-zpusobila-nehodu-pri-niz-zahynul-clovek-40604529"
+    }
+  ]
+}
