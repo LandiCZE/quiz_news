@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-26",
+  "generated": "2026-10-27T13:16:05+00:00",
+  "stats": {
+    "fetched": 1195,
+    "that_day": 606,
+    "deduped": 536,
+    "scored": 180,
+    "passed": 65,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Marketingová ředitelka Dermacolu odešla po 24 letech poté, co ji vyhodil její vlastní manžel.",
+      "reason": "Drastický vztahový detail ve známé firemní historii působí jako gossip.",
+      "title": "Dermacol opouští marketingová ředitelka Komárová. Po 24 letech ji vyhodil manžel",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/dermacol-opousti-marketingova-reditelka-komarova-po-24-letech-ji-vyhodil-manzel.A261026_203350_ekonomika_fohl"
+    },
+    {
+      "score": 9,
+      "fact": "Kupkův obraz Nepopisný prostor se v Paříži prodal za rekordních 8,99 milionu eur.",
+      "reason": "Rekordní částka za významné české umění, konkrétní číslo je skvělá odpověď nebo nápověda.",
+      "title": "Kupkův obraz Nepopisný prostor se v Paříži vydražil za rekordních 8,99 milionu eur",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/umeni/kupkuv-obraz-nepopisny-prostor-se-v-parizi-vydrazil-za-rekordnich-8-99-milionu-eur/r~aaa293dd91f39fe64db466a64e67e07f/"
+    },
+    {
+      "score": 9,
+      "fact": "Obraz Františka Kupky v Paříži dosáhl nového světového cenového rekordu ve výši asi 8,99 milionu eur.",
+      "reason": "Český umělec, konkrétní rekord a částka – ideální pro „kolik to stálo“.",
+      "title": "Obraz Františka Kupky má nový světový rekord",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-obraz-frantiska-kupky-ma-novy-svetovy-rekord-40605005"
+    },
+    {
+      "score": 9,
+      "fact": "Zemřel herec Eric Bauza, hlas Bugs Bunneye, ve věku šestačtyřiceti let.",
+      "reason": "Smrt slavného osobnosti s přízračným hlasem.",
+      "title": "Zemřel herec Eric Bauza",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-zemrel-herec-eric-bauza-40604897"
+    },
+    {
+      "score": 9,
+      "fact": "Bavorská vláda plánuje obnovu vyhořelého Hitlerova hradu Orlí hnízdo.",
+      "reason": "Ekscentrická akce spojená s kontroverzním historickým místem a šokujícím faktorem.",
+      "title": "Vyhořelé Orlí hnízdo chtějí obnovit. Podezřelý šel před požárem na policii",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/hitler-orli-hnizdo-nemecko-bavorsko-naciste-antifa-pozar.A261026_135232_zahranicni_jhr"
+    },
+    {
+      "score": 9,
+      "fact": "Srbským studentům se po dvou letech protestů podařilo porazit stranu autoritáře Aleksandara Vučiče.",
+      "reason": "Velký politický posun, specifické jméno Vučić, konec ředkyň.",
+      "title": "Studenti porazili autoritáře, Srbsko slaví. Čekají se velké změny",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-osvobodime-zemi-od-tyranie-srbsko-slavi-konec-vucice-a-ceka-velke-zmeny-318806"
+    },
+    {
+      "score": 9,
+      "fact": "V srbských volbách zvítězila opoziční Studentská kandidátka.",
+      "reason": "Konkrétní zázrak: Zvítězila skupina studentů, což je ideální odvětva pro quiz.",
+      "title": "V srbských volbách zvítězila Studentská kandidátka, Vučić uznal porážku",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vucic-jeste-pred-ohlasenim-vysledku-voleb-uznal-porazku-sve-strany-379002"
+    },
+    {
+      "score": 8,
+      "fact": "Vydavatelství Empresa Media, dlouho spojené se štěstím Jaromíra Soukupa, se ocitlo v konkursu.",
+      "reason": "Milníkový business příběh spojený s národně známou celebrity.",
+      "title": "Bývalé vydavatelství Jaromíra Soukupa Empresa Media je v insolvenci",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-byvale-vydavatelstvi-jaromira-soukupa-empresa-media-je-v-insolvenci-40605131"
+    },
+    {
+      "score": 8,
+      "fact": "Ve věku 90 let zemřel Walter Koenig, představitel člena posádky Enterprise Pavla Čechova.",
+      "reason": "Smrt ikony popkultury (Star Trek), název role nebo věk jsou snadné a skvělé odpovědi.",
+      "title": "Zemřel herec Walter Koenig",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-zemrel-herec-walter-koenig-40605113"
+    },
+    {
+      "score": 8,
+      "fact": "Walter Koenig, herec známost ze Star Treku jako důstojník Čechov, zemřel ve 90 letech.",
+      "reason": "Duplicity předchozího článku, stále silný fakt díky velkému souboru fanoušků.",
+      "title": "Fanoušci Star Treku v slzách: Zemřel důstojník Čechov!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/851328/fanousci-star-treku-v-slzach-zemrel-dustojnik-cechov.html"
+    },
+    {
+      "score": 8,
+      "fact": "Tomáš Berdych pojmenoval české hrdiny pro finále Davis Cupu: Menšík, Lehečka, Pavlásek a Rikl.",
+      "reason": "Známý sportovní hrdina seznamuje fanoušky s novou generací hrdinů Davis Cupu.",
+      "title": "Kapitán Berdych odkryl nominaci na finále Davis Cupu. V týmu jsou Menšík, Lehečka, Pavlásek a Rikl",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/tenis/kapitan-berdych-odkryl-nominaci-na-finale-davis-cupu-v-tymu-jsou-mensik-lehecka_2610261636_mim"
+    },
+    {
+      "score": 8,
+      "fact": "Odsouzený herec Gérard Depardieu si zahraje v Praze, zatímco Francie zrušila jeho vystoupení.",
+      "reason": "Prominentní kontroverzní umělec přijíždí do ČR, přestože je jinam způsobilý a odmítnutý právě kvůli odsouzení.",
+      "title": "Michal David pořádá v Praze koncert odsouzeného Gérarda Depardieua. Ve Francii stejné akce zrušili",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-michal-david-porada-prazsky-koncert-odsouzeneho-gerarda-depardieua-ve-francii-stejne-akce-zrusili-40605047"
+    },
+    {
+      "score": 8,
+      "fact": "Exfutbalista Jermaine Pennant získal padesát stehů po útaku ovčáka, který napadl jeho mazlíčka.",
+      "reason": "Šokující detail (50 stehů) a srozumitelná poznámka k bývalé hvězdě.",
+      "title": "Domácí mazlíček mu zachránil život. Bývalá hvězda Premier League má po útoku cizího psa padesát stehů na noze",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-premier-league-muj-pes-mi-zachranil-zivot-byvala-hvezda-premier-league-ma-po-utoku-ciziho-psa-padesat-stehu-na-noze-5564022"
+    },
+    {
+      "score": 8,
+      "fact": "Na Antarktidě naměřili 17 stupňů Celsia, což bylo tepleji než v Česku a porušení padesátiletého rekordu.",
+      "reason": "Konkrétní číslo, překvapivý kontrast s celkově „ledovou“ Antarktidou a místní kontext tepla.",
+      "title": "Tepleji než v Česku. Na Antarktidě padl padesátiletý rekord",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-tepleji-nez-v-cesku-na-antarktide-padl-padesatilety-rekord-40604993"
+    },
+    {
+      "score": 8,
+      "fact": "V Číně objevili obří houbu pojmenovanou D-rex, vzniklou ve světě zničeném asteroidem před 65 miliony let.",
+      "reason": "Exotický vědecký objev s jedinečným a zapamatovatelným názvem „D-rex“.",
+      "title": "V Číně objevili obří houbu „D-rex“. Vznikla ve světě zničeném asteroidem",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/v-cine-objevili-obri-houbu-d-rex-vznikla-ve-svete-znicenem-asteroidem-379015"
+    },
+    {
+      "score": 8,
+      "fact": "Předsedkyně VW závodní rady Daniela Cavallová označila vystoupení šéfa Audi vedle Trumpa za ostudu.",
+      "reason": "Slavná automobilka, konflikt s Trumpem a konkrétní jméno kritikaře.",
+      "title": "Šéf Audi čelí kritice za vystoupení s Trumpem. Ostudné, zní z Volkswagenu",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/podniky/sefka-zavodni-rady-volkswagen-audi-kritika-ucast-sef-trump-usa.A261026_092804_ekoakcie_mikp"
+    },
+    {
+      "score": 8,
+      "fact": "Donald Trump bezdůvodně označil brazilské prezidentské volby vyhrané Lukou za zmanipulované.",
+      "reason": "Klasický šokující výrok celebrity s konkrétním jménem",
+      "title": "„Další zmanipulované volby,“ Trump kritizoval brazilské hlasování",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/dalsi-zmanipulovane-volby-trump-kritizoval-brazilske-hlasovani/r~aaa29b06f2e4bd61805fd259a20fbe2a/"
+    },
+    {
+      "score": 8,
+      "fact": "První dáma USA Melania Trumpová se podle Bílého domu aktivně zasáhla do ukrajinské války.",
+      "reason": "Neobvyklá rola Melania, která se proslavila mlčením",
+      "title": "„Bez mého zásahu by to nešlo.“ První dáma USA se vložila do války na Ukrajině",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/bez-meho-zasahu-by-to-neslo-prvni-dama-usa-se-vlozila-do-valky-na-ukrajine/r~aaa2967a930159eed5a04b042cc72e59/"
+    },
+    {
+      "score": 8,
+      "fact": "Robert Fico předčasně opustil summit EU kvůli neúspěšné snaze podržet Vučice.",
+      "reason": "Kontroverzní český/slovenský politik v nečekaném a mediálně zajímavém aktu.",
+      "title": "Nadšení Magyara, mlčení Fica. S pádem Vučiće přišel o dalšího spojence",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-nadseni-magyara-mlceni-fica-s-padem-vucice-prisel-o-dalsiho-spojence-318810"
+    },
+    {
+      "score": 8,
+      "fact": "USA, Rusko a Čína lákují bývalého maďarského premiéra do OSN.",
+      "reason": "Zmínka o jménu (přestože nezmíněném v souhrnu) funguje jako silný háček.",
+      "title": "Trump, Putin a Si mají plán. Chtějí ovládnout OSN. Vytáhli překvapivé jméno",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/trump-putin-a-si-maji-plan-chteji-ovladnout-osn-vytahli-prekvapive-jmeno/r~aaa293d8b9889b444825560042de943d/"
+    }
+  ]
+}
