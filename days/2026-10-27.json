@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-27",
+  "generated": "2026-10-28T14:06:53+00:00",
+  "stats": {
+    "fetched": 1167,
+    "that_day": 576,
+    "deduped": 521,
+    "scored": 180,
+    "passed": 54,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Kostra dinosaura Nanotyrannus se vydražila za rekorzních 47,3 milionu dolarů (cca 1 mld. Kč).",
+      "reason": "Rekordní cena a překvapivý nález (ne T-Rex, ale Nanotyrannus).",
+      "title": "Kostra Nanotyranna se v New Yorku vydražila za miliardu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-kostra-nanotyranna-se-v-new-yorku-vydrazila-za-miliardu-40605317"
+    },
+    {
+      "score": 9,
+      "fact": "Babiš s Ficem odhalili sochu přátelství v zahradě Strakovičky.",
+      "reason": "Kontroverzní slovenský premiér na tuzemské scéně.",
+      "title": "Fico přijel do Česka. S Babišem na zahradě odhalil sochu přátelství",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-fico-prijel-do-ceska-s-babisem-na-zahrade-odhalil-sochu-pratelstvi-318930"
+    },
+    {
+      "score": 9,
+      "fact": "Havarovaný řidič v Praze před strážníky následně skákal po střeše svého rozbitého auta.",
+      "reason": "Kuriózní, vizuální a absurdní příběh, ideální pro rychlou vícerní otázku.",
+      "title": "Bizarní nehoda v Praze: Řidič boural před strážníkem a pak skákal po střeše svého auta",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-ridic-boural-primo-pred-ocima-straznika-resiciho-prestupek-pak-utekl-na-strechu-sveho-auta-40605260"
+    },
+    {
+      "score": 9,
+      "fact": "Tři čínští sponzoři okamžitě ukončili spolupráci s Kylianem Mbappém po jeho kontroverzním tisku na Mauro Ce-tunga.",
+      "reason": "Silný příběh s konkrétním celou, reakcí a měřítkem (3 sponzoři) – ideální pro kvíz.",
+      "title": "Na Mao Ce-tunga se nesahá. Mbappé naštval Číňany, jejich odplata přišla bleskově",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/na-mao-ce-tunga-se-nesaha-mbappe-nastval-cinany-prisel-o-obri-reklamni-zakazky/r~aaa297edc280fe6b9dff161a4003b4fa/"
+    },
+    {
+      "score": 9,
+      "fact": "Doživotně odsouzený Marian Rafael zemřel ve vězení v Plzni sedm let po vraždě spalováním.",
+      "reason": "Šokující příběh („Marian Rafael“) s morbidním detailem, který zajímá publikum.",
+      "title": "Doživotně odsouzený vrah Rafael zemřel ve vězení",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-dozivotne-odsouzeny-vrah-rafael-zemrel-ve-vezeni-40605236"
+    },
+    {
+      "score": 9,
+      "fact": "Veterán NHL zažil zklamavší comeback v New Yorku při poctě zesnulé bavičce.",
+      "reason": "Specifický příběh sportovce v kontextu „pocty zesnulé bavičce“ je osudově příhodný.",
+      "title": "Pohroma v New Yorku po poctě zesnulé legendě. Veterán NHL zažil tragický comeback",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-nhl-pohroma-v-new-yorku-po-pocte-zesnule-legende-veteran-nhl-zazil-tragicky-comeback-5564109"
+    },
+    {
+      "score": 9,
+      "fact": "Čínské firmy ukončily partnerství s Mbappém kvůli jeho útokům na Mao C-tunga.",
+      "reason": "Silná celebrity (Mbappé) + nečekaný důvod (Mao C-tung) + korporátní reakce.",
+      "title": "Čína proti Mbappému. Firmy s ním ukončily spolupráci kvůli Mao Ce-tungovi",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/cina-proti-mbappemu-firmy-s-nim-ukoncily-spolupraci-kvuli-mao-ce-tungovi.A261027_092347_eko-zahranicni_ven"
+    },
+    {
+      "score": 8,
+      "fact": "Ministryně financí Alena Šillerová přišla na SAPU vysvětlit EET, vyzkoušela si i svetr.",
+      "reason": "Vikářský moment, humor a kontext SAPY/EETu.",
+      "title": "„Teta Alena“ navštívila Sapu. Vietnamcům vysvětlovala EET, zkoušela si i svetr",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-teta-alena-navstivila-sapu-vietnamcum-vysvetlovala-eet-zkousela-si-i-svetr-318931"
+    },
+    {
+      "score": 8,
+      "fact": "Rekordní torzo římského císaře se prodalo za tři čtvrtě miliardy.",
+      "reason": "Konkrétní dramatický děj s vysokou částkou.",
+      "title": "Nejdražší římský artefakt v aukci. Torzo císaře pokořilo tři čtvrtě miliardy",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-nejdrazsi-rimsky-artefakt-v-aukci-torzo-cisare-pokorilo-tri-ctvrte-miliardy-318936"
+    },
+    {
+      "score": 8,
+      "fact": "U Babišova odhalení sochy zazněla slovenská provokace.",
+      "reason": "Přecpaný detail, skvělá kvízová situace.",
+      "title": "Babiš s Ficem odhalili sochu. Táhni do Ruska, znělo zpoza plotu Strakovky",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/babis-s-ficem-odhalili-sochu-tahni-do-ruska-znelo-zpoza-plotu-strakovky/r~aaa29aa7304e95f91c6eaedafcb9efa5/"
+    },
+    {
+      "score": 8,
+      "fact": "Andrzej Babiš se přiznal, že byl na hlasování o poplatcích vylíznutý a vypárávávaný, což je v souladu se sněmovní tradicí.",
+      "reason": "Humorný a konkrétní detail chování předsedy vlády při důležitém hlasování.",
+      "title": "Babiš hájil svoji absenci sněmovní tradicí. To mu ale rozstřelil Benda i Okamura",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/babis-hajil-svoji-absenci-snemovni-tradici-to-mu-ale-rozstrelil-benda-i-okamura/r~aaa29dac021eb33e62d5065fe4ed4185/"
+    },
+    {
+      "score": 8,
+      "fact": "Kylian Mbappé se omluvil za vtip o Mao Ce-tungovi a zhruba potlačil kritiku i ztrátu sponzorů v Číně.",
+      "reason": "Mezinárodní slavnostní osoba + kontroverzní chování + konkrétní důsledek (ztráta sponzorů).",
+      "title": "Drahý smích nad Maem. Mbappé rozlítil Čínu, škody žehlí ve třech jazycích",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/mbappe-se-kaje-chovam-hlubokou-uctu-k-cinskemu-lidu-a-jeho-historii-vzkazuje/r~aaa2953173b3700c50b21748a591989d/"
+    },
+    {
+      "score": 8,
+      "fact": "Majitelé práv k písním Elvise Presleyho žalují firmu Anthropic kvůli trénování AI na jeho hudbě bez povolení.",
+      "reason": "Slavná hvězda + kontroverzní AI vztahy + konkrétní právní akce = skvělá kvízová otázka.",
+      "title": "Anthropic trénoval AI na písních Elvise Presleyho, tvrdí žaloba",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/anthropic-trenoval-ai-na-pisnich-elvise-presleyho-tvrdi-zaloba-379058"
+    },
+    {
+      "score": 8,
+      "fact": "Věra Komárová dostala od exmanžela výpověď v Dermacolu a reagovala názvem parfému Nadbytečná.",
+      "reason": "Šokující osobní příběh slavné celebrity s vtipným twistem.",
+      "title": "Komárová po 24 letech musí opustit Dermacol: Zastání od slavných žen!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851370/komarova-po-24-letech-musi-opustit-dermacol-zastani-od-slavnych-zen.html"
+    },
+    {
+      "score": 8,
+      "fact": "Písničkář Neil Young podruhé zažaloval Donalda Trumpa za using seiner Popěvek v kampani.",
+      "reason": "Popkultura, superstar, trump, absurdita právního sporu – ideální kombinace.",
+      "title": "Písničkář Neil Young podruhé zažaloval Trumpa za použití jeho skladby",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-pisnickar-neil-young-podruhe-zazaloval-trumpa-za-pouziti-jeho-skladby-40605289"
+    },
+    {
+      "score": 8,
+      "fact": "Nový díl Call of Duty se stal předmětem diplomatického sporu v Koreji.",
+      "reason": "Překvapující spojení hity a mezinárodní politiky, lákata k otázce o hře.",
+      "title": "Hra se trefila do citlivého místa Korejců. Zahrajte si ji, vyzývají prezidenta",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pane-prezidente-zahrajte-si-call-of-duty-v-koreji-nejde-jen-o-hru-318912"
+    },
+    {
+      "score": 8,
+      "fact": "Netherlands plans to fire 25,000 civil servants as AI takes over their jobs.",
+      "reason": "Specific number (25,000) and AI theme make it highly quiz-worthy.",
+      "title": "25 tisíc úředníků má utrum. Umělá inteligence zastane jejich práci",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/25-tisic-uredniku-ma-utrum-umela-inteligence-zastane-jejich-praci/r~aaa2984341e91d799c37ee3ad68314b0/"
+    },
+    {
+      "score": 7,
+      "fact": "Pellegrini nechce jmenovat Kuffu ministrem, protože nechce být jen „pošťák s razítkem“.",
+      "reason": "Konkrétní citát slovenského prezidenta, který naznačuje neobvyklý jurisdikční spor.",
+      "title": "‚Nemám být jen pošťák s razítkem.‛ Pellegrini nechce jmenovat Kuffu ministrem životního prostředí",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/nemam-byt-jen-postak-s-razitkem-pellegrini-nechce-jmenovat-kuffu-ministrem_2610271910_jar"
+    },
+    {
+      "score": 7,
+      "fact": "Téměř 80 % darů pro Farageovu stranu Reform UK přišlo loni od dárců ze zahraničí.",
+      "reason": "Shokující statistika o financování britské populistické strany, konkrétní číslo.",
+      "title": "Až 80 procent darů pro Farageovu stranu Reform UK přišlo loni od dárců ze zahraničí",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-az-80-procent-daru-pro-farageovu-stranu-reform-uk-prislo-loni-od-darcu-ze-zahranici-40605218"
+    },
+    {
+      "score": 7,
+      "fact": "Slovenský prezident Pellegrini si kvůli odmítnutí jmenovat nového ministra osloví Ústavní soud.",
+      "reason": "Nepříjemný politický zápas dvou známých SVP-áků je vždy hit v kódu.",
+      "title": "Pellegrini se staví Ficovi na odpor. Kvůli ministrovi osloví Ústavní soud",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-peter-pellegrini-ustavni-soud-filip-kuffa-ministr-fico-sns.A261027_161115_zahranicni_kha"
+    }
+  ]
+}
