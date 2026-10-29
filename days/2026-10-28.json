@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-28",
+  "generated": "2026-10-29T14:13:50+00:00",
+  "stats": {
+    "fetched": 1075,
+    "that_day": 395,
+    "deduped": 359,
+    "scored": 180,
+    "passed": 63,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Předsedkyně Sněmovny přinesla dárek: 92letá učitelka, kterou jako mládenkovi trénoval Emil Zátopek.",
+      "reason": "Nepřekvapitelné spojení legendárního národního sportovce s neobyčejnou osobou.",
+      "title": "Prezident ocenil Sylvu Knedlovou (92): Nejdéle sloužící učitelku trénoval Zátopek",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/851447/prezident-ocenil-sylvu-knedlovou-92-nejdele-slouzici-ucitelku-trenoval-zatopek.html"
+    },
+    {
+      "score": 9,
+      "fact": "Vdova po smrtelně nemocném Jaromíru Kuberovi odmítla od Zemanů, ale přijela dát metálu od Paulova.",
+      "reason": "Politická protikladnost, známá jména, dramatický obrat událostí.",
+      "title": "„Konečně se dočkal.“ Kuberova vdova převzala metál od Pavla, od Zemana ho odmítla",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/konecne-se-dockal-kuberova-vdova-prevzala-metal-od-pavla-od-zemana-ho-odmitla/r~aaa29c9467aa40b8398c8abe9ef2a5ca/"
+    },
+    {
+      "score": 9,
+      "fact": "Real Madrid musel Číně omluvit žert Kyliana Mbappého o Mao Ce-tungovi.",
+      "reason": "Slavnostní sportovní bod s humorným a kontroverzním záměrm.",
+      "title": "Real Madrid se Číně omluvil za Mbappého",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-la-liga-real-madrid-se-cine-omluvil-za-mbappeho-5564879"
+    },
+    {
+      "score": 9,
+      "fact": "Gulliver uhasil požár královského paláce tím, že se na něj vymočil.",
+      "reason": "Kultovní dílo, groteskní detail a jednoznačná odpověď",
+      "title": "Pleskači, liliputský jazyk a močení na palác. Gulliverovy cesty baví i zlobí 300 let",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/literatura/swift-napsal-gulliverovy-cesty-spis-aby-svet-rozzlobil-nez-aby-ho-pobavil.A261027_090744_literatura_lysa"
+    },
+    {
+      "score": 9,
+      "fact": "Fico a Babiš společně odhalili sočku „Medzi nami“ v zahradě Úřadu vlády.",
+      "reason": "Nepředvídané spojení dvou kontroverzních populistů",
+      "title": "Fico v Praze: Poseděl s Bohdalovou a Zemanem, s Babišem odhalil sochu Medzi nami",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/851353/fico-v-praze-s-babisem-odhali-sochu-v-zahrade-uradu-vlady.html"
+    },
+    {
+      "score": 9,
+      "fact": "Otto Wichterle kontaktní čočky pro první testování po schůzkách přepravoval v ústech.",
+      "reason": "Neobvyklý detail z historie vynálezu, odpověď je jednoznačná: v ústech.",
+      "title": "„Tak jsem je spolknul!“ Otto Wichterle kontaktní čočky převážel v ústech",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/tak-jsem-je-spolknul-otto-wichterle-kontaktni-cocky-prevazel-v-ustech/r~aaa292df8824ad77be45b9521e0711f6/"
+    },
+    {
+      "score": 8,
+      "fact": "Císařský dar? Ne, Bílý lev: Prezident vyznamenal Ivu Janžurovou a zasloužilého režiséra Miloše Formana.",
+      "reason": "Mezinárodně známá jména, které české diváky překvapí v kontextu vyznamenání.",
+      "title": "Pavel rozdal metály: Bílý lev pro Janžurovou i Formana! Kompletní seznam vyznamenaných",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/851462/pavel-rozdal-metaly-bily-lev-pro-janzurovou-formana-i-caslavskou-kompletni-seznam-vyznamenanych.html"
+    },
+    {
+      "score": 8,
+      "fact": "Baník Ostrava vyřadil Spartu bez deseti hráčů z důvodu hromadné virózy.",
+      "reason": "Šokující sportovní senzace s lokálním kontextem.",
+      "title": "Šok na Letné. Sparta končí v domácím poháru, senzaci urvali rekonvalescenti z Baníku",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/sok-na-letne-sparta-konci-v-domacim-poharu-senzaci-pripravili-rekonvalescentni-z-baniku/r~aaa29585765fc40cfa5a251f5fc340e6/"
+    },
+    {
+      "score": 8,
+      "fact": "Nečas přišel na rozdači vyznamenání s exmanželkou Nagyovou na Pražský hrad.",
+      "reason": "Zábavný politický personzální twist skrze slavné jméno.",
+      "title": "Obrazem: Prezident rozdal vyznamenání, Nečas přišel s exmanželkou Nagyovou",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-obrazem-petr-pavel-predava-vyznamenani-nahlednete-do-vladislavskeho-salu-319034"
+    },
+    {
+      "score": 8,
+      "fact": "Petr Nečas a jeho exmanželka Jana dorazili na předávání vyznamenání bok po boku.",
+      "reason": "Nečas v médiích, neočekávaná spoluúčast s expartnerkou, pub kvízový faktor.",
+      "title": "Příchody na Hrad: Nečasovi bok po boku! Špidlovi, vysmátý Vondráček i Wollner po špitálu",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/851479/oslava-28-rijna-na-hrade-zmacene-prichody-a-necasovi-bok-po-boku.html"
+    },
+    {
+      "score": 8,
+      "fact": "Herci Národního divadla žádají odsun ministryně kultury Niny Mezelové z funkce.",
+      "reason": "Topická politická téma s konkrétním jménem a emočně nabitou očekáváním stávky.",
+      "title": "Národní divadlo žádá Klempířovu demisi a burcuje celé Česko k stávkové pohotovosti",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/plzen/zpravy/stavka-narodni-divadlo-orozovic-herci-plzen-klempir-pohotovost-ct-cro-poplatky-protest.A261028_153340_plzen-zpravy_mikp"
+    },
+    {
+      "score": 8,
+      "fact": "Live Nation ohlásila české koncerty kapel Thirty Seconds To Mars, Nickelback a Santana.",
+      "reason": "Konkrétní jména velkých hvězd a předpoklad jejich návštěvy v ČR je výborný háček.",
+      "title": "Jared Leto přiveze do Česka Thirty Seconds To Mars. Dorazí i Santana a Nickelback",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-jared-leto-priveze-do-ceska-thirty-seconds-to-mars-dorazi-i-santana-a-nickelback-40605290"
+    },
+    {
+      "score": 8,
+      "fact": "Herci Ondřej Polák z filmu Radečci se po 40 letech setkal se sestrou Eliškou.",
+      "reason": "Emocná osobní historie s fiktivním diváckým vtvorem.",
+      "title": "Nečekané setkání po 40 letech: Dojemné shledání Poláka z „Radečků“ se ztracenou sestrou",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851433/necekane-setkani-po-40-letech-dojemne-shledani-polaka-z-radecku-se-ztracenou-sestrou.html"
+    },
+    {
+      "score": 8,
+      "fact": "Válka proti Íránu stála americkou armádu přes 1 bilion korun, zjistil Reuters.",
+      "reason": "Užasnou velkém čísla, které si diváci rádi pamatují pro kvízové koláčky.",
+      "title": "Válka proti Íránu stála USA dosud přes bilion korun, zjistil Reuters",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/valka-proti-iranu-stala-usa-dosud-pres-bilion-korun-zjistil-reuters-379080"
+    },
+    {
+      "score": 8,
+      "fact": "Flávio Bolsonaro se po porážce prohlásil za brazilského prezidenta.",
+      "reason": "Silně absurdní a politicky konfrontační gesto, které může vyvolat smích.",
+      "title": "Poražený Bolsonaro se z USA prohlásil za brazilského prezidenta. Trump ho vítá",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/neuspesny-prezidentsky-kandidat-bolsonaro-pricestoval-do-usa-pisi-media.A261028_065330_zahranicni_remy"
+    },
+    {
+      "score": 7,
+      "fact": "Po prohraných volbách chystal Vučić násilný převrat, od kterého ho odradili evropští politici a Viktor Orbán.",
+      "reason": "Konkrétní a kontroverzní vůdce, překvapující plán úřadujícího prezidenta blokován známou osobností.",
+      "title": "Srbský vůdce Vučić po prohře chystal převrat, Orbán ho od toho odradil",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/aleksandar-vucic-studentska-kandidatka-parlamentni-volby-srbsko.A261028_214357_zahranicni_aya"
+    },
+    {
+      "score": 7,
+      "fact": "Vučić byl podle namluvy představitelů EU a Viktora Orbánu téměř o krok od násilného převratu.",
+      "reason": "Druhé zpracování téhož tématu jako článek 0, stále silný potenciál pro otázku na slabé místo srbského lídra.",
+      "title": "Vučić plánoval po prohraných volbách převrat, nechal si to prý rozmluvit",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/vucic-planoval-po-prohranych-volbach-prevrat-nechal-si-to-pry-rozmluvit/r~aaa29639d01782cd068c2b118922c459/"
+    },
+    {
+      "score": 7,
+      "fact": "Putin využil hovorů se šéfem Finska a Norska k přednášce o středověku.",
+      "reason": "Specifický, mírně absurdní detail chování prezidentaPutina (čestná hudba).",
+      "title": "Putin Stubba a Støreho dlouze poučoval o středověké historii Evropy",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-putin-stubba-a-storeho-dlouze-poucoval-o-stredoveke-historii-evropy-40605328"
+    },
+    {
+      "score": 6,
+      "fact": "Nevysvětleně věsí nad Británií tři ze čtyř jaderných ponorek Tridentu.",
+      "reason": "Mystery válečného, tajemství se může hodit, ale je to spekulativnější než fakt žene.",
+      "title": "Neobvyklé nasazení britských jaderných ponorek. Na moři jsou tři ze čtyř",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-neobvykle-nasazeni-britskych-jadernych-ponorek-na-mori-jsou-tri-ze-ctyr-40605387"
+    },
+    {
+      "score": 6,
+      "fact": "Příčinou tragédie španělských rychlovlaků u Toleda s 68 mrtvými zřejmě bylo lidské selhání.",
+      "reason": "Velká a náhlá smutná událost, ale fakt 'lidské selhání' je pro kvíz dost vágní.",
+      "title": "Snímky z nehody ve Španělsku: Vagony rychlovlaků se sesunuly ze svahu",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-snimky-z-nehody-ve-spanelsku-vagony-rychlovlaku-se-sesunuly-ze-svahu-318985"
+    }
+  ]
+}
