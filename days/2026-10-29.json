@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-29",
+  "generated": "2026-10-30T14:08:38+00:00",
+  "stats": {
+    "fetched": 1217,
+    "that_day": 564,
+    "deduped": 494,
+    "scored": 180,
+    "passed": 65,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Hvězda Star Treku a X-Menů herec Patrick Stewart zemřel ve věku 86 let.",
+      "reason": "Smrt legendární hollywoodské hvězdy, která je pro cílové publikum snadno rozpoznatelná a aktuální.",
+      "title": "Legendární kapitán Star Treku zemřel. Herci Patricku Stewartovi bylo 86 let",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/legendarni-kapitan-star-treku-zemrel-herci-patricku-stewartovi-bylo-86-let.A261029_210210_filmvideo_dvou"
+    },
+    {
+      "score": 9,
+      "fact": "Po Oscaru A co dál… zemřela herečka Barbara Barrie ve věku 95 let pomoci k sebevraždě.",
+      "reason": "Smrt známé herečky specifickým způsobem (asistovaná sebevražda) tvoří silnou a shokující kvízní otázku.",
+      "title": "Zemřela herečka Barbara Barrie, podstoupila asistovanou sebevraždu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-zemrela-herecka-barbara-barrie-podstoupila-asistovanou-sebevrazdu-40605459"
+    },
+    {
+      "score": 9,
+      "fact": "Tatiana Dykové nestačil jeden krok, aťkolik jich udělala, aby se těhotná nenašla.",
+      "reason": "Konkrétní celebrity drama s překvapivým detailem (skryté těhotenství).",
+      "title": "Tajemství Táni Dykové: Tančila těhotná!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851471/tajemstvi-tani-dykove-tancila-tehotna.html"
+    },
+    {
+      "score": 9,
+      "fact": "Emiráty vyznamenaly pilota, který zachránil letadlo s 172 lidmi od útoku sekerou v kokpitu.",
+      "reason": "Dramatická reálná událost s jasním protagonistou – skvělý kvízový fakt.",
+      "title": "Emiráty vyznamenaly pilota Flydubai! Po útoku sekerou v kokpitu zachránil 172 lidí",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851497/emiraty-vyznamenaly-pilota-flydubai-po-utoku-sekerou-v-kokpitu-zachranil-172-lidi.html"
+    },
+    {
+      "score": 8,
+      "fact": "Proslulý youtuber Jiří Burýšek dostal státní medaili Za zásluhy v oblasti médií a vzdělávání.",
+      "reason": "Cílený fakt o zjevném kontextu a překvapení uvedení influencera do státních vyznamenání.",
+      "title": "Státní vyznamenání ukazují, na co mohou být Češi hrdí, míní Burýšek",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/statni-vyznamenani-ukazuji-na-co-mohou-byt-cesi-hrdi-mini-burysek-379125"
+    },
+    {
+      "score": 8,
+      "fact": "Dinosauří fosilie drobnějšího druhu poprvé překročily hodnotu jedné miliardy korun.",
+      "reason": "Konkrétní rekord a velký číslo lákví.",
+      "title": "Fosilie za miliardu. Malý příbuzný T-rexe v aukci útočil na rekord",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-fosilie-za-miliardu-maly-pribuzny-t-rexe-v-aukci-utocil-na-rekord-319092"
+    },
+    {
+      "score": 8,
+      "fact": "Praha poprvé v historii pořádá mistrovství světa v new wave pole dance.",
+      "reason": "Poprvé v historii, exotická soutěžní disciplína a náhlý překvapení občanů",
+      "title": "Světová špička poprvé zavítala do Prahy. Rekordní počet reprezentantů chce vylepšit loňské medailové žně",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/ostatni-svetova-spicka-poprve-zavitala-do-prahy-rekordni-pocet-reprezentantu-chce-vylepsit-lonske-medailove-zne-5564921"
+    },
+    {
+      "score": 8,
+      "fact": "Klempíř obhájil konec poplatků slovům: 'Vyřekněte blitzkrieg, my Velký pátek.'",
+      "reason": "Nečekaný citát z úst ministra kultury.",
+      "title": "Říkáte tomu blitzkrieg, my Velký pátek, hájil Klempíř konec poplatků. Citoval Pavla",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/medialni-vybor-jedna-o-poplatcich-i-financovani-kultury-talir-pozval-verejnost.A261029_122402_zahranicni_tty"
+    },
+    {
+      "score": 8,
+      "fact": "Český animovaný krátký film Plevel od Poly Kazakové získal Evropskou cenu Emile Award.",
+      "reason": "Úspěch mladé české lékařky/filmařky s konkrétním názvem ocenění a filmu.",
+      "title": "Zničit vše, co narušuje řád? Český animovaný film Plevel získal evropskou cenu Emile",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/film/znicit-vse-co-narusuje-rad-cesky-animovany-film-plevel-ziskal-evropskou-cenu-emile/r~aaa29be4a765cc147b602e8d9fad2833/"
+    },
+    {
+      "score": 8,
+      "fact": "Herečka Martha Issová (47) právě ukončuje středoškolskou maturo na konzervatoři Kunak",
+      "reason": "Neobvyklý životní krok známé celebrity ve středním věku",
+      "title": "Martha Issová (47) nepřestává překvapovat: Dodělává si maturitu!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851473/martha-issova-45-neprestava-prekvapovat-dodelava-si-maturitu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Při předávání metálů na Hradě vypadl proud.",
+      "reason": "Kuliká příhoda s konkrétním výsledkem (černá místnost).",
+      "title": "Top momenty Pavlových metálů: Ostrý projev i pohled Klause, Babiš s Monikou i Nečasovi",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/851469/top-momenty-pavlovych-metalu-ostry-projev-i-pohled-klause-babis-s-monikou-i-necasovi.html"
+    },
+    {
+      "score": 8,
+      "fact": "Putin nazval Elona Muska skutečným geniusem a přiznal jejich úzký kontakt.",
+      "reason": "Kontroverzní spojování dvou géniů je ideální liché/ivanechý fakt.",
+      "title": "„Je to skutečný génius.“ Putin překvapil slovy o Muskovi, přiznal jejich úzký kontakt",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/je-to-skutecny-genius-putin-prekvapil-slovy-o-muskovi-priznal-jejich-uzky-kontakt/r~aaa2920a5be67ef6c492bc6bf0886ace/"
+    },
+    {
+      "score": 8,
+      "fact": "Von der Leyenová nazvala Kanadu budoucím přidruženým členem Evropské unie.",
+      "reason": "Kontroverzní a nezvyklý eufemismus od šéfy Bruselu, jasné jméno a místo.",
+      "title": "„Budoucí přidružený člen,“ von der Leyenová použila kontroverzní označení pro Kanadu",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/budouci-pridruzeny-clen-von-der-leyenova-pouzila-kontroverzni-oznaceni-pro-kanadu/r~aaa2947b8dd79344a2f12f4775dac6aa/"
+    },
+    {
+      "score": 8,
+      "fact": "Polský soud prvníkrát v historii odsoudil biskupa za trestný čin potlačování oznámení sexuálních zločinů duchovními.",
+      "reason": "Jasný historický precedens („poprvé v historii“), konkrétní stát a profesi.",
+      "title": "Soud v Polsku odsoudil biskupa za pozdní oznámení sexuálních zločinů dvou farářů",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/soud-v-polsku-odsoudil-biskupa-za-pozdni-oznameni-sexualnich-zlocinu-dvou-fararu/r~aaa29cb1950317217064b8ae8542caf6/"
+    },
+    {
+      "score": 8,
+      "fact": "Bývalý srbský prezident Vučić plánovně vyslal do beogradského centra tisíce „rváčů“ v černém, aby naplánovali převrat.",
+      "reason": "Skandální detail s konkrétním jménem a vizuálně silným obrázem („rváči v černém“), vhodné na otázky.",
+      "title": "Vyslal do centra tisíce rváčů v černém.  Vučić chystal v Srbsku násilný převrat, pak přišel zlom",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-vyslal-do-centra-tisice-rvacu-v-cernem-vucic-chystal-v-srbsku-nasilny-prevrat-pak-prisel-zlom-40605633"
+    },
+    {
+      "score": 8,
+      "fact": "Čínská task force obviňuje pět mužů, že autem přejela tchajwanského komika za výmku Si Ťin-pchinga.",
+      "reason": "Neobvyklý a silně dramaťný příběh: komik zesměšnil vůdce, pak ho přejeli autem",
+      "title": "Dvě minuty si dělal srandu ze Si Ťin-pchinga. Pak ho přejeli autem",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-dve-minuty-si-delal-srandu-ze-si-tin-pchinga-pak-ho-prejeli-autem-318597"
+    },
+    {
+      "score": 8,
+      "fact": "Malá pekárna z Izjumu dodává jídlo lidem přímo u frontové linie.",
+      "reason": "Emoční vzmocnění, česku čtete detail milý pro rozmanité publikum",
+      "title": "Ostřelování a strachu navzdory. Malá pekárna z Izjumu vozí jídlo lidem u fronty",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ostrelovani-a-strachu-navzdory-mala-pekarna-z-izjumu-vozi-jidlo-lidem-u-fronty-379091"
+    },
+    {
+      "score": 7,
+      "fact": "Nový finanční reportér přibyl k přímatému seznamu s jednorázovou výplatou třiceti miliard dolarů.",
+      "reason": "Ekonomický kontext o záměru miliardáře Michala Strnada k prodeji stálého kotelu Ray-Ban.",
+      "title": "SOUHRN: Zásadní události čtvrtka 29. října",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/media/souhrn-zasadni-udalosti-ctvrtka-29-rijna-379119"
+    },
+    {
+      "score": 7,
+      "fact": "Podzemní vodní pramen, přes který protéká řeka Punkva, najli v Moravském krasu jeskyňáři.",
+      "reason": "Zmínka o podzemním zdrojů vedoucího k řece Punkva, ale bez kontextu konkrétního místa.",
+      "title": "Záhadu Punkvy rozsekla nenápadná odbočka. Jeskyňáři našli její podzemní zrod",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/zahadu-punkvy-rozsekla-nenapadna-odbocka-jeskynari-nasli-jeji-podzemni-zrod/r~aaa29bb87ab192766b837cc43dc5ab50/"
+    },
+    {
+      "score": 7,
+      "fact": "Miliardář Michal Strnad nabídl 30 miliard eur za italskou společnost Delfin, držitelku značky Ray-Ban.",
+      "reason": "Miliardy a změna vlastnictva brandu, ale menší napětí o kontextu vůči obvyklým velikostem konceptu.",
+      "title": "Miliardář Strnad nabízí 30 miliard eur za holding, pod který patří výrobce Ray-Ban",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/strnad-nabizi-30-miliard-eur-koupe-delfin-vyrobce-bryli-rad-ban.A261029_211913_ekonomika_ikul"
+    }
+  ]
+}
