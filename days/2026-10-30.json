@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-30",
+  "generated": "2026-10-31T13:35:30+00:00",
+  "stats": {
+    "fetched": 1187,
+    "that_day": 614,
+    "deduped": 540,
+    "scored": 180,
+    "passed": 52,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Mate Rimac stíhal zloděje svého 74milionového Bugattiho personally až do Rakouska.",
+      "reason": "Nevšední a humorný příběh s jasným jménem a sumou.",
+      "title": "Šéfovi Bugatti ukradli Chiron za 74 milionů kvůli jeho „blbosti“. Zloděje stíhal až do Rakouska",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/auto/technika-a-design/sefovi-bugatti-ukradli-chiron-za-74-milionu-zlodeje-stihal-v-porsche-az-do-rakouska/r~aaa298c88c3bfef0c10cef7671037032/"
+    },
+    {
+      "score": 9,
+      "fact": "Na železniční kolej v Jihlavě někdo nechal houpacího koně a ohrozil tak vlak s cestujícími.",
+      "reason": "Bizarní a vtipný příběh s jasnou, nečekanou odpovědí (houpací kůň).",
+      "title": "Bizarní překážka na kolejích: Vlak v Jihlavě najel na houpacího koně",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/851608/bizarni-prekazka-na-kolejich-vlak-v-jihlave-najel-na-houpaciho-kone.html"
+    },
+    {
+      "score": 9,
+      "fact": "Jennifer Lawrencová přiznala plastiku prsou, aby se po porodu cítila jako sexy máma.",
+      "reason": "Slavnostní herečka a neočekávané přiznání.",
+      "title": "Nechala jsem si udělat prsa. Chci být sexy máma, říká Jennifer Lawrencová",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/jennifer-lawrence-plastika-prsa-facelit-kritika-sexy-mama.A261029_111618_lidicky_zar"
+    },
+    {
+      "score": 9,
+      "fact": "Donald Trump hostil ve svém domě v Mar-a-Lagu koledníky, kteří se převlekli do populárních postaviček.",
+      "reason": "Barevný, vizuální a 'weird' moment, který zahrnuje Trumpa a populární kulturu (Barbie).",
+      "title": "V Bílém domě strašilo. Trumpovi hostili koledníky, přišla Barbie i Spider-Man",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/donald-trump-melania-trumpova-bily-dum-halloween-svatek-kostymy-deti.A261030_082724_zahranicni_mikp/foto"
+    },
+    {
+      "score": 9,
+      "fact": "Novaja gazeta po 33 letech činnosti ukončí svou existenci kvůli tlaku státních úřadů.",
+      "reason": "Historická značka a konkrétní časový údaj (33 let) bezprostředně po pádu Željininy.",
+      "title": "Konec nezávislého listu v Rusku! Novaja gazeta po 33 letech končí, viní úřady z tlaku",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851575/konec-nezavisleho-listu-v-rusku-novaja-gazeta-po-33-letech-konci-vini-urady-z-tlaku.html"
+    },
+    {
+      "score": 8,
+      "fact": "Exprezident Zeman vynechal Hrad a ocenění na Slovensku si převzal s Pavlem O. po boku.",
+      "reason": "Nepřirozený pár (Zeman + Okamura) + drsný politic, což je ideální látka.",
+      "title": "Na Hradě nebyl, pro ocenění si jel exprezident Zeman na Slovensko. S Okamurou po boku",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/na-hrade-nebyl-pro-oceneni-si-jel-exprezident-zeman-na-slovensko-s-okamurou-po-boku/r~aaa2915f85173a784c51066bd0845bd3/"
+    },
+    {
+      "score": 8,
+      "fact": "Viktor Orbán má prý být tajně kandidátem na post generálního tajemníka OSN.",
+      "reason": "Zní to jako absurdní žert nebo bombastický únik, ideální pro otazku typu 'Kdo?'",
+      "title": "Pětka SZ: Teta Alena v Malé Hanoji, Orbán možná ve skutečném New Yorku",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-petka-sz-teta-alena-v-male-hanoji-orban-mozna-ve-skutecnem-new-yorku-319158"
+    },
+    {
+      "score": 8,
+      "fact": "Ronan Keating, herečka z Boyzone, chce na prahu padesátky zpětně zazářit.",
+      "reason": "Slavnostní hudební moment a návrat na hřiště.",
+      "title": "Jdu s kůží na trh a nechci o ničem pochybovat, svěřuje se Ronan Keating",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/hudba/ronan-keating-boyzone-rowan-atkinson-rozhovor.A261021_105112_hudba_jgo"
+    },
+    {
+      "score": 8,
+      "fact": "Společnost Ahold Delhaize převzala přes 360 supermarketů Tescu v Česku a na Slovensku.",
+      "reason": "Velká korporátní akvizice s konkrétními pojmy a impaktem na trh.",
+      "title": "Z Teska bude Albert. Majitele změní přes 300 supermarketů v Česku i na Slovensku",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/albert-tesco.A261030_084003_ekonomika_ven"
+    },
+    {
+      "score": 8,
+      "fact": "Kryptoburze Binance zmizelo v největší krádeži v historii 6,3 miliardy dolarů.",
+      "reason": "Konkrétní obrovská částka a jméno společnosti",
+      "title": "Kryptoburzu Binance zasáhla „největší krádež v historii“. Zmizelo 6,3 miliardy",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-burza-binance-zmrazila-aktiva-po-zrejme-hackerskem-utoku-319143"
+    },
+    {
+      "score": 8,
+      "fact": "Britský holič Colin Aldridge už 20 let chodí naboso, obouvá se jen na svatby a pohřby.",
+      "reason": "Vtipný příběh se specifikým počtem let a situacemi",
+      "title": "Holič z Oxfordu už 20 let nenosí boty. Obouvá se jen na svatby a pohřby",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/lifestyle-holic-z-oxfordu-uz-20-let-nenosi-boty-obouva-se-jen-na-svatby-a-pohrby-40605224"
+    },
+    {
+      "score": 8,
+      "fact": "Podmáčený útok Roland Garros: zklamený Ital po útuře zasel court ve slzách.",
+      "reason": "Emoční a vizuální scéna, typický příběh pro kolážní kolo vědomí 'to jsme viděli na TV'.",
+      "title": "Srdcervoucí konec. Zdrcený finalista Roland Garros v slzách zmizel z kurtu, soupeřovo gesto vyvolalo silné emoce",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/tenis-srdcervouci-konec-zdrceny-finalista-roland-garros-v-slzach-zmizel-z-kurtu-souperova-reakce-vyvolala-silne-emoce-5565804"
+    },
+    {
+      "score": 8,
+      "fact": "Provozovatel luxusní lodi na Kambodži vystřelil více než 200 pasažérů.",
+      "reason": "Vypnutý příběh (lifestyle gone wrong), konkrétní místo velkého škodu.",
+      "title": "Prodali své domovy, aby mohli žít na luxusní lodi. Vyhodili je v Kambodži",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-prodali-sve-domovy-aby-mohli-zit-na-luxusni-lodi-vyhodili-je-v-kambodzi-319175"
+    },
+    {
+      "score": 8,
+      "fact": "Protestující v Itálii na demonstracích ve směru pravicové vlády pálili fotografie premiérky Meloniové.",
+      "reason": "Konkrétní vizuální detail (pálení fotek premiérky) zní dobře a je snadno zapamatovatelný.",
+      "title": "Desítky tisíc Italů vyšly znovu do ulic, pálili fotky premiérky Meloniové",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/italie-demonstrace-najem-rim-neapol-meloniova-zivotni-naklady.A261030_173047_zahranicni_votr"
+    },
+    {
+      "score": 8,
+      "fact": "Furaj se Norska prozvala jako 'zbaňe hlavňů' (zbaňe hajzlu).",
+      "reason": "Trump je oblíbený cíl pro kvíz, přídavné jméno a země tvoří solidní pár pro otázku.",
+      "title": "„Země hajzlů,“ pustil se Trump do Norska. Sever prezidenta trumfnul zlatým záchodem",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/zeme-hajzlu-pustil-se-trump-do-norska-sever-prezidenta-trumfnul-zlatym-zachodem/r~aaa2964df81167b84b2bd8c3b10350c2/"
+    },
+    {
+      "score": 8,
+      "fact": "Thajské úřady úmyslně zaplavují vesnice, aby ochránily Bangkok před povodněmi.",
+      "reason": "Mračivý a konkrétní fakt o etické dilematě (oběť vesnic pro město).",
+      "title": "Fotky: Thajci úmyslně zaplavují vesnice, aby ochránili hlavní město",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-thajci-umyslne-zaplavuji-vesnice-aby-ochranili-hlavni-mesto-318583"
+    },
+    {
+      "score": 8,
+      "fact": "Binance oznámila cyberútok za 6,3 miliardy dolarů, pravděpodobně z KLDR.",
+      "reason": "Konkrétní сумма a podezřelá země činí z incidentu hlavní témát roku.",
+      "title": "Největší krádež kryptoměn? Burza zmrazila aktiva, mluví se o útoku z KLDR",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/binance-bitcoin-aktiva-hackeri-utok-kyberutok-kradez-dolar-severni-korea-burza.A261030_061736_eko-zahranicni_mikp"
+    },
+    {
+      "score": 7,
+      "fact": "Zemřel Roman Mihina, hlasatel, který generacím ztvárňoval reverenda Lovejoye ze Simpsonovců.",
+      "reason": "Sentymentální zpráva o slavném dabéři spojena s globálně známým cultovým seriálem",
+      "title": "Rána pro fanoušky Simpsonových: Zemřel oblíbený hlasatel a dabér, oblíbily ho celé generace",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851627/rana-pro-fanousky-simpsonovych-zemrel-oblibeny-hlasatel-a-daber-oblibily-ho-cele-generace.html"
+    },
+    {
+      "score": 7,
+      "fact": "Autorem gotického horroru Fantom opery z roku 1910 je francouzský spisovatel Gaston Leroux.",
+      "reason": "Klasická kulturní otazka, autor je specifický a často se pletie s autorem Draculy",
+      "title": "Hororová Týna: Za děsivým Fantomem opery hledejte tragické incidenty v Paříži",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-hororova-tyna-za-desivym-fantomem-opery-hledejte-tragicke-incidenty-v-parizi-40605513"
+    },
+    {
+      "score": 7,
+      "fact": "Český astrofyzik Valníček v roce 1986 naprogramoval sovětské sondy k průzkumu Halleyovy komety.",
+      "reason": "Menší známý český příklad spolupráce a specifický historický údaj.",
+      "title": "Astrofyzik Valníček naučil sondy Vega sledovat Halleyovu kometu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-astrofyzik-valnicek-naucil-sondy-vega-sledovat-halleyovu-kometu-40605828"
+    }
+  ]
+}
