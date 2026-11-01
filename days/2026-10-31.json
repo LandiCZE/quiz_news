@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-31",
+  "generated": "2026-11-01T14:19:33+00:00",
+  "stats": {
+    "fetched": 986,
+    "that_day": 390,
+    "deduped": 346,
+    "scored": 180,
+    "passed": 55,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Maršál Radecký dovezl do Vídně praženou vepřovku, ale císaře před smrtí vážně urazil.",
+      "reason": "Kulturní triviálka spojující slavnou osobnost, jídlo a historku.",
+      "title": "Radecký zvítězil nad Napoleonem, dovezl do Vídně řízek. Císaře ale před smrtí naštval",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/marsal-radecky-napoleon-historie-olomouc-milan-vidensky-rizek.A261030_180532_domaci_krou"
+    },
+    {
+      "score": 9,
+      "fact": "Slovenský premiér Fico odletěl s milenkou Katarínou Szalayovou soukromým letadlem do Chorvatska.",
+      "reason": "Cesty politika na nákladech státu a skandální romantický kontext.",
+      "title": "Ženatý Fico odletěl s milenkou soukromým letadlem do Chorvatska, internet se baví",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-zenaty-fico-odletel-s-milenkou-soukromym-letadlem-do-chorvatska-internet-se-bavi-40605729"
+    },
+    {
+      "score": 9,
+      "fact": "Během výlovu na Kudlovské přehradě v Zlíně vylovili pyrotechnici dělostřeleckou minou.",
+      "reason": "Konkrétní a překvapivý nález na známém místě, ideální pro výplň.",
+      "title": "Výlov na Kudlovské přehradě přerušil nečekaný nález. Našli válečnou minu",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zlin/zpravy/kudlovska-prehrada-zlin-mina-rybari-pyrotechnik.A261031_133255_zlin-zpravy_aya"
+    },
+    {
+      "score": 9,
+      "fact": "Vědci popsali nový druh dinosaura ve velikosti krocana, který se živil ovocem.",
+      "reason": "Zábavný vědecký fakt s konkrétním srovnáním (krocan), ideální na oblíbené víceličí otázky.",
+      "title": "Vědci popsali nový druh dinosaura velikosti krocana, živil se ovocem",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vedci-popsali-novy-druh-dinosaura-velikosti-krocana-zivil-se-ovocem-379168"
+    },
+    {
+      "score": 9,
+      "fact": "Albert koupí Tesco za 41,4 miliardy korun a stane se největším řetězcem v Česku.",
+      "reason": "Konkrétní částka, jmenovití hráči a zásadní změnа na trhu.",
+      "title": "Albert koupí Tesco za 41,4 miliardy: Co to znamená pro Čechy?",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/851625/albert-koupi-tesco-za-41-4-miliardy-co-to-znamena-pro-cechy.html"
+    },
+    {
+      "score": 9,
+      "fact": "Robert Fico letěl s milenkou do Chorvatska soukromým letadlem za 317 tisíc korun.",
+      "reason": "Skandální chování známé celebrity, vyvolalo vlnu memů, vysoký zájem.",
+      "title": "Ženáč Fico si vyrazil s milenkou do Chorvatska. Sítě plní vtipy na jeho účet",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851685/zenac-fico-si-vyrazil-s-milenkou-do-chorvatska-site-plni-vtipy-na-jeho-ucet.html"
+    },
+    {
+      "score": 9,
+      "fact": "Na G20 v Atlantě polský ministr Sikorski rádostně usadil hovorlavého Sergeje Lavrova.",
+      "reason": "Diplomatic incident with specific names and a clear power dynamic.",
+      "title": "Lavrov se na G20 ostře pustil do Polska, Sikorski ho usadil",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-s-lavrovem-ani-omylem-rodinne-foto-svetovych-diplomatu-z-g20-nebude-40605902"
+    },
+    {
+      "score": 9,
+      "fact": "Šéfovi Bugatti Mate Rimacovi ukradli Chiron a on ho pronásleďoval v porsche.",
+      "reason": "Výborný příběh: zloděj vs. miliiardář v nejdražším autě na světě.",
+      "title": "Šéfovi Bugatti ukradli auto za desítky milionů. Skočil do porsche a pádil Evropou za zlodějem",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-sefovi-bugatti-ukradli-auto-za-desitky-milionu-skocil-do-porsche-a-padil-evropou-za-zlodejem-40605892"
+    },
+    {
+      "score": 9,
+      "fact": "Brit Karl Bushby šel 28 let pěšky okolo světa a je v cíli.",
+      "reason": "Rekordní časový úsek (28 let) a emotivní příběh turisty.",
+      "title": "Už 28 let jde pěšky okolo světa, je téměř v cíli. Svou vnučku nikdy neviděl",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-uz-28-let-jde-pesky-okolo-sveta-je-temer-v-cili-svou-vnucku-nikdy-nevidel-319199"
+    },
+    {
+      "score": 9,
+      "fact": "Putinova rezidence u Valdaje má celkem padesát věží protivzdušné obrany.",
+      "reason": "Spekulantní odhalení s konkrétním počtem vũjních instalací.",
+      "title": "Putin opevňuje svou daču: Dalších 16 věží protivzdušné obrany! Kolem jich má už přes 50",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/851284/putin-opevnuje-svou-dacu-dalsich-16-vezi-protivzdusne-obrany-kolem-jich-ma-uz-pres-50.html"
+    },
+    {
+      "score": 8,
+      "fact": "První česká pilotka Božena Laglerová přežila pád letadla a lynčování na Haiti.",
+      "reason": "Neobvyklé jméno a napěchovaný hororový příběh s dramatičním vzestupem.",
+      "title": "Přežila pád z nebe i lynč na Haiti. Divoký let první české pilotky",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/prezila-pad-z-nebe-i-lync-na-haiti-divoky-let-prvni-ceske-pilotky/r~aaa291c7e8bfb50fd0fb604995372631/"
+    },
+    {
+      "score": 8,
+      "fact": "Gene Simmons zničil sbírku fotek svých sexuálních partnerů před vlastní svatbou.",
+      "reason": "Glamour celebrity, neobvyklý a kontroverzní detail z osobního života rockera.",
+      "title": "SEX, STORY, ROKENROL: Gene Simmons z Kiss si holky, s nimiž spal, fotil. Sbírku snímků zničil kvůli svatbě",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-sex-story-rokenrol-gene-simmons-z-kiss-si-holky-s-nimiz-spal-fotil-sbirku-snimku-znicil-kvuli-svatbe-40605808"
+    },
+    {
+      "score": 8,
+      "fact": "Herečka Fiona Shaw (Petunie z Harryho Pottera) je v关系中 s profesorkou.",
+      "reason": "Známa hvězda, nečekaný fakt o soukromém životě/faktyzou (gender identity).",
+      "title": "Daly se dohromady po katastrofě. Teta Petunie z Harryho Pottera žije s ekonomkou",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/fiona-shaw-manzelstvi-srilanska-ekonomka-teta-petunie-harry-potter.A261028_121620_sex_zar"
+    },
+    {
+      "score": 8,
+      "fact": "Rozpad hnutí ANO začal v Semilech.",
+      "reason": "Velká česká politická událost (krajnost politiky).",
+      "title": "Rozpad ANO začal v Semilech. Kde se zastaví?",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-11-sezona-rozpad-ano-zacal-v-semilech-kde-se-zastavi-319192"
+    },
+    {
+      "score": 8,
+      "fact": "Policejní bodyguard, který byl odvolán, fotil se s tričkem s Putinovým portrétem.",
+      "reason": "Kontroverzní příběh s konkrétním incidentem v ČR, zábavný a šokující úhel pohledu.",
+      "title": "Policejní bodyguard s Putinem na tričku skončil. Už nechrání ministra vnitra",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-policejni-bodyguard-s-putinem-na-tricku-skoncil-uz-nechrani-ministra-vnitra-318889"
+    },
+    {
+      "score": 8,
+      "fact": "Slavný iluzionista Harry Houdini zemřel na zánět slepého Appendixu právě v Halloween.",
+      "reason": "Ikonická postava + překvapivá příčina úmrtí + specifický datum, skvělá faktoid.",
+      "title": "Unikl z pout i z vody. Pak Houdini přijal výzvu studenta a na Halloween byl mrtvý",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/unikl-z-pout-i-z-vody-pak-houdini-prijal-vyzvu-studenta-a-na-halloween-byl-mrtvy/r~aaa2985792b05728551b14129efc5dc3/"
+    },
+    {
+      "score": 8,
+      "fact": "Policie po padesáti dvou letech za pomoci DNA rozlouskla další Teda Bundyho oběť.",
+      "reason": "Silné číselné milníky a spojení s legendárním sériovým vrahem.",
+      "title": "Další oběť Teda Bundyho! Policie rozlouskla 52 let starý případ",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/851496/dalsi-obet-teda-bundyho-policie-rozlouskla-52-let-stary-pripad.html"
+    },
+    {
+      "score": 8,
+      "fact": "Dva Britové hrají deskovou hru s cílem ji dokončit až během třiceti let.",
+      "reason": "Vtipný a šokující fakt, ideální pro lehkou otázku v prvních kolech.",
+      "title": "Dva Britové se pustili do nejsložitější deskové hry na světě. Zábava na 30 let",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-dva-britove-se-dali-do-nejslozitejsi-deskove-hry-na-svete-partie-muze-trvat-30-let-319226"
+    },
+    {
+      "score": 8,
+      "fact": "Florian Zoller získal rekord za chůzi po laně mezi visícími kabinami lanovky.",
+      "reason": "Spektakulární sportovní výkon ve specifickém a vizuálně srozumitelném okolí.",
+      "title": "Video: Ve výšce 150 metrů ztratil rovnováhu a spadl. O rekord nepřišel",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-ve-vysce-150-metru-ztratil-rovnovahu-a-spadl-o-rekord-neprisel-319189"
+    },
+    {
+      "score": 7,
+      "fact": "Jiří Lehečka odvrátil mečball a v Basileji si zahraje o titul ve finále.",
+      "reason": "Drama na kortu a český tenista douje naděje pro fanoušky.",
+      "title": "Fantastický obrat. Lehečka přežil mečbol a v Basileji si zahraje o titul",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/fantasticky-obrat-lehecka-prezil-mecbol-a-v-basileji-si-zahraje-o-titul/r~aaa29b0acfe863a147d52764904837cb/"
+    }
+  ]
+}
