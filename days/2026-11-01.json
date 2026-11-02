@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-01",
+  "generated": "2026-11-02T17:06:57+00:00",
+  "stats": {
+    "fetched": 1092,
+    "that_day": 363,
+    "deduped": 328,
+    "scored": 180,
+    "passed": 58,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "V Kolíně nad Rýnem policie zabavila humanoidního robota, který obtěžoval dívku.",
+      "reason": "Intrující sci-fi příběh ve skutečnosti s jednoznačným a shodujícím se slovem 'robot'.",
+      "title": "Dívku na ulici v Kolíně nad Rýnem sexuálně obtěžoval humanoidní robot, policie ho zabavila",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-divku-na-ulici-v-koline-nad-rynem-sexualne-obtezoval-humanoidni-robot-policie-ho-zabavila-40602957"
+    },
+    {
+      "score": 9,
+      "fact": "Vdova po zakladateli Playboye zveřejnila nařčení, že ji Hefner dopřával a zneužíval od mládí.",
+      "reason": "Sensace kolem známé celebrity a těžké obvinění od blízkej osoby.",
+      "title": "Vdova po zakladateli Playboye: Hefnera obvinila z incestu a znásilnění!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/851439/vdova-po-zakladateli-playboye-hefnera-obvinila-z-incestu-a-znasilneni.html"
+    },
+    {
+      "score": 9,
+      "fact": "Sacha Baron Cohen poprvé omluvil Kazachstánu za zesměšňování země ve slavném filmu Borat.",
+      "reason": "Slavnost známá osobnost + očekávané souběžné vyjádření + specifický kontext 20 let later.",
+      "title": "Sacha Baron Cohen se vůbec poprvé omluvil Kazachstánu za Borata",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-sacha-baron-cohen-se-vubec-poprve-omluvil-kazachstanu-za-borata-40605756"
+    },
+    {
+      "score": 9,
+      "fact": "Útoky medvědů v Japonsku způsobily 13 úmrtí a 238 zranění za poslední rok.",
+      "reason": "Konkrétní číselný údaj o nevšedním jevu, výborný na otázky s číselnou odpovědí.",
+      "title": "Medvědi děsí Japonsko: Už 13 mrtvých a 238 zraněných, útoků dál přibývá",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849852/medvedi-desi-japonsko-uz-13-mrtvych-a-238-zranenych-utoku-dal-pribyva.html"
+    },
+    {
+      "score": 9,
+      "fact": "Papež Lev XIII. si po léčbě plic dribloval basketem před tisíci návštěvníky.",
+      "reason": "Nepravděpodobná a veselá událost s konkrétním jménem a akcí.",
+      "title": "Papež bojující s rakovinou překvapil: Necelé tři týdny po operaci plíce dribloval se zlatým míčem",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851721/papez-bojujici-s-rakovinou-prekvapil-necele-tri-tydny-po-operaci-plice-dribloval-se-zlatym-micem.html"
+    },
+    {
+      "score": 9,
+      "fact": "Thajec odsouzený za převlek Harryho Pottera kritizujícího krále dostal vyčítaných 34 let.",
+      "reason": "Cult figure + absurd punishment (Harry Potter)",
+      "title": "Převlečený za Harryho Pottera kritizoval monarchii. Thajec stráví ve vězení 34 let",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-prevleceny-za-harryho-pottera-kritizoval-monarchii-thajec-stravi-ve-vezeni-34-let-40605954"
+    },
+    {
+      "score": 8,
+      "fact": "Andrea Kimi Antonelli je ve 20 letech nejmladším mistrem světa ve Formuli 1.",
+      "reason": "Rekordní věk nového šampiona je konkrétní a překvapivý fakt.",
+      "title": "Nejmladší šampion historie. Antonelli je novým mistrem F1, pomohlo mu drama v Mexiku",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/motorismus/nejmladsi-sampion-historie-antonelli-je-novym-mistrem-f1-pomohlo-mu-drama-v-mexiku/r~aaa29e7da218473a4a33071ac9402779/"
+    },
+    {
+      "score": 8,
+      "fact": "Poprvé v historii utratí čínské rodiny více peněz na péči o staré přátele než na děti.",
+      "reason": "Silný statistický fakt s přívlastkem 'poprvé', který dobře funguje v kótě o demografické změny.",
+      "title": "Čínské rodiny dávají poprvé více peněz na péči o staré než o děti",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-cinske-rodiny-davaji-poprve-vice-penez-na-peci-o-stare-nez-o-deti-319070"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel 85letý Pavel Žák, which napsal texty do slavné písničky Holky z naše školačky.",
+      "reason": "Smrt známého českého autora písní, které zpívá celá generace.",
+      "title": "Zemřel skladatel a textař Pavel Žák",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-zemrel-skladatel-a-textar-pavel-zak-40605963"
+    },
+    {
+      "score": 8,
+      "fact": "Muž ze Slovesenska si stěžoval, že vetřelci mu sežrali chryzantemy z hrobu.",
+      "reason": "Vzácná a lidový příběh s komickým a truchlivým zároveň, snadno předatelný.",
+      "title": "Slzy pana Jána: Vetřelci mu sežrali hrob!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/851588/slzy-pana-jana-vetrelci-mu-sezrali-hrob.html"
+    },
+    {
+      "score": 8,
+      "fact": "Zpěvák s Grammy gramem hraje zdarma na oslavách patnáctin v republikánském Texasu.",
+      "reason": "Překvapivý fakt zdůrazňující kontrast mezi hudební slávou a politickou podivnou akcí.",
+      "title": "Zpěvák s Grammy chce dobýt republikánský Texas. Voličům zdarma hraje na oslavách patnáctin",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/zpevak-s-grammy-chce-dobyt-republikansky-texas-volicum-zdarma-hraje-na-oslavach_2611012130_kvr"
+    },
+    {
+      "score": 8,
+      "fact": "Mezi oběťmi srážky vlaků ve Španělsku je profesorka z Cambridge, která jela pro ocenění.",
+      "reason": "Konkrétní tragická událost se zajímavým detailem o akademické dráze obětí.",
+      "title": "Při srážce vlaků ve Španělsku zahynula profesorka z Cambridge. Jela si pro cenu za výzkum",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-pri-srazce-vlaku-ve-spanelsku-zahynula-profesorka-z-cambridge-jela-si-pro-cenu-za-vyzkum-40605982"
+    },
+    {
+      "score": 8,
+      "fact": "Christine Lagardeová předčasně opouští Evropskou centrální banku a pomůže vybrat svého nástupce.",
+      "reason": "Slavná postava finančního světa a nečekané rozhodnutí opustit post.",
+      "title": "Druhá nejmocnější žena končí předčasně. Mluví se o tom, že se postaví Le Penové",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-druha-nejmocnejsi-zena-konci-predcasne-mluvi-se-o-tom-ze-se-postavi-le-penove-319222"
+    },
+    {
+      "score": 8,
+      "fact": "FBI oficiálně vynesla obvinění Severní Koreje za krádež 6,3 miliardy dolarů z kryptoměnové burzy Binance.",
+      "reason": "Velká vědecká krádež, identifikace záporáka Severní Koreje a velké číslo pro kvíz.",
+      "title": "FBI vypátrala pachatele obřího hackerského útoku na burzu. Stopy vedou do Severní Koreje",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/fbi-vypatrala-pachatele-hackerskeho-utoku-na-burzu-stopy-vedou-do-severni-koreje/r~aaa294d00a420e621ec87c74c4c671a6/"
+    },
+    {
+      "score": 7,
+      "fact": "Zemřel Juan Atkins, jeden ze zakladatelů hudebního stylu techno.",
+      "reason": "Konkrétní jméno průkopníka populárního žánru je vhodná trivialita.",
+      "title": "Zemřel Juan Atkins, průkopník hudebního stylu techno",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-zemrel-juan-atkins-prukopnik-hudebniho-stylu-techno-40605996"
+    },
+    {
+      "score": 7,
+      "fact": "Záchranář Tomáš Rusňák do Česka přivezl do přežití raněného Ukrajince z přední linie.",
+      "reason": "Inspirativní příběh konkrétního člověka s dramatickým pozadím války.",
+      "title": "Červený kříž jako terč. Soukromá záchranka do Česka vozí raněné Ukrajince",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-cerveny-kriz-jako-terc-soukroma-zachranka-do-ceska-vozi-ranene-ukrajince-319113"
+    },
+    {
+      "score": 7,
+      "fact": "Michal Chaloupka se stal nejmladším starostou v historii brněnské městské části Líšeň.",
+      "reason": "Mílník s věkovou mírnou postavou a překvapení — vítěze voleb přešlapoval v opozici.",
+      "title": "Nejmladší starosta v historii Brna. Student vyšachoval vítěze a povede Líšeň",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-nejmladsi-starosta-v-historii-brna-student-vysachoval-viteze-a-povede-lisen-318846"
+    },
+    {
+      "score": 7,
+      "fact": "Do sochy Ježíše na Vysočině roztavili nábojnici z Ukrajiny.",
+      "reason": "Kuriózní a dobe-specifický detail o kombinaci relikvie a současných válečných padů.",
+      "title": "Slévači z VUT odlili Ježíše pro jihomoravskou Vrbici. Do sochy roztavili i nábojnici z Ukrajiny",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-slevaci-z-vut-odlili-jezise-pro-jihomoravskou-vrbici-do-sochy-roztavili-i-nabojnici-z-ukrajiny-40605955"
+    },
+    {
+      "score": 7,
+      "fact": "Mondelēz žaluje britskou veganskou značku za kopírování tvaru toblerone.",
+      "reason": "Zajímavý právní konflikt mezi velkou a malou značkou.",
+      "title": "Vlastník Toblerone žaluje malou čokoládovou značku. Nelíbí se mu tvar její tyčinky",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/podniky/vlastnik-toblerone-zaluje-malou-cokoladovou-znacku-nelibi-se-mu-tvar-jeji-tycinky.A261029_113426_ekoakcie_jadv"
+    },
+    {
+      "score": 7,
+      "fact": "Heidi Klumová fanoušky šokovala kontroverzním halloweenským kostýmem.",
+      "reason": "Slavná osobnost s kontroverzním gestem, klasická kvízní tlačička.",
+      "title": "Nechutné i geniální. Heidi Klumová šokovala fanoušky halloweenským kostýmem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/modelka-heidi-klum-prevleky-kostym-halloween-tom-kaulitz.A261028_113345_lidicky_zar/foto"
+    }
+  ]
+}
