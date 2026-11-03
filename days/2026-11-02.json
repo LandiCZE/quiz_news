@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-02",
+  "generated": "2026-11-03T15:08:35+00:00",
+  "stats": {
+    "fetched": 1197,
+    "that_day": 621,
+    "deduped": 560,
+    "scored": 180,
+    "passed": 60,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Obyvatele „domů na moři“ vyhodili na souš po 26 dnech.",
+      "reason": "Vyhraněný emotivní příběh s nečekaným koncem, ideální na quiz.",
+      "title": "Koupil si kajutu na zbytek života. Po 26 dnech musel sbalit kufry a odejít",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/koupil-si-kajutu-na-zbytek-zivota-po-26-dnech-musel-sbalit-kufry-a-odejit/r~aaa290931a989be4d9ec87a46d810068/"
+    },
+    {
+      "score": 9,
+      "fact": "Slovák zemřel v Indii po skoku do bazénu, aby zachránil jiného hosta před elektrickým rázem.",
+      "reason": "Shokující tragický příběh s nečekanou kombinací důvodů smrti (elektrina v bazénu).",
+      "title": "Slovák Juraj (†45) zemřel na dovolené v luxusním resortu: Skočil do bazénu pomoci jinému hostovi!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/851779/slovak-juraj-45-zemrel-na-dovolene-v-luxusnim-resortu-skocil-do-bazenu-pomoci-jinemu-hostovi.html"
+    },
+    {
+      "score": 9,
+      "fact": "Brit Karl Bushby po 28 letech došel pěšky zpět do svého rodného města Hull.",
+      "reason": "Spektakulární osobní výzva s konkrétním jménem a číslem let, které vydržely.",
+      "title": "Šel 28 let domů. Teď Bushbyho vítal jásající dav, před sebou má ale další otázku",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kdyz-vyrazil-synovi-bylo-osm-po-28-letech-se-vraci-a-nevi-co-bude-dal/r~aaa29813821fd69135a957b8ef70f9ce/"
+    },
+    {
+      "score": 9,
+      "fact": "Majitel Bugatti Mate Rimac honil zloděje v Porsche 911, auto našla policie.",
+      "reason": "Bizarní scéna, bohatý šéf pronásleduje zloděje sportovním autem.",
+      "title": "Bizarní honička Bugatti: Šéf slavné automobilky v porsche pronásledoval zloděje",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/851751/bizarni-honicka-bugatti-sef-slavne-automobilky-v-porsche-pronasledoval-zlodeje.html"
+    },
+    {
+      "score": 9,
+      "fact": "Herec Martin Dejmes po skončení seriálu Kmotřík chce být do roku 2030 nejsledovanějším influencerem v ČR.",
+      "reason": "Búrkativní přeskok z běžné herectví do gigantu influencer oboru.",
+      "title": "Špaček ze Zrádců chce být do roku 2030 největším influencerem v Česku",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/kdo-je-jan-spacek-youtuber-ze-zradcu-chce-byt-do-roku-2030-nejvetsim-influencerem-v-cesku.A260923_225507_domaci_hrat"
+    },
+    {
+      "score": 9,
+      "fact": "Kimi Antonelli se stal nejmladším mistrem světa F1 v historii.",
+      "reason": "Historický rekord s konkrétním jménem a věkem (20 let).",
+      "title": "Nejmladší mistr světa v historii. Itálie čekala 73 let na šampiona formule 1",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-nejmladsi-mistr-sveta-v-historii-italie-cekala-73-let-na-sampiona-formule-1-5569481"
+    },
+    {
+      "score": 9,
+      "fact": "Kimi Antonelli se stal nejmladším šampionem formule 1 historie po skončení GP v Mexiku.",
+      "reason": "Jasný rekordní fakt: nejmladší mistr v historii F1 – výborná útočníká",
+      "title": "Antonelli je mistrem světa. Chaotickou Velkou cenu Mexika ovládl Verstappen",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-antonelli-pojede-v-mexiku-o-titul-hamilton-o-druhe-vitezstvi-ve-ferrari-5567815"
+    },
+    {
+      "score": 9,
+      "fact": "Britský dobrodruh Karl Bushby po 28 letech pěšího putování dorazil domů.",
+      "reason": "incredibni人生ni příběh s konkrétním hrdinou a číslem",
+      "title": "Brit, který strávil 28 let pěší cestou z Jižní Ameriky, se vrátil domů",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-brit-ktery-stravil-28-let-pesi-cestou-z-jizni-ameriky-se-vratil-domu-319320"
+    },
+    {
+      "score": 8,
+      "fact": "V Kyjově se složilo až 2178 obřích živých vlčích máků na počest válečných veteránů.",
+      "reason": "Konkrétní číslo a překročení českého rekordu je ideální na počítací otázku.",
+      "title": "2178 lidí složilo v Kyjově obří živý vlčí mák na počest válečných veteránů. Padl tak nový český rekord",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/2178-lidi-slozilo-v-kyjove-obri-zivy-vlci-mak-na-pocest-valecnych-veteranu-padl_2611022118_aru"
+    },
+    {
+      "score": 8,
+      "fact": "Josef Mašín zemřel ve věku 91 let krátce po 75. výročí jedněch ze svých děl.",
+      "reason": "Úmrtí historické ikony ČR, výrazná kulatá čísla (91 let, 75 let).",
+      "title": "„Mně je 91 a jednal bych stejně jako tehdy.“ Jak se Mašín stavěl k zabíjení komunistů",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/mne-je-91-a-jednal-bych-stejne-jako-tehdy-jak-se-masin-stavel-k-vrazdam-komunistu/r~aaa295800d26af45d11d8f9a18b2e72f/"
+    },
+    {
+      "score": 8,
+      "fact": "Ve 94 letech zemřel Josef Mašín, druhý z bratrů pistolníků.",
+      "reason": "Úmrtí konkrétního člena slavné pistolové skupiny.",
+      "title": "Prostřílel se na Západ, při útěku zabíjel. Zemřel druhý z bratrů Mašínů, vyznamenání nedostal",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/prostrilel-se-zeleznou-oponou-na-zapad-zemrel-josef-masin-vyznamenani-se-nedockal/r~aaa292423396fb9af1912b4bcfddca30/"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel 94letý Josefa Mašína, bratr legendárních ozbrojených bojovníků proti nacismu a komunismu.",
+      "reason": "Úmrtí historické osobnosti s konkrétním věkem a odkazem",
+      "title": "Zemřel Josef Mašín. Muž, jenž se prostřílel „železnou oponou“",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-historie-josef-masin-nekrolog-310966"
+    },
+    {
+      "score": 8,
+      "fact": "Žilková se setkala s Bolkem Polívkem na místě natáčení Zapomenutého světla po třiceti letech.",
+      "reason": "Nostalgický moment slavných herců s pěkným časovým rozmezím.",
+      "title": "Po 30 letech na místě natáčení Zapomenutého světla: Dojemné setkání Žilkové s Polívkou",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851776/po-30-letech-na-miste-nataceni-zapomenuteho-svetla-dojemne-setkani-zilkove-s-polivkou.html"
+    },
+    {
+      "score": 8,
+      "fact": "Švendovo divadlo vyzvalo ministra kultury: 4:36, Oto, odstup!",
+      "reason": "Konkrétní, vtipný politicko-umělecký akt s jasnými jmény a reakcí, ideální pro kvíz.",
+      "title": "4:36 Oto, odstup! vzkazuje ministrovi poutač pražského Švandova divadla",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/divadlo/svandovo-divadlo-poutac-klempir.A261102_104740_divadlo_ts"
+    },
+    {
+      "score": 8,
+      "fact": "Syn Pruhožina ve Středoafrice vyrábí vodka i pivo a těží zlato.",
+      "reason": "Exotický, zločinný a bizarní byznys rodiny 'Wagnera' v Africe.",
+      "title": "Vodka, pivo, žoldnéři. Prigožin junior pokračuje v byznysu wagnerovců v Africe",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/851146/vodka-pivo-zoldneri-prigozin-junior-pokracuje-v-byznysu-wagnerovcu-v-africe.html"
+    },
+    {
+      "score": 8,
+      "fact": "Trumpa ve Florida chrání systémy protivzdušné obrany přezdívané 'Mstitelé'.",
+      "reason": "Vojenská technika ochraňující civilní byt prezidenta před volbami.",
+      "title": "Protivzdušná obrana v Mar-a-Lago: Trumpa chrání „Mstitelé“",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-mar-a-lago-protivzdusna-obrana-avenger.A261102_202200_zahranicni_onbu"
+    },
+    {
+      "score": 8,
+      "fact": "Kyberútok v Belgii, Lucembursku a Švédsku zvedl teplotu v lednicích na 50 stupňů.",
+      "reason": "konkrétní, pobavující a věrohodný technický detail",
+      "title": "Až 50 stupňů v lednici. Obchody v Belgii, Lucembursku a Švédsku zasáhl kyberútok, podobný jako ve Francii",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/az-50-stupnu-v-lednici-obchody-v-belgii-lucembursku-a-svedsku-zasahl-kyberutok_2611021309_lhv"
+    },
+    {
+      "score": 8,
+      "fact": "Na Rhodu pršelo neustále 17 hodin a zaplavilo domy i silnice.",
+      "reason": "Specifický časový údaj (17 hodin) u známého dovolenkovacího cíle.",
+      "title": "Ráj českých turistů pod vodou! Rhodos zasáhly prudké lijáky, zaplavily domy i silnice",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851767/raj-ceskych-turistu-pod-vodou-rhodos-zasahly-prudke-lijaky-zaplavily-domy-i-silnice.html"
+    },
+    {
+      "score": 8,
+      "fact": "Trump prohlásil, že by válku ve Vietnamu vyhrál během jednoho týdne.",
+      "reason": "Nepatričný a absurdní výrok populární osobnosti.",
+      "title": "Válku ve Vietnamu bych vyhrál za týden, chvástal se Trump",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-valku-ve-vietnamu-bych-vyhral-za-tyden-chvastal-se-trump-40606014"
+    },
+    {
+      "score": 8,
+      "fact": "Armáda USA rozmístila protiraketová systémy v Trumpově rezidenci Mar-a-Lago na Floridě.",
+      "reason": "Šokující vizuální obrázek a konkrétní místo, bezpečnostní eskalace",
+      "title": "Trumpa na Floridě hlídají protiraketové systémy",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-trumpa-na-floride-hlidaji-protiraketove-systemy-40605966"
+    }
+  ]
+}
