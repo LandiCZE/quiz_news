@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-03",
+  "generated": "2026-11-04T15:23:47+00:00",
+  "stats": {
+    "fetched": 1252,
+    "that_day": 469,
+    "deduped": 432,
+    "scored": 180,
+    "passed": 51,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Lékaři zachránili mužovu nohu před amputací tím, že mu implantovali hovězí cévu.",
+      "reason": "Spektakulární a nevšední lékařský zázrak, ideální jednohláskové téma pro diváky.",
+      "title": "Před amputací nohy zachránila muže hovězí céva. Do Česka přišla novinka z USA",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/amputace-ucpana-ceva-hovezi-tepna-medicina-transplantace-dialyza.A261103_171833_domaci_krou"
+    },
+    {
+      "score": 9,
+      "fact": "Muž žijící v jeskyni na Českolipsku ztratil 1,6 milionu korun a při ochrance šperků se bránil vidlemi.",
+      "reason": "Vímáří a upamatující příběh s konkrétními detailmi",
+      "title": "Muž žijící v jeskyni u Dubé přišel o 1,6 milionu: Šperky bránil vidlemi",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/851884/muz-zijici-v-jeskyni-u-dube-prisel-o-1-6-milionu-sperky-branil-vidlemi.html"
+    },
+    {
+      "score": 9,
+      "fact": "Gérard Depardieu zazpíval v Praze a mezi diváky byl i exprezident Miloš Zeman.",
+      "reason": "Unikátní kombinace slavného herece a exprezidenta na jednom místě.",
+      "title": "Gérard Depardieu zazpíval v Praze. Dorazili Miloš Zeman nebo šéf rozhlasu",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-gerard-depardieu-hybernia-319386"
+    },
+    {
+      "score": 9,
+      "fact": "Žena zemřela poté, co jí ChatGPT poradil vysadit léky.",
+      "reason": "Šokující příběh o AI a smrti, velmi virální potenciál.",
+      "title": "AI místo lékaře. ChatGPT navedl ženu k vysazení léků, skončilo to tragédií",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/umela-inteligence-misto-lekare-chatgpt-navedl-zenu-k-vysazeni-leku-skoncilo-to-tragedii.A261103_195113_zahranicni_remy"
+    },
+    {
+      "score": 8,
+      "fact": "Soulští filharmonikové zahrají poprvé v historii Pražského jara Smetanovu Mou vlast.",
+      "reason": "Konkrétní historický první a očekávání návratu Anne-Sophie Mutter.",
+      "title": "Má vlast podle Jihokorejců. Pražské jaro zahájí poprvé Asiaté, příští ročník bude ve znamení Beethovena",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/hudba/klasicka-hudba/ma-vlast-podle-jihokorejcu-prazske-jaro-zahaji-poprve-asiate-pristi-rocnik-bude-ve-znameni-beethovena/r~aaa2972813cb2295e392542e99e172ee/"
+    },
+    {
+      "score": 8,
+      "fact": "Melania Trumpová schrazuje Rusko a Ukrajinu v Bílém domě.",
+      "reason": "Premiér dáma USA jako prostředník v válce, silný příběh.",
+      "title": "V Bílém domě se z popudu Trumpové setkají zástupci Ruska a Ukrajiny",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-schuzka-v-bilem-dome-40606390"
+    },
+    {
+      "score": 8,
+      "fact": "Radní britské strany Reform UK byl obviněn z 35 trestných činů, včetně 12 znásilnění.",
+      "reason": "Skandál s politikem a šokujícím, konkrétním počtem obvinění.",
+      "title": "Radní Reform UK byl obviněn z 35 trestných činů, včetně 12 znásilnění",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-radni-reform-uk-byl-obvinen-z-35-trestnych-cinu-vcetne-12-znasilneni-40606458"
+    },
+    {
+      "score": 8,
+      "fact": "Melanie Trumpová zprostředkovala příměří a svolala jednání do Bílého domu.",
+      "reason": "Slavná osobnost (Melanie) v nečekané diplomatické roli je dobrou zápletkou.",
+      "title": "Trumpová jako prostředník k míru: Představitelé Ukrajiny a Ruska přijedou do Bílého domu",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/851909/trumpova-jako-prostrednik-k-miru-predstavitele-ukrajiny-a-ruska-prijedou-do-bileho-domu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Slovenské policie obvinila profesionálního hokejistu, že nabízel soupeřům deseti tisíci eur za ovlivnění utkání.",
+      "reason": "Korupce v sportu je vždy zajímavá a konkrétní částka 10 000 eur dělá dobrý háček.",
+      "title": "Deset tisíc eur, když kapitán nenastoupí. Slovenská policie obvinila hokejistu z uplácení soupeřů",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/deset-tisic-eur-kdyz-kapitan-nenastoupi-slovenska-policie-obvinila-hokejistu-z-uplaceni-souperu/r~aaa291adfb77e72b2e54b59c037ba1bf/"
+    },
+    {
+      "score": 7,
+      "fact": "Německo váhá s pořádáním MS v hokeji, Rusové se nabízejí na náhradníky.",
+      "reason": "Politická provokace ve sportovním kontextu, zaujímá.",
+      "title": "Rusové provokují Němce: Jestli nechcete pořádat MS, my to hned zvládneme",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-ms-rusove-provokuji-nemce-jestli-nechcete-poradat-ms-my-to-hned-zvladneme-5569625"
+    },
+    {
+      "score": 7,
+      "fact": "Ve Pompejích archeologové našli dvě tisíce let starou skříň s osobními věcmi neznámé ženy.",
+      "reason": "Nový archeologický nález s konkrétním artefaktem (skříň, mince).",
+      "title": "V Pompejích objevili 2000 let starou skříň. Ukrývala osobní předměty neznámé ženy",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-v-pompejich-objevili-2000-let-starou-skrin-ukryvala-osobni-predmety-nezname-zeny-40606389"
+    },
+    {
+      "score": 7,
+      "fact": "Michal Chaloupka se stal nejmladším starostou v historii brněnské čtvrti Líšeň.",
+      "reason": "Konkrétní rekord (nejmladší) a lokální politická změna s jasným faktem.",
+      "title": "Líšeň povede nejmladší starosta v historii Brna, vedle toho chce studovat",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-lisen-povede-nejmladsi-starosta-v-historii-brna-vedle-toho-chce-studovat-40606099"
+    },
+    {
+      "score": 7,
+      "fact": "Češi společně s Finskem, Švédskem a dalšími bojkotují hokej s Ruskem.",
+      "reason": "Konkrétní sportovní událost s jasnými hlavním aktéry.",
+      "title": "Hokejový šampionát se rozpadá, s Ruskem odmítají hrát další týmy. Vyjádřili se i Češi",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/hokej/ms-v-hokeji/hokejovy-sampionat-se-rozpada-s-ruskem-odmitaji-hrat-dalsi-dva-tymy-cesi-stale-mlci/r~aaa29d646f9756799837ab7129b4c37b/"
+    },
+    {
+      "score": 7,
+      "fact": "Influencerka Lele se stala hvězdou nového čísla TV show Prostřeno!",
+      "reason": "Spolupráce slavné osobnosti s populární TV show láká diváky.",
+      "title": "Hvězdné Prostřeno! s Lelou v hlavní roli: Zábava opět otestuje nervy",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-serialy-filmy-kino-a-tv/851882/hvezdne-prostreno-s-lelou-v-hlavni-roli-zabava-opet-otestuje-nervy.html"
+    },
+    {
+      "score": 7,
+      "fact": "Historici prozradili, že strýc Andreje Babiše sloužil v SS a po válce s tetou Violou emigroval do Kanady.",
+      "reason": "Objev v rodinném stromu silné politické osobnosti",
+      "title": "Temná minulost Babišovy rodiny: Strýc byl u gestapa! Historici odhalili, kdo byla teta Viola",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/851870/temna-minulost-babisovy-rodiny-stryc-byl-u-gestapa-historici-odhalili-kdo-byla-teta-viola.html"
+    },
+    {
+      "score": 7,
+      "fact": "První kubánská olympijská medailistka v zápasu Yusneylis Guzmánová opustila tým v Mexiku.",
+      "reason": "Rekordní výkon v meziválečném sportě a dezercionistka – dobrá kombinace příběhu.",
+      "title": "První kubánská olympijská medailistka v zápase Guzmánová v Mexiku opustila tým",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/bojove-sporty-prvni-kubanska-olympijska-medailistka-v-zapase-guzmanova-v-mexiku-opustila-tym-5569591"
+    },
+    {
+      "score": 7,
+      "fact": "Český F1 fotograf Jiří Křenek zjistil, že Antonelli pije tak rychle, jak jezdí.",
+      "reason": "Zaujmavý anekdotický detail o známém závodníkovi s humorným nádechem.",
+      "title": "Český fotograf slavil s Antonellim titul mistra světa. A poznal: Pije tak rychle, jak jezdí!",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-cesky-fotograf-slavil-s-antonellim-titul-mistra-sveta-a-poznal-pije-tak-rychle-jak-jezdi-5569583"
+    },
+    {
+      "score": 7,
+      "fact": "Stávníci ČT a ČR omezili vysílání a moderovali zprávy v čepicích.",
+      "reason": "Viditelná a neobvyklá scéna s vizuálním prvkem (čepice).",
+      "title": "Stávka začala, Česká televize i rozhlas omezily živé vysílání i zpravodajství",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/stavka-zacala-ceska-televize-i-rozhlas-omezily-zive-vysilani-i-zpravodajstvi/r~aaa299cc4c2610f9568fdf4aee381a67/"
+    },
+    {
+      "score": 7,
+      "fact": "Španělský ministr dopravy Óscar Puente po nehodách rezignoval.",
+      "reason": "Konkrétní rezignace ministryna po nehodách, slušný fakt, ale ne extra překvapivý.",
+      "title": "Dohra vlakového neštěstí ve Španělsku: Ministr dopravy rezignoval",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851933/dohra-vlakoveho-nestesti-ve-spanelsku-ministr-dopravy-rezignoval.html"
+    },
+    {
+      "score": 7,
+      "fact": "Ve státě New York zemřelo na spalničky dítě, šlo o první úmrtí za posledních 30 let.",
+      "reason": "Konkrétní statistický mezník a tragický příběh s jasným místem.",
+      "title": "V USA zemřelo dítě na spalničky. Stát New York hlásí první oběť po 30 letech",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-zemrelo-dite-na-spalnicky-40606503"
+    }
+  ]
+}
