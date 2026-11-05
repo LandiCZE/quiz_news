@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-04",
+  "generated": "2026-11-05T15:27:41+00:00",
+  "stats": {
+    "fetched": 1282,
+    "that_day": 594,
+    "deduped": 552,
+    "scored": 180,
+    "passed": 62,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Letuška American Airlines odešla do důchodu ve 83 letech po 63,5 roce služby.",
+      "reason": "Mimořádné číslo (63 let) a konkrétní osoba, skvělá kvízová otázka.",
+      "title": "Letuška American Airlines odešla do důchodu v 83 letech",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-letuska-american-airlines-odesla-do-duchodu-v-83-letech-40606428"
+    },
+    {
+      "score": 9,
+      "fact": "Abdul El-Sayed bude prvním muslimským senátorem v historii USA po vítězství v Michiganu.",
+      "reason": "Historický milník (první v historii), konkrétní osoba a stát – typický kvízový materiál.",
+      "title": "V Michiganu navzdory zradě ve vlastních řadách vyhrál demokrat El-Sayed. Bude prvním muslimským senátorem",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/volby-usa-v-michiganu-navzdory-zrade-ve-vlastnich-radach-vyhral-demokrat-el-sayed-bude-prvnim-muslimskym-senatorem-40606613"
+    },
+    {
+      "score": 9,
+      "fact": "Demokraté zvolili bílího Obamou, tímžmy připravili republikány o Senát.",
+      "reason": "Vícenásobný rekord (bílý poslanec, 20+ let) a výrazný politický převrat.",
+      "title": "„Zvolili jsme bílého Obamu.“ Demokraté slaví historické vítězství",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-usa-zvolili-jsme-bileho-obamu-demokrate-slavi-historicke-vitezstvi-319628"
+    },
+    {
+      "score": 9,
+      "fact": "Papež Řehoř XIV. udělil soukromá pobořeníčka Bobu Dylanovi",
+      "reason": "Spojení dvou těžko pojmenitelných postav s nenávratnou náladou, neoprávněný detail",
+      "title": "Černá a Bílá. Papež udělil soukromou audienci Bobu Dylanovi",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/cerna-a-bila-papez-se-setkal-s-bobem-dylanem/r~aaa2955976ebe36d1f345782b1bfd0ff/"
+    },
+    {
+      "score": 9,
+      "fact": "Putin naplánoval historicky první společný summit s Trumpem a Číňanem v Šen-čenu.",
+      "reason": "Velká světla událost se silným překvapením (obchájení Evropy) a konkrétním místem.",
+      "title": "Nečekaný tah: Putin chce dostat k jednomu stolu Trumpa i Si Ťin-pchinga. Obejdou se bez Evropy",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/necekany-tah-putin-chce-dostat-k-jednomu-stolu-trumpa-i-si-tin-pchinga-obejdou-se-bez-evropy/r~aaa292d51e7fd083852660d09dcc72e8/"
+    },
+    {
+      "score": 9,
+      "fact": "Elon Musk komentoval volební debakl slovem o nefungujících vesmírných lazserech.",
+      "reason": "Slavná osoba, přepychový citát, silně překvapující a vtipná odpověď.",
+      "title": "Nejdražší prohra v historii? ‚Moje vesmírné lasery nefungovaly,‘ komentuje Musk volební debakl",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/nejdrazsi-prohra-v-historii-moje-vesmirne-lasery-nefungovaly-komentuje-musk_2611041140_eml"
+    },
+    {
+      "score": 9,
+      "fact": "Zelenskyj vyznamenal Melanii Trumpovou Řádem kněžny Olgy za přínos humanitární pomoc.",
+      "reason": "Slavná celebrity pár, specifický a nečekaný důvod vyznamenání, silná politická témata.",
+      "title": "Melania vynechala Trumpův volební večírek. Řešila příměří na Ukrajině, Zelenskyj jí dal metál",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851939/melania-vynechala-trumpuv-volebni-vecirek-resila-primeri-na-ukrajine-zelenskyj-ji-dal-metal.html"
+    },
+    {
+      "score": 9,
+      "fact": "Volodymyr Zelenskyj vyznamenal Melanii Trumpovou Řádem kněžny Olgy I. třídy.",
+      "reason": "Slavná celebrity pár, specifický a nečekaný důvod vyznamenání, silná politická témata.",
+      "title": "Vděčný Zelenskyj ocenil Trumpovou Řádem kněžny Olgy. Za sjednané příměří",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/vdecny-zelenskyj-ocenil-trumpovou-radem-knezny-olgy-za-sjednane-primeri/r~aaa29431ba3a10eb9af133f15060fbeb/"
+    },
+    {
+      "score": 9,
+      "fact": "Demokraté v USA ovládli Kansas po 94 letech a zvolili prvním muslima v Senátu.",
+      "reason": "Jasný milník s konkretním číslem (94 let) a historickým prvním případem.",
+      "title": "Demokratická tsunami v USA: Výprask pro Trumpovy spojence a první muslim v Senátu",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851943/demokraticka-tsunami-v-usa-vyprask-pro-trumpovy-spojence-a-prvni-muslim-v-senatu.html"
+    },
+    {
+      "score": 9,
+      "fact": "Abdul El-Sayed se po zvolení stal prvním muslimským senátorem USA.",
+      "reason": "Historická první (mílestone), konkrétní jméno, silná media prominence (Cleveland mayor).",
+      "title": "První muslimský senátor USA. V Michiganu vyhrál El-Sayed, ukazují projekce",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/prvni-muslimsky-senator-usa-v-michiganu-vyhral-el-sayed-ukazuji-projekce-379257"
+    },
+    {
+      "score": 8,
+      "fact": "Como proti Ruchu Lens vytvořil рекорd Ligy mistrů vítězstvím 9:1.",
+      "reason": "Extrémní výsledkové číslo a historický rekord v evropské lize, snadno sčitatelná otázka.",
+      "title": "Desítka byla blízko, Como vytvořilo rekord Ligy mistrů. Real Madrid vyhrál i čtvrtý zápas",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-liga-mistru-real-madrid-vyhral-v-lize-mistru-i-ctvrty-zapas-liverpool-padl-5569950"
+    },
+    {
+      "score": 8,
+      "fact": "Joanie Lemercier promítl na Trumpovo hotel v Las Vegas protestní nápis OUT.",
+      "reason": "Vizuálně silný a nečekaný fakt (nápis OUT)",
+      "title": "Na věži nesoucí Trumpovo jméno v Las Vegas se objevil nečekaný vzkaz",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/volby-usa-na-vezi-nesouci-trumpovo-jmeno-v-las-vegas-se-objevil-necekany-vzkaz-40606781"
+    },
+    {
+      "score": 8,
+      "fact": "Elon Musk a Donald Trump prohráli senátní volby v Texasu, ačkoli Musk vynaložil 200 milionů dolarů.",
+      "reason": "Silný přívlastek 'poražení' pro světově nejvlivnější lidi a velká suma",
+      "title": "Jak Elona Muska porazil „podivín“ a bývalý učitel. A navíc v Texasu",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-usa-jak-elona-muska-porazil-podivin-a-byvaly-ucitel-a-navic-v-texasu-319736"
+    },
+    {
+      "score": 8,
+      "fact": "Americký maratonec Albert Velikonja běžel svou první maratonku v dresu pražské Sparty.",
+      "reason": "Kuriózní detail, spojení exotické postavy s českým klubem (Sparta)",
+      "title": "Kuriózní příběh. Americký maratonec si splnil sen i díky dresu fotbalové Sparty",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/atletika-kuriozni-pribeh-americky-maratonec-si-splnil-sen-i-diky-dresu-fotbalove-sparty-5569607"
+    },
+    {
+      "score": 8,
+      "fact": "Marek Jankulovski si k padesátince v Ostravě pozval Ronaldinha, Pirloho i Inzaghiova.",
+      "reason": "Konkrétní a překvapivý seznam hostů na oslavě známého Čecha.",
+      "title": "Ronaldinho, Pirlo i Inzaghi v Ostravě. Jankulovski chystá hvězdnou narozeninovou párty",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-ronaldinho-pirlo-i-inzaghi-v-ostrave-jankulovski-chysta-hvezdnou-narozeninovou-party-5569614"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel kadeřník John Frieda, který stříhal princeznu Dianu a组si vybudil imperium.",
+      "reason": "Smrt slavné postaviček s přímým spojením k věčně mladým celebritám (Diana).",
+      "title": "Smrt slavného kadeřníka (†75): Česal Dianu i Jaggera, proslavil se vlastní kosmetikou",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/851980/smrt-slavneho-kadernika-75-cesal-dianu-i-jaggera-proslavil-se-vlastni-kosmetikou.html"
+    },
+    {
+      "score": 8,
+      "fact": "Charles Leclerc opustil F1 závod v Mexiku, protože se stal otcem.",
+      "reason": "Slavný sportovec překvapivě opustil velké události pro rodinné události.",
+      "title": "Leclerc se stal poprvé otcem. Místo Brazílie tak zamířil domů do Monaka",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-leclerc-se-stal-poprve-otcem-misto-brazilie-tak-zamiril-domu-do-monaka-5569811"
+    },
+    {
+      "score": 8,
+      "fact": "Jamie Dornan potvrdil roli Aragorna v nové verzi Pánů prstenů.",
+      "reason": "Kulturní senzace, mění se postava v kultovním filmu, veřejnost si to všimne.",
+      "title": "Nebudu se snažit pouze imitovat Vigga, říká nový představitel Aragorna Jamie Dornan",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-nebudu-se-snazit-pouze-imitovat-vigga-rika-novy-predstavitel-aragorna-jamie-dornan-40604216"
+    },
+    {
+      "score": 8,
+      "fact": "Španělský fotbalista de Miguel zemřel po kolizi s brankářem v hře.",
+      "reason": "Shokující smrt sportovce přímo na hřišti z důvodu nehody (kvůli drahamovému zranění).",
+      "title": "Po kolizi s brankářem zemřel španělský fotbalista de Miguel. ,Neexistují slova útěchy‘",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/tenerife-andorra-jesus-de-migue-owona_2611041133_kri"
+    },
+    {
+      "score": 8,
+      "fact": "John Malkovich přiznal, že scénáře k 80 procentům svých filmů sám přepsal.",
+      "reason": "Slavné hvězda + překvapující tvrzení o jeho práci, faktu hodná odpověď '80 procent'.",
+      "title": "John Malkovich: Scénáře k 80 procentům filmů jsem přepsal. Divokého koně Devítku ne",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-john-malkovich-scenare-k-80-procentum-filmu-jsem-prepsal-divokeho-kone-devitku-ne-40606347"
+    }
+  ]
+}
