@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-05",
+  "generated": "2026-11-06T15:04:37+00:00",
+  "stats": {
+    "fetched": 1377,
+    "that_day": 631,
+    "deduped": 588,
+    "scored": 180,
+    "passed": 49,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Bob Dylan se ve Vatikánu setkal s papežem, přičemž měl na sobě černou mikinu s kapucí.",
+      "reason": "Ikonický hudebník + soudný náboženský vůdce + neobvyklý vzhled, skvělý vizuální popis.",
+      "title": "V černé mikině s kapucí na hlavě. Bob Dylan se ve Vatikánu setkal s papežem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/hudba/bob-dylan-papez-lev-xiv-vatikan-hudebnik-nositel-nobelovy-ceny.A261105_100258_hudba_lysa/foto"
+    },
+    {
+      "score": 9,
+      "fact": "Yvetta Simonová oslavila 98. narozeniny v pražském domově Hájích.",
+      "reason": "Známá česká osobnost, vysoké číslo narozenin, specifické místo oslavy.",
+      "title": "Yvettě Simonové bude za dva roky 100. Narozeniny slavila v domově seniorů",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/yvette-simonove-bude-za-dva-roky-100-narozeniny-slavila-v-domove-senioru.A261105_082534_lidicky_zar"
+    },
+    {
+      "score": 9,
+      "fact": "V Peru rozhodl o vítězi voleb do funkce starosty hozená mince.",
+      "reason": "Absurdní a konkrétní situace, odpověď je krátká a zapamatovatelná.",
+      "title": "V Peru dostali kandidáti na starostu stejný počet hlasů, o vítězi rozhodla mince",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-peru-dostali-kandidati-na-starostu-stejny-pocet-hlasu-o-vitezi-rozhodla-mince-319757"
+    },
+    {
+      "score": 8,
+      "fact": "Trenér Dortmundu hledal herce Karetsase na lavičce, ale při střídání tam nebyl.",
+      "reason": "Vtipná a bizarní situace ze zápasu, ideální na krátkou fázi.",
+      "title": "Bizarní moment v Lize mistrů. Kouč musel střídat, pozdější hrdina Dortmundu ale nebyl na lavičce",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-liga-mistru-bizarni-moment-v-lize-mistru-kouc-musel-stridat-pozdejsi-hrdina-dortmundu-ale-nebyl-na-lavicce-5570092"
+    },
+    {
+      "score": 8,
+      "fact": "V roce 1985 proběhl v Praze ilegální punkový koncert, organizátoři ukradli zámek a podplatili kapitána.",
+      "reason": "Kulturní legenda, zajímavý anonymní příběh s kulisou.",
+      "title": "Ukradl razítko, podplatil kapitána. V roce 1985 proběhl v Praze punkový koncert",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-historie-udelame-koncert-na-parniku-pankaci-si-v-roce-1985-zahrali-v-centru-prahy-319286"
+    },
+    {
+      "score": 8,
+      "fact": "Bývalý mistr F1 Alan Jones zemřel ve věku 80 let jako druhý Austrálčan v historii.",
+      "reason": "Úmrtí slavné sportovní postavy s konkrétním věkem a historickým kontextem.",
+      "title": "Zemřel Alan Jones, jeden ze dvou australských šampionů formule 1",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-formule-1-zemrel-alan-jones-jeden-ze-dvou-australskych-sampionu-formule-1-5570080"
+    },
+    {
+      "score": 8,
+      "fact": "Nejstarší vrak lodi nenašel se útoky v turce do Guinesovy kníh.",
+      "reason": "Konkrétní rekord s geografickým specifikem (Kekova) je výborný pro quizzové otázky.",
+      "title": "Nejstarší známý vrak lodi na světě se dostal do Guinnessovy knihy rekordů",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-nejstarsi-znamy-vrak-lodi-na-svete-se-dostal-do-guinnessovy-knihy-rekordu-40606792"
+    },
+    {
+      "score": 8,
+      "fact": "Na Dušičky chyběl na hrobě Václava Havla věnec od jeho druhý manželské Dagmar.",
+      "reason": "Silný populární zájem o prominentní osobu a její soukromí.",
+      "title": "Hrobka Václava Havla (†75) na Dušičky: Chybí věnec od Dagmar!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852020/hrobka-vaclava-havla-75-na-dusicky-chybi-venec-od-dagmar.html"
+    },
+    {
+      "score": 8,
+      "fact": "Trump nechává postavit 76metrový triumfální oblouk, který má převýšit pařížský Ar de Triomphe.",
+      "reason": "Konkrétní pomlklý detail, který si návštěvníci Washingtonu a fanoušci Trumpa zapamatují.",
+      "title": "Trump jako Napoleon? Chce obří Vítězný oblouk, větší než v Paříži. A staví ho sám sobě!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852094/trump-jako-napoleon-chce-obri-vitezny-oblouk-vetsi-nez-v-parizi-a-stavi-ho-sam-sobe.html"
+    },
+    {
+      "score": 8,
+      "fact": "O americké senátorské křeslo v Oregonu bojovaly dvě političky s češtinou kořeny: Tina Kotková a Christine Dražanová.",
+      "reason": "Nepravděpodobné spojení českých jmen s americkou politikou upoutá pozornost.",
+      "title": "Kotková a Dražanová. Dvě Američanky s českými jmény znovu bojovaly o Oregon",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/volby-oregon-usa-2026-ceske-koreny-kotekova-drazanova.A261105_092635_zahranicni_vanky"
+    },
+    {
+      "score": 8,
+      "fact": "Bavorský vicepremiér Hubert Aiwanger (†55) náhle zemřel v berlínském hotelovém pokoji.",
+      "reason": "Náhlá smrt vysokého politiků v cizí zemi je silný a lákavý fakt.",
+      "title": "Berlínské úřady vyšetřují náhlé úmrtí bavorského vicepremiéra Aiwangera",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-berlinske-urady-vysetruji-nahle-umrti-bavorskeho-vicepremiera-aiwangera-319758"
+    },
+    {
+      "score": 8,
+      "fact": "Bavorský vicepremiér Hubert Aiwanger (†55) náhle zemřel v berlínském hotelovém pokoji.",
+      "reason": "Náhlá smrt vysokého politiků v cizí zemi je silný a lákavý fakt.",
+      "title": "Záhadná smrt bavorského vicepremiéra (†55)! Našli ho mrtvého v hotelu, případ vyšetřuje policie",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852044/zahadna-smrt-bavorskeho-vicepremiera-55-nasli-ho-mrtveho-v-hotelu-pripad-vysetruje-policie.html"
+    },
+    {
+      "score": 7,
+      "fact": "Zdeněk Moták prohrál premiéru reprezentačního trenéra se Švédy po nájezdech.",
+      "reason": "Concretní konkrétní osoba a neúspěšný debut je slušná víkendová novinka.",
+      "title": "Motákova premiéra skončila porážkou, Češi padli se Švédy po nájezdech",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/hokej/hokejova-reprezentace/motakova-premiera-skoncila-porazkou-cesi-padli-se-svedy-po-najezdech/r~aaa299b460cf3d5f000470816707507d/"
+    },
+    {
+      "score": 7,
+      "fact": "Do Síně slávy cen Český slavík vstoupí bratři Jan a František Nedvědovi.",
+      "reason": "Konkrétní jména a slavná událost, typická pro okruhy o kultuře.",
+      "title": "Na Českém slavíkovi vystoupí Farna, Noid či Mirai. Síň slávy přivítá bratry Nedvědy",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/hudba/na-ceskem-slavikovi-vystoupi-ewa-farna-noid-barta-ci-mirai-sin-slavy-privita-nedvedy.A261105_151741_hudba_jgo"
+    },
+    {
+      "score": 7,
+      "fact": "Bratři Nedvědovi budou během galavečeru na TV Nova uvedeni do Síně slávy Českého slavíka.",
+      "reason": "Stejný závěrečný fakt jako v předchozím článku, s jasným jménem postav.",
+      "title": "Do Síně slávy Českého slavíka vstoupí bratři Nedvědové",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-do-sine-slavy-ceskeho-slavika-vstoupi-bratri-nedvedove-40607030"
+    },
+    {
+      "score": 7,
+      "fact": "Hvězda filmu Piráti z Karibiku se присоединí k nové sérii seriálu Star Trek: Akademiа.",
+      "reason": "Významné obsazení známé divácky zábavné franchise, ale jméno herce není v úryvku.",
+      "title": "Star Trek se se svou akademií vrátí v příštím roce. Do seriálu míří hvězda Pirátů z Karibiku",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-star-trek-se-se-svou-akademii-vrati-v-pristim-roce-do-serialu-miri-hvezda-piratu-z-karibiku-40596253"
+    },
+    {
+      "score": 7,
+      "fact": "Český tenisový svaz vyčíslil dluhy po Ivo Kaderkovi na 100 milionů korun.",
+      "reason": "Konkrétní a vysoká finanční cifra u známé osoby",
+      "title": "100 milionů korun. Český tenis vyčíslil dluhy po Kaderkovi",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-tenis-muze-to-byt-sto-milionu-korun-cesky-tenis-vycislil-dluhy-po-kaderkovi-319793"
+    },
+    {
+      "score": 7,
+      "fact": "Geopark Český ráj ztrácí prestižní označení UNESCO kvůli problémům s prodejem vzácných kamenů.",
+      "reason": "Konkrétní ČR událost s překvapivým důvodem (prodej kamenů) a jasným následkem.",
+      "title": "Geopark Český ráj přijde o značku UNESCO, nevyřešil problém s prodejem kamenů",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/geopark-cesky-raj-prijde-o-znacku-unesco-nevyresil-problem-s-prodejem-kamenu-379307"
+    },
+    {
+      "score": 7,
+      "fact": "Melania Trumpová poslala v Bílém domě osobní dopisy Putinovi i Zelenskému.",
+      "reason": "Interakce první dámy s představiteli válčících stran je neobvyklá a lépe se testuje.",
+      "title": "Melania přivedla Rusy a Ukrajince do Bílého domu! Putinovi i Zelenskému poslala osobní dopisy",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/852129/melania-privedla-rusy-a-ukrajince-do-bileho-domu-putinovi-i-zelenskemu-poslala-osobni-dopisy.html"
+    },
+    {
+      "score": 7,
+      "fact": "Mezi 69 oběmi srážky vlaků ve Španělsku byl i Český turista.",
+      "reason": "Tragická událost s přímým českým dopadem, která bude řečena i v médiích.",
+      "title": "Při srážce vlaků ve Španělsku zemřeli manažeři, vědkyně i český turista",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/pri-srazce-vlaku-ve-spanelsku-zemreli-manazeri-vedkyne-i-byvala-ministryne/r~aaa29a57abd8a6ebeb121608672778fc/"
+    }
+  ]
+}
