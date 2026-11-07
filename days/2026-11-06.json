@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-06",
+  "generated": "2026-11-07T14:02:55+00:00",
+  "stats": {
+    "fetched": 1192,
+    "that_day": 603,
+    "deduped": 543,
+    "scored": 180,
+    "passed": 59,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Francouzce Emmě zachránil život dřeň z Česka, za poděkování přijela do Prahy na kole.",
+      "reason": "Emocionální success story, mezinárodní propojení a příjemný překvapení.",
+      "title": "Dřeň z Česka jí zachránila život. Nyní Francouzka přijela do Prahy na kole",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/dren-z-ceska-ji-zachranila-zivot-nyni-francouzka-prijela-do-prahy-na-kole-379360"
+    },
+    {
+      "score": 9,
+      "fact": "Paris Jacksonová chce od správce otcova dědictví kompenzaci 600 milionů dolarů.",
+      "reason": "Slavná osobnost, extrémní finanční částka a právní dispute",
+      "title": "Paris Jacksonová chce 600 milionů dolarů z dědictví svého otce",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/michael-jackson-dedictvi-paris-spravce-dedictvi-600-milionu.A261105_083349_lidicky_vanky"
+    },
+    {
+      "score": 9,
+      "fact": "Tchána prince Harryho zatkli na Floridě kvůli držení dětské pornografie.",
+      "reason": "Skandál s královskou rodinou, šokující a dobře zapamatovatelný fakt.",
+      "title": "Tchána prince Harryho zatkli kvůli dětskému pornu. Vévodkyně Meghan už reagovala",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/otce-meghan-markleove-zatkli-kvuli-detskemu-pornu-proto-jsem-mu-branila-v-kontaktu-s-detmi-rekla/r~aaa29bf7d5ec97cc45f1deb15e3491fe/"
+    },
+    {
+      "score": 9,
+      "fact": "Celníci v Limě zabavili v kufrech téměř 3000 tarantulí směřujících do Německa.",
+      "reason": "Extravagantní a vizuálně zajímavý příběh s konkrétním číslem",
+      "title": "Video: Na letišti v Peru objevili v kufrech tři tisíce tarantulí",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-na-letisti-v-peru-objevili-v-kufrech-evropanu-tri-tisice-tarantuli-319918"
+    },
+    {
+      "score": 9,
+      "fact": "Skupina Evropanů se pokusila do Německa propašovat tisíce tarantulí v kufrách.",
+      "reason": "Virusový příběh o pašovanými pavouky, silný visualizovaný motiv",
+      "title": "Zlý sen pro lidi s arachnofobií. Celníci na letišti našli v kufrech 3000 tarantulí",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/zly-sen-pro-lidi-s-arachnofobii-celnici-na-letisti-nasli-v-kufrech-3000-tarantuli/r~aaa2953471fb1b0042b764e0e03f2aec/"
+    },
+    {
+      "score": 9,
+      "fact": "Celníci v Peru zajistili 3000 sklípkanů, které were kontrabandovány v ponožkách.",
+      "reason": "Zábavný a šokující příběh se specifickým číslem a neměrným objektem (sklípkan v ponožce)",
+      "title": "Celníci v Peru odhalili 3 000 sklípkanů pašovaných v ponožkách",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/celnici-v-peru-odhalili-3-000-sklipkanu-pasovanych-v-ponozkach.A261106_141719_eko-zahranicni_jadv"
+    },
+    {
+      "score": 9,
+      "fact": "Celníci v Peru zadrželi tři tisíce pavouků schovaných v špinavých ponožkách.",
+      "reason": "Smějící se a okupačný detail s konkretním schopištěm.",
+      "title": "V Peru zmařili pokus o propašování 3000 pavouků. Objevili je uvnitř špinavých ponožek",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/tarantule-pasovani-peru_2611061100_elev"
+    },
+    {
+      "score": 8,
+      "fact": "Společnost Onsemi zrušila plánovanou investici ve výši 43,5 miliardy korun do výroby čipů v Rožnově.",
+      "reason": "Konkrétní firma, obrovská částka a cítil se to jako selhání vládního plánu.",
+      "title": "Krach plánu za 43,5 miliardy! Onsemi ruší obří investici v Česku, sen Fialovy vlády padl",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/852226/krach-obri-investice-za-43-5-miliardy-onsemi-rusi-rozsireni-vyroby-fialuv-sen-se-rozplynul.html"
+    },
+    {
+      "score": 8,
+      "fact": "Europol pátrá po Gang z Birminghamu a miliardu korun v špercích.",
+      "reason": "Drzost zločinu, specificita 'Gangu z Birminghamu' a obrovská částka",
+      "title": "Bandička stylizovaná do Gangu z Birminghamu ukradla šperky za miliardu: Europol pátrá po sexy blondýnce!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/852097/bandicka-stylizovana-do-gangu-z-birminghamu-ukradla-sperky-za-miliardu-europol-patra-po-sexy-blondynce.html"
+    },
+    {
+      "score": 8,
+      "fact": "Tesla ukončila因 slabému zájmu prodej elektropickupu Cybertruck.",
+      "reason": "Velká korporace, konkrétní název produktu a překvapivý důsledek slabého prodeje.",
+      "title": "Tesla kvůli slabému zájmu ukončí v Texasu výrobu elektrického vozu Cybertruck",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-tesla-kvuli-slabemu-zajmu-ukonci-v-texasu-vyrobu-elektrickeho-vozu-cybertruck-319909"
+    },
+    {
+      "score": 8,
+      "fact": "Kateřina Brožová popisuje noční jízdu pod vlivem alkoholu, při které policistu pomohli s uprchlým koněm.",
+      "reason": "Kombinace slavné divúchoviny, alkoholu a zvláštního příběhu s koněm vytváří výbornou kvízovou otázku.",
+      "title": "Skandál Kateřiny Brožové: Řídila pod vlivem a bez dokladů",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852168/skandal-kateriny-brozove-ridila-pod-vlivem-a-bez-dokladu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Novou guvernérkou Georgie se stala žena, jejíž předek byl do svého domova prodán do otroctví.",
+      "reason": "Úhrnný historický detail v kombinaci s aktuální politikou velmi výstižný pro kvíz.",
+      "title": "Jejího předka tam prodali do otroctví. Ona teď píše dějiny USA a povládne",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-usa-usa-maji-prvni-cernosskou-guvernerku-kdo-je-keisha-lance-bottomsova-319764"
+    },
+    {
+      "score": 8,
+      "fact": "Ben Cristovao se obává publika, protože ho fanynka na koncertu chytila za genitálie.",
+      "reason": "Vtipná a konkrétní historka o Českém hvězdu, která má vysoký potenciál pro zájem.",
+      "title": "Trable Bena Cristovaa: Fanynka ho chytila za přirození a nepustila",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852157/trable-bena-cristovaa-fanynka-ho-chytila-za-prirozeni-a-nepustila.html"
+    },
+    {
+      "score": 8,
+      "fact": "Nicolas Cage vrací na plátna karakter Obchodníka se smrtí v pokračování natáčeném po 21 letech.",
+      "reason": "Legendary herec, explicitní odkaz na časový údaj (21 let) a cílený fanoušek.",
+      "title": "Nicolas Cage je zpět jako Obchodník se smrtí. Pokračování přichází po 21 letech",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/nicolas-cage-trailer-obchodnik-se-smrti-pokracovani-2027.A261105_160251_filmvideo_vanky"
+    },
+    {
+      "score": 7,
+      "fact": "Zemřel dirigent Herbert Blomstedt, držitel dvou cen Grammy.",
+      "reason": "Smrt legendy s českými kořeny, fakt s konkrétním jménem aocenou",
+      "title": "Hudební svět truchlí. Zemřel legendární dirigent a držitel dvou cen Grammy",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/852220/hudebni-svet-truchli-zemrel-legendarni-dirigent-a-drzitel-dvou-cen-grammy.html"
+    },
+    {
+      "score": 7,
+      "fact": "Zorya Blue a Magdalena Urbánková porovnávaly otázky z textilní poradny časopisu Bravíčko.",
+      "reason": "Nostalgický fakt, název časopisu je konkrétní a srozumitelná odpověď pro diváky 30+.",
+      "title": "Už budu! slaví 4. narozeniny: Pamatujete na sexuální poradnu v „Bravíčku“? Zorya a Magdalena pročetly archivní časopisy",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/852011/uz-budu-slavi-4-narozeniny-pamatujete-na-sexualni-poradnu-v-bravicku-zorya-a-magdalena-procetly-archivni-casopisy.html"
+    },
+    {
+      "score": 7,
+      "fact": "Santi Denia pozval do Španělska osmnáctiletého mladíka do reprezentace.",
+      "reason": "Příběh Deniandy se zajímavými faktami a konkrétním věkovým údajem je atraktivní.",
+      "title": "Denia podruhé šokoval. Do reprezentace pozval osmnáctiletého mladíka",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-denia-podruhe-sokoval-do-reprezentace-pozval-osmnactileteho-mladika-319865"
+    },
+    {
+      "score": 7,
+      "fact": "Jamie Foxx se stal trojnásobným otcem, jeho partnerka je o 27 let mladší.",
+      "reason": "Slavnost + velký věkový rozdíl = dobrý kvízní fakt.",
+      "title": "Jamie Foxx se stal v 58 letech trojnásobným otcem: Jeho o 27 let mladší partnerka porodila!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/852184/jamie-foxx-se-stal-v-58-letech-trojnasobnym-otcem-jeho-o-27-let-mladsi-partnerka-porodila.html"
+    },
+    {
+      "score": 7,
+      "fact": "Nithya Ramanová se stane první lesbickou primátorkou Los Angeles.",
+      "reason": "Netradiční milník v политике amerického metropole.",
+      "title": "Američtí socialisté slaví další zářez, jejich kandidátka ovládla Los Angeles",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-demokraticti-socialiste-los-angeles-radnice-nithya-raman.A261106_091638_zahranicni_aha"
+    },
+    {
+      "score": 7,
+      "fact": "Kamerový záznam ukazuje, jak dodávka vlekla tělo české diplomatky Kláry Schneiderové přes silnici.",
+      "reason": "Šokující detail z tragédie známé české osobnosti, ale tématicky velmi temné.",
+      "title": "Děsivé záběry ze smrti české diplomatky (†41): Dodávka ji táhla přes silnici!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852140/desive-zabery-ze-smrti-ceske-diplomatky-30-dodavka-ji-tahla-pres-silnici.html"
+    }
+  ]
+}
