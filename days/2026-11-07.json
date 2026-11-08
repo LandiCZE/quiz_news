@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-07",
+  "generated": "2026-11-08T14:21:19+00:00",
+  "stats": {
+    "fetched": 979,
+    "that_day": 398,
+    "deduped": 360,
+    "scored": 180,
+    "passed": 62,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "97letý Vito z Kalifornie zemřel během narozeninové oslavy krátce poté, co byval na hity Bee Gees.",
+      "reason": "Šokující kombinace věku, oslavy a hitem „Stayin Alive“. Ideální hitovka.",
+      "title": "Dědu na oslavě roztančila píseň »Zůstávám naživu«: Chvíli nato zemřel",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/852155/dedu-na-oslave-roztancila-pisen-zustavam-nazivu-chvili-nato-zemrel.html"
+    },
+    {
+      "score": 9,
+      "fact": "Malíř Jaroslav Čermák si v mládí na Balkáně platili koňmi.",
+      "reason": "Konkrétní výstřednost a unikátní fakt („platili koňmi“) s jasným jedním slovem odpovědi.",
+      "title": "Světoběžník Čermák si obrazy vydělal na domy i lodě. Na Balkáně mu platili koňmi",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-zil-v-parizi-maloval-zivot-na-balkane-vystava-ukaze-svetobeznika-cermaka-319720"
+    },
+    {
+      "score": 9,
+      "fact": "Minnesota Wild hrála v NHL zápas bez jediného kanadského hráče.",
+      "reason": "Neobvyklý sportovní fakt, odkaz na historii Hlinky a Prague Penguins.",
+      "title": "Jde to i bez Kanaďanů. Minnesota v NHL připomněla Hlinku a jeho Prague Penguins",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-nhl-jde-to-i-bez-kanadanu-minnesota-v-nhl-pripomnela-hlinku-a-jeho-prague-penguins-5570850"
+    },
+    {
+      "score": 9,
+      "fact": "Operní historik Martin Kajzar vydal rozruch budící blackmetalové album.",
+      "reason": "Silný kontrast mezi akademickým pozadím a extrémním hudebním žánrem.",
+      "title": "Operní historik Martin Kajzar nahrál blackmetalové album, které budí rozruch",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-operni-historik-martin-kajzar-nahral-blackmetalove-album-ktere-budi-rozruch-40606696"
+    },
+    {
+      "score": 9,
+      "fact": "Mississippi konečně volí prvního senátora černé pleti po 150 letech.",
+      "reason": "Šokující historický milník s přesnou časovou škálou.",
+      "title": "„Po tisíci letech jsme volili vítěze!“ Mississippi je blízko politickému šoku",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-usa-po-tisici-letech-jsme-volili-viteze-mississippi-je-blizko-politickemu-soku-319840"
+    },
+    {
+      "score": 9,
+      "fact": "Česká firma postavila obytné kouče ze Škody Forman.",
+      "reason": "Surrealistický nápad a silný odkaz na českou historii.",
+      "title": "Spaní jako v devadesátkách. Česká firma postavila obytný Forman, a dokonce vám ho půjčí",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/auto/zajimavosti/spani-jako-v-devadesatkach-ceska-firma-postavila-obytny-forman-a-dokonce-vam-ho-pujci/r~aaa29888acfd35ef38265234b63beb0f/"
+    },
+    {
+      "score": 9,
+      "fact": "Donald Trump nechal zlatem ozdobenou Oválnou pracovnu prohlásit za národní památku.",
+      "reason": "Konkrétní osoba, šokující čin a unikátní statistický fakt.",
+      "title": "Trump prohlásil pozlacenou Oválnou pracovnu za národní památku",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-trump-prohlasil-pozlacenou-ovalnou-pracovnu-za-narodni-pamatku-saddamova-tovarna-na-cheesecake-poznamenal-obama-40607301"
+    },
+    {
+      "score": 9,
+      "fact": "Europol vyhledává pět Srbů, kteří okradli šperkařství a ujeli na koloběžkách.",
+      "reason": "Vrahové na skútrech/koloběžkách je skvělý vizuál a konkrétní detail.",
+      "title": "Miliardový lup stihli za dvě minuty, ujeli na koloběžkách. Europol ukázal drzé lupiče",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/miliardovy-lup-stihli-za-dve-minuty-ujeli-na-kolobezkach-europol-ukazal-drze-lupice/r~aaa2996612cbd9fbb70667def7dc9a7c/"
+    },
+    {
+      "score": 9,
+      "fact": "Policie zatkla otce vévodkyně Meghan, Thomasa Markleho staršího, kvůli držení dětské pornografie.",
+      "reason": "Kontroverzní souvislost s královskou rodinou a šokující obžaloba známé osoby",
+      "title": "Policie zatkla otce vévodkyně Meghan kvůli držení dětské pornografie",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-policie-zatkla-otce-vevodkyne-meghan-kvuli-drzeni-detske-pornografie-319917"
+    },
+    {
+      "score": 8,
+      "fact": "Tomáš Matonoha ve StarDance ztratil řeč a na tanečním parketu vypadal jako kanibal.",
+      "reason": "Vtipná vizuální metafora u známé osobnosti z populární reality show.",
+      "title": "Herec Tomáš Matonoha během tanečků ve StarDance: Tváří se jako kanibal! Děsí tím i svou tanečnici",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-stardance/852222/herec-tomas-matonoha-behem-tanecku-ve-stardance-tvari-se-jako-kanibal-desi-tim-i-svou-tanecnici.html"
+    },
+    {
+      "score": 8,
+      "fact": "Před dvaceti lety založený projekt Steve and Maggie z liberecké školky se dostal na Netflix.",
+      "reason": "Nečekaný úspěch lokálního projektu na globální platformě, specifické jméno.",
+      "title": "Z liberecké školky až na Netflix. Steve a Maggie pobláznili miliony dětí",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/liberec/zpravy/steve-maggie-skolka-netflix-vyuka-anglictiny-serial.A261106_090350_liberec-zpravy_jape"
+    },
+    {
+      "score": 8,
+      "fact": "Představa Jidáša v Normě se hrála v kostýmech z trilogie Bobule.",
+      "reason": "Kulturní kuriozita kombinující operu s populární filmů.",
+      "title": "Jidáš zradil Krista i kolegy herce, našli ho v Normě. Bezdomovecké divadlo má kostýmy z trilogie Bobule",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/kultura/divadlo/jidas-zradil-krista-i-kolegy-herce-nasli-ho-v-norme-bezdomovecke-divadlo-ma_2611070600_brz"
+    },
+    {
+      "score": 8,
+      "fact": "Johnny Depp se po osmi letech vrátí filmovým snímkem Ebenezer: Vánoční koleda.",
+      "reason": "Slavná hvězda po kontroverzním působení se vrací do mainstreamu.",
+      "title": "Rýsuje se triumfální návrat? Johnny Depp se ve Vánoční koledě ukáže jako Ebenezer",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/johnny-depp-ebenezer-vanocni-koleda-dickens.A261105_104110_filmvideo_spm"
+    },
+    {
+      "score": 8,
+      "fact": "Novým předsedou brněnské ODS se stal Matyáš Svoboda, syn bývalého primátora a zeť Petra Fialy.",
+      "reason": "Kombinace dvou výrazných politických jmen (primátor, premiér) u nového kandidáta.",
+      "title": "ODS v Brně povede syn bývalého primátora a zeť expremiéra Fialy",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-ods-v-brne-povede-syn-byvaleho-primatora-a-zet-expremiera-fialy-40607335"
+    },
+    {
+      "score": 8,
+      "fact": "Jensen Huang je pod podezřením z milostného vztahu s čínskou tajnou službou.",
+      "reason": "Senzace s ikonickým CEO a špionážním twistem",
+      "title": "Šéf Nvidie je podezřelý, že měl milostný vztah s údajnou čínskou špionkou",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-sef-nvidie-je-podezrely-ze-mel-milostny-vztah-s-udajnou-cinskou-spionkou-319938"
+    },
+    {
+      "score": 8,
+      "fact": "Argentina láká technologické obry, aby stavěla data centra mezi stády ovcí.",
+      "reason": "Surreálný kontrast mezi IT giganty a ovocemi ve vysočinách - čisté vizuální kvízové.",
+      "title": "Argentina láká technologické giganty. Datová centra mají vyrůst mezi ovcemi",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-datova-centra-investice-javier-milei-ai-patagonie.A261103_075610_eko-zahranicni_jla"
+    },
+    {
+      "score": 8,
+      "fact": "U Bílého domu zastavili Venezoluana s hlasami v hlavě, který chtěl zabít Trumpa.",
+      "reason": "Vzhledem k probíhajícímu pronásledování Trumpa je extrémně horký a zábavný příběh.",
+      "title": "Migrant z Venezuely chtěl zabít Trumpa, vedly ho k tomu „hlasy v hlavě“",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-migrant-z-venezuely-chtel-zabit-trumpa-vedly-ho-k-tomu-hlasy-v-hlave-40607337"
+    },
+    {
+      "score": 8,
+      "fact": "Výskyt smrtelné křečové choroby na slovenské Oravě je 18krát vyšší než jinde na světě.",
+      "reason": "Šokující specifické číslo a vzácný geografický výskyt zarážející diagnózy",
+      "title": "Záhada na Oravě. Řádí tam smrtelná nemoc, výskyt je nejvyšší na světě",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-orava-creutzfeldt-jakobova-choroba-vyskyt-cjd.A261105_101412_zahranicni_aya"
+    },
+    {
+      "score": 8,
+      "fact": "Tajná služba zadržela u Bílého domu muže s arzenálem, který tvrdil, že mu hlasy nařídily zabít Trumpa.",
+      "reason": "Viralní a absurdní příběh s konkrétními detaily (hlasy, arzenál, Bílý dům)",
+      "title": "„Šel zabít Trumpa.“ Tajná služba zadržela muže, „hlasy“ mu nařídily vraždu prezidenta",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/sel-zabit-trumpa-tajna-sluzba-zadrzela-muze-hlasy-mu-naridily-vrazdu-prezidenta/r~aaa29f52f418d71b25eb770dc21fb2c1/"
+    },
+    {
+      "score": 7,
+      "fact": "Izraelský prezident pověřil sestavením vlády opozičního lídra Gadiho Eisenkota.",
+      "reason": "Konkrétní jméno a politický zvrat (opozice do vlády) je kvízově využitelné.",
+      "title": "Zvrat v Izraeli. Prezident pověří sestavením vlády opozičního lídra Eisenkota",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/zvrat-v-izraeli-prezident-poveri-sestavenim-vlady-opozicniho-lidra-eisenkota/r~aaa29e22e86354ae82b8d3a6cb0a56e7/"
+    }
+  ]
+}
