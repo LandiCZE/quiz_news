@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-08",
+  "generated": "2026-11-09T17:27:07+00:00",
+  "stats": {
+    "fetched": 1137,
+    "that_day": 393,
+    "deduped": 351,
+    "scored": 180,
+    "passed": 60,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Ministr Macinka přirovnal hokejistky k ruským mužatkám a sklízí tvrdou kritiku za misogynii.",
+      "reason": "Czech political figure + shocking/weird quote, very quiz-worthy.",
+      "title": "„Měl by okamžitě rezignovat.“ Macinka sklízí kritiku za nesmysly o hokejistkách",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-mel-by-okamzite-rezignovat-macinka-sklizi-kritiku-za-nesmysly-o-hokejistkach-320001"
+    },
+    {
+      "score": 9,
+      "fact": "V lázních v Karlově Studánce fungují sovy jako terapeutky pro lidi.",
+      "reason": "Chytlavý a mírně absurdní příběh, který se skvěle hodí do kolumby.",
+      "title": "Sovy nejsou tím, čím se zdají být. V lázních v Karlově Studánce pracují jako terapeutky, učí lidi odpočívat",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/priroda/sovy-nejsou-tim-cim-se-zdaji-byt-v-laznich-v-karlove-studance-pracuji-jako_2611080600_mkm"
+    },
+    {
+      "score": 9,
+      "fact": "Američan zemřel na oslavě svých 97. narozenin při tanci k písni Zůstat naživu.",
+      "reason": "Konkrétní věk, názevเพลงu a ironický paradox situace",
+      "title": "Američan zemřel na oslavě svých 97. narozenin, když si zakřepčil v rytmu hitu Zůstat naživu",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-american-zemrel-na-oslave-svych-97-narozenin-kdyz-si-zakrepcil-v-rytmu-hitu-od-bee-gees-zustat-nazivu-40607428"
+    },
+    {
+      "score": 9,
+      "fact": "Trump nabídl funkcibílodómského mluvčího Dana Whiteovi, šéfovi UFC.",
+      "reason": "Nepředvídatelná kombinace Trump, UFC a funkcimpulváře, velmi dobrý kvízní fakt.",
+      "title": "Trump chce za tiskového tajemníka šéfa „násilného bojovníka a válečníka“ Danu Whitea",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-trump-chce-za-tiskoveho-tajemnika-sefa-ufc-40607392"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel Richard Lloyd, zakládající člen a kytarista americké punkrockové kapely Television.",
+      "reason": "Úmrtí kulturalní ikony, skvělá otázka na znalost hudebních legend.",
+      "title": "Zemřel Richard Lloyd z kapely Television",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-zemrel-richard-lloyd-z-kapely-television-40607457"
+    },
+    {
+      "score": 8,
+      "fact": "Vietnamské národní parky nově používají český systém turistického značení starý přes 130 let.",
+      "reason": "Překvapivá kulturní exportní kuriozita s konkrétním věkem systému.",
+      "title": "Tuzemské turistické značení pomůže ve vietnamských národních parcích",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/tuzemske-turisticke-znaceni-pomuze-ve-vietnamskych-narodnich-parcich-379404"
+    },
+    {
+      "score": 8,
+      "fact": "Ministr Macinka pobouřil zástupce slovem „mužátka“ v souvislosti s hokejovým MS žen.",
+      "reason": "Aktuální česká politická kontroverze, konkrétní slovo jako odpověď",
+      "title": "Nechutný faul. Macinka pobouřil Česko výrokem o „mužatkách“, reagoval i Hadamczik",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/hokej/turnaj-bez-ruskych-muzatek-ministr-pobouril-vyrokem-hokej-podle-nej-neni-pro-zeny/r~aaa2997c308979306481141b8a4146ea/"
+    },
+    {
+      "score": 8,
+      "fact": "Dán Magnus Ditlev jako první na světě dokončil Ironman v čase pod 7:20.",
+      "reason": "Nový světový rekord v konkrétním čase, výborná sportovní hvězda",
+      "title": "Ze smutku k euforii, Dán překonal světový rekord v Ironmanu. Na Floridě zazářil i mladý Čech",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/ostatni-ze-smutku-k-euforii-dan-prekonal-svetovy-rekord-v-ironmanu-na-floride-zazaril-i-mlady-cech-5571606"
+    },
+    {
+      "score": 8,
+      "fact": "Nové doklady naznačují, že hokejisti mohli zemřít v souvislosti s politickým únosu.",
+      "reason": "Záhada, kombinace sportu a geopolitiky, lákavý nápad na diskusi.",
+      "title": "Záhada tragického letu hokejistů. Zemřeli kvůli politickému únosu?",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-hokej-zahada-tragickeho-letu-hokejistu-zemreli-kvuli-politickemu-unosu-319889"
+    },
+    {
+      "score": 8,
+      "fact": "Aleš Háma po dvaceti letech končí jako moderátor Atleta roku.",
+      "reason": "Konec éry známé osobnosti s konkrétním číslem let.",
+      "title": "Moderátor Aleš Háma: Šok! Nečekaně oznámil konec! Člověk musí umět ukončovat životní etapy...",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852262/moderator-ales-hama-sok-necekane-oznamil-konec-clovek-musi-umet-ukoncovat-zivotni-etapy.html"
+    },
+    {
+      "score": 8,
+      "fact": "Stephen Curry v NBA překonal známý rekord LeBrona Jamese.",
+      "reason": "Breaking a specific NBA record by a superstar is a solid trivia question.",
+      "title": "Curry překonal Jamesův rekord a dovedl v NBA Golden State k sedmé výhře v řadě",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/basketbal-curry-prekonal-jamesuv-rekord-a-dovedl-v-nba-golden-state-k-sedme-vyhre-v-rade-5571595"
+    },
+    {
+      "score": 8,
+      "fact": "První české dítě ze zkumavky se narodilo před 44 lety v Brně.",
+      "reason": "Oblíbené statistiky o „dětech ze zkumavky“ s konkrétním číslem let.",
+      "title": "Podíl dětí ze zkumavky mezi novorozenci v Česku stoupá, ročně jsou jich tisíce",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/podil-deti-ze-zkumavky-mezi-novorozenci-v-cesku-stoupa-rocne-jsou-jich-tisice-379385"
+    },
+    {
+      "score": 8,
+      "fact": "Jánu Ledeckému probíhlo 35 let, než se zařadil do slavných sester českých hudebnin.",
+      "reason": "Slavná hvězda a nečekaně dlouhé prodlení pro zařazení do klíčového průmyslu.",
+      "title": "Janek Ledecký se konečně dočkal. 35 let ho opomíjeli",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852177/janek-ledecky-se-konecne-dockal-35-let-ho-opomijeli.html"
+    },
+    {
+      "score": 8,
+      "fact": "Popzvěř Billie Eilish přišla v nové kampani o části penisu.",
+      "reason": "Šokující vizuální proměna hitové hvězdy,perfect pro pub quiz.",
+      "title": "Zbrusu nová popstar Billie Eilish: Tahle prsa jsou minulost",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/852037/zbrusu-nova-popstar-billie-eilish-tahle-prsa-jsou-minulost.html"
+    },
+    {
+      "score": 8,
+      "fact": "Britská ponorka HMS Vengeance drží světový rekord v délce ponoření 210 dní.",
+      "reason": "Konkrétní rekord s přesným číslem a názvem lodi, ideální pro kvíz.",
+      "title": "Britská ponorka vytvořila rekord 210 dní pod hladinou. Znamená to i vážnou krizi",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/sedm-mesicu-pod-hladinou-je-to-rekord-i-vysledek-krize-britskeho-namornictva.A261108_180524_zahranicni_remy"
+    },
+    {
+      "score": 8,
+      "fact": "Izraelský prezident pověřil sestavením vlády generála a vůdce opozice Gadiho Eisenkota.",
+      "reason": "Změna moci a identita nového kandidáta na premiéra",
+      "title": "Přehledně: Kdo je vojenský důstojník, který má nahradit Netanjahua",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-prehledne-kdo-je-vojensky-dustojnik-ktery-ma-nahradit-netanjahua-319993"
+    },
+    {
+      "score": 8,
+      "fact": "Gadi Eisenkot se stal novým kandidátem na izraelského premiéra.",
+      "reason": "Důležitá politická událost s konkrétním jménem",
+      "title": "Izraelský prezident pověřil sestavením vlády vůdce opozice Eisenkota",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/izraelsky-prezident-poveril-sestavenim-vlady-vudce-opozice-eisenkota_2611081616_bod"
+    },
+    {
+      "score": 8,
+      "fact": "Libyjské duchovenstvo zakázalo nosit sportovní oblečení značky Nike kvůli jejímu jménu.",
+      "reason": "Překvapivý zákaz známé značky, zřetelná kulturní kolize a humorný potenciál.",
+      "title": "Fatva na slavnou sportovní značku. Libyjským duchovním vadí jméno i logo Nike",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-fatva-na-slavnou-sportovni-znacku-libyjskym-duchovnim-vadi-jmeno-i-logo-nike-40607413"
+    },
+    {
+      "score": 8,
+      "fact": "Dva mladí policisté fyzicky odzbrojili a zpacifikovali vraha v Krakově.",
+      "reason": "Hrdinský a akční okamžik, konkrétní jedinci a drsné řešení situace.",
+      "title": "Celé Polsko vám drží palce. Kdo zpacifikoval vraha z Krakova",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-cele-polsko-vam-drzi-palce-kdo-zpacifikoval-vraha-z-krakova-40607398"
+    },
+    {
+      "score": 7,
+      "fact": "Petr Kostka dostal od otce varování, aby si nebral svou první ženu.",
+      "reason": "Zvědavost probouzající detail z života známého herce.",
+      "title": "Tajemství herce Petra Kostky: Před svatbou dostal varování! Neber si ji…",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851935/tajemstvi-herce-petra-kostky-pred-svatbou-dostal-varovani-neber-si-ji.html"
+    }
+  ]
+}
