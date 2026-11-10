@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-09",
+  "generated": "2026-11-10T15:42:31+00:00",
+  "stats": {
+    "fetched": 1309,
+    "that_day": 603,
+    "deduped": 536,
+    "scored": 180,
+    "passed": 54,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Starostkou Řeporyjí se stala sestra stavebního miliardáře Jana Čonky, Jitka Fialová.",
+      "reason": "Křehká lokální politika spojená s touto kontroverzí má velký potenciál na absurditu.",
+      "title": "Starostkou Řeporyjí je sestra Novotného Fialová. Její bratr, který byl 3 měsíce ve vězení, je místostarostou",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/starostkou-reporyji-je-novotneho-sestra-fialova-jeji-bratr-ktery-byl-3-mesice-ve_2611092034_med"
+    },
+    {
+      "score": 9,
+      "fact": "Herečka Dagmar Havlová přisoudila milionové odškodnění za lživý článek o její nevěře",
+      "reason": "Dramatický právní spor známé celebrity, který nabízí jasnou a šokující jednoslovnou odpověď.",
+      "title": "Za lživý článek o nevěře vysoudila Havlová rekordní sumu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-za-lzivy-clanek-o-nevere-vysoudila-havlova-rekordni-sumu-40607618"
+    },
+    {
+      "score": 9,
+      "fact": "Pětinásobný olympijský vítěz v judu Teddy Riner kandiduje na francouzského prezidenta.",
+      "reason": "Šokující kombinace sportovní legendy a nejvyšší politické funkce, perfektní na kvíz.",
+      "title": "„Je šílený. Nezná nepsaná pravidla.“ Slavný Francouz překvapil nečekaným krokem",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/je-sileny-nezna-nepsana-pravidla-slavny-francouz-prekvapil-necekanym-krokem/r~aaa29c3e62d851ee78c0d83ca87efd4f/"
+    },
+    {
+      "score": 9,
+      "fact": "Herec Russell Brand dostal 10,5 roku za znásilnění.",
+      "reason": "Slavná osoba čelí trestu odnětí svobody, šokující číselná odpověď.",
+      "title": "Herec Russell Brand dostal za znásilnění přes deset let natvrdo",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-herec-russell-brand-dostal-pres-deset-let-natvrdo-40607642"
+    },
+    {
+      "score": 9,
+      "fact": "Pokuste se vstoupit do ruské databáze úřadu Rosstat, který eviduje 400 100 padlých vojáků.",
+      "reason": "Nespotřebovaná přelomová čísla o ztrátách, vhodná k kvíznímu hádání.",
+      "title": "Hackeři pronikli do dat Rosstatu: Rusko má ve válce přes 400 000 padlých",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-hackeri-pronikli-do-dat-rosstatu-rusko-ma-ve-valce-pres-400-000-padlych-40607519"
+    },
+    {
+      "score": 9,
+      "fact": "Nvidia zahájila vyšetřování CEO Jensena Huanga kvůli vztahu s ženou podezřelou ze špionáže pro Čínu.",
+      "reason": "Velký korporátní skandál s konkrétní osobností a šokujícím motivem (špionáž).",
+      "title": "Skandál šéfa slavné společnosti: Manželku podváděl s čínskou špionkou?!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852309/maler-sefa-nvidie-manzelku-podvadel-s-cinskou-spionkou.html"
+    },
+    {
+      "score": 9,
+      "fact": "Jensen Huang čelí internímu vyšetřování Nvidie kvůli nevěře s čínskou podnikatelkou a podezřelou špionkou.",
+      "reason": "Doplněná verze skandálu, velmi lákavá na kvízu díky soudržnosti detailů.",
+      "title": "Nvidia vyšetřuje šéfa. Přiznal nevěru, jeho partnerku podezírají ze špionáže pro Čínu",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/nvidia-vysetruje-sefa-huanga-priznal-neveru-jeho-partnerku-podeziraji-ze-spionaze.A261109_091836_eko-zahranicni_ven"
+    },
+    {
+      "score": 9,
+      "fact": "Jensen Huang přiznal nevěru a vztah s čínskou špionkou, po kterém Nvidia reagovala vyšetřováním.",
+      "reason": "Stejný skandál jako v indexu 1/2, velmi silný kandidát díky citátu a kontextu.",
+      "title": "‚Byl jsem nevěrný své manželce.’ Šéf Nvidie navázal vztah s čínskou špionkou, firma ho prověřuje",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/byl-jsem-neverny-sve-manzelce-sef-nvidie-navazal-vztah-s-cinskou-spionkou-firma_2611090856_raf"
+    },
+    {
+      "score": 8,
+      "fact": "Van Goghův obraz má odrazívat na titulku nejdražšího moderního díla.",
+      "reason": "Potenciální světový rekord v umění, atraktivní téma.",
+      "title": "Další světový rekord na obzoru. Van Gogh útočí na nejdražší moderní obraz",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-dalsi-svetovy-rekord-na-obzoru-van-gogh-utoci-na-nejdrazsi-moderni-obraz-320050"
+    },
+    {
+      "score": 8,
+      "fact": "Suverénka Aryna Sabalenková má po zapráskání od Klary Muchové strach z jejích kouzel.",
+      "reason": "Celonárodní celebská figure (Sabalenková) provázaná s českou hvězdou a humorným detailem.",
+      "title": "Po výprasku od Češky skončila u psychologa. Teď má Sabalenková obavy z kouzel Muchové",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/po-vyprasku-od-cesky-skoncila-u-psychologa-ted-ma-sabalenkova-obavy-z-kouzel-muchove/r~aaa29567c5a2e65dbcb792f75cf26df4/"
+    },
+    {
+      "score": 8,
+      "fact": "Kim Kardashianova značka SKIMS prodává adventní kalendář za 150 dolarů, jenže obsahují cetky.",
+      "reason": "Běžná kritika, ale díky extrémní ceně a specifickému obsahu má potenciál na virální otázku.",
+      "title": "SKIMS sklízí kritiku s adventním kalendářem za 150 dolarů. Uvnitř jsou jen cetky",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/podniky/skims-sklizi-kritiku-s-adventnim-kalendarem-za-150-dolaru-uvnitr-jsou-jen-cetky.A261109_100500_ekoakcie_jadv"
+    },
+    {
+      "score": 8,
+      "fact": "Jan Eskymo Welzel, který procestoval svět a stavil stroje pro zlatokopy, se stal náčelníkem Eskymáků.",
+      "reason": "Zajímavý biografický fakt, nečekaný konečný titul",
+      "title": "Stal se náčelníkem Eskymáků. Vyšel komiks o dobrodruhovi Janu Eskymo Welzlovi",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-jan-eskymo-welzl-komiks-320034"
+    },
+    {
+      "score": 8,
+      "fact": "Útočník v Krakově před masovou střelbou zabil také svého bratra a sestru Magdu.",
+      "reason": "Šokující a temný detail, který doplňuje známou zprávu o masakru.",
+      "title": "Útočník z Krakova před střelbou na náměstí: Popravil vlastní ségru (†21)",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/852274/utocnik-z-krakova-pred-strelbou-na-namesti-popravil-vlastni-segru-21.html"
+    },
+    {
+      "score": 8,
+      "fact": "Zraněný krakovský policista se po operaci jako první zeptal: „Je Kuba ještě naživu?“,“",
+      "reason": "Human interest detail, emotional and specific quote makes it memorable.",
+      "title": "„Je Kuba ještě naživu?“ První slova krakovského policisty překvapila",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-je-kuba-jeste-nazivu-prvni-slova-krakovskeho-policisty-prekvapila-320099"
+    },
+    {
+      "score": 8,
+      "fact": "Na mši papeže Lva XIV. v Buenos Aires přišlo 2,5 milionu lidí.",
+      "reason": "Velký unikátní číslovek a konkrétní hvězdná událost s novým papežem.",
+      "title": "Na papežovu mši v Buenos Aires přišlo 2,5 milionu lidí, dorazil i prezident Milei",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/na-papezovu-msi-v-buenos-aires-prislo-2-5-milionu-lidi-dorazil-i-prezident-milei/r~aaa290e3c103ffb7f9a93bb83b311d65/"
+    },
+    {
+      "score": 7,
+      "fact": "Zpěvák Ringo Čech přiznal, že šmíroval svou spoluhráčku Jiřinu Bohdalovou v zázemí divadla.",
+      "reason": "Skandální přiznání známé celebrity v souvislosti s legendárním sportovním ikonem.",
+      "title": "Ringo Čech o Bohdalové: Šmíroval jsem ji při převlékání",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/851993/ringo-cech-o-bohdalove-smiroval-jsem-ji-pri-prevlekani.html"
+    },
+    {
+      "score": 7,
+      "fact": "Netflix potvrdil prequel seriálu Stranger Things s názvem Other Worlds na rok 2028.",
+      "reason": "Závazek velkého rozpočtu a konkrétní název nového dílu, lákavá informace pro publikum.",
+      "title": "Seriál Stranger Things se vrátí. Tvůrci odhalí, co se dělo před zrozením Vecny",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/serial-stranger-things-se-vrati-tvurci-odhali-co-se-delo-pred-zrozenim-vecny.A261109_130000_filmvideo_nh"
+    },
+    {
+      "score": 7,
+      "fact": "Syn známého zpěváka Michala Prokopa se stal novým starostou pražské městské části 6.",
+      "reason": "Silná celebrity-konecnost s regionálním politickým efektem, dává dohromady dvě veřejné osoby.",
+      "title": "Syn zpěváka Michala Prokopa je novým starostou Prahy 6",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/syn-zpevaka-michala-prokopa-je-novym-starostou-prahy-6/r~aaa29332483ade8b2f2e052424bfc9e3/"
+    },
+    {
+      "score": 7,
+      "fact": "Někdejší člen vedení Sparty koupil legendární klub Inter Bratislava a chce ho vrátit mezi elitu.",
+      "reason": "Sportovní business twist, spojení dvou známých značek",
+      "title": "Někdejší člen vedení Sparty koupil slavnou fotbalovou značku, chce ji vrátit mezi elitu",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-evropske-ligy-nekdejsi-clen-vedeni-sparty-koupil-dvojnasobneho-mistra-slovenska-slavnou-znacku-chce-vratit-mezi-elitu-5572738"
+    },
+    {
+      "score": 7,
+      "fact": "Moravská firma PBS Group zvýšila výrobu motorů pro drony během tří let o 800 procent.",
+      "reason": "Konkrétní impozantní číslo, vztah k české technice",
+      "title": "Svět chce motory z Česka. Moravská firma roste rekordním tempem a hledá stovky lidí",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/svet-chce-ceske-motory-moravska-firma-roste-rekordnim-tempem-a-hleda-stovky-lidi.A261106_090520_ekonomika_iape"
+    }
+  ]
+}
