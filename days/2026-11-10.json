@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-10",
+  "generated": "2026-11-11T15:12:46+00:00",
+  "stats": {
+    "fetched": 1386,
+    "that_day": 601,
+    "deduped": 538,
+    "scored": 180,
+    "passed": 70,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Havllova stůrůdžka je zpět na Pražském hradu, jejím majiteli bylo nabídnuto milion dolarů.",
+      "reason": "Ikonický předmět, historie a miliara dolarů – skvělý kvíz.",
+      "title": "Za Havlovu pracovnu mu nabízeli milion dolarů, ale nechal si ji. I se žvýkačkou",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-historie-za-havlovu-pracovnu-mu-nabizeli-milion-dolaru-ale-nechal-si-ji-i-se-zvykackou-319825"
+    },
+    {
+      "score": 9,
+      "fact": "Ochranář jídla od Roklíka odmítl najmout neslýšícího řidiče, který mu nabídl komunikaci přes text.",
+      "reason": "Konkrétní člověk, šokující rozhodnutí firmy, jasná a podivná odpoved' (firma ho nevnímá).",
+      "title": "Pan Jaroslav u Rohlíku tvrdě narazil: Neslyšící pro nás nesmějí pracovat!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/851614/pan-jaroslav-u-rohliku-tvrde-narazil-neslysici-pro-nas-nesmeji-pracovat.html"
+    },
+    {
+      "score": 9,
+      "fact": "Bookerovu cenu získal 81letý britský autor sci-fi M. John Harrison.",
+      "reason": "Prestižní cena, neobvyklý věk vítěze, specifické jméno autora.",
+      "title": "Bookerovu cenu získal 81letý britský autor sci-fi Harrison",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-m-john-harrison-bookerova-cena-320108"
+    },
+    {
+      "score": 9,
+      "fact": "Mluvčí ruského ministerstva Zaharova reagovala na Macinkovu kritiku ruských hokejistek.",
+      "reason": "Řezavý česko-ruský spor s konkrétními jmény a provokativním kontextem.",
+      "title": "Zženštilý muž, reagovala Zacharovová na Macinkův výrok o ruských hokejistkách",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-zzenstily-muz-reagovala-zacharovova-na-macinkuv-vyrok-o-ruskych-hokejistkach-40607825"
+    },
+    {
+      "score": 9,
+      "fact": "Letos podalo žádost o azyl v Rusku celkem 3802 lidí, ze kterých jich bylo 4 z Česka.",
+      "reason": "Neobvyklé statistické zjištění spojené s českou státní příslušenstvím.",
+      "title": "Azyl v Putinově Rusku hledají i Evropané! Čtyři žádosti přišly z Česka",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/851792/azyl-v-putinove-rusku-hledaji-i-evropane-ctyri-zadosti-prisly-z-ceska.html"
+    },
+    {
+      "score": 8,
+      "fact": "Křetíňská EP Group získala kontrolní podíl ve francouzském řetězci Fnac Darty.",
+      "reason": "Známý český miliardář a velký zahraniční obchod, čistý fakt.",
+      "title": "Křetínského EP Group získala většinu ve francouzském řetězci Fnac Darty",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-kretinskeho-skupina-ep-group-ziskala-kontrolni-podil-ve-francouzskem-retezci-fnac-darty-40607957"
+    },
+    {
+      "score": 8,
+      "fact": "U Capri se objevily dvě vodní smrště, které nad mořem vytvořily oblouk.",
+      "reason": "Vizuálně pozoruhodný a virální přírodní úkaz.",
+      "title": "Neobvyklý úkaz u italského Capri. Dvě vodní smrště vytvořily oblouk",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/pocasi-neobvykly-ukaz-u-italskeho-capri-dve-vodni-smrste-vytvorily-oblouk-40607783"
+    },
+    {
+      "score": 8,
+      "fact": "Honza Dědek vydal rapovou skladbu pod pseudonymem Johnny Grandaddy.",
+      "reason": "Kombinace známé celebrity a surrealního trendu.",
+      "title": "Honza Dědek je teď i rapper Johnny Grandaddy. Svůj televizní přestup proměnil v originální pecku",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-honza-dedek-je-ted-i-rapper-johnny-grandaddy-svuj-televizni-prestup-promenil-v-originalni-pecku-40607852"
+    },
+    {
+      "score": 8,
+      "fact": "Keira Knightley hraje v nové řadě Černé holubice ženu premiéra, která vraždí.",
+      "reason": "Slavná herečka v nečekané roli v populárním seriálu.",
+      "title": "Premiérova žena si odskočí vraždit. V seriálu ji hraje Keira Knightley",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-cerna-holubice-ii-netflix-recenze-320120"
+    },
+    {
+      "score": 8,
+      "fact": "Po Písku projel svatý Martin, jeho ochranku tvořili klienti Probačního domu.",
+      "reason": "Nepředvídatelná situace; ideální na otázku o neobvyklé ochranku.",
+      "title": "Po Kamenném mostě v Písku projel svatý Martin. Ochranku mu dělali klienti Probačního domu",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/po-kamennem-moste-v-pisku-projel-svaty-martin-ochranku-mu-delali-klienti_2611101054_aru"
+    },
+    {
+      "score": 8,
+      "fact": "Umělecká historička přiznačně objevovala další obraz mistra Caravaggia v soukromé sbírce.",
+      "reason": "Významný kulturní objev s konkrétním jménem a výtvorem.",
+      "title": "Nový obraz Caravaggia? Historička zřejmě objevila skvost v soukromé sbírce",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/umeni/novy-obraz-caravaggia-historicka-zrejme-objevila-skvost-v-soukrome-sbirce/r~aaa294d300745629bc8d5ca18103cbbe/"
+    },
+    {
+      "score": 8,
+      "fact": "Zpěvačka Marie Rottrová oslavila 85. narozeniny.",
+      "reason": "Velké kulaté narozeniny české legendy, ideální na otázku s věkem.",
+      "title": "KVÍZ: Marie Rottrová slaví 85 let. Jak dobře znáte legendární zpěvačku a její písně?",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/hudba/kviz-marie-rottrova-slavi-85-let-jak-dobre-znate-legendarni-zpevacku-a-jeji-pisne/r~aaa299da89d766ceba5f627a3914c92d/"
+    },
+    {
+      "score": 8,
+      "fact": "Václav Klaus a Martin Paroubek se vrátili do sněmovny kritizovat státní finance.",
+      "reason": "Kontroverzní politici, známí jména, šokující příchod do Parlamentu.",
+      "title": "Zeman a Paroubek zpátky ve Sněmovně. Tepali státní finance! Exprezident podpořil Macinku s mužatkami",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/852353/zeman-a-paroubek-zpatky-ve-snemovne-tepali-statni-finance-exprezident-podporil-macinku-s-muzatkami.html"
+    },
+    {
+      "score": 8,
+      "fact": "Do Arménie, Gruzii a Srbska se za tři měsíce vypravilo přes milion Rusů, což je rekord za 17 let.",
+      "reason": "Překvapivé migrační číslo s konkrétním měřítkem „za 17 let“.",
+      "title": "Rekordní čísla. Do Arménie, Gruzie a Srbska vycestovalo za tři měsíce přes milion Rusů",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-cestuji-nebo-prchaji-do-armenie-gruzie-a-srbska-smeroval-rekordni-pocet-rusu-40607921"
+    },
+    {
+      "score": 8,
+      "fact": "Fico reagoval na německého kancléře slovy „Nepokakáme se“ během společného jednání s Babišem.",
+      "reason": "Cita českého/slovenského premiéra, specifiké a humorné napětí.",
+      "title": "Nepokakáme se, reagoval Fico po boku Babiše na německého kancléře",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-nenechame-se-vydirat-merzem-prohlasili-babis-s-ficem-320172"
+    },
+    {
+      "score": 8,
+      "fact": "Babiš a Fico označili tlak Merze na příspěvek do fondu pro Ukrajinu za vydírání.",
+      "reason": "Hlasitá konfrontace známých politiků s výrazným citátem je ideální do kvízu.",
+      "title": "„Typické vydírání.“ Babiš a Fico kritizovali Merze kvůli tlaku na financování Ukrajiny",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/typicke-vydirani-babis-a-fico-kritizovali-merze-kvuli-tlaku-na-financovani-ukrajiny/r~aaa29f55eed036555703a418f7e67380/"
+    },
+    {
+      "score": 8,
+      "fact": "V počítači krakovského vraha našli vyhledávání informací o norském teroristovi Andersu Breivikovi.",
+      "reason": "Mnoho lidí zná jméno Breivika, což z toho činí pítelný kvízní fakt.",
+      "title": "„Jde o velmi silné indicie.“ Ministr odhalil, co našli v počítači krakovského vraha",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/jde-o-velmi-silne-indicie-ministr-odhalil-co-nasli-v-pocitaci-krakovskeho-vraha/r~aaa29c2efbcdff3aa43f8cb4ebf425d0/"
+    },
+    {
+      "score": 8,
+      "fact": "FBI vyšetřuje vztah šéfa Nvidie Jensena Huanga s ženou podezřelou ze špionáže pro Čínu.",
+      "reason": "Šokující spojenec technologie a špionáže, jméno šéfa Nvidie je vnitřně známo.",
+      "title": "„Věděls, že je špionka?“ Nevěra šéfa Nvidie otřásá Amerikou. Šetří ho FBI, Trump mu věří",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/vysetrovani-kolem-sefa-nvidie-otraslo-technologickym-svetem-trump-mu-ale-veri/r~aaa29a550e3f078fdaa1d4107a00266e/"
+    },
+    {
+      "score": 7,
+      "fact": "Spisatel Kámel Daúd dostal v Alžírsku 5 let vězení za Goncourtův román.",
+      "reason": "Kulturní senzace s konkrétním soudním verdiktem, zajímavý kontrast.",
+      "title": "Za román oceněný Goncourtovou cenou dostal Daúd v Alžírsku pět let vězení",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/literatura/za-roman-oceneny-goncourtovou-cenou-dostal-daud-v-alzirsku-pet-let-vezeni/r~aaa29e17825311489bcfce49dbc14cff/"
+    },
+    {
+      "score": 7,
+      "fact": "V Praze vznikne koalice STAN, Spolu a Praha Sobě, Piráti jdou do opozice.",
+      "reason": "Základní politická fakta pro každého Čecha, jednoduché odpovědi.",
+      "title": "Prahu povede STAN, Spolu a Praha Sobě. Piráti míří do opozice",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-praha-ma-zrejme-koalici-vitezne-hnuti-stan-ji-chce-sestavit-se-spolu-a-prahou-sobe-320223"
+    }
+  ]
+}
