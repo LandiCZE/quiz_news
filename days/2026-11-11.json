@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-11",
+  "generated": "2026-11-12T16:03:52+00:00",
+  "stats": {
+    "fetched": 1385,
+    "that_day": 591,
+    "deduped": 526,
+    "scored": 180,
+    "passed": 59,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Otec Meghan Markleové si odřízl sledovací náramek z vazby kvůli obvinění z držení dětské pornografie.",
+      "reason": "Silný celebrity faktor, kriminální detail a šokující jméno",
+      "title": "Otec Meghan Markleové je opět ve vazbě. Muž obviněný z držení dětské pornografie si odřízl sledovací náramek",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/otec-meghan-markle-je-opet-ve-vazbe-muz-obvineny-z-drzeni-detske-pornografie-si_2611110837_mst"
+    },
+    {
+      "score": 9,
+      "fact": "V Jižní Karolíně zachránili miminko, které v přepravce pod zemí strávilo 24 hodin.",
+      "reason": "Šokující příběh se šťastným koncem a konkrétními detaily (přepravka, čas).",
+      "title": "Hrůza se šťastným koncem. V Jižní Karolíně zachránili miminko pohřbené zaživa, pod zemí bylo 24 hodin",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/hruza-se-stastnym-koncem-v-jizni-karoline-zachranili-miminko-pohrbene-zaziva-pod-zemi-bylo-24-hodin/r~aaa29608e94c61445c8b65e64ee80871/"
+    },
+    {
+      "score": 9,
+      "fact": "Írán zařadil argentinské letectvo a námořnictvo na svůj seznam teroristických organizací.",
+      "reason": "Bizarní a nečekaný geopolitický krok s konkrétním objektem",
+      "title": "Bizarní reakce Íránu. Argentinské letectvo a námořnictvo zařadil mezi teroristické organizace",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/bizarni-reakce-iranu-argentinske-letectvo-a-namornictvo-zaradil-mezi-teroristicke-organizace/r~aaa29e18dc7ff5be1aa69348cb20cf0a/"
+    },
+    {
+      "score": 9,
+      "fact": "Předseda Senátu Havlíček informoval prezidenta Zelenského, že Česko poskytne 16 letounů MiG.",
+      "reason": "Zajímavé politické rozhodnutí s konkrétním číslem (16), silný kontext ukrajinské války.",
+      "title": "Havlíček se v Kyjevě sešel s premiérem. Česko nejspíš dodá 16 letounů",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ukrajina-havlicek-navsteva-delegace-smyhal.A261111_132545_domaci_aoc"
+    },
+    {
+      "score": 9,
+      "fact": "Zpěvačka Alanis Morrisette se poprvé veřejně označila za pansexuálku.",
+      "reason": "Šokující výrok celebrity, konkrétní jméno, buzz-worthy téma diskuze.",
+      "title": "Jsem pansexuálka, prohlásila zpěvačka a trojnásobná matka Alanis Morissette",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/jsem-pansexualka-prohlasila-zpevacka-a-trojnasobna-matka-alanis-morissette.A261110_113124_lidicky_nh"
+    },
+    {
+      "score": 9,
+      "fact": "Novým primátorem Prahy se stal Petr Hlaváček v koalici STAN, Spolu a Prahy sobě.",
+      "reason": "Velká domácí politická změna, konkrétní jméno nové postavy, voliče zajímá.",
+      "title": "Prahu povede koalice STAN, Spolu a Prahy sobě. Primátorem bude Hlaváček",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/prahu-povede-koalice-stan-spolu-a-prahy-sobe-primatorem-bude-hlavacek/r~aaa296d2e0769ff797f7451f908c4b2d/"
+    },
+    {
+      "score": 9,
+      "fact": "Jiřího Krampola v novém filmu oživil umělá inteligence přímo ve scéně.",
+      "reason": "Legendární česká herecká postava a moderní technologický twist.",
+      "title": "2 roky po odchodu Jiřího Krampola (†87): Kvůli filmu ho oživili! A teď ho čeká posmrtná premiéra",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852456/2-roky-po-odchodu-jiriho-krampola-87-kvuli-filmu-ho-ozivili-a-ted-ho-ceka-posmrtna-premiera.html"
+    },
+    {
+      "score": 8,
+      "fact": "Trump v projevu ke Dni veteránů prohlásil, že USA vyhrály válku s Íránem.",
+      "reason": "Shokující a konkrétní tvrzení známé osoby mimo reálný context.",
+      "title": "Trump v projevu ke Dni veteránů řekl, že Spojené státy vyhrály válku s Íránem",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-v-projevu-ke-dni-veteranu-rekl-ze-spojene-staty-vyhraly-valku-s-iranem-320331"
+    },
+    {
+      "score": 8,
+      "fact": "Náhodné oznámení o výpadku finské ambasády 10. listopadu se stalo virálním memem.",
+      "reason": "Virová událost s konkrétním datumem a unikátním kontextem.",
+      "title": "Jednodenní uzavření finské ambasády v Austrálii se stalo virálním hitem",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-jednodenni-uzavreni-finske-ambasady-v-australii-se-stalo-viralnim-hitem-320316"
+    },
+    {
+      "score": 8,
+      "fact": "Bratr Viktora Orbána Áron skončil ve vazbě kvůli obchodování s vízy.",
+      "reason": "Šokující fakt o známé osobnosti s konkrétním pravděpodobným trestem.",
+      "title": "Bratr Viktora Orbána ve vazbě! Hrozí mu až 5 let vězení",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852557/bratr-viktora-orbana-ve-vazbe-hrozi-mu-az-5-let-vezeni.html"
+    },
+    {
+      "score": 8,
+      "fact": "Anže Logar stanul v čele nacionalistického pochodu ve Varšavě při oslavách nezávislosti.",
+      "reason": "Konkrétní politik v neobvyklé roli předního marchujícího, vizuálně silný obraz.",
+      "title": "V Polsku je pánem Polák. Varšavou vyrazil pochod nacionalistů s prezidentem v čele",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/nacionaliste-polsko-den-nezavislosti-podpora-od-prezident-nawrockeho.A261111_164048_zahranicni_jira"
+    },
+    {
+      "score": 8,
+      "fact": "Ve věku 87 let zemřela herečka Zuzana Fišárková, známá z filmu Bakaláři a seriálu Osení.",
+      "reason": "Úmrtí známé herečky, která má mezi publikem emoce díky kultovnímu seriálu.",
+      "title": "Zemřela herečka Zuzana Fišárková, hrála ve snímku Osení i v Bakalářích",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/zemrela-herecka-zuzana-fisarkova-zahrala-si-ve-snimku-oseni-i-v-bakalarich.A261111_180434_filmvideo_meli"
+    },
+    {
+      "score": 8,
+      "fact": "Nejdražší zašpendlovaný růžový diamant „Mona Lisa“ se prodal za 12,1 mil. Švýc. franků.",
+      "reason": "Rekordní cena speciálního kumu dáhmu, speciální jméno, zajímavé pro znalce i laiky.",
+      "title": "„Mona Lisa“ mezi růžovými diamanty se na aukci v Ženevě prodala za 320 milionů",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-mona-lisa-mezi-ruzovymi-diamanty-se-na-aukci-v-zeneve-prodala-za-320-milionu-40608118"
+    },
+    {
+      "score": 8,
+      "fact": "Na letišti v Praze přistál Airbus s celým tělem obaleným digitální grafikou oblíbených pokémonů.",
+      "reason": "Vizualizace, konkrétní detail (Pokémon), skvělý vizuál na tabuli.",
+      "title": "Na ruzyňském letišti přistál Pikachu Jet z Tchaj-peje",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/cestovani-pokemoni-v-oblacich-na-ruzynskem-letisti-pristal-pikachu-jet-z-tchaj-peje-40607990"
+    },
+    {
+      "score": 8,
+      "fact": "Čínští vědci dosáhli na vesměrné stanici teploty pouhých deset biliontin nad absolutní nulou.",
+      "reason": "Vědecký record, konkrétní číslo, exotický kontext (Čína, vesmír).",
+      "title": "Čínští vědci se v kosmu dostali na píď od absolutní nuly",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/cinsti-vedci-se-v-kosmu-dostali-na-pid-od-absolutni-nuly-379507"
+    },
+    {
+      "score": 8,
+      "fact": "Soutěžící z MasterChef, Nike N., se stal Nikolem a sdílí na sociální síti svoji tranzici.",
+      "reason": "Cilistý a kontroverzní příběh z populární reality show, skvělé pro kulturní okruh.",
+      "title": "Z Nikoly z MasterChefa je Nikolas. Pochlubil se knírkem i novou partnerkou",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/nikola-nemcova-masterchef-nikolas-nemec-tranzice.A261110_093953_sex_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Otec Meghan Markleové Thomas byl obviněn z držení dětské pornografie a je na útěku.",
+      "reason": "Skandál kolem královské rodiny s konkrétním a krutým obviněním.",
+      "title": "Otec Meghan po obvinění kvůli dětské pornografii: Thomas Markle (82) na útěku!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-kralovske-rodiny/852475/otec-meghan-po-obvineni-kvuli-detske-pornografii-thomas-markle-82-na-uteku.html"
+    },
+    {
+      "score": 8,
+      "fact": "Firma dřív tajně placená Čínou teď za státní miliony školí česky vojáky.",
+      "reason": "Skandální odhalení s nečekaným spojením geopolitiky a armády.",
+      "title": "Platila je skrytě komunistická Čína. Teď pro stát za miliony školí klíčové lidi",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-platila-je-skryte-komunisticka-cina-ted-pro-stat-za-miliony-skoli-klicove-lidi-318546"
+    },
+    {
+      "score": 7,
+      "fact": "Bývalý basketbalista se stal primátorem Opavy a cítil silné rozdíly v komunikaci.",
+      "reason": "Příběh o kariérním přechodu sportovce do lokální politiky je atraktivní.",
+      "title": "‚Sport mě naučil, že žádný úspěch není dílem jednotlivce.‘ Primátorem Opavy je bývalý basketbalista",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med"
+    },
+    {
+      "score": 7,
+      "fact": "Premiér Andrej Babiš zkritizoval ministra obrany Jaromíra Zůnu za absence vojáků na cvičení v Polsku.",
+      "reason": "Výrazný konflikt mezi dvěma mocnými politiky, dobré na otázku na jméno.",
+      "title": "To Zůna, vláda o tom nejednala, řekl Babiš k české absenci na cvičení v Polsku",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/o-neucasti-vojaku-na-cviceni-v-polsku-vlada-nejednala-je-to-v-kompetenci-armady-a-zuny-rekl-babis.A261111_184403_domaci_remy"
+    }
+  ]
+}
