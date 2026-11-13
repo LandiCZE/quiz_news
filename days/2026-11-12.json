@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-12",
+  "generated": "2026-11-13T15:23:52+00:00",
+  "stats": {
+    "fetched": 1360,
+    "that_day": 614,
+    "deduped": 547,
+    "scored": 180,
+    "passed": 60,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "CEO Nvidia Jensen Huang rezignoval kvůli poměru se ženou podezřelou ze špionáže pro Čínu.",
+      "reason": "Šokující důvod odchodu šefa největší tech firmy světa.",
+      "title": "Bez Huanga hrozí Nvidii prázdná éra. Změny ale vstřebá, říká analytik",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/nvidia-huang-spion-cipy.A261112_130140_ekonomika_base"
+    },
+    {
+      "score": 9,
+      "fact": "Slovenského válečného veterána ze 20 let považovaného za mrtvého našli v domově důchodců v ČR.",
+      "reason": "Šokující lidský příběh s konkrétním místem a přesným časovým rozmezím (20 let).",
+      "title": "Rodina ho 20 let považovala za mrtvého. Veterána z Iráku našli v domově seniorů na západě Čech",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-rodina-ho-20-let-povazovala-za-mrtveho-veterana-z-iraku-nasli-v-domove-senioru-na-zapade-cech-40608389"
+    },
+    {
+      "score": 9,
+      "fact": "Marco Materazzi reagoval na smrt J. De Miguela slovy: „Ještěže mě Zidane nezabil.“",
+      "reason": "Sokující kontroverzní výrok, okamžitě užitelný pro kvízní otázku o reakci.",
+      "title": "Materazzi překvapil svým vyjádřením. Ještěže mě Zidane také nezabil, prohlásil",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/materazzi-prekvapil-svym-vyjadrenim-jesteze-me-zidane-take-nezabil-prohlasil/r~aaa298397cd5b3d2b53747422759b4fa/"
+    },
+    {
+      "score": 9,
+      "fact": "Jensen Huang, šéf Nvidie, rezignoval z funkce kvůli osobnímu skandálu s čínskou špionkou.",
+      "reason": "Důležitá konkrétní událost s překvapivým důvodem (nevěra/špionáž).",
+      "title": "Nevěra s čínskou špionkou ho dohnala. Šéf společnosti Nvidia rezignoval",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/nevera-s-cinskou-spionkou-ho-dohnala-sef-nvidia-rezignoval/r~aaa29d5269255555ebce2f8f1231aa19/"
+    },
+    {
+      "score": 9,
+      "fact": "Z loďe SS United States bude po potopení největší umělý útes na světě.",
+      "reason": "Historická loď, rekord „největší na světě“, velkolepý fakt.",
+      "title": "Kdysi nejrychlejší parník světa šel ke dnu. Na Floridě z něj bude největší útes",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kdysi-nejrychlejsi-parnik-sveta-sel-ke-dnu-na-floride-z-nej-bude-nejvetsi-utes/r~aaa29d87c5f70c97f7c417b6b1f3fb10/"
+    },
+    {
+      "score": 9,
+      "fact": "Ministr Hegseth dostal napomenutí na Arlingtonském hřbitově, kde odmízl potlesk.",
+      "reason": "Šokující a silně výtvarná událost se specifickým jménem, skvělé na kvíz.",
+      "title": "Hegsethova delegace si vysloužila napomenutí na Arlingtonském národním hřbitově",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/hegsethova-delegace-si-vyslouzila-napomenuti-na-arlingtonskem-narodnim-hrbitove-379552"
+    },
+    {
+      "score": 9,
+      "fact": "Voják na video hlasitě pokáral amerického ministra obrany Hewa Hegsetha u hrobu Neznámého vojína.",
+      "reason": "Virusální a fascinující situace s překvapivou dynamikou, která vyvolává silný dojem.",
+      "title": "Video: Voják hlasitě pokáral Hegsetha u hrobu Neznámého vojína",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-vojak-hlasite-pokaral-hegsetha-u-hrobu-neznameho-vojina-320348"
+    },
+    {
+      "score": 9,
+      "fact": "Irština má podle studie kořeny na území dnešního Česka.",
+      "reason": "Šokující fakt s českou souvislostí, perfektní na otázkový háček.",
+      "title": "Jazyk z opačného koutu Evropy má překvapivý původ. Jeho kořeny vědci našli v Česku",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/jazyk-z-opacneho-koutu-evropy-ma-prekvapivy-puvod-jeho-koreny-vedci-nasli-v-cesku/r~aaa2961004bed6a604d7ec7cecb7e719/"
+    },
+    {
+      "score": 8,
+      "fact": "Harry Kane překonal historický brankářský rekord v historii Anglie.",
+      "reason": "Lámání mezinárodního rekordu známou sportovní hvězdou.",
+      "title": "Anglie porazila Chorvaty a je ve čtvrtfinále. Kane zbořil další milník",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/anglie-porazila-chorvaty-a-je-ve-ctvrtfinale-kane-zboril-dalsi-milnik/r~aaa297037368c2029cd1beeaedc1d738/"
+    },
+    {
+      "score": 8,
+      "fact": "Harry Kane překonal historický brankářský rekord v historii Anglie.",
+      "reason": "Lámání mezinárodního rekordu známou sportovní hvězdou.",
+      "title": "Anglie v Lize národů vyhrála nad Chorvaty a slaví postup do čtvrtfinále",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-liga-narodu-belgie-otocila-zapas-s-tureckem-5574438"
+    },
+    {
+      "score": 8,
+      "fact": "Vicepremiér Karel Havlíček míval o kroků 50 ochrankářů na Ukrajině, jako by šlo o prezidenta.",
+      "reason": "Zajímavý a trochu absurdní detail o bezpečnosti výjimečného ranku ve vynikají.",
+      "title": "Hlídali ho jako prezidenta. Kolem Havlíčka bylo na Ukrajině až 50 ochránců",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/havlicek-ochranci-prezident-cesta-ukrajina-bodyguardi-kolona.A261112_180855_domaci_sahu"
+    },
+    {
+      "score": 8,
+      "fact": "Tomio Okamura si sám udělil funkci, ze které může rozhodovat o účasti armády v zahraničí.",
+      "reason": "Surrealistický politický moment, který zvýrazňuje absurditu řeči Okamury.",
+      "title": "TMBK: Okamura překvapil novou funkcí",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-okamura-prekvapil-nove-sefuje-i-vojakum-320406"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel plk. Josef Turek, posledním žijícím Čechem z bojů o Dunkerque.",
+      "reason": "Emoční milník („poslední“) a spojení s významnou historickou událostí.",
+      "title": "Zemřel veterán Turek, jeden z posledních účastníků bojů u Dunkerque",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zemrel-veteran-turek-jeden-z-poslednich-ucastniku-boju-u-dunkerque-40608343"
+    },
+    {
+      "score": 8,
+      "fact": "Obec Březová nabízí obyvatelům 5 000 Kč za přihlášení k trvalému pobytu.",
+      "reason": "Vtipná a neobvyklá iniciativa obce s konkrétní částkou.",
+      "title": "‚Staň se Březovákem.‘ Březová na Sokolovsku nabízí obyvatelům pět tisíc za přihlášení k trvalému pobytu",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/stan-se-brezovakem-brezova-na-sokolovsku-nabizi-obyvatelum-pet-tisic-za_2611121508_jos"
+    },
+    {
+      "score": 8,
+      "fact": "Monika Marešová se z uvěznění v koupelně vysvobodila až po urvání části podlahy.",
+      "reason": "Známá česká aktivistka v absurdní a bizarní situaci.",
+      "title": "Zoufalá Monika Marešová: Vězněm ve vlastní koupelně",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852608/zoufala-monika-maresova-veznem-ve-vlastni-koupelne.html"
+    },
+    {
+      "score": 8,
+      "fact": "Věra Komárová žádá od manžela 350 milionů korun za své dílo na růstu Dermacolu.",
+      "reason": "Autobiony náčná osobnost, vysoká částka, kontroverzní právní spor.",
+      "title": "Komárová po vyhazovu z Dermacolu: Chci od manžela 350 milionů! Vybudovala jsem značku z pidifirmy",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852596/komarova-po-vyhazovu-z-dermacolu-chci-od-manzela-350-milionu-vybudovala-jsem-znacku-z-pidifirmy.html"
+    },
+    {
+      "score": 8,
+      "fact": "Alice Huangová, milenka šéfa Nvidie, držela podíly v konkurenční čínské firmě Huawei.",
+      "reason": "Skandál s konkrétní osobou, korporátním šéfem a velkým konkurentem.",
+      "title": "Údajná milenka exšéfa Nvidie vlastnila podíly v konkurenční firmě Huawei",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/alice-huangova-nvidia-jensen-huang-huawei.A261112_220157_zahranicni_balu"
+    },
+    {
+      "score": 8,
+      "fact": "Washingtonská střelba vypukla kvůli sporu ve společenství vlastníků bytů.",
+      "reason": "Nepočítaný původ zločinu (spor o pronájem) je ideální na kvíz.",
+      "title": "Spor ve společenství vlastníků nedaleko Bílého domu vyvrcholil střelbou: dva mrtví",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/washington-strelba-pet-lidi-smrt-utok.A261112_162137_zahranicni_rtn"
+    },
+    {
+      "score": 8,
+      "fact": "Do posvátné oblasti Mekky dopadl úlomek tajné balistické střely.",
+      "reason": "Zbudi i do posvátného města, velmi účinné a záhadné.",
+      "title": "Do posvátné oblasti Mekky dopadly úlomky balistických střel. Saúdové obvinili húsíjské povstalce",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/do-posvatne-oblasti-mekky-dopadly-ulomky-balistickych-strel-saudove-obvinili_2611120757_dns"
+    },
+    {
+      "score": 8,
+      "fact": "Pete Hegseth si u Hrobu neznámého vojína pořizoval fotky a se smíchem od doprovodu narušil pietní ticho.",
+      "reason": "Konkrétní trapas známé celebrity s morálním rozdílkem (smích u památníku)",
+      "title": "„Zachovávejte úctu!“ Strážný napomenul Hegsethův doprovod u hrobu Neznámého vojína",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/zachovavejte-uctu-strazny-napomenul-hegsethuv-doprovod-u-hrobu-neznameho-vojina/r~aaa29391e338ef72ca3965576aa14a2e/"
+    }
+  ]
+}
