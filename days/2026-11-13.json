@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-13",
+  "generated": "2026-11-14T14:14:27+00:00",
+  "stats": {
+    "fetched": 1200,
+    "that_day": 600,
+    "deduped": 539,
+    "scored": 180,
+    "passed": 55,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Jiří Ployhar vystoupal v plátěnkách na sněženou Sněžku.",
+      "reason": "Humorný a šokující příběh známé osobnosti.",
+      "title": "Nepovedená horská túra Ployhara (50) s přítelkyní (22). Na zasněženou Sněžku vyšel jen v plátěnkách",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852686/nepovedena-horska-tura-ployhara-50-s-pritelkyni-22-na-zasnezenou-snezku-vysel-jen-v-platenkach.html"
+    },
+    {
+      "score": 9,
+      "fact": "Pavel Tykač bez státního souhlasu rozdělil desítky milionů z uhelných odpuštění obcím na Mostecku.",
+      "reason": "Silná politická kontroverze se jménem miliardáře a konkrétním finančním pasem.",
+      "title": "„Pozornost se přesouvá.“ Stát couvá ze souboje s Tykačem o stamiliony z těžby uhlí",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/pozornost-se-presouva-stat-couva-ze-souboje-s-tykacem-o-stamiliony-z-tezby-uhli/r~aaa291fa578e2c2a8ea53f3218fb686f/"
+    },
+    {
+      "score": 9,
+      "fact": "Poslední žijící autor Charty 77, devadesátiosmiletý Pavel Kohout, vydal novou knihu.",
+      "reason": "Ikonická postava, mládí v čísle, jasný a slavný odpovědi.",
+      "title": "Poslední žijící autor Charty 77 vydal knihu. 98letý Kohout píše o 20. století",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-pavel-kohout-parta-charty-masti-karty-recenze-320420"
+    },
+    {
+      "score": 9,
+      "fact": "Ministr obrany Hegseth převzal medaili od vojáka, který ho za smích pokáral.",
+      "reason": "Obrat činu v rytířském gestu, specifické jméno a překvapivý výsledek.",
+      "title": "Nejdřív zkrotil ministra i s doprovodem, pak od něj za to převzal medaili",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/nejdriv-zkrotil-ministra-i-s-doprovodem-pak-od-nej-za-to-prevzal-medaili/r~aaa29c04c428793c62b7b2d307f7e9d0/"
+    },
+    {
+      "score": 9,
+      "fact": "Americký obranný ministr Pete Hegseth udělil medaili vojákovi, který ho veřejně okřikl.",
+      "reason": "Příběh je vtipný a překvapivý, se specifickým jménem politiky.",
+      "title": "„Jen tak dále, vlastenci.“ Hegseth udělil medaili vojákovi, který ho okřikl u památníku v Arlingtonu",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-jen-tak-dale-vlastenci-hegseth-udelil-medaili-vojakovi-ktery-ho-okrikl-u-pamatniku-v-arlingtonu-40608436"
+    },
+    {
+      "score": 8,
+      "fact": "Nizozemsko porazilo Řecko 7:0, což je nejvyšší porażka Řeků za 88 let.",
+      "reason": "Konkrétní sportovní skóre a historický rekord s číslem.",
+      "title": "Haraslín odvracel blamáž Slováků s Faeřany. Řecko utrpělo nejvyšší porážku za 88 let",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/haraslin-odvracel-blamaz-slovaku-s-faerany-recko-utrpelo-nejvyssi-porazku-za-88-let/r~aaa29dc029a4e4cd6091ef062ec96d4e/"
+    },
+    {
+      "score": 8,
+      "fact": "François Mitterrand pozval v roce 1988 disidenty na snídani a Gustáv Husák musel čekat.",
+      "reason": "Konkrétní historický moment se surprízou a dvěma známými jmény.",
+      "title": "Jak pozval François Mitterrand v roce 1988 disidenty na snídani a Husák musel čekat",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/historie-jak-pozval-francois-mitterrand-v-roce-1988-disidenty-na-snidani-a-husak-musel-cekat-40608427"
+    },
+    {
+      "score": 8,
+      "fact": "Ministr Šebestyán odvolal všech 11 členů rady Vinařského fondu kvůli neoprávněně vyplaceným podporám.",
+      "reason": "Dramatické politické rozhodnutí se specifickým počtem odvolaných a kontroverzou o penězích.",
+      "title": "Zemětřesení v Radě Vinařského fondu: Šebestyán odvolal všech 11 členů",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/852689/zemetreseni-v-rade-vinarskeho-fondu-sebestyan-odvolal-vsech-11-clenu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Vodbírání vody z nádrže Džbán se uskutečnilo poprvé za 18 let.",
+      "reason": "Konkrétní číselná událost (18 let), divoká Šárka.",
+      "title": "Poprvé po 18 letech. Rybáři v Divoké Šárce vypustili vodu z nádrže Džbán, měla by se zlepšit její kvalita",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/poprve-po-18-letech-rybari-v-divoke-sarce-vypustili-vodu-z-nadrze-dzban-mela-se_2611130622_vsn"
+    },
+    {
+      "score": 8,
+      "fact": "Muž 30 let vlastnil první „Zlatou hokejku“ a teď ji daroval.",
+      "reason": "Pravděpodobně unikátní tělesná událost s názvaným objektem.",
+      "title": "Senior z Jihlavska vlastnil 30 let ikonickou Zlatou hokejku. Originální plastiku se nyní rozhodl darovat",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/hokej/senior-z-jihlavska-vlastnil-30-let-ikonickou-zlatou-hokejku-originalni-plastiku_2611130600_eml"
+    },
+    {
+      "score": 8,
+      "fact": "Exmanželka maďarského premiéra Magyara je jeho Achillovou patou kvůli výpovědi.",
+      "reason": "Dramatický konflikt, známé jméno Magyar a konkrétní osobní souvislost.",
+      "title": "Dělal mi ze života peklo. Exmanželka se může stát Achillovou patou Pétera Magyara",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-delal-mi-ze-zivota-peklo-exmanzelka-se-muze-stat-achillovou-patou-petera-magyara-40608562"
+    },
+    {
+      "score": 8,
+      "fact": "Pád budovy v Brooklynu zabíjel 8 lidí, včetně dvou dětí.",
+      "reason": "Tragický událost s konkrétním počtem obětí, vhodný pro \"how many\" otázku.",
+      "title": "Hrůza po pádu domu v Brooklynu: Svědci popsali chaos! Mezi mrtvými jsou i děti",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852695/hruza-po-padu-domu-v-brooklynu-svedci-popsali-chaos-mezi-mrtvymi-jsou-i-deti.html"
+    },
+    {
+      "score": 8,
+      "fact": "Trump chce svrhnout Kubou do konce svého funkčního období, klíč hraje Rubio.",
+      "reason": "Vysoká politická hruška, konkrétní jméno (Rubio) a ambiciózní termín.",
+      "title": "Svrhnout vládu na Kubě chci do konce svého funkčního období, řekl Trump",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-svrhnout-vladu-v-kube-chci-do-konce-sveho-funkcniho-obdobi-rekl-trump-320460"
+    },
+    {
+      "score": 8,
+      "fact": "Robert Fico obhajoval svou zemi tím, že jeho bratranec nemohl koupit vyprodaný iPhone za 1600 eur.",
+      "reason": "Zachovaná slovenská osobnost v absurdním životním příběhu, humorný potenciál.",
+      "title": "Bratranec chtěl mobil za 39 tisíc a byl vyprodaný, dokazoval Fico životní úroveň Slováků",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-bratranec-chtel-mobil-za-39-tisic-a-byl-vyprodany-dokazoval-fico-zivotni-uroven-slovaku-40608261"
+    },
+    {
+      "score": 8,
+      "fact": "Akcie Nvidie propadly o 14 procent po zprávě o rezignaci šéfa Jensen Huanga.",
+      "reason": "Velká technologická Company, konkrétní číslo a známa jméno šéfa.",
+      "title": "Nevěrník Huang: Na exšéfa Nvidie praskla třetí milostná aféra! Akcie prudce oslabují",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852672/nevernik-huang-na-exsefa-nvidie-praskla-treti-milostna-afera-akcie-prudce-oslabuji.html"
+    },
+    {
+      "score": 7,
+      "fact": "Soudy změnilo výsledek voleb v 21 obcích, což je čtyřnásobek oproti minulosti.",
+      "reason": "Konkrétní číslo ukazuje výrazný nárůst.",
+      "title": "Soudy zasáhly do výsledků komunálních voleb v 21 obcích",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/soudy-zasahly-do-vysledku-komunalnich-voleb-v-21-obcich-379606"
+    },
+    {
+      "score": 7,
+      "fact": "Miliardář Šimáně koupil pražský dům U svatého Jiří v elektrické dražbě za 1,31 miliardy korun.",
+      "reason": "Konkrétní cena za slavnou nemovitost a jméno miliardáře.",
+      "title": "Miliardář Šimáně koupil dům v Pařížské ulici za 1,3 miliardy korun",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/miliardar-simane-koupil-dum-v-parizske-ulici-v-praze-za-1-3-miliardy-korun/r~aaa294a759a1dd3cbd5a767d766a9721/"
+    },
+    {
+      "score": 7,
+      "fact": "Dárek pro Putina letos celkem vybralo rekordní 385 milionů korun.",
+      "reason": "Konkrétní číselná událost je cenově odůvodněná a celonárodní.",
+      "title": "Dárek pro Putina hlásí rekord. Češi letos na Ukrajinu poslali už 385 milionů",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/darek-pro-putina-letos-vybral-385-milionu-vic-nez-za-cely-loni.A261113_135632_domaci_sahu"
+    },
+    {
+      "score": 7,
+      "fact": "Škodiny elektromobily Epiq a Peaq získaly Zlatý volant na 50. ročníku prestižní německé ankety.",
+      "reason": "Úspěch domácí značky s konkrétním číslem (50. ročník) a mezinárodním oceněním.",
+      "title": "Elektromobily Škoda zazářily. Z Německa vezou dva Zlaté volanty",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-elektromobily-skoda-zazarily-z-nemecka-vezou-dva-zlate-volanty-40608524"
+    },
+    {
+      "score": 7,
+      "fact": "Film Zítra se zamiluji hraje dcera Marcella Mastroianniho a Catherine Deneuve.",
+      "reason": "Kombinace slavných jmen, dobrá otázka pro filmové gurmány.",
+      "title": "Zítra se zamiluji. Do kin míří film s dcerou Mastroianniho a Catherine Deneuve",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/film/zitra-se-zamiluji-do-kin-miri-film-s-dcerou-mastroianniho-a-catherine-deneuve/r~aaa29470372ba5109bd10d3e57ef3abe/"
+    }
+  ]
+}
