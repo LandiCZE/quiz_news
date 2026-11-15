@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-14",
+  "generated": "2026-11-15T14:48:21+00:00",
+  "stats": {
+    "fetched": 967,
+    "that_day": 398,
+    "deduped": 359,
+    "scored": 180,
+    "passed": 61,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Světelný meč Dartha Vadera se prodal za rekordních 102 milionů korun.",
+      "reason": "Konkrétní rekordní cena za kultovní filmový artefakt.",
+      "title": "„Jsem tvůj otec.“ Meč Dartha Vadera vynesl v aukci rekordních 102 milionů",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/galerie-a-videa/jsem-tvuj-otec-mec-dartha-vadera-vynesl-v-aukci-rekordnich-102-milionu/r~aaa29cc411b49394b6f0f7b558ea2c97/"
+    },
+    {
+      "score": 9,
+      "fact": "Britský senior vydělal miliony prodejem Pokémon karet, které 15 let ležely na jeho půdě.",
+      "reason": "Klassický viralový příběh s elementem náhody a konkrétním činem.",
+      "title": "Ležely 15 let na půdě. Senior vydělal miliony prodejem kartiček Pokémonů",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-lezely-15-let-na-pude-senior-vydelal-miliony-prodejem-karticek-pokemonu-40608523"
+    },
+    {
+      "score": 9,
+      "fact": "Maďarským úřadům se podařilo vysledovat a zabavit 420 milionů korun zakopaných v lese.",
+      "reason": "Šokující suma přepočtená na koruny a neobvyklá metoda skrývání.",
+      "title": "Orbánův ministr odhalen: 420 milionů zakopal v lese! Měl celou síť skrýší…",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852731/orbanuv-ministr-odhalen-420-milionu-zakopal-v-lese-mel-celou-sit-skrysi.html"
+    },
+    {
+      "score": 8,
+      "fact": "Plzeňský provokatér odsuzovaný za výtržnictví vyzval soudce na souboj v MMA kleci.",
+      "reason": "Bizarní a absurdní chování konkrétního člověka, skvělá nálož pro publikum.",
+      "title": "Bizarní plzeňský provokatér vyzval soudce na souboj v kleci",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-bizarni-plzensky-provokater-vyzval-soudce-na-souboj-v-kleci-40608441"
+    },
+    {
+      "score": 8,
+      "fact": "Italští regulátoři udělili Metě obří pokutu 805 milionů eur za nelegální přístup k fotkám z Androidu",
+      "reason": "Konkrétní a šokující částka pokuty u významné technologické firmy",
+      "title": "Obří pokutu pro Metu: Italové ji viní kvůli přístupu k videím a fotkám z Androidu",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/digital/852740/obri-pokutu-pro-metu-italove-ji-vini-kvuli-pristupu-k-videim-a-fotkam-z-androidu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Jaroslav Němec snědl během pěti minut rekordních 12,5 metra klobás.",
+      "reason": "Absurdní český rekord s konkrétními čísly a jménem.",
+      "title": "Šílený rekord Jardy Němce: Za pět minut zbaštil dvanáct metrů klobás",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/851912/sileny-rekord-jardy-nemce-za-pet-minut-zbastil-dvanact-metru-klobas.html"
+    },
+    {
+      "score": 8,
+      "fact": "Eline Svitolinová získala štítek po utkání s Karolínou Muchovou přímo ze swatche.",
+      "reason": "Vizuální a humorný moment z aktuálního turnaje.",
+      "title": "Útoky na Ukrajinku se urvaly z řetězu. Muchovou smetla zlostí, Noskové má co vracet",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/utoky-na-ukrajinku-se-urvaly-z-retezu-s-muchovou-ji-spasil-hnev-ted-jde-na-noskovou/r~aaa2900d12d0be8d475db6f1250af362/"
+    },
+    {
+      "score": 8,
+      "fact": "Státní úřad pro jadernou bezpečnost poslal na opravu Černobylu pouhých 20 tisíc eur.",
+      "reason": "Konkrétní částka vyvolává u diváků překvapení a diskusi.",
+      "title": "Místo diplomacie platí úřad. Jaderná bezpečnost pošle na Černobyl 20 tisíc eur",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-misto-diplomacie-plati-urad-jaderna-bezpecnost-posle-na-cernobyl-20-tisic-eur-320534"
+    },
+    {
+      "score": 8,
+      "fact": "Ronaldinho po 11 letech zahraje soutěžní zápas za italský klub Ravenna.",
+      "reason": "Slavná postava, konkrétní časový rozdíl a překvapivý návrat do ligy.",
+      "title": "Slavná fotbalová hvězda si po 11 letech zahraje soutěžní zápas, nastoupí v Serii C",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-slavna-fotbalova-hvezda-si-po-11-letech-zahraje-soutezni-zapas-nastoupi-v-serii-c-5576291"
+    },
+    {
+      "score": 8,
+      "fact": "Kateřina Siniaková bude první ženou, která jako světová jednička ve čtyřhře ukončí pátý kalendářní rok po sobě.",
+      "reason": "Jasný rekordní milník světové špičkovky s konkrétním číslem let.",
+      "title": "Siniaková už překonává rekordmanku Navrátilovou, na Turnaji mistryň má před sebou těžkou šichtu",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/tenis-deblova-kralovna-siniakova-poseste-zakonci-rok-jako-svetova-jednicka-a-prekona-rekordmanku-navratilovou-5576267"
+    },
+    {
+      "score": 8,
+      "fact": "Americké hokejistky přecinkly historický rekord SSSR, když narazily 85 střel za jeden zápas.",
+      "reason": "Konkrétní, vysoké číslo (85) a překonání historického rekordu je skvělá podnět pro kvíz.",
+      "title": "Neskutečných 85 střel za zápas. Američanky vytvořily rekord MS, překonaly i čísla SSSR",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-ms-neskutecnych-85-strel-za-zapas-americanky-vytvorily-rekord-ms-prekonaly-i-cisla-sssr-5576270"
+    },
+    {
+      "score": 8,
+      "fact": "Kateřina Siniaková jako první tenistka v historii skončila šest let po sobě světovou jedničkou v deblu.",
+      "reason": "Jasný historický rekord s konkrétním číslem a jménem, ideální pro sportovní kvíz.",
+      "title": "Pocty pro královnu Siniakovou. Česká rekordmanka už překonala Navrátilovou",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/tenis/pocty-pro-kralovnu-siniakovou-ceska-rekordmanka-uz-prekonala-navratilovou/r~aaa292af8dd0d80fe64503a9d1abbe40/"
+    },
+    {
+      "score": 8,
+      "fact": "Písničkář Pavel Helan složil hlasitý volební song 'Ty, hejtmane' pro lídra TOP 09 Jana Grolicha.",
+      "reason": "Známa česká osobnost tvoří absurdní hit, ideální situace na vtipný kvíz.",
+      "title": "„Omlouvám se, že jsem napsal tak vlezlou melodii,“ říká Pavel Helan o písni Ty, hejtmane",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/omlouvam-se-ze-jsem-napsal-tak-vlezlou-melodii-rika-pavel-helan-o-pisni-ty-hejtmane/r~aaa2919157c130923dc02107dae0d431/"
+    },
+    {
+      "score": 8,
+      "fact": "PřiHAVLečkově cestě na Ukrajinu jej střežilo až padesát lidí a jezdil v pancéřové Toyotě.",
+      "reason": "Neobvyklé detaily diplomatického výjezdu podávají skvělý materiál pro kvíz.",
+      "title": "Zákulisí Havlíčkovy cesty na Ukrajinu: Čtyřicítka goril, pancéřák i pivka z pumpy!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/852711/zakulisi-havlickovy-cesty-na-ukrajinu-ctyricitka-goril-pancerak-i-pivka-z-pumpy.html"
+    },
+    {
+      "score": 8,
+      "fact": "SpaceX Starship se poprvé vrátil na Zemi a zachytila ho Speciální ramena na startovací věži.",
+      "reason": "Výrazná vědeckotechnická událost s cool vizuálem záchytu raketou.",
+      "title": "Vesmírná loď Starship se vrátila na Zemi a přistála do záchytných ramen",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-vesmirna-lod-starship-se-vratila-na-zemi-a-uspesne-pristala-do-zachytnych-ramen-320549"
+    },
+    {
+      "score": 8,
+      "fact": "Maďarské úřady vykopaly v lese miliony korun spojené s kauzou Orbánova ministra.",
+      "reason": "Konkrétní, divná událost (peníze v lese) spjatá s politikem.",
+      "title": "V lese i v trezorech. Maďarské úřady vykopaly miliony, peníze souvisejí s kauzou Orbánova ministra",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/v-lese-i-v-trezorech-madarske-urady-vykopaly-miliony-penize-souviseji-s-kauzou_2611141600_nob"
+    },
+    {
+      "score": 8,
+      "fact": "V Teheránu prodává ořechy muž, který vypadá nápadně podobně jako Benjamin Netanjahu.",
+      "reason": "Virová, komická zpráva s vizuálním lákadlem, perfectní na kvíz.",
+      "title": "„Netanjahu“ prodává v Teheránu ořechy. Řekl ve videu, proč „utekl“ z Izraele",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/netanjahuuv-dvojnik-prodava-orechy-iranci-se-ptaji-kde-ma-obchod.A261114_100207_zahranicni_ichuc"
+    },
+    {
+      "score": 8,
+      "fact": "Při vyšetřování Orbánova exministra úřady odkryly hotovost v hodnotě přes 420 milionů korun.",
+      "reason": "Orbán, šokující částka a detail s placen v lese lákají k hádání.",
+      "title": "V kauze Orbánova exministra úřady zabavily obří sumu v hotovosti. Část byla zakopaná v lese",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/orbanuv-exministr-celi-vysetrovani-urady-zabavily-420-milionu-korun/r~aaa29236e058c99b4fb345e0ad79659d/"
+    },
+    {
+      "score": 8,
+      "fact": "Pákistánský influencer chtěl točit TikTok se lvem, ten v tu chvíli zabil svého ošetřovatele.",
+      "reason": "Vařilá, lidská tragédie spojená s absurdním motivem (TikTok) – typická quiz otázka.",
+      "title": "Influencer v Pákistánu natáčel video se lvem z farmy, zvíře zabilo ošetřovatele",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-influencer-v-pakistanu-natacel-video-se-lvem-z-farmy-zvire-zabilo-osetrovatele-40608624"
+    },
+    {
+      "score": 8,
+      "fact": "V lesích našli při vyšetřování maďarského exministra přes 400 milionů korun v hotovosti",
+      "reason": "Konkrétní a šokující částka ukradená v hotovosti",
+      "title": "Zakopal je v lesích. Při vyšetřování maďarského exministra našli přes 400 milionů v hotovosti",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-madarsku-nasli-pres-400-milionu-v-hotovosti-cast-byla-zakopana-v-lesich-stopa-vede-k-exministrovi-40608614"
+    }
+  ]
+}
