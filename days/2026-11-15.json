@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-15",
+  "generated": "2026-11-16T17:03:01+00:00",
+  "stats": {
+    "fetched": 1059,
+    "that_day": 362,
+    "deduped": 325,
+    "scored": 180,
+    "passed": 52,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Na Letnou přišlo 400 tisíc lidí, což je největší demostrace od roku 1989.",
+      "reason": "Konkrétní číslo a historický milník (největší od sametu) jsou ideální pro kvíz.",
+      "title": "Největší demonstrace od roku 1989. Na Letnou dorazilo 400 tisíc lidí",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-na-letne-je-350-az-400-tisic-lidi-rekl-minar-40608758"
+    },
+    {
+      "score": 9,
+      "fact": "Na protestu se podle organizátorů sešlo až 450 tisíc lidí, což bylo rekordní od roku 1989.",
+      "reason": "Vyšší odhad počtu účastníků a potvrzení rekordu od sametové revoluce.",
+      "title": "ONLINE: Demonstrace Letná proti 4:36: Koller, Svěrák a až 450 tisíc lidí? S dopravou byly problémy",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/852753/letna-proti-4-36-ocekava-statisice-demonstrantu-moravaci-cestou-vyrabeji-transparenty.html"
+    },
+    {
+      "score": 9,
+      "fact": "Petr Sís vytvořil videoklip pro Boba Dylana, který byl zveřejněn po téměř 45 letech.",
+      "reason": "Slavný český umělec napojený na světovou legendu a překvapivý časový rozmezí.",
+      "title": "Bob Dylan vydal klip od Petra Síse. Ani moje děti ho neznaly, říká český umělec",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-petr-sis-bob-dylan-gotta-serve-somebody-320550"
+    },
+    {
+      "score": 9,
+      "fact": "Sibiřský šaman chystá obětovat 60 velbloudů pro rusko-ukrajinskou válku.",
+      "reason": "Velmi absurdní a virální příběh s konkrétním číslem a zvířetem, ideální na 'co je to za blbost?'",
+      "title": "Šaman má recept na vítězství Ruska nad Ukrajinou. Chystá rituály s velbloudy",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/saman-chce-obetovat-60-velbloudu-putin-valka-ukrajina.A261112_133334_zahranicni_vanky"
+    },
+    {
+      "score": 9,
+      "fact": "Biden ve svých pamětech popsal Zelenského jako nevděčného a náladového.",
+      "reason": "Známá osobnost překvapivě útočí na jinou známou osobnost.",
+      "title": "Náladový a nevděčný. Biden se v pamětech pustil do Zelenského",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-zelenskyj-nebyl-tak-vdecny-jak-bych-ocekaval-napsal-biden-v-pametech-40608745"
+    },
+    {
+      "score": 9,
+      "fact": "Elon Muska raketa Starship poprvé jako záchrana na věž kosmodromu.",
+      "reason": "Dramatický mílestone s konkrétní firmou a technickým úspěchem, skvělé na kvíz.",
+      "title": "Musk píše historii: Raketa se z oběžné dráhy vrátila na věž. Obří Starship zlevní vesmír",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852752/musk-pise-historii-raketa-se-z-obezne-drahy-vratila-na-vez-obri-starship-zlevni-vesmir.html"
+    },
+    {
+      "score": 8,
+      "fact": "Věznice v Česku poprvé v historii otevřely své brány veřejnosti za provozu.",
+      "reason": "Unikátní social experiment, dobrý na otázku o prvních veřejných prohlídkách vězení",
+      "title": "Jaký je život za mřížemi? Věznice otevřely své brány veřejnosti",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/jaky-je-zivot-za-mrizemi-veznice-otevrely-sve-brany-verejnosti-379639"
+    },
+    {
+      "score": 8,
+      "fact": "Matěj Cigl a Lucie Vyboříková ustanovili světové rekordy ve šplhu v Pardubicích.",
+      "reason": "Světové rekordy v neobvyklé disciplíně, skvělý kvízový fakt.",
+      "title": "V Pardubicích padly světové rekordy ve šplhu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-v-pardubicich-padly-svetove-rekordy-ve-splhu-40608795"
+    },
+    {
+      "score": 8,
+      "fact": "Ministr zahraničí Petr Macina zpochyslil přínos demonstrací spolku Milion chlilků pro demokracii.",
+      "reason": "Konkrétní tvrdý výrok od vysokého úředníka, který je kontroverzní a citelný.",
+      "title": "Macinka zpochybnil přínos demonstrací pro občany, Fiala ocenil aktivitu občanské společnosti",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-odolnosti-ceske-demokracie-379630"
+    },
+    {
+      "score": 8,
+      "fact": "Herec James Faulkner z Here o trůny se připojil k českému filmu Manipulation.",
+      "reason": "Překvapivý most mezi globálním hitem a českým filmovým průmyslem.",
+      "title": "Ze Hry o trůny do českého filmu. Asi byli zoufalí, směje se britský herec Faulkner",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/ze-hry-o-truny-do-ceskeho-filmu-asi-byli-zoufali-smeje-se-britsky-herec-faulkner.A261111_180024_filmvideo_pluh"
+    },
+    {
+      "score": 8,
+      "fact": "Pokladba Minář zahájila demonstraci na podporu veřejných rádií sloganem „Český národ povstal“.",
+      "reason": "Významná politická současná událost s konkrétním počinem a frází.",
+      "title": "„Český národ povstal,\" zahájil Minář demonstraci na podporu veřejnoprávních médií",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/na-letnou-miri-demonstranti-z-cele-zeme-protest-podpori-verejnopravni-media/r~aaa29404c6f8e5b5d9a787ca5214f0dd/"
+    },
+    {
+      "score": 8,
+      "fact": "Kambodžský król je schopen vést konverzaci s českými turisty bez tlumočníka.",
+      "reason": "Příběh o česky mluvícím králově je skvělý, nečekaný a lákavý na odhadování.",
+      "title": "KVÍZ: Kambodža není jen Angkor. Co víte o zemi ostrovů, chrámů a česky mluvícího krále?",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/cestovani-kviz-kambodza-neni-jen-angkor-co-vite-o-zemi-ostrovu-chramu-a-cesky-mluviciho-krale-40607776"
+    },
+    {
+      "score": 8,
+      "fact": "V Austrálii našel amatér zlatý nuget vážící přes 1,2 kilogramu.",
+      "reason": "Konkrétní, překvapivý objev s přesnou váhou, vhodný pro trivia.",
+      "title": "Hledač pokladů objevil v Austrálii zlatý nuget za více než dva miliony. Ukázal jej na kameru",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-hledac-pokladu-objevil-v-australii-zlaty-nuget-za-vice-nez-dva-miliony-ukazal-jej-na-kameru-40606048"
+    },
+    {
+      "score": 8,
+      "fact": "Severokorejský vůdce Kim Čong-un nechal po 78 letech změnit poměr stran státní vlajky.",
+      "reason": "Konkrétní změna s datem a číslem (78 let), režisér je známá personážka.",
+      "title": "Kim Čong-un se vzdal sovětského dědictví. KLDR po 78 letech pozměnila vlajku",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kim-cong-un-se-vzdal-sovetskeho-dedictvi-kldr-po-78-letech-pozmenila-vlajku.A261114_154758_zahranicni_jhr"
+    },
+    {
+      "score": 8,
+      "fact": "Malajskému expremiérovi dostalo se královské milosti a vrací se z vězení.",
+      "reason": "Signální jméno (Najib Razak) a obří až skandální rozměr příběhu.",
+      "title": "Jeden z největších korupčních skandálů světa. Expremiér se vrací z vězení domů",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-jeden-z-nejvetsich-korupcnich-skandalu-sveta-odsouzenemu-pomohl-kral-320275"
+    },
+    {
+      "score": 8,
+      "fact": "Ve Vídni policie zasahovala kvůli přepychu u vánoční mašle. Výzdoba se stala tak populární, že musela chránit pořádek.",
+      "reason": "Vtipný, „clickbaitový“ příběh s konkrétním místem a nečekaným důsledkem (policie).",
+      "title": "Vídeňská aféra kolem vánoční mašle. Výzdoba se stala tak populární, že kvůli ní musela zasahovat policie",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/videnska-afera-kolem-vanocni-masle-vyzdoba-se-stala-tak-popularni-ze-kvuli-ni_2611151429_aln"
+    },
+    {
+      "score": 8,
+      "fact": "Ruské úřady podplácely podnikatele a podstrkovaly mu papíry, zachránila ho žena.",
+      "reason": "Absurdní a děsivý příběh konkrétního člověka, silný příběhový základ.",
+      "title": "Vladimira opili, sebrali mu brýle a podstrčili mu papíry. Pak ho verbířům unesla jeho žena",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/849291/vladimira-opili-sebrali-mu-bryle-a-podstrcili-mu-papiry-pak-ho-verbirum-unesla-jeho-zena.html"
+    },
+    {
+      "score": 7,
+      "fact": "19letá Ruska Mirra Andrejevová vyhrála Turnaj mistryň bez ztráty jediného setu.",
+      "reason": "Dobry sportovní výsledek, konkrétní věk a výkon",
+      "title": "Ruský zázrak v Kalifornii. Andrejevová bez ztráty setu opanovala Turnaj mistryň",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/rusky-zazrak-v-kalifornii-andrejevova-bez-ztraty-setu-opanovala-turnaj-mistryn/r~aaa29ae89bca47fa55d618a8efa7996b/"
+    },
+    {
+      "score": 7,
+      "fact": "Demonstranti na Letné požadovali konec Tomia Okamury v čele Sněmovny.",
+      "reason": "Aktuální politická událost s konkrétním jménem a požadavkem.",
+      "title": "Pátá kolona Ruska. Zeptali jsme se demonstrantů, co říkají na Minářův požadavek, aby skončil Okamura",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/pata-kolona-ruska-zeptali-jsme-se-demonstrantu-co-rikaji-na-minaruv-pozadavek-aby-skoncil-okamura/r~aaa290b7af77f6756b2352774f74a78a/"
+    },
+    {
+      "score": 7,
+      "fact": "Před 55 lety se stala sonda Mariner 9 první, která oběžná jinou planetou než Zemi.",
+      "reason": "Klasická vědomostní otázka s konkrétním jménem sondy a planetou.",
+      "title": "Předběhla Sověty, pak narazila do oranžové zdi. Příběh první sondy u Marsu",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/pred-55-lety-zakotvila-u-marsu-prvni-sonda-privitala-ji-ale-prachova-tma/r~aaa292d3994ac9ad9577a86ed77243b6/"
+    }
+  ]
+}
