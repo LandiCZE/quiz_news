@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-16",
+  "generated": "2026-11-17T16:58:30+00:00",
+  "stats": {
+    "fetched": 1097,
+    "that_day": 584,
+    "deduped": 513,
+    "scored": 180,
+    "passed": 74,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Robert Pattinson se oficiálně stal novým Jamesem Bondem po Danielu Craigovi.",
+      "reason": "Velká Hollywoodská senzace, jasný a očekávaný kvízotaz.",
+      "title": "Agent 007 potvrzen. Robert Pattinson se stal novým Jamesem Bondem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/robert-pattinson-se-stal-novym-jamesem-bondem.A261116_161440_filmvideo_ts"
+    },
+    {
+      "score": 9,
+      "fact": "Ztraceného polského ovčáka Čarna našli v Teplicích po devíti letech, a to přesně tam, kde ho nechal.",
+      "reason": "Viralní zvířecí příběh s extrémní nákladností, ideální pro kulturní a aktuální kvíz.",
+      "title": "Chlupaté shledání po devíti letech: Ztraceného vlčáka z Polska našli v Teplicích!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/852857/chlupate-shledani-po-deviti-letech-vlcaka-z-polska-nasli-v-teplicich.html"
+    },
+    {
+      "score": 9,
+      "fact": "Robert Pattinson je podle insiderů nejpřesvědčivějším adeptem na roli nového Jamese Bonda.",
+      "reason": "Slavný herec, blockbusterový film a konkrétlní 'nález' z castingu – výborná otázka.",
+      "title": "Přišel poslední a zaujal. K roli agenta 007 má nyní nejblíž Robert Pattinson",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/prisel-posledni-a-zaujal-k-roli-agenta-007-ma-nyni-nejbliz-robert-pattinson.A261116_132300_filmvideo_nh"
+    },
+    {
+      "score": 9,
+      "fact": "Hvězda Star Treku Patrick Stewart zemřel ve věku 86 let.",
+      "reason": "Smrt ikonické celebrity, o níž budou všichni mluvit.",
+      "title": "Dr. Crusherová truchlí pro kapitána Picarda: Hvězda Star Treku exkluzivně o Patricku Stewartovi (†86)",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/852838/dr-crusherova-truchli-pro-kapitana-picarda-hvezda-star-treku-exkluzivne-o-patricku-stewartovi-86.html"
+    },
+    {
+      "score": 9,
+      "fact": "Ralph Fiennes prozradil, že ho studio zvažovalo pro Bonda, ale on se k producentům choval nevhodně.",
+      "reason": "Hvězda z filmové scény připouští selhání na horká žilka, což je lákavá pub-quizka otázka.",
+      "title": "Zvažovali mě na Bonda, ale choval jsem se jako k**ot, vzpomíná Ralph Fiennes",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/zvazovali-me-na-bonda-ale-zkazil-jsem-to-svym-chovanim-rika-ralph-fiennes.A261105_105917_lidicky_nh"
+    },
+    {
+      "score": 9,
+      "fact": "Firma Anthropic vstupuje na burzu s objemem až 90,4 miliardy dolarů.",
+      "reason": "Rekordní IPO; velké jméno z AI a šokující čísla.",
+      "title": "Anthropic vstoupí na burzu ve čtvrtek, chce získat více než 64 miliard dolarů",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-anthropic-vstoupi-na-burzu-ve-ctvrtek-chce-ziskat-vice-nez-64-miliard-dolaru-320658"
+    },
+    {
+      "score": 9,
+      "fact": "Jeremy Clarkson označil autonomní autobus Tesla Cybercab za nebezpečný.",
+      "reason": "Slavná postava vzápětí po testování konkurenční technologie.",
+      "title": "Jeremy Clarkson zkoušel Teslu Cybercab. Vyhnul bych se jí, říká",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-jeremy-clarkson-zkousel-teslu-cybercab-vyhnul-bych-se-ji-rika-40608813"
+    },
+    {
+      "score": 9,
+      "fact": "Rakousko chce odebrat občanství ministryni, která tančila s Putinem na svatbě.",
+      "reason": "Konkrétní jméno, absurdní vizuále a velké politické dopady.",
+      "title": "Tančila s Putinem, bydlí v Rusku. Exministryni prý chtějí v Rakousku odebrat občanství",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/tancila-s-putinem-bydli-v-rusku-exministryni-pry-chteji-v-rakousku-odebrat-obcanstvi/r~aaa293ae4f731a8d3628a27f5a018570/"
+    },
+    {
+      "score": 9,
+      "fact": "Elon Musk podepsal petici pro návrat šéfa Nvidie Jensena Huanga, přes 165 tis. lidí ji podpořilo.",
+      "reason": "Slavnostní obléhnutí známé osobnosti (Musk) a technologický obor, konkrétní a šokující odpověď.",
+      "title": "Musk a tisíce dalších žádají návrat šéfa Nvidie. Ministr financí je proti",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/byvaly-sef-nvidie-huang-zvazuje-navrat-bessent-ministr-financi.A261116_072710_eko-zahranicni_sahu"
+    },
+    {
+      "score": 9,
+      "fact": "Vdova po zavražděném haitském prezidentu, Martine Moïseová, se po stažení obžaloby registrovala do prezidentských voleb.",
+      "reason": "Příběh se silným dramatem: obviněná z vraždy manžela se stává jeho potenciální nástupkyní.",
+      "title": "Manželka zavražděného prezidenta Haiti se zaregistrovala k prezidentským volbám",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-manzelka-zavrazdeneho-prezidenta-haiti-se-zaregistrovala-k-prezidentskym-volbam-320652"
+    },
+    {
+      "score": 8,
+      "fact": "Robert Pattinson byl potvrzen jako nový James Bond.",
+      "reason": "Velký celebrity twist, čekání na nové castingy.",
+      "title": "Vítejte ve službách Jeho Veličenstva. Královská rodina přijala nového Bonda",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-vitejte-ve-sluzbach-jeho-velicenstva-kralovska-rodina-prijala-noveho-bonda-40609000"
+    },
+    {
+      "score": 8,
+      "fact": "Fotbalový mistr Mario Basler zachránil život řidiči po nehodě na dálnici.",
+      "reason": "Sportovní legenda zachránila život, překvapivá a lidská historie.",
+      "title": "Šlo o vteřiny. Nehrající mistr Evropy z roku 1996 prokázal na silnici obrovskou kuráž",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-bundesliga-slo-o-vteriny-nehrajici-mistr-evropy-z-roku-1996-prokazal-na-silnici-obrovskou-kuraz-5577872"
+    },
+    {
+      "score": 8,
+      "fact": "Soud v Brně přiznal židovské obci nabouranou radnici, kterou nacisté před 85 lety zmárili.",
+      "reason": "Konkrétní právní zvrat s romantickým historickým příběhem.",
+      "title": "Náprava válečných křivd vůči Židům? Soud jim přiřkl bývalou radnici v Brně",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-naprava-valecnych-krivd-vuci-zidum-soud-jim-prirkl-byvalou-radnici-v-brne-320705"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel Miguel Ángel Félix Gallardo, zakladatel mexického kartelu Guadalajara.",
+      "reason": "Smrt legendárního bossa s dramatickým koncem (zradila ho objednávka).",
+      "title": "Zradila ho objednávka mořských plodů. Zemřel muž, který stvořil mexické kartely",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/zradila-ho-objednavka-morskych-plodu-zemrel-muz-ktery-stvoril-mexicke-kartely/r~aaa29874d2b998845e8ecb1a193a21f8/"
+    },
+    {
+      "score": 8,
+      "fact": "Ministryně Zuzana Mrázová obdržela od Severočeských dolů hornickou uniformu šitou přímo pro ni.",
+      "reason": "Konkrétní a neobvyklý dárek známé političce, který skýtá prostor pro humorný dotaz.",
+      "title": "Dárek od těžařů z ČEZu: Ministryně Mrázová dostala uniformu na míru",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-darek-od-tezaru-z-cezu-ministryne-mrazova-dostala-uniformu-na-miru-320427"
+    },
+    {
+      "score": 8,
+      "fact": "Tři Češi vyhráli v sázkách přes 1,2 milionu korun právě v Pátek 13.",
+      "reason": "Konkrétní výhra jako ironický protipól neštěstí Pátku 13.",
+      "title": "Prokletý pátek 13.? Kdepak! Tři Češi vyhráli balík",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/852796/proklety-patek-13-kdepak-tri-cesi-vyhrali-balik.html"
+    },
+    {
+      "score": 8,
+      "fact": "Porota u procesu Lindsay Clancyové, která zabila tři děti, se poprvé na verdiktu neshodla.",
+      "reason": "Konkrétní, šokující příběh s jasným jménem a neobvyklým procesním záhybem.",
+      "title": "Clancyovou, která zabila tři své děti, čeká nový soud. Poprvé se porota neshodla",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-clancyovou-ktera-zabila-tri-sve-deti-ceka-novy-soud-poprve-se-porota-neshodla-320747"
+    },
+    {
+      "score": 8,
+      "fact": "Vrah z Krakova před útokem na náměstí zavraždil rodinu i dvě kočky.",
+      "reason": "Šokující detail o zabití zvířat zvýrazňuje barbarství činu.",
+      "title": "Vrah z Krakova před masakrem vyvraždil rodinu v pyžamech. Zastřelil i dvě kočky",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-strelba-krakov-utocnik-vrazda-rodina.A261116_151142_zahranicni_dtt"
+    },
+    {
+      "score": 8,
+      "fact": "Kneisslová přiznala, že Vídeň zahájila proces odebrání jejího pasu.",
+      "reason": "Potvrzení absurdní situace s bývalou ministryní v Rusku.",
+      "title": "Chtějí mi vzít rakouské občanství, stěžuje si z Ruska exministryně Kneisslová",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/chteji-mi-vzit-rakouske-obcanstvi-stezuje-si-z-ruska-exministryne-kneisslova.A261116_150527_zahranicni_bro"
+    },
+    {
+      "score": 8,
+      "fact": "Salvadorská armáda získala zpět národní stadion v Port-au-Prince pomocí robotických psů.",
+      "reason": "Vojenská akce s roboty je šokující vizuální detail pro pobaltskou středu.",
+      "title": "Salvadorská armáda chce na Haiti s místními silami potlačit gangy, má i robotické psy",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/salvadorska-armada-chce-s-mistnimi-silami-potlacit-gangy-nasadila-i-roboticke-psy-379648"
+    }
+  ]
+}
