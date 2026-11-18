@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-17",
+  "generated": "2026-11-18T16:28:10+00:00",
+  "stats": {
+    "fetched": 1104,
+    "that_day": 376,
+    "deduped": 333,
+    "scored": 180,
+    "passed": 65,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 10,
+      "fact": "Ušmudlaný gól zničil rekord Petra Čecha, který patřil 25 let.",
+      "reason": "Šokující rozpad historického rekordu velké osobnosti s krátkým a výrazným odpovědí (užmudlaný gól).",
+      "title": "Fotbalová náhoda. Ušmudlaný gól zničil rekord Petra Čecha",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-nejslavnejsi-fotbalova-nahoda-usmudlany-gol-znicil-rekord-petra-cecha-320188"
+    },
+    {
+      "score": 9,
+      "fact": "Bývalý šéf Nvidia Jensen Huang oznámil, že je připraven vrátit se do čela firmy.",
+      "reason": "Konec dramatičního odstoupení světové hvězdy tech světa, jasné jméno.",
+      "title": "Huang je připraven se vrátit do čela Nvidie, bude vypovídat před Kongresem",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-huang-je-pripraven-se-vratit-do-cela-nvidie-bude-vypovidat-pred-kongresem-320817"
+    },
+    {
+      "score": 9,
+      "fact": "Jan Kopic zveřejnil fotku Tomáše Chorého s zdviženým prostředníčkem a vtipkoval o Slavii.",
+      "reason": "Kombo dvou ikon českého fotbalu a nevhodného gesta, skvělá pub historie.",
+      "title": "„Škrábe se?\" Kopic si střílí ze Slavie, zveřejnil fotku Chorého s prostředníčkem",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/skrabe-se-kopic-si-strili-ze-slavie-zverejnil-fotku-choreho-s-prostrednickem/r~aaa292654008d8e6ef53b94ace63fbd2/"
+    },
+    {
+      "score": 9,
+      "fact": "Slovenský primátor Sitor vstoupil na městskou schůzi za hvizdných tónů z filmu Rocky.",
+      "reason": "Vizuálně silné, absurdní a zapamatovatelné video, přesně to pravé.",
+      "title": "Slovenský primátor Sitor vstoupil na schůzi města za zvuků písně z filmu Rocky",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensky-primator-sitor-vstoupil-na-schuzi-mesta-za-zvuku-pisne-z-filmu-rocky-40609079"
+    },
+    {
+      "score": 9,
+      "fact": "Poslanec se zúčastnil hlasování v parlamentu v tradičním lidovém kroji.",
+      "reason": "Klasická quizová otázka: vizuálně silný detail české politiky.",
+      "title": "První krok k sestavení vlády. V Srbsku zasedl nový parlament, většinu mají studenti",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/srbsko-novy-parlament-prvni-zasedani-vetsinu-maji-studenti.A261117_140610_zahranicni_lupr"
+    },
+    {
+      "score": 8,
+      "fact": "Skauti Lukšíček a Valenta seděli v totalitním režimu v lágrech v Jáchymově.",
+      "reason": "Skutečně šokující osud obyčejného skauta pod komuny.",
+      "title": "Za členství ve Skautu lágry v Jáchymově. Pamětníci si připomněli 17. listopad",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/za-clenstvi-ve-skautu-lagry-v-jachymove-pametnici-si-pripomneli-17-listopad-379697"
+    },
+    {
+      "score": 8,
+      "fact": "Michal Strnad se po prodeji akcií Sinochemem stal druhým největším akcionářem Pirelli.",
+      "reason": "Slavný Čech způsobil netypický finanční obrat u globální značky.",
+      "title": "Strnad se stal druhým největším akcionářem Pirelli. Čínský Sinochem prodává",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-strnad-se-stal-druhym-nejvetsim-akcionarem-pirelli-cinsky-sinochem-prodava-320829"
+    },
+    {
+      "score": 8,
+      "fact": "Při čelní srážce vlaků u pražského hlavního nádraží se zranilo 46 lidí.",
+      "reason": "Závažná nehoda s konkrétním a vysokým počtem zraněných o víkendu.",
+      "title": "Srážka vlaků v Praze si vyžádala přes čtyřicet zraněných",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/u-hlavniho-nadrazi-v-praze-se-srazily-dva-vlaky-na-miste-jsou-podle-policie-zraneni-379684"
+    },
+    {
+      "score": 8,
+      "fact": "Babiš oslavil 17. listopad v Izraeli a položil květiny u Havlovy lavičky.",
+      "reason": "Cizinecký politik na místní svátek v zahraničí, specifický detail s Havlem.",
+      "title": "Babišův 17. listopad: Květiny u Havlovy lavičky a setkání s prezidentem Izraele",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/852921/babisuv-17-listopad-kvetiny-u-havlovy-lavicky-a-setkani-s-prezidentem-izraele.html"
+    },
+    {
+      "score": 8,
+      "fact": "Američanka vyhrála při prvním sázení na online loterii přes 42 milionů dolarů.",
+      "reason": "Klasická trefa na vědomostní kolo: překvapivý příběh kombinující 'první pokus' s rekordní částkou.",
+      "title": "Američanka si poprvé vyzkoušela online loterii a hned vyhrála přes 42 milionů",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-americanka-si-poprve-vyzkousela-online-loterii-a-hned-vyhrala-pres-42-milionu-40606733"
+    },
+    {
+      "score": 8,
+      "fact": "Michaela Kuklová prozradila, že herec Jiří Pomej se původně dvořil její mamince.",
+      "reason": "Slavné jméno spojené s osobním, trochu nečekaným anekdotickým detailem.",
+      "title": "Jasněnka Kuklová o Jiřím Pomejem (†54): Nejdřív balil moji mámu!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/852847/jasnenka-kuklova-o-jirim-pomejem-54-nejdriv-balil-moji-mamu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Quentin Tarantino přiznal, že zklamal Brada Pitta tím, že neseřídil pokračování Tenkrát v Hollywoodu.",
+      "reason": "Dvě velké hvězdy a osobní výroci s lehkým tónem.",
+      "title": "Zklamal jsem Brada Pitta, přiznal Quentin Tarantino o pokračování filmu Tenkrát v Hollywoodu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-zklamal-jsem-brada-pitta-priznal-quentin-tarantino-o-pokracovani-filmu-tenkrat-v-hollywoodu-40607601"
+    },
+    {
+      "score": 8,
+      "fact": "Robert Pattinson hraje 26. Jamese Bonda ve filmu, který vyjde letos.",
+      "reason": "Velká filmová novinka, známé jméno, zvláštní spojení (Twilight herec jako Bond).",
+      "title": "GLOSA: Bude Pattinson dobrým Bondem? To nevíme. Ale víme, že je dobrým hercem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/glosa-bude-pattinson-dobrym-bondem-to-nevime-ale-vime-ze-je-dobrym-hercem.A261116_232054_filmvideo_ts"
+    },
+    {
+      "score": 8,
+      "fact": "Babiš údajně slíbil podnikatelům: „Pošlu Karla“ v reference na ministra Havlíčka do Ukrainy.",
+      "reason": "Kontroverzní citát českého premiéra, silný útočný fakt pro diskuse.",
+      "title": "„Pošlu Karla.“ Jak byznys přemlouval Babiše, aby vyslal Havlíčka na Ukrajinu",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-poslu-karla-jak-byznys-premlouval-babise-aby-vyslal-havlicka-na-ukrajinu-320656"
+    },
+    {
+      "score": 8,
+      "fact": "Nejužší dům světa v Polsku má šířku jen 72 centimetrů.",
+      "reason": "Záznam s konkrétním číslem, které zvedá obočí (viz: 'do kuchařky').",
+      "title": "V Polsku stojí nejužší dům světa. Má jen 72 centimetrů, přesto se v něm dá bydlet",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/polsku-stoji-nejuzsi-dum-sveta-ma-jen-72-centimetru-presto-se-v-nem-da-bydlet/r~aaa29be9b761ec94e86081400de72233/"
+    },
+    {
+      "score": 8,
+      "fact": "Ve mới srbském parlamentu mají většinu poslanci ze studentského hnutí.",
+      "reason": "Nepředvídatelný politický zvrat – studenti vládou místo tradionální strany.",
+      "title": "Ukrajinský útok u okupovaného Krymu: Spadl Putinův most!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/852907/ukrajinsky-utok-u-okupovaneho-krymu-spadl-putinuv-most.html"
+    },
+    {
+      "score": 8,
+      "fact": "Ficova vláda na den sametové revoluce projednala spolupráci s Ruskem.",
+      "reason": "Slovenský premiér Robert Fico a kontroverzní rozhodnutí na symbolický den mají vysokou mediální pozornost a šokující charakter.",
+      "title": "Ficova vláda na výročí sametové revoluce projednala spolupráci s Ruskem",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-ficova-vlada-na-vyroci-sametove-revoluce-projednala-spolupraci-s-ruskem-40609067"
+    },
+    {
+      "score": 8,
+      "fact": "Nový papež Lev XVI. nevyloučil, že by jednou duchovními mohli být i ženatí muži.",
+      "reason": "Nová, velká a potenciálně revoluční zpráva od významné světové postavy s konkrétním jménem.",
+      "title": "Papež Lev XVI. neplánuje povolit kněžím svatbu. Nevyloučil ale, že jednou duchovními budou i ženatí",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/papez-lev-xvi-neplanuje-povolit-knezim-svatbu-nevyloucil-ale-ze-jednou_2611171218_cen"
+    },
+    {
+      "score": 8,
+      "fact": "Čínská síť Luckin Coffee má na Manhattanu už přes dvacet poboček, zatímco před rokem žádnou.",
+      "reason": "Konkrétní číslo a překvapivý rychlý růst exotické značky v USA.",
+      "title": "Čínské kavárny v USA bodují. Mladí objevují levnější a pestřejší alternativu",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/cinske-kavarny-v-usa-boduji-mladi-objevuji-levnejsi-a-pestrejsi-alternativu.A261116_115549_eko-zahranicni_jla"
+    },
+    {
+      "score": 8,
+      "fact": "Z Deutsche Bank uniklo více než 15 milionů interních dokumentů, které zmiňují i Epsteina.",
+      "reason": "Vícemiliardový únik dat s kontroverzním jménem (Epstein) v popisu.",
+      "title": "Deutsche Bank unikly interní dokumenty. Odhalují tajnosti miliardářů, zmiňují i Epsteina",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/deutsche-bank-podvody-banka-oligarchove.A261117_094501_zahranicni_jhr"
+    }
+  ]
+}
