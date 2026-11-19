@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-18",
+  "generated": "2026-11-19T16:35:30+00:00",
+  "stats": {
+    "fetched": 1252,
+    "that_day": 559,
+    "deduped": 495,
+    "scored": 180,
+    "passed": 69,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Na premiéře musicalu Drácula v hudebním divadle Karlín Félix Slováček potkal Nikolou Duricovou, známou jako Nymfa Ohnivá.",
+      "reason": "Silný celebritní crossover - vážný heretik a internetová hvězda na jednom pódiu.",
+      "title": "Muzikál Dracula se vrátil. Felix Slováček se setkal s Nymfou",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853006/muzikal-dracula-se-vratil-felix-slovacek-se-setkal-s-nymfou.html"
+    },
+    {
+      "score": 9,
+      "fact": "Muž se policisté identifikoval jako sv. Kajínek a dostal 12 let za přípravu vraždy. Došlo k tomu, když volal na linku s věcí, že je jejím světlem.",
+      "reason": "Neuvěřitelná a smutně komická kriminální historie s konkrétním trestem.",
+      "title": "Muž z Dačic se identifikoval s Kajínkem jako kriminální celebritou. Za přípravu vraždy dostal 12 let",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-muz-z-dacic-se-identifikoval-s-kajinkem-jako-kriminalni-celebritou-za-pripravu-vrazdy-dostal-12-let-40609176"
+    },
+    {
+      "score": 9,
+      "fact": "Obraz Kandinského se prodal za rekordních 85,8 milionu dolarů, nejdražší dílo malíře vůbec.",
+      "reason": "Konkrétní hvězda umění, šokující částka a historický rekord.",
+      "title": "Kandinského obraz překonal rekord, vydražil se za 85,8 milionu dolarů",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/kandinskeho-obraz-prekonal-rekord-vydrazil-se-za-85-8-milionu-dolaru/r~aaa2926550feb46a6d848cc8113ec37d/"
+    },
+    {
+      "score": 9,
+      "fact": "Paris Hiltonová dostala do Kongresu kvůli 100 000 falešným pornovideím.",
+      "reason": "Slavnostní osobnost + šokující detail s číslem.",
+      "title": "Vzniklo se mnou 100 tisíc falešných pornovideí. Nemohu to zastavit, říká Hiltonová",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-vzniklo-se-mnou-100-tisic-falesnych-pornovidei-nemohu-to-zastavit-rika-hiltonova-320894"
+    },
+    {
+      "score": 9,
+      "fact": "Po 30 letech se podařilo vyfotografovat členy izolovaného kmene Awá v Amazonii.",
+      "reason": "Mystický příběh, specifický národ, silné číslo (30 let).",
+      "title": "První fotografie po 30 letech. V Amazonii vyfotili členy izolovaného kmene Awá",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/prvni-fotografie-po-30-letech-v-amazonii-vyfotili-cleny-izolovaneho-kmene-awa/r~aaa29afb5cb71747b36d040e161b4293/"
+    },
+    {
+      "score": 9,
+      "fact": "Německá Deutsche Bank udala syna slovenského premiéra Roberta Fica pro podezření z praní špinavých peněz.",
+      "reason": "Slavnostní jméno (Fico) + překvapivá akce (údaj v cizině) + kontroverze. Ideální věta pro kvíz.",
+      "title": "Německá banka udala Ficova syna pro podezření z praní peněz, premiér to odmítá",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/nemecka-banka-zrusila-ficovu-synovi-ucet-a-udala-ho-pro-podezreni-z-prani-penez.A261118_133340_zahranicni_kha"
+    },
+    {
+      "score": 9,
+      "fact": "KDonaldovi Trumpovi jako tajný dárek dorazil „jantarový trůn“, který vznikl již v roce 2018.",
+      "reason": "Konkrétní, neobvyklý předmět a příběh s prvkem tajnosti.",
+      "title": "Tajný dárek pro Trumpa: Jantarový trůn dostal od polského prezidenta",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/852956/tajny-darek-pro-trumpa-jantarovy-trun-dostal-od-polskeho-prezidenta.html"
+    },
+    {
+      "score": 8,
+      "fact": "GTA VI vyšlo po 13 letech od vydání předchozího dílu série.",
+      "reason": "Věk očekávání a rekordní hit, specifické číslo 13 let.",
+      "title": "Je tu GTA VI. Očekávají se stamiliardové tržby, unavené palce i kritika",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/je-tu-gta-6-ocekavaji-se-stamiliardove-trzby-unavene-palce-i-kritika-379721"
+    },
+    {
+      "score": 8,
+      "fact": "Tomas Gudas nechce končit a chce hrát hokejový Světový pohár v Praze poté, co v NHL odhrál 900. utkání.",
+      "reason": "Sportovní milník spojený s konkrétním čísem a velkými plány (Světový pohár).",
+      "title": "Gudas po překonání 900 zápasů v NHL končit nechce. ‚Chci hrát světový pohár v Praze,‘ říká",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/hokej/radko-gudas-florida-panthers-nhl_2611181946_bvo"
+    },
+    {
+      "score": 8,
+      "fact": "Izolovaný kmen Awá v Amazonii vystupil z pralesa po 30 letech za účelem zisku potravin.",
+      "reason": "Konkrétní unikátní událost s reálným časovým rozmezím (30 let).",
+      "title": "Neobvyklá podívaná v Amazonii: Z pralesa se po 30 letech vynořil izolovaný kmen",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/853007/neobvykla-podivana-v-amazonii-z-pralesa-se-po-30-letech-vynoril-izolovany-kmen.html"
+    },
+    {
+      "score": 8,
+      "fact": "Jediná jaderná exploze na oběžné dráze dokáže zničit téměř všechny družice.",
+      "reason": "Shokující fakta pro láhev, ideální pro kolo \"víte, že...\".",
+      "title": "Jediná jaderná exploze na orbitě může zničit skoro všechny družice",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/jedina-jaderna-exploze-na-orbite-muze-znicit-skoro-vsechny-druzice-379714"
+    },
+    {
+      "score": 8,
+      "fact": "Marek Eben si po hostu Jesse Eisenbergovi osládl tisíc dílu Na Plovárně.",
+      "reason": "Slavnostní host z populárního českého pořadu tvoří výborný trivia fakt.",
+      "title": "Marek Eben slaví tisíc dílů Na plovárně. Jubilejním hostem bude Jesse Eisenberg",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/marek-eben-slavi-tisic-dilu-na-plovarne-jubilejnim-hostem-bude-jesse-eisenberg.A261117_095934_filmvideo_nh"
+    },
+    {
+      "score": 8,
+      "fact": "Hakeem Jeffries se stane prvním černochem v čele americké Sněmovny reprezentantů.",
+      "reason": "Historický milník s konkrétním jménem.",
+      "title": "Demokraté nominovali do čela Sněmovny Jeffriese. Slíbil tvrdý boj proti korupci",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/demokrate-jeffries-snemovna-reprezentantu-kongres-usa.A261118_190750_zahranicni_dtt"
+    },
+    {
+      "score": 8,
+      "fact": "Americká Sněmovna reprezentantů poprvé v historii vede černoch.",
+      "reason": "Stejný silný fakt, méně specifický bez jména.",
+      "title": "Sněmovnu reprezentantů poprvé povede černoch. Demokraté nominovali Jeffriese",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-snemovnu-reprezentantu-poprve-povede-cernoch-demokrate-nominovali-jeffriese-320925"
+    },
+    {
+      "score": 8,
+      "fact": "Deutsche Bank chtěla zrušit účet syna Roberta Fica kvůli podezřelým platbám.",
+      "reason": "Cizí politická aféra s konkrétní institucí a jménem.",
+      "title": "Deutsche Bank chtěla podle uniklých dokumentů zrušit účet Ficova syna kvůli podezřelým platbám",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/deutsche-bank-podle-uniklych-dokumentu-zrusila-ucet-ficova-syna-kvuli-podezrelym_2611181622_ntu"
+    },
+    {
+      "score": 7,
+      "fact": "Miloš Vondráček si na Národní třídě zahrál na kytaru.",
+      "reason": "Projevy politiků po Národce, konkrétní a nečekaný detail.",
+      "title": "Dozvuky Národky: Vondráček vytáhl kytaru. Pekarová v centru dění, vysmátý Pavel i Juchelka inkognito",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/853017/dozvuky-narodky-vondracek-vytahl-kytaru-pekarova-znovu-v-centru-deni-juchelka-inkognito.html"
+    },
+    {
+      "score": 7,
+      "fact": "NSÚ vrátil zpět do hry o senát Radka Černého, který v prvním kole nepostoupil o jediný hlas.",
+      "reason": "Dramatický prvek jedna-hlas v právním sporu o Senát.",
+      "title": "Soud vrátil zpátky do hry o Senát Černého i Šmardu, Klement se cítí silnější",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/volby-do-senatu-soud-vratil-zpatky-do-hry-o-senat-cerneho-i-smardu-klement-se-citi-silnejsi-40609322"
+    },
+    {
+      "score": 7,
+      "fact": "Ruské ministerstvo uznalo chybu při výmazu veršů o alkoholu z Puškinovy básně v učebnici.",
+      "reason": "Kuriosita o cenzuře literatury pro děti, napodobitelné téma.",
+      "title": "Z Puškinovy básně zmizel alkohol. Nepřípustné, uznalo ruské ministerstvo po kritice",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/z-puskinovy-basne-zmizel-alkohol-nepripustne-uznalo-ruske-ministerstvo-po-kritice-379723"
+    },
+    {
+      "score": 7,
+      "fact": "Italský cyklista Domenico Pozzovivo bude ve 44 letech dál hrát profesionálně, a je nejstarší aktivní závodník.",
+      "reason": "Správna sportovní kuriozita s jasným jménem a věkem.",
+      "title": "Šokoval úspěchem v Česku. A italský matador ani ve 44 letech s cyklistikou nekončí",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/cyklistika-sokoval-uspechem-v-cesku-a-italsky-matador-ani-ve-44-letech-s-cyklistikou-nekonci-5578456"
+    },
+    {
+      "score": 7,
+      "fact": "Krokodýlí zoo v Protivíně zachránila trước ženu gaviála, jíž hrozila smrt v Anglii.",
+      "reason": "Zvíře + překvapivé místo + zachráněný život, typický \"skvělý příběh\".",
+      "title": "V Anglii chtěli samici gaviála sundského utratit. Zachránila ji Krokodýlí ZOO v Protivíně",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-v-anglii-chteli-samici-gaviala-sundskeho-utratit-zachranila-ji-krokodyli-zoo-v-protivine-40608988"
+    }
+  ]
+}
