@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-19",
+  "generated": "2026-11-20T16:12:38+00:00",
+  "stats": {
+    "fetched": 1264,
+    "that_day": 554,
+    "deduped": 502,
+    "scored": 180,
+    "passed": 66,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Karel Janeček ukonчил nadaci Science 21 po kritice, že má rysy sekty.",
+      "reason": "Kontroverzní konec známé instituce s konkrétním důvodem (odkaz na sektu).",
+      "title": "Konec nadace Karla Janečka: Guruovi zrušil sektu!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853018/konec-nadace-karla-janecka-guruovi-zrusil-sektu.html"
+    },
+    {
+      "score": 9,
+      "fact": "Sonda Voyager 1 dosáhla vzdálenosti jednoho světelného dne od Země.",
+      "reason": "Mílník s konkrétním číslem a známy sondou (Voyager 1).",
+      "title": "Sonda Voyager 1 potvrdila, že se nachází jeden světelný den od Země",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-sonda-voyager-1-potvrdila-ze-se-nachazi-jeden-svetelny-den-od-zeme-40609542"
+    },
+    {
+      "score": 9,
+      "fact": "James Blunt si úředně změnil jméno na Ryan Bel Air jako odznáčení za prodej alba.",
+      "reason": "Slavný zpěvák, jednonožná odpověď, absurdní příběh se sázkou.",
+      "title": "Ryan Bel Air. KvĹŻli sázce si James Blunt oficiálnÄ› mÄ›ní jméno podle aerolinky",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/hudba/james-blunt-zmena-jmena-airplane-mode-ryan-air.A261119_161258_hudba_aya"
+    },
+    {
+      "score": 9,
+      "fact": "Macaulay Culkin se po 30 letech vrátil v nové reklamě ke svému ikonickému Kevinovi z filmu Sám doma.",
+      "reason": "Slavná hvězda + emotivní návrat po 30 letech, skvělé spojení s vánočním tématem.",
+      "title": "Kevin ze Sám doma je zpátky. Macaulay Culkin si slavnou roli zopakoval v reklamě",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kevin-ze-sam-doma-je-zpatky-macaulay-culkin-si-slavnou-roli-zopakoval-v-reklame/r~aaa29fcfa5469032158b775e66dc6711/"
+    },
+    {
+      "score": 9,
+      "fact": "Fotbalista Alan Ruschel ukončil kariéru po přežití letecké nehody z roku 2016.",
+      "reason": "Inspirativní a šokující příběh přežití a dědictví tragédie.",
+      "title": "Při tragédii zahynulo 71 lidí, on přežil. Oblíbený fotbalista se teď ve velkém stylu rozloučil s kariérou",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-prezil-pad-letadla-a-znovu-se-naucil-chodit-ted-se-brazilec-stylove-rozloucil-s-fotbalem-5578870"
+    },
+    {
+      "score": 9,
+      "fact": "Olympijská vítězka Peres Jepchirchirová dostala tříletou stopku za krevní doping EPO.",
+      "reason": "Šokující návrat světové špičky do dopingové aféry s konkrétní osobou a trestem.",
+      "title": "Úřadující mistryně světa a olympijská vítězka z Tokia vyfasovala tříletou stopku za doping",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/atletika-uradujici-mistryne-sveta-v-maratonu-a-olympijska-vitezka-z-tokia-dostala-trilety-distanc-za-doping-5578867"
+    },
+    {
+      "score": 9,
+      "fact": "Anthropic provedla největší debut na burze v historii s výtěžkem 81,3 miliardy dolarů.",
+      "reason": "Rekordní ekonomická událost s jasným číslem a novým lídrem (Anthropic) v oblasti AI.",
+      "title": "Anthropic uskutečnil největší primární veřejnou nabídku akcií v historii",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/anthropic-uskutecnil-nejvetsi-primarni-verejnou-nabidku-akcii-v-historii-379742"
+    },
+    {
+      "score": 9,
+      "fact": "Šéf Nvidie Jensen Huang odstupuje na pozadí kvůli odhaleným mimomanželským vztahům.",
+      "reason": "Velká technologická firma, konkrétní osoba a skandální důvod odchodu jsou ideální pro kvíz.",
+      "title": "Nvidia čelí největší zkoušce své historie",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nvidia-celi-nejvetsi-zkousce-sve-historie-379732"
+    },
+    {
+      "score": 9,
+      "fact": "Podle aukční domy se Van Goghův obraz 'Kvetoucí kaštany' stal jeho dosud nejdražším vydraženým dílem.",
+      "reason": "Art market record with specific painting title and status (most expensive by him)",
+      "title": "Van Goghův obraz se vydražil za 190 milionů dolarů, je jeho nejdražším dílem",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-van-goghuv-obraz-se-vydrazil-za-190-milionu-dolaru-je-jeho-nejdrazsim-dilem-320948"
+    },
+    {
+      "score": 8,
+      "fact": "Mistryně světa Magdaléna Sailerová poslala komikovi Kozubovi vzkaz poté, co použil slovo „degen“.",
+      "reason": "Konflikt mezi známým komikem a úspěšnou sportovkyní je silným zážitkovým příběhem.",
+      "title": "Ahoj, Štěpáne, já jsem ten degen. Mistryně světa poslala Kozubovi vzkaz",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/stepan-kozub-vzkaz-ahoj-ja-jsem-degen.A261119_201804_domaci_mul"
+    },
+    {
+      "score": 8,
+      "fact": "René Haas, jenž kdysi u Jana Huanga propadl zkoušce, je již možným nástupcem zakladatele Nvidie.",
+      "reason": "Konkrétní osoba, překvapivý obrat kariéry a spojení s velkou technologickou firmou.",
+      "title": "Kdysi ho Huang zkoušel u tabule. Teď může Haas vést Nvidii",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-kdysi-ho-huang-zkousel-u-tabule-ted-muze-haas-vest-nvidii-321040"
+    },
+    {
+      "score": 8,
+      "fact": "Van Goghův obraz Kvetoucí kaštany se prodal za 190 milionů dolarů, rekord pro autora.",
+      "reason": "Konkrétní velké číslo, slavné jméno, řádové rekordní prodejní cena.",
+      "title": "Van Goghův aukční rekord za Kvetoucí kaštany málem zhatila minulost",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/van-goghuv-aukcni-rekord-za-kvetouci-kastany-malem-zhatila-minulost-379757"
+    },
+    {
+      "score": 8,
+      "fact": "Komik Štěpán Kozub přitáhl silnou kritiku kvůli tomu, že děti s handicapem nazval „degeny“.",
+      "reason": "Známá česká postava ve kontroverzním momentu, jasná odpověď na otázku o jménu.",
+      "title": "Ĺ kodlivé, dehonestace. Kapelu The Tap Tap dopálila Kozubova slova o â€ždegenechâ€ť",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/the-tap-tap-vysvetluji-proc-reagovali-na-kozubova-slova-o-degenech.A261119_131505_domaci_stvo"
+    },
+    {
+      "score": 8,
+      "fact": "Britský výzkum ukázal, že nad mnoha městy je vidět už víc družic než hvězd.",
+      "reason": "Překvapivý a vizuálně silný fakt o změně noční oblohy, odemyká citlívé téma.",
+      "title": "Nad mnoha městy už je vidět víc družic než hvězd, říká britská zpráva",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/nad-mnoha-mesty-uz-je-videt-vic-druzic-nez-hvezd-rika-britska-zprava-379754"
+    },
+    {
+      "score": 8,
+      "fact": "Ukradená bronzová socha žabáka se po téměř 20 letech vrátila na sídliště Ďáblice.",
+      "reason": "Sympatická lokální historie s přesným časovým útržkem (20 let) a konkrétním objektem.",
+      "title": "Bronzový žabák opět hlídá sídliště Ďáblice, Praha 8 upravila i okolí sochy",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-bronzovy-zabak-opet-hlida-sidliste-dablice-praha-8-upravila-i-okoli-sochy-40609401"
+    },
+    {
+      "score": 8,
+      "fact": "Van Goghův obraz Kvetoucí kaštany se vydražil za rekordních 190,4 milionu dolarů.",
+      "reason": "Konkrétní rekordní částka za slavné dílo je klasická témka do výzvy.",
+      "title": "Rekordní van Gogh. ÄŚtvrtý nejdraĹľĹˇí obraz vĹˇech dob provázel spor z ÄŤasĹŻ nacismu",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/vytvarne-umeni/van-gogh-obraz-umeni-aukce-obraz.A261119_091135_vytvarne-umeni_pluh"
+    },
+    {
+      "score": 8,
+      "fact": "Faktury pro Putina napojeného dezinformátora Doucana platili tajní agenti z Česka.",
+      "reason": "Nepředvídatelný spoj do ČR a špionážní láhev, která rozbíjí stereotypy.",
+      "title": "Putinův americký dezinformátor: Faktury za něj řešili komplici z Česka, peníze šly od špionů",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/853080/putinuv-americky-dezinformator-faktury-za-nej-resili-komplici-z-ceska-penize-sly-od-spionu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Čínský lídr Si Ťin Putinův přílet v Šen-čenu okázale ignoroval.",
+      "reason": "Konkrétní a nesympatický detail diplomatů, který divák zapoměne.",
+      "title": "Velký čínský summit: Putin nedostal uvítání ani hymnu, Trump slovo",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/853061/velky-cinsky-summit-putin-nedostal-uvitani-ani-hymnu-trump-slovo.html"
+    },
+    {
+      "score": 8,
+      "fact": "Čínský prezident Si Ťin-pching navrhl Trumpovi a Putinovi zničit všechny jaderné zbraně.",
+      "reason": "Velmi nepravděpodobný a šokující návrh od čínského lídra.",
+      "title": "Zakažme a zničme všechny jaderné zbraně, navrhl Si Trumpovi a Putinovi",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-historicke-setkani-v-cine-schuzka-trumpa-putina-a-siho-40609362"
+    },
+    {
+      "score": 8,
+      "fact": "Ukrajinské dronové údery snížily ruské zpracování ropy na rafineriích o 45 procent.",
+      "reason": "Specific, surprising statistic (45%) breaking ongoing conflict narrative",
+      "title": "Ukrajinské údery na ruské rafinerie výrazně snížily objem zpracování ropy, píše Reuters",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajinske-udery-na-ruske-rafinerie-vyrazne-snizily-objem-zpracovani-ropy-pise-reuters-379739"
+    }
+  ]
+}
