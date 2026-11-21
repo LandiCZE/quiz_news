@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-20",
+  "generated": "2026-11-21T15:23:06+00:00",
+  "stats": {
+    "fetched": 1092,
+    "that_day": 557,
+    "deduped": 512,
+    "scored": 180,
+    "passed": 67,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "GTA 6 za jediný den přečila tržbám více jak 85 miliard korun, což je historický rekord.",
+      "reason": "Ostatní rekordní číslo u známé značky s konkrétním výsledkem.",
+      "title": "Historický rekord. GTA VI za 24 hodin dosáhla tržeb přes 85 miliard korun",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/historicky-rekord-gta-vi-za-24-hodin-dosahla-trzeb-pres-85-miliard-korun/r~aaa29cf9cf7e31218a8ebf9c0fc3d802/"
+    },
+    {
+      "score": 9,
+      "fact": "Videohra Grand Theft Auto 6 za prvních 24 hodin vydělala 3,79 miliardy dolarů.",
+      "reason": "Stejná událost jako výše, kulturní fenomén s impozantním číslem.",
+      "title": "Videohra Grand Theft Auto 6 za první den dosáhla rekordních tržeb 3,79 miliardy dolarů",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/technologie/videohra-grad-theft-auto-6-za-prvni-den-dosahla-rekordnich-trzeb-379-miliardy_2611202158_cen"
+    },
+    {
+      "score": 9,
+      "fact": "Nová lanovka ve Špindlerově Mlýně převezla nikoli lidi, ale 257 sudů s pivem.",
+      "reason": "Vtipný a vizuálně silný detail, klíčové slovo je 'sudy'.",
+      "title": "Místo pasažérů 257 sudů s pivem. Nová lanovka ve Špindlerově Mlýně zvládla zátěžový test",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/misto-pasazeru-257-sudu-s-pivem-nova-lanovka-ve-spindlerove-mlyne-zvladla_2611202050_jho"
+    },
+    {
+      "score": 9,
+      "fact": "V Budapešti proběhlo 35. výročí smrti Freddieho Mercuryho s výstavou.",
+      "reason": "Skutečná událost s jasným jménem a výročím, ideální pro quiz.",
+      "title": "35 let bez Freddieho Mercuryho: Výstava v Budapešti ukazuje jeho poklady za miliony",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/853108/35-let-bez-freddieho-mercuryho-vystava-v-budapesti-ukazuje-jeho-poklady-za-miliony.html"
+    },
+    {
+      "score": 9,
+      "fact": "Nejstarší dánská žena ve věku 112 let se ukázala být bývalou nacistkou.",
+      "reason": "Silný kontrast mezi legendou o长寿 a šokujícím záznamem; perfektní na „shokující zprávu“.",
+      "title": "Do hrobu si to nevezme. Nejstarší Dánku ve 112 letech odhalili jako nacistku",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-do-hrobu-si-to-nevezme-nejstarsi-danku-ve-112-letech-odhalili-jako-nacistku-40609611"
+    },
+    {
+      "score": 9,
+      "fact": "Šéf ODS Martin Kupka utíkal před ruskými raketami z večeře do kyjevského krytu.",
+      "reason": "Konkrétní česká politická osobnost ve situações dramatického světového kontextu.",
+      "title": "Dramatická noc šéfa ODS v Kyjevě. Ruské rakety ho zastihly, když se vracel z večeře",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/domaci/clovek-musi-zatinat-pesti-sef-ods-stravil-noc-v-krytu-behem-utoku-rusu/r~aaa2938417a83aa31546344911d50be5/"
+    },
+    {
+      "score": 9,
+      "fact": "Dánsko zmařilo ruský pokus o atentát na americko-ukrajinského rappera v Kodani.",
+      "reason": "Konkrétní osoba (rapper) a šokující skutek (zmařená vražda).",
+      "title": "Dánsko podezírá dva občany, že je Rusko najalo k vraždě americko-ukrajinského rappera",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/dansko-podezira-dva-obcany-ze-je-rusko-najalo-k-vrazde-americko-ukrajinskeho-rappera-379800"
+    },
+    {
+      "score": 9,
+      "fact": "Dánsko vyhostilo ruského diplomat kvůli pokusu o atentát na ukrajinského rappera.",
+      "reason": "Kombinace specifické akce a zvláštní oběti (rapper) působí jako šokující zpráva.",
+      "title": "Kreml plánoval atentát v Dánsku?! Kodaň vyhostí ruského diplomata",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/853192/kreml-planoval-atentat-v-dansku-kodan-vyhosti-ruskeho-diplomata.html"
+    },
+    {
+      "score": 9,
+      "fact": "Slovenská modelka Naďa Marcinková prý vybírala ženy pro Jeffreyho Epsteina i v Praze.",
+      "reason": "Spojení lokálního jména s celosvětově známou aférou Epsteinův sítí, unikátní insider detail.",
+      "title": "Modelka Marcinková vybírala ženy pro predátora Epsteina i na kurzech v Praze, uvádějí svědkyně",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-modelka-marcinkova-vybirala-zeny-pro-predatora-epsteina-i-na-kurzech-v-praze-uvadeji-svedkyne-40609702"
+    },
+    {
+      "score": 9,
+      "fact": "Trump při reakci na Tuska spletl polského premiéra s prezidentem Nawrockým.",
+      "reason": "Konkrétní publička presidentů se specifickými jmény, ideální pro kvíz.",
+      "title": "Trump reagoval na Tuska. Spletl si ho s Nawrockým",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-trump-reagoval-na-tuska-spletl-si-ho-s-nawrockym-321129"
+    },
+    {
+      "score": 9,
+      "fact": "Putinův přílet do Číny sledoval pouze sekretář, zatímco Si Ťin-pching osobně vítal Trumpa.",
+      "reason": "Silný vizuální kontrast mezi prezidenty, jasné jména a humorný/ironický podtón.",
+      "title": "Putin v Číně vedle Trumpa působí jako druhořadý host, má jasno internet",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/putin-v-cine-vedle-trumpa-pusobi-jako-druhorady-host-ma-jasno-internet/r~aaa2976a07e77fe68f08ce594ccef0c5/"
+    },
+    {
+      "score": 9,
+      "fact": "Slavná hrošice Fionna zemřela poté, co snědla čepici.",
+      "reason": "Smrt známého zvířete z absurdní příčiny.",
+      "title": "Snědla čepici a zemřela. Lidé oplakávají slavnou hrošici Fionu, zuří na nevychovance",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/snedla-cepici-a-zemrela-lide-oplakavaji-slavnou-hrosici-fionu-zuri-na-nevychovance/r~aaa29265cf2a6b136ada3689f082a34a/"
+    },
+    {
+      "score": 8,
+      "fact": "Průzkumník Jindra Chudárek předal Babišovi podklady o poplatcích, přestože Jiří Zavoral nebyl na schůzku pozván.",
+      "reason": "Konkrétní moment, kdy vidina napadení s Chudárkem zaskládá oficiální Zavoralů představitel.",
+      "title": "‚Je tam částka a garance.‘ Chudárek předal Babišovi připomínky.  Zavoral na schůzku pozvaný nebyl",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/je-tam-castka-a-garance-chudarek-predal-babisovi-pripominky-k-financovani_2611201549_tez"
+    },
+    {
+      "score": 8,
+      "fact": "Herečka Iva Janžurová se jako nejmladší v historii objevila na titulce módního časopisu Vogue.",
+      "reason": "Nečekaná kombinace české herečky a světové módy, silnýBuzz.",
+      "title": "Janžurová (85) na titulce Vogue: Porazila strach a závist!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853122/janzurova-85-na-titulce-vogue-porazila-strach-a-zavist.html"
+    },
+    {
+      "score": 8,
+      "fact": "Herec ze S.W.A.T. a Přátel Larry Poindexter zemřel po srážce s autem před operací.",
+      "reason": "Šokující smrt známé celebrity s neobvyklou příčinou (srážka před operací).",
+      "title": "Hollywood pláče! Tragická smrt hvězdy z Přátel a akčního trháku: Srazil ho vůz, zemřel těsně před operací",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/853168/hollywood-place-tragicka-smrt-hvezdy-z-pratel-a-akcniho-trhaku-srazil-ho-vuz-zemrel-tesne-pred-operaci.html"
+    },
+    {
+      "score": 8,
+      "fact": "Grónsko letos přišlo o 135 miliard tun ledu.",
+      "reason": "Shockující číslo ukrajnвающее o změně klimatu, krásné pro kvíz.",
+      "title": "Grónsko letos přišlo o 135 miliard tun ledu",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/gronsko-letos-prislo-o-135-miliard-tun-ledu-379782"
+    },
+    {
+      "score": 8,
+      "fact": "Starosta New Yorku podepsal zákon o zákazu koňských drožek do roku 2028.",
+      "reason": "Jasná a specifická událost („zákaz koňských vozů“), láka na snadnou ale chytrou otázku.",
+      "title": "Koňské povozy v New Yorku končí. Starosta podepsal dlouho diskutovaný návrh zákona",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/doprava/konske-povozy-v-new-yorku-konci-starosta-podepsal-dlouho-diskutovany-navrh-zakona.A261120_101523_eko-doprava_jadv"
+    },
+    {
+      "score": 8,
+      "fact": "Metoděj Jílek vyhrál druhý závod SP v Japonsku v čase 6:00,27 minuty.",
+      "reason": "Specifický rekordní čas a triumf na mezinárodní scéně.",
+      "title": "Brutální Jílek drtí konkurenci. Vyhrál i druhý závod SP, zajel si osobní rekord",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/brutalni-jilek-drti-konkurenci-vyhral-i-druhy-zavod-sp-zajel-si-osobni-rekord/r~aaa293569447239a4ae821aeb4906457/"
+    },
+    {
+      "score": 8,
+      "fact": "Mluvčí ruského ministerstva zahraničí označila českého ministra Macinku za neonacistu po jeho slovech o hokejistech.",
+      "reason": "Šokující a urážlivá reakce cizí diplomacie na českého ministra, konkrétní jména.",
+      "title": "Nadutec, bojí se žen, vmetla Macinkovi mluvčí ruské diplomacie. Z Černínu přišla ironická reakce",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/je-naduty-a-boji-se-zen-zacharovova-se-kvuli-vyrokum-o-muzatkach-obula-do-macinky/r~aaa294c37c86be3553a83670d5d623c5/"
+    },
+    {
+      "score": 7,
+      "fact": "Petr Svoboda vylíčil otcův krísový manévr, díky kterému zůstal s vilou za 75 milionů korun.",
+      "reason": "Využívá jméno slavného otce a zajímavou osobní historii spojenou s nemovitostí.",
+      "title": "Syn Karla Svobody (†68) Petr: Manévry s vilou za 75 milionů po tátovi!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853062/syn-karla-svobody-68-petr-manevry-s-vilou-za-75-milionu-po-tatovi.html"
+    }
+  ]
+}
