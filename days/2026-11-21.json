@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-21",
+  "generated": "2026-11-22T15:20:36+00:00",
+  "stats": {
+    "fetched": 933,
+    "that_day": 386,
+    "deduped": 352,
+    "scored": 180,
+    "passed": 59,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Slovenský folklorní soubor tančil u japonské svatyně a ambasáda se musela omluvit.",
+      "reason": "Vtipný kulturní skeč a slovenská vazba, ideální na letitou otázku.",
+      "title": "Slovenský skandál v Tokiu. Folklorní soubor tančil u svatyně, ambasáda se musela omluvit",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/slovensky-skandal-v-tokiu-folklorni-soubor-tancil-u-svatyne-ambasada-se-musela_2611211527_mst"
+    },
+    {
+      "score": 9,
+      "fact": "Čtyřicetiletý herec Robert Pattinson se stane novým Jamesem Bondem.",
+      "reason": "Velká světová hvězda se spojuje s nejslavnější agenturou, unikátní skutečnost.",
+      "title": "Co bude mít nový Bond na zápěstí. Firmy se přetahují o nejhodnotnější franšízu",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/robert-pattinson-james-bond-znacky.A261118_090436_eko-zahranicni_elsy"
+    },
+    {
+      "score": 9,
+      "fact": "Baskytarista Suzanne Veldy byl zatčen, a tak si na koncertu v Glastonbury nasadila neprůstřelnou vestu.",
+      "reason": "Kontextová historická látka s nečekaným detailem (neprůstřelná vesta).",
+      "title": "SEX, STORY, ROKENROL: Suzanne Vega musela koncertovat v neprůstřelné vestě",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-sex-story-rokenrol-suzanne-vega-musela-koncertovat-v-neprustrelne-veste-40609564"
+    },
+    {
+      "score": 8,
+      "fact": "Americký Senát uctil památku hrošice Fiony, která sežrala čepici.",
+      "reason": "Úsměvný, avivý a specifický fakt o zvířeti.",
+      "title": "Památku slavné hrošice Fiony, která sežrala čepici, uctil americký Senát",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slavna-hrosice-fiona-uhynula-po-spolknuti-cepice-jeji-pamatku-uctil-americky-senat.A261121_172736_zahranicni_ichuc"
+    },
+    {
+      "score": 8,
+      "fact": "Mexická armáda dopadla bosse Mezera Flores, jednoho z nejhledanějších pašeráků fentanylu.",
+      "reason": "Jasný úlov s přepůlkou, konkrétní jméno a narativ akce.",
+      "title": "Mexická armáda dopadla drogového bosse ze seznamu nejhledanějších osob FBI",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-mexicka-armada-dopadla-drogoveho-bosse-ze-seznamu-nejhledanejsich-osob-fbi-321208"
+    },
+    {
+      "score": 8,
+      "fact": "Přes 100 milionů krabů zahájilo na Vánočním ostrově svou každoroční migraci.",
+      "reason": "Konkrétní číslo (100 milionů) a místní odznak (Vánoční ostrov) tvoří silný trivia fact.",
+      "title": "Fotky: Miliony červených poutníků. „Vánoční“ krabi zahájili cestu o život",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-miliony-cervenych-poutniku-vanocni-krabi-zahajili-cestu-o-zivot-321116"
+    },
+    {
+      "score": 8,
+      "fact": "Newyorský starosta Mamdani si při fotbale proti novinářům natrhl Achillovu šlachu.",
+      "reason": "Nečekaná zdravotní událost u nové hvězdy politiky s humorným kontextem.",
+      "title": "„Neprotáhl jsem se.“ Starosta New Yorku Mamdani si při fotbale natrhl Achillovu šlachu",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/neprotahl-jsem-se-starosta-new-yorku-mamdani-si-pri-fotbale-natrhl-achillovu-slachu/r~aaa293fd0bdede643485a6b463de554d/"
+    },
+    {
+      "score": 8,
+      "fact": "Ruské rakety zasáhly Kryvyj Rih, což je rodiště ukrajinského prezidenta Vladimira Zelenského.",
+      "reason": "Konkrétní osudové místo spojené s vlajkovou postavou války",
+      "title": "Mrtvé dítě i záchranářka, mnoho raněných. Ruské rakety zasáhly Zelenského rodiště",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ruske-drony-kryvyj-rih-zemreli-dite-zachranarka-58-zranenych.A261121_080051_zahranicni_sahu"
+    },
+    {
+      "score": 8,
+      "fact": "Zkušení testy nové lanovky ve Špindlu proběhly s 257 sudy z Plzeňského pivovaru.",
+      "reason": "Vizuálně zajímavý detail a překvapivé použití piva jako testovací zátěže.",
+      "title": "Sudy s plzeňským pivem prověřily novou lanovku ve Špindlerově Mlýně",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-sudy-s-plzenskym-pivem-proverily-novou-lanovku-ve-spindlerove-mlyne-40609816"
+    },
+    {
+      "score": 8,
+      "fact": "Fillov obraz Zátiší s kytarou se vydražilo v Praze za 24,55 milionu korun.",
+      "reason": "Konkrétní částka za známého českého malíře je typický a solidní kvízový fakt.",
+      "title": "Fillovo Zátiší s kytarou se v Praze vydražilo za takřka 25 milionů",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/koktejl-fillovo-zatisi-s-kytarou-se-v-praze-vydrazilo-za-takrka-25-milionu-40609845"
+    },
+    {
+      "score": 8,
+      "fact": "Rafael Nadal byl zvolen do představenstva fotbalového klubu Real Madrid.",
+      "reason": "Slavný tenista v nečekané roli ve fotbalovém klubu.",
+      "title": "Bývalý tenista Nadal je členem vedení fotbalového Realu, získal většinu hlasů",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-la-liga-byvaly-tenista-nadal-je-clenem-vedeni-fotbaloveho-realu-ziskal-vetsinu-hlasu-5580043"
+    },
+    {
+      "score": 8,
+      "fact": "Matka dítěte po tragické nehodě u svatby obdržela propouštěcí rozpis od svaté instituce.",
+      "reason": "Nečekatelný a morálně otřesný děj, silný emocionální hák pro posluchače.",
+      "title": "Buď Praha sobě, anebo koalice s ANO. Scheinherr dal ultimátum stranické buňce v Praze 12",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/volby-komunalni-bud-praha-sobe-anebo-koalice-s-ano-scheinherr-dal-ultimatum-stranicke-bunce-v-praze-12-40609698"
+    },
+    {
+      "score": 8,
+      "fact": "James Harden v NBA odehrál 26. zápas s alespoň 50 body a předstihl Kobeho Bryanta v příčce historie.",
+      "reason": "Konkrétní sportovní rekord s jasným jménem a číslem.",
+      "title": "Harden dal v NBA Indianě 51 bodů a odpoutal se od Kobeho Bryanta",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/basketbal-harden-dal-v-nba-indiane-51-bodu-a-odpoutal-se-od-kobeho-bryanta-5580031"
+    },
+    {
+      "score": 8,
+      "fact": "Harry Kane si v zápase Bayernu přetrhl vaz v kotníku a čeká ho pauza na několik měsíců.",
+      "reason": "Zranění aktuálního držitele Zlatého míče je velká zpráva pro fanatické fanoušky.",
+      "title": "Nejlepší fotbalista světa proti Slavii nenastoupí. Čeká ho pauza na několik měsíců",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/nejlepsi-fotbalista-sveta-proti-slavii-nenastoupi-ceka-ho-pauza-na-nekolik-mesicu/r~aaa29244630584d599bbd4d885dbc42a/"
+    },
+    {
+      "score": 8,
+      "fact": "Po 35 letech se Macaulay Culkin vrací do ruolo v pokračování filmu Sám doma.",
+      "reason": "Silný mediální hit, specifický herec a konkrétní počet let od posledního dílu.",
+      "title": "Vzniká pokračování filmu Sám doma, po 35 letech první s Macaulayem Culkinem",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-sam-doma-culkin-pokracovani-321195"
+    },
+    {
+      "score": 8,
+      "fact": "Čínský Rolls-Royce přivázaný k baterii místo ní obsahuje dvě vestavěné ledničky.",
+      "reason": "Vtipný a konkrétní detail luxusního vozu, ideální pro kvíz.",
+      "title": "Všichni doufali v převratnou baterku. Čínský Rolls-Royce místo ní přivezl dvě ledničky",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/auto/elektromobilita/elektromobily/vsichni-doufali-v-prevratnou-baterku-cinsky-rolls-royce-misto-ni-privezl-dve-lednicky/r~aaa294dc7942c41746711744cc919e9d/"
+    },
+    {
+      "score": 8,
+      "fact": "Leonardo DiCaprio slavil 52. narozeniny s Al Pacinim a autobusem krasavic.",
+      "reason": "Hvězdné jméno, divoká oslava a kuriózní detail s autobusem.",
+      "title": "DiCaprio slavil narozeniny: Autobus sexy holek pro Leonarda",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/853106/di-caprio-slavil-narozeniny-autobus-sexy-holek-pro-leonarda.html"
+    },
+    {
+      "score": 7,
+      "fact": "Benefiční čas StarDance vyzbírال přes 41 milionů korun pro centrum Paraple.",
+      "reason": "Konkrétní číslo a známá televizní soutěž, zábavný fakt o charitě.",
+      "title": "Ve StarDance se vybralo přes 41 milionů korun",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-ve-stardance-se-v-sobotu-nevyrazuje-40609567"
+    },
+    {
+      "score": 7,
+      "fact": "Z letiště Karlovy Vary letos do Turecka odletěl přes 11 tisíc lidí, což je nejčastější trasa.",
+      "reason": "Zajímavá statistika o návštěvnosti, která může budit údiv u posluchačů.",
+      "title": "Karlovy Vary – Antalya, nejčastější volba. Z lázeňského letiště do Turecka letos cestovalo přes 11 tisíc lidí",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/karlovy-vary-antalya-nejcastejsi-volba-z-lazenskeho-letiste-do-turecka-letos_2611211942_tez"
+    },
+    {
+      "score": 7,
+      "fact": "Letošní pražský vánoční stromek rostl 49 let a byl ohrožen silným větremen.",
+      "reason": "Kombinace věku stromu a dramatické situace s větrem dělá z příběhu zajímavost.",
+      "title": "Vánoční strom pro Prahu rostl 49 let v Šimonovicích. 23 metrů vysoký smrk byl při silném větru ohrožením",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/zpravy-domov/vanocni-strom-pro-prahu-rostl-49-let-v-simonovicich-23-metru-vysoky-smrk-byl-pri_2611211802_tez"
+    }
+  ]
+}
