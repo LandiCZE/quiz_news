@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-22",
+  "generated": "2026-11-23T19:16:40+00:00",
+  "stats": {
+    "fetched": 1098,
+    "that_day": 358,
+    "deduped": 324,
+    "scored": 180,
+    "passed": 66,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Čínský podnikatel Li Ming údajně pomáhal pašovat čipy Nvidia do Číny přes milenku šéfa firmy.",
+      "reason": "Skandál s milenkou šéfa Gigantu tech světa a pašováním čipů.",
+      "title": "Skandál s milenkou šéfa Nvidie se rozrostl o pašování čipů do Číny",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-spolecnik-milenky-sefa-nvidie-je-obvineny-z-pasovani-cipu-do-ciny-321226"
+    },
+    {
+      "score": 9,
+      "fact": "Dělník zemřel na infarkt po sexuálním experimentu se stlačeným vzduchem.",
+      "reason": "Šokující a bizarní příběh s jasnou příčinou smrti.",
+      "title": "Dělník (†35) si chtěl užít přímo v práci: Sexuální experiment ho stál život",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/853236/delnik-35-si-chtel-uzit-primo-v-praci-sexualni-experiment-ho-stal-zivot.html"
+    },
+    {
+      "score": 8,
+      "fact": "Carlos Alcaraz se stal čtvrtým hráčem s kompletní sbírkou titulů z grandslamů a Turnaje mistrů.",
+      "reason": "Velký sportovní meilestone s konkrétním číslem a jménem legendy.",
+      "title": "Alcaraz vyhrál Turnaj mistrů a vyrovnal legendy Agassiho, Federera a Djokoviče",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-alcaraz-vyhral-turnaj-mistru-a-vyrovnal-legendy-agassiho-federera-a-djokovice-321252"
+    },
+    {
+      "score": 8,
+      "fact": "V Rudolfinu poprvé v historii nezazněl žádný akustický nástroj při koncertu Maxe Coopera.",
+      "reason": "Mílník 'poprvé' v proslulém koncertním sále, fakt se číselnou hodnotou.",
+      "title": "Hranice tvého sálu jsou hranice mého světa: techno poprvé v Rudolfinu",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-max-cooper-prague-sounds-recenze-321236"
+    },
+    {
+      "score": 8,
+      "fact": "Záchranáři se kvůli agresivním pacientům vybavení balistickými vestami.",
+      "reason": "Neobvyklý fakt (žiletky vs. palci), odpovídá šokujícímu trendu v české společnosti.",
+      "title": "Záchranáři se kvůli rostoucí agresivitě pacientů vybavují balistickými vestami",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/zachranari-se-kvuli-rostouci-agresivite-pacientu-vybavuji-balistickymi-vestami-379825"
+    },
+    {
+      "score": 8,
+      "fact": "Na Svitavsku padl český rekord za betonování mostu, který trvalo 26 hodin bez přestávky.",
+      "reason": "Konkrétní český rekord s překvapivým číslem hodin, dobrá kvízová otázka.",
+      "title": "26 hodin bez přestávky. Na Svitavsku padl český rekord v betonování mostu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-26-hodin-bez-prestavky-na-svitavsku-padl-cesky-rekord-v-betonovani-mostu-40609727"
+    },
+    {
+      "score": 8,
+      "fact": "Messi hodil míč do obličeje soupeře, ale dostal jen žlutou kartu.",
+      "reason": "Known celebrity + unexpected/referee controversy (comparison to Řepka).",
+      "title": "Messi jako Řepka. Jenže na Argentince měl rozhodčí opět jiný metr",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/messi-jako-repka-jenze-na-argentince-mel-rozhodci-opet-jiny-metr/r~aaa297a9f21947d8c34e8f3bd4632125/"
+    },
+    {
+      "score": 8,
+      "fact": "Miley Cyrus se podruhé provdala za o pět let mladšího bubeníka Maxxe Moranda.",
+      "reason": "Celebrity wedding with specific name and age difference detail.",
+      "title": "Miley Cyrus se podruhé vdala. Za manžela si vzala mladšího bubeníka",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/miley-cyrus-se-vdala-jejim-manzelem-je-bubenik-maxx-morando.A261122_090559_sex_zar"
+    },
+    {
+      "score": 8,
+      "fact": "Na Velké ceně Las Vegas došlo k bezprecedentních 35 změn v čele pořadí během jedné jízdy.",
+      "reason": "Rekordní číslo a chaotický průběh závodů jsou vítězové kvízů",
+      "title": "Šílené, nejchaotičtější závod v historii. Vítěz si připadal jako v počítačové hře",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/ostatni-sporty/motorismus/formule-1/jako-na-orloji-las-vegas-zazilo-pozoruhodny-zavod/r~aaa29335c8061477c1c86f97f9e4babb/"
+    },
+    {
+      "score": 8,
+      "fact": "Elektrická Škoda Enyaq byla prvníkou, která získala všech pět hvězd podle nové sůrské metodiky Euro NCAP.",
+      "reason": "Unikátní milník spojující známu českou značku s rekordním hodnocením bezpečnosti.",
+      "title": "Nejbezpečnějším autem nové metodiky crashtestů je Škoda Peaq",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-nejbezpecnejsim-autem-nove-metodiky-crashtestu-je-skoda-peaq-40609590"
+    },
+    {
+      "score": 8,
+      "fact": "Ukrajinské drony zneškodnily ruskou korvetu Merkurij kotvící v libyjském Benghází. Loď je po explozi zřejmě zničena.",
+      "reason": "Nečekané místo (Libye) a nečekaná metoda (prasknutí lodě).",
+      "title": "Tam to Rusové asi nečekali: ukrajinský útok na válečnou loď. Výbušniny přilétly z nebe",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/mohutny-vybuch-na-ruske-lodi-v-libyjskem-pristavu-zrejme-slo-o-dronovy-utok/r~aaa2962a7deee01a30d260ce81086638/"
+    },
+    {
+      "score": 8,
+      "fact": "Ruská válečná loď v libyjském Benghází je po mohutné explozi téměř jistě zničena. To potvrzují satelitní snímky.",
+      "reason": "Doplněk faktů z článku 1, vizuálně silný příběh.",
+      "title": "Mohutná exploze zničila ruskou válečnou loď v Libyi",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-mohutna-exploze-znicila-ruskou-valecnou-lod-v-libyi-40609890"
+    },
+    {
+      "score": 8,
+      "fact": "Konference COP31 se protáhla o 44 hodin a tak překonala rekord v délce klimatických summitů OSN.",
+      "reason": "Konkrétní časový údaj (44 hodin) a rekord jsou ideální pro kvízovou otázku.",
+      "title": "Konference COP31 překonala rekord v délce trvání klimatických konferencí OSN",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-konference-cop31-prekonala-rekord-v-delce-trvani-klimatickych-konferenci-osn-jednani-se-protahla-kvuli-neshode-40609868"
+    },
+    {
+      "score": 7,
+      "fact": "Villarreal vedl v Barceloně již 2:0, ale nakonec prohrál 2:3 v generálce na Slavii.",
+      "reason": "Kouzym zápas s výrazným obratem, zajímavý pro fotbalové fanoušky.",
+      "title": "Soupeř Slavie v LM Villarreal vedl v Barceloně už 2:0, přesto prohrál",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-la-liga-souper-slavie-v-lm-villarreal-vedl-v-barcelone-uz-2-0-presto-prohral-5581025"
+    },
+    {
+      "score": 7,
+      "fact": "Parkurový tým Prague Lions poprvé v historii získal stříbro v Super Cupu.",
+      "reason": "Historický úspěch českého týmu s konkrétním výsledkem.",
+      "title": "Historický úspěch. Český parkurový tým Prague Lions ve finále Super Cupu dosáhl na medailové umístění",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/ostatni-cesky-parkurovy-tym-prague-lions-ziskal-ve-finale-super-cupu-historicke-stribro-5581687"
+    },
+    {
+      "score": 7,
+      "fact": "Americký miliardář Mick Flick zemřel před časem, jeho rodina má spojení s nacisty.",
+      "reason": "Smrt bohatého člověka s kontroverzní rodinnou historií.",
+      "title": "Miliardář Mick Flick (†82) zemřel během lázeňského pobytu: Zdědil obří majetek i temnou minulost",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/853246/miliardar-mick-flick-82-zemrel-behem-lazenskeho-pobytu-zdedil-obri-majetek-i-temnou-minulost.html"
+    },
+    {
+      "score": 7,
+      "fact": "Jihokorejský ministr školství rezignoval kvůli zmatkům kolem AI na zkouškách.",
+      "reason": "Specific high-ranking official resigning due to a modern tech issue.",
+      "title": "Ministr školství v Koreji rezignoval kvůli aféře s umělou inteligencí",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ministr-skolstvi-rezignoval-kvuli-afere-s-umelou-inteligenci-321253"
+    },
+    {
+      "score": 7,
+      "fact": "Ruská válečná loď explodovala v Benghází napadením ukrajinských dronů.",
+      "reason": "Dramatic event (explosion) in a specific location (Libya), clear cause.",
+      "title": "Ruská válečná loď explodovala v libyjském přístavu Benghází. Zřejmě ji napadly ukrajinské drony",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/ruska-valecna-lod-expoldovala-v-lybijskem-pristavu-benghazi-podle-tamni-vlady-ji_2611221614_mst"
+    },
+    {
+      "score": 7,
+      "fact": "Ukrajinská tajná služba SBU zasáhla v Libyi tři ruská plavidla.",
+      "reason": "Specific agency (SBU) achieving a specific tactical surprise abroad.",
+      "title": "Mimořádný úder. Ukrajinci v Libyi zasáhli další dvě ruská plavidla s vojenským nákladem",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-nejen-valecna-lod-ukrajinci-v-libyi-zasahli-jeste-dalsi-dve-ruska-nakladni-plavidla-40609907"
+    },
+    {
+      "score": 7,
+      "fact": "Předměty cestujících z Titaniku se v Anglii vydražily za rekordní částky.",
+      "reason": "Rekordní prodej s jasným tématem (Titanic) láká veřejnost.",
+      "title": "Předměty cestujících z Titaniku se v Anglii vydražily za rekordní částky",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/titanic-dopis-anglie-drazba-hodinky-muzeum-signal.A261122_110020_zahranicni_votr"
+    }
+  ]
+}
