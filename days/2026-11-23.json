@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-23",
+  "generated": "2026-11-24T18:57:03+00:00",
+  "stats": {
+    "fetched": 1309,
+    "that_day": 559,
+    "deduped": 482,
+    "scored": 180,
+    "passed": 63,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Freddie Mercury oznámil AIDS při živém vystoupení, druhý den zemřel.",
+      "reason": "Ikonický historický moment s dramatickým detailem a vyšším dotazem.",
+      "title": "35 let od smrti Freddieho Mercuryho (†45): Oznámil AIDS a druhý den zemřel!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/853320/35-let-od-smrti-freddieho-mercuryho-45-oznamil-aids-a-druhy-den-zemrel.html"
+    },
+    {
+      "score": 9,
+      "fact": "Slavná rallye Dakar se po dvaceti letech vrací do Afriky.",
+      "reason": "Konkrétní číslo (20 let) a vrácení legendárního závodníky.",
+      "title": "Dakar 2027: Nejslavnější rallye světa po dvaceti letech opět v Africe",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/moto-rallye-dakar-2027-program-trasa-etapy-cesi-5581905"
+    },
+    {
+      "score": 9,
+      "fact": "Čeští vědci našli v Tatrách nový druh sarančete z krátké fotografie.",
+      "reason": "Animal story, nový biologický taxon, milá povídka",
+      "title": "Čeští vědci objevili v Tatrách neznámý druh sarančete",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/cesti-vedci-objevili-v-tatrach-neznamy-druh-sarancete-379865"
+    },
+    {
+      "score": 9,
+      "fact": "Jensen Huang se 11 dní po rezignaci vrátil do vedení Nvidie.",
+      "reason": "Konkrétní číslo (11 dní) a šokující obchodní návrat.",
+      "title": "Jensen Huang se vrací do čela Nvidie, akcie letí vzhůru a táhnou celý trh",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-jensen-huang-se-vraci-do-cela-nvidie-akcie-leti-vzhuru-321315"
+    },
+    {
+      "score": 9,
+      "fact": "AI spolupracující s matem údajně správně vyřešila Riemannovu hypotézu.",
+      "reason": "Senzační matematický prolom „svatého grálu“ s konkrétním číslem.",
+      "title": "Důkaz Riemannovy hypotézy od AI je správný, věří matematik řešení „svatého grálu“",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/dukaz-riemannovy-hypotezy-od-ai-je-spravny-veri-matematik-reseni-svateho-gralu-379864"
+    },
+    {
+      "score": 9,
+      "fact": "Učitel Jaroslav Doležal vylákal ze 32 žen láskou 18 milionů korun.",
+      "reason": "Konkrétní jméno, obrovská částka a křiklavý modus operandi (fraud přes lásku).",
+      "title": "Učitel Jaroslav podvedl 32 důvěřivých žen: Vylákal z nich 18 milionů",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-krimi/853255/ucitel-jaroslav-podvedl-32-duverivych-zen-vylakal-z-nich-18-milionu.html"
+    },
+    {
+      "score": 9,
+      "fact": "Miley Cyrus svatby s bubeníkem Maxem Morandem absolvovala u bazénu domu Frye.",
+      "reason": "Pop-kulturní rekord, skok v životě slavné celebrity, přesný děj a místo.",
+      "title": "Miley Cyrus se pochlubila fotkami ze svatby s mladším bubeníkem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/vztahy-a-sex/miley-cyrus-ukazala-fotky-ze-svatby-s-mladsim-bubenikem.A261123_085105_sex_zar"
+    },
+    {
+      "score": 9,
+      "fact": "Akademií oceňovaná herečka Jennifer Lawrence ve studiu holila poprsí a prozradila datum operace.",
+      "reason": "Šokující gest celebrity a přímá odpověď na otázky",
+      "title": "Jennifer Lawrencová ukázala prsa po plastice. Prozradila i jejich velikost",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/jennifer-lawrence-herecka-plastika-prsou-implantaty-cecka.A261123_081814_lidicky_sub"
+    },
+    {
+      "score": 9,
+      "fact": "Mossad pomohl Rakušanům odhalit chystaný útok na koncert Taylor Swiftové.",
+      "reason": "Top celebrity, neočekávané spojení se zpravodajskou službou a zmařený tragický scénář.",
+      "title": "Plánovaný teroristický útok na koncert Taylor Swiftové Rakušanům pomohl odhalit Mossad",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-planovany-teroristicky-utok-na-koncert-taylor-swiftove-rakusanum-pomohl-odhalit-mossad-40610127"
+    },
+    {
+      "score": 9,
+      "fact": "Trump oslavil návrat šéfa Nvidie fotkou, na které Huang drží podprsenku.",
+      "reason": "Vulgární a kuriozní detail u vysokého politického a business titule, velmi viralizovatelné.",
+      "title": "Staronový šéf Nvidie třímá podprsenku. Trump oslavil Huangův návrat po svém",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/cervena-podprsenka-a-krev-na-tvari-trump-zverejnil-upraveny-snimek-sefa-nvidie/r~aaa29e93265e70e5a8142052df1c239e/"
+    },
+    {
+      "score": 9,
+      "fact": "Íránské revoluční gardy se pyšní, že sestřelily 78 amerických dronů MQ-9 Reaper.",
+      "reason": "Šokující číslo a konkrétní typ dronu v kontextu konfliktu.",
+      "title": "Rána pro Ameriku, sestřelili jsme už 78 jejich nejlepších dronů, chlubí se Íránské revoluční gardy",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-rana-pro-ameriku-sestrelili-jsme-uz-78-jejich-nejlepsich-dronu-chlubi-se-iranske-revolucni-gardy-40610048"
+    },
+    {
+      "score": 9,
+      "fact": "Jensen Huang se po skandálu vrací do čela Nvidie, akcie posílily o přes 30 procent.",
+      "reason": "Velký technologický hráč, dramatický obrat a konkrétní procentuální zisk.",
+      "title": "Otočka na šéfovském křesle Nvidie: Huang se po skandálu vrací! Ozval se i Trump",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/853332/otocka-na-sefovskem-kresle-nvidie-huang-se-po-skandalu-vraci.html"
+    },
+    {
+      "score": 9,
+      "fact": "Kapitán ztroskotané lodi Costa Concordia pracuje v domově důchodců.",
+      "reason": "Silný kontrast mezi slavným faulem a klidnou důchodovou prací.",
+      "title": "Kapitán Schettino ze ztroskotané lodi Costa Concordia pracuje v domově důchodců",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kapitan-schettino-ze-ztroskotane-lodi-costa-concordia-pracuje-v-domove-duchodcu-321273"
+    },
+    {
+      "score": 8,
+      "fact": "Bývalý děkan MUDr. Ivan Okamura ztvárnil v parodii postavu Ivánka z Mrazíka.",
+      "reason": "U cyniků populární politici se spárány s lidovými postavičkami",
+      "title": "Už jste viděli Okamuru jako pyšného Ivánka z Mrazíka?",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/vtipy-uz-jste-videli-okamuru-jako-pysneho-ivanka-z-mrazika-40610085"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel australský producent Ian Meldrum a objevil AC/DC i ABBU.",
+      "reason": "Úmrtí historického hudebního guru s několika slávnými jmény v jedné otázce.",
+      "title": "Zemřel hudební guru: Pracoval pro Beatles, objevil Madonnu i ABBU. Před králem Karlem III. neudržel pusu",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-svetove-celebrity/853330/zemrel-hudebni-guru-pracoval-pro-beatles-objevil-madonnu-i-abbu-pred-kralem-karlem-iii-neudrzel-pusu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Závodní Jaguar XJ220C z Le Mans získal silniční homologaci.",
+      "reason": "Rarita pro autoentusiasty, konkrétní vůz a událost.",
+      "title": "Tento Jaguar vyhrál Le Mans. Je na prodej a smí na silnici",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-tento-jaguar-vyhral-le-mans-je-na-prodej-a-smi-na-silnici-40609916"
+    },
+    {
+      "score": 8,
+      "fact": "Na charitativním festivalu Hudba pomáhá se z vozíku zvedla dívka Erika Beranová.",
+      "reason": "Emoční a překvapivý moment spojený se slavnou umělkyní Anetou Langerovou.",
+      "title": "Zaplněný kostel v Orlických horách překvapila dívka, která vstala z vozíku, i Aneta Langerová",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-pardubicky-kraj-zaplneny-kostel-v-orlickych-horach-prekvapila-divka-ktera-vstala-z-voziku-i-aneta-langerova-40609975"
+    },
+    {
+      "score": 8,
+      "fact": "Macaulay Culkin sám navrhl scénář na pokračování filmu Sám doma přinucený Disneyem.",
+      "reason": "Nepředvídatelný postup studia, věhlasné jméno a nostalgia u českého publika.",
+      "title": "Sám doma se vrátí, tentokrát i s Culkinem. Původní režisér považuje další díl za chybu",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/sam-doma-se-vrati-tentokrat-i-s-culkinem-puvodni-reziser-povazuje-dalsi-dil-za-chybu.A261123_105921_filmvideo_nh"
+    },
+    {
+      "score": 8,
+      "fact": "Ministr Macinka udělil cenu Gratias Agit Tomu Doležalovi za péči o odkaz čs. letců.",
+      "reason": "Konkrétní jména, hodnocený aspekt a spojení s hrdinskou historií.",
+      "title": "Pečuje o odkaz československých letců, ministr Macinka mu udělil cenu Gratis Agit",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/pecuje-o-odkaz-ceskoslovenskych-letcu-ministr-macinka-mu-udelil-cenu-gratis-agit/r~aaa293e1eb10ab4c97294a188a4877eb/"
+    },
+    {
+      "score": 8,
+      "fact": "Kanadský premiér Carney pozval imitátora Trumpa na slavnostní večeři s novináři.",
+      "reason": "Nekonečný a vtipný moment, konkrétní osoba (Carney) a nečekaná akce.",
+      "title": "Kanadský premiér Carney opepřil slavnostní večeři s novináři, pozval imitátora Trumpa",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/kanadsky-premier-carney-opepril-slavnostni-veceri-s-novinari-pozval-imitatora-trumpa/r~aaa295fce5233a8809df3074de80df3d/"
+    }
+  ]
+}
