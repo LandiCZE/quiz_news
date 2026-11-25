@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-24",
+  "generated": "2026-11-25T18:05:46+00:00",
+  "stats": {
+    "fetched": 1376,
+    "that_day": 561,
+    "deduped": 507,
+    "scored": 180,
+    "passed": 58,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Steven Spielberg natočí s Cillianem Murphy a Jessie Buckley western o partnerství s Andersonem.",
+      "reason": "Rekordní hvězdné obsazení a vzácné silové spojení obrovských jmen je skvělý tip.",
+      "title": "Steven Spielberg chystá western. Obsadí do něj Cilliana Murphyho a Jessie Buckley",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/steven-spielberg-chysta-western-obsadi-do-nej-cilliana-murphyho-a-jessie-buckley.A261124_104932_filmvideo_ts"
+    },
+    {
+      "score": 9,
+      "fact": "Morten Harket z A-ha otevřeně hovoří o svém boji s Parkinsonovou chorobou.",
+      "reason": "Velká hvězda rocku a milá senzorická diagnóza, známé jméno",
+      "title": "Nemám chuť zpívat. Morten Harket z A-ha popisuje boj s Parkinsonovou chorobou",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-nemam-chut-zpivat-morten-harket-z-a-ha-popisuje-boj-s-parkinsonovou-chorobou-40610128"
+    },
+    {
+      "score": 9,
+      "fact": "Pražanka Linda, která zasáhla při krakovském masakru, dostala ocenění od polského prezidenta.",
+      "reason": "Silný příběh odvahy s reálným dějem a jmenovitým oceněním, ideální na kvíz.",
+      "title": "Vteřiny po masakru v Krakově: Zasáhla Linda z Prahy! Ocenil ji prezident",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/853333/studentka-z-vsz-linda-riskovala-zivot-v-krakove-lidem-na-ulici-davala-prvni-pomoc.html"
+    },
+    {
+      "score": 9,
+      "fact": "DEA při vyšetřování nechala uniknout do oběhu miliony tablet fentanylu.",
+      "reason": "Šokující chyba úřadu s konkrétním a vysokým číselným údajem.",
+      "title": "Americký úřad při vyšetřování pustil do oběhu 1,4 milionu tablet fentanylu, píše AP",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/americky-urad-pri-vysetrovani-pustil-do-obehu-14-milionu-tablet-fentanylu-pise-ap-379913"
+    },
+    {
+      "score": 9,
+      "fact": "Putin slavnému režisérovi Emir Kusturicovi vykonal detaily tajné akce.",
+      "reason": "Slavný filmár + Putin + tajná akce, to je ideální kombinace pro kvíz.",
+      "title": "„Rusko je archa záchrany civilizace,“ pravil Putin. Slavnému filmaři odhalil detaily tajné akce",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/rusko-je-archa-zachrany-civilizace-pravil-putin-slavnemu-filmari-odhalil-detaily-tajne-akce/r~aaa29663245a8a4b4602193b6bbbf2e6/"
+    },
+    {
+      "score": 8,
+      "fact": "Trio Zedníček, Donutil a Polívka se dohodlo na nové sitcomové reality show Muži v letu.",
+      "reason": "Příběh o dvou slavných českých hereckých komiksech a jednoho mladého hvězdy.",
+      "title": "Tři piloti z Buranos Aires baví, zbytek seriálu Muži v letu je generická omalovánka",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/kultura/film/tri-piloti-z-buranos-aires-bavi-zbytek-serialu-muzi-v-letu-je-genericka-omalovanka/r~aaa290cea157e19830c773f56d3f9851/"
+    },
+    {
+      "score": 8,
+      "fact": "Ukrajinský podnikatel Igor Čerednyk přebírá prodejny zkrachovaného ruského diskontu Mere.",
+      "reason": "Konkrétní jméno, geopolitický twist a obchodní změna.",
+      "title": "Ruský diskont Mere v Česku skončil, jeho prodejny přebírá Ukrajinec",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-rusky-diskont-mere-v-cesku-skoncil-jeho-prodejny-prebira-ukrajinec-40610208"
+    },
+    {
+      "score": 8,
+      "fact": "Boeing získal od Číny první velkou zakázku na 50 letadel od roku 2017.",
+      "reason": "Míle kámen v obchodních vztazích s konkrétním počtem letadel.",
+      "title": "Americký Boeing získal v Číně zakázku na 50 letadel 737-8 MAX",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-americky-boeing-ziskal-v-cine-zakazku-na-50-letadel-737-8-max-321424"
+    },
+    {
+      "score": 8,
+      "fact": "Vědci pod antarktickým ledem našli pozůstatky hor srovnatelných s Himálajem.",
+      "reason": "Velké nálezy, ale „pod ledem“ sice zvláštní, jde o lekkou vědu",
+      "title": "Vědci odhalili v Antarktidě pozůstatky dávného Himálaje. Změnily život na Zemi",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/vedci-odhalili-v-antarktide-pozustatky-davneho-himalaje-zmenily-zivot-na-zemi/r~aaa299375fcee89fbf27fdcb57b7a926/"
+    },
+    {
+      "score": 8,
+      "fact": "Nizozemský soud zakázal prodej BYD Ti7 kvůli podobnosti s Land Rover Defenderem.",
+      "reason": "Konglomerát značek (BYD vs JLR) a vážný soudní zákaz je zábavná realita.",
+      "title": "Soud zakázal prodej BYD Ti7 v EU. Příliš připomíná Land Rover Defender",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-soud-zakazal-prodej-byd-ti7-v-eu-prilis-pripomina-land-rover-defender-40610045"
+    },
+    {
+      "score": 8,
+      "fact": "Čtyři Češi z Pardubic koupili a pronajímají starý srub v japonském lyžařském středisku Hakuba.",
+      "reason": "Příběh s exotickým nádechem a specifickým místem je výborný na kvízní otázku.",
+      "title": "Godzilla za skříní a český ležák. Kamarádi z Pardubic koupili srub v Japonsku",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/sen-o-prasanu-a-godzilla-za-skrini-kamaradi-z-pardubic-vitaji-hosty-ve-svem-srubu-v-japonsku/r~aaa293ab894bf1474b17777b4494d530/"
+    },
+    {
+      "score": 8,
+      "fact": "Jožo Ráž označil vdovu po Patejdlovi za nešťastnou babu, která chce víc peněz.",
+      "reason": "Výrazný konflikt mezi známými osobnostmi s citlivým tématem dědictví.",
+      "title": "Jožo Ráž si s vdovou po Patejdlovi (†68) nebere servítky: Nešťastná baba! Pořád nemá dost",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853301/jozo-raz-si-s-vdovou-po-patejdlovi-68-nebere-servitky-nestastna-baba-porad-nema-dost.html"
+    },
+    {
+      "score": 8,
+      "fact": "Trump udělil Rudymu Giulianimu Prezidentskou medaili svobody, ačkoliv šířil lži o volebním podvodu.",
+      "reason": "Kontroverzní udělení nejvyššího civilního vyznamenání sporé osobnosti v USA",
+      "title": "Nejvyšší medaile pro Giulianiho. Trump ocenil spojence, který šířil lži o volebním podvodu",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-udelil-exstarostovi-new-yorku-giulianimu-nejvyssi-civilni-vyznamenani.A261124_211532_zahranicni_balu"
+    },
+    {
+      "score": 8,
+      "fact": "Pákistánec Zíšan Alí se stal prvním cizincem na čínské stanici Tchien-kung.",
+      "reason": "Historická první, specifní jméno a zahraniční kontext.",
+      "title": "Tři astronauti ve středu odletí na čínskou stanici, poprvé s nimi bude i cizinec",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-tri-astronauti-ve-stredu-odleti-na-cinskou-stanici-poprve-s-nimi-bude-i-cizinec-321420"
+    },
+    {
+      "score": 8,
+      "fact": "Severokorejský vůdce Kim Song-un si poříbil novou luxusní loď navzdory sankcím.",
+      "reason": "Specifický a vizuálně zajímavý příběh o diktátorově životním stylu.",
+      "title": "Kim si pořídil novou luxusní loď, ukazují satelitní snímky. Sankcím navzdory",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/kim-si-poridil-novou-luxusni-lod-ukazuji-satelitni-snimky-sankcim-navzdory.A261123_161242_eko-zahranicni_hyk"
+    },
+    {
+      "score": 8,
+      "fact": "Trump podle hlasatelé způsobil návrat šéfa Nvidie Jenseny hoanguv s tlakem na akcionáře.",
+      "reason": "Spojení silného světového lídra s vedením big tech spojitostí naděje správné.",
+      "title": "Huangův návrat režíroval Trump. Představenstvo podle expertů ztratilo autoritu",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/huanguv-navrat-reziroval-trump-predstavenstvo-podle-expertu-ztratilo-autoritu.A261124_094317_eko-zahranicni_ven"
+    },
+    {
+      "score": 8,
+      "fact": "Trump vydělal na akciích Nvidie během jednoho dne až 15 milionů dolarů.",
+      "reason": "Nepříjemná vtipná fakta o Trumpově investičním portfoliu a konkrétní částce.",
+      "title": "Trump vydělal na akciích Nvidie až 15 milionů dolarů. Za angažovanost čelí kritice",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/trumpovi-vynesl-rust-akcii-nvidie-az-335-milionu-korun.A261124_102553_eko-zahranicni_ijan"
+    },
+    {
+      "score": 7,
+      "fact": "Soudní arbitráž vrátila Senegalu titul mistra Afriky po chaotickém finále s Marokem.",
+      "reason": "Zvratný příběh o titul obráceném soudem, tak zvané křoví titul.",
+      "title": "Vyhrál Senegal. Ne, Maroko. Teď zase Senegal. Divočina po africku píše svůj další díl",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/vyhral-senegal-ne-maroko-ted-zase-senegal-divocina-po-africku-ma-svuj-dalsi-dil/r~aaa2928ca8d513b61155719471433f1c/"
+    },
+    {
+      "score": 7,
+      "fact": "Seriál Muži v letu poprvé spojil na jednu obrazovku Polívku, Zedníčka a Donutila.",
+      "reason": "Silná celebrity kombinace známých hereckých jmen.",
+      "title": "Recenze: Poprvé spolu. Seriál Muži v letu láká na Polívku, Zedníčka a Donutila",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-muzi-v-letu-recenze-321423"
+    },
+    {
+      "score": 7,
+      "fact": "Peter Šťastný káral Šatana a Fica kvůli postoji k ruským hokejistům.",
+      "reason": "Bulvární mezihvězdná hádka se slovenskou politikou, láká na diskusi.",
+      "title": "Hanebné a neodpustitelné! Slovenská hokejová legenda kvůli Rusku pálí do Šatana a „ničitele země“ Fica",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/hokej-ms-hanebne-a-neodpustitelne-slovenska-hokejova-legenda-kvuli-rusku-pali-do-satana-a-nicitele-zeme-fica-5582012"
+    }
+  ]
+}
