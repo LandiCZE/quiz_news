@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-25",
+  "generated": "2026-11-26T17:49:12+00:00",
+  "stats": {
+    "fetched": 1380,
+    "that_day": 578,
+    "deduped": 512,
+    "scored": 180,
+    "passed": 68,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Mise Hermes prozkoumala dokola asteroid Dimorphos a našla tam miniaturní kráter velkosti fotbalového hřiště.",
+      "reason": "Vizuálně poutavý zájem o vesmír, jasné srovnání (kráter jako stadion) a konkrétní jméno mise.",
+      "title": "Zkouška planetární obrany zanechala v asteroidu kráter jako stadion",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/zkouska-planetarni-obrany-zanechala-v-asteroidu-krater-jako-stadion-379947"
+    },
+    {
+      "score": 9,
+      "fact": "Ředitel KRNAP Petr Moravec plánoval služební cestu na Martinik s asistentkou a podřízenými.",
+      "reason": "Skandální detail o rozpočtu a miejscu cesty, konkrétní jméno, vynikající na hádanku.",
+      "title": "TMBK: Šéf KRNAPu na cestě do Karibiku. Přistižen nadřízeným",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-sef-krnapu-na-ceste-do-karibiku-pristizen-nadrizenym-321521"
+    },
+    {
+      "score": 9,
+      "fact": "Laura Anna Glozarová se jako první Češka dostala do TOP 3 soutěže Miss International.",
+      "reason": "Rekordní úspěch v historii, konkrétní jméno, oblíbené téma soutěží krásy.",
+      "title": "Miss Laura Anna Glozarová uspěla ve světě. Budoucí lékařka skončila třetí!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853516/miss-laura-anna-glozarova-uspela-ve-svete-budouci-lekarka-skoncila-treti.html"
+    },
+    {
+      "score": 9,
+      "fact": "Mercedes-Benz poprvé v historii aukčně prodá legendární prototyp C 111.",
+      "reason": "Šokující fakt o prodávaní legendy, kterou odmítali padesát let.",
+      "title": "„Potřebujeme peníze.“ Mercedes poprvé v historii prodá legendární prototyp C 111",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://zpravy.aktualne.cz/ekonomika/auto/historie-automobilu/muzeum-potrebuje-penize-mercedes-poprve-v-historii-proda-legendarni-prototyp-c-111/r~aaa29bde2c97515d3ffed7b9e94c7322/"
+    },
+    {
+      "score": 9,
+      "fact": "Ředitel Krkonošského NP Petr Moravec cestuje na Martiník řešit problémy se záchody v parcích.",
+      "reason": "Vykupující círlik: služební cesta do Karibiku kvůli odpadům v národním parku.",
+      "title": "Chtěl jet na Martinik. Kvůli odpadům a záchodům v parcích, říká Moravec",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zajimaji-me-odpady-a-zachody-v-narodnich-parcich-rika-sef-krnap-k-martiniku-321475"
+    },
+    {
+      "score": 9,
+      "fact": "Ukrajina je první zemí na světě, která sestřelila dron pomocí laseru.",
+      "reason": "Míle v technologii ('první na světě') s jasním a technickým回答ou.",
+      "title": "‚Pozitivní pokrok.‘ Ukrajina jako první na světě sestřelila nepřátelský dron pomocí laseru",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/online-pozitivni-pokrok-ukrajina-jako-prvni-na-svete-sestrelila-nepratelsky-dron_2611252056_kvr"
+    },
+    {
+      "score": 9,
+      "fact": "Trump udělil milost dvěma krocánům jmenovaným Freedom a Feathers.",
+      "reason": "Smashující zlomka s typickým Trumpovým stylem",
+      "title": "Trump vzal dva „zločince“ na milost. Krocani Freedom a Feathers unikli svátečnímu pekáči",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/trump-vzal-dva-zlocince-na-milost-krocani-freedom-a-feathers-unikli-svatecnimu-pekaci/r~aaa29ead2316a97086e98fd78f020d3f/"
+    },
+    {
+      "score": 9,
+      "fact": "Zelenskyj vtipně odmítl Lukašenkova nabídku letu do Moskvy slovy: „Nejsem kufr“.",
+      "reason": "Vtipná, nečekaná reakce šéfa státu na geopolitický návrh",
+      "title": "Nejsem kufr, reagoval Zelenskyj na Lukašenkův návrh společné cesty do Moskvy",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-nejsem-kufr-reagoval-zelenskyj-na-lukasenkuv-navrh-spolecne-cesty-do-moskvy-40610471"
+    },
+    {
+      "score": 9,
+      "fact": "Kanadský premiér Carney pozval na večeři imitátora Donalda Trumpa. (Odpověď: imitátor/imitace)",
+      "reason": "Násilně zaskakující herecký nápad a celebritivní moment",
+      "title": "„Parádní zadek!“ Kanadský premiér si jako pomstu Trumpovi pozval jeho imitátora",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/853456/paradni-zadek-kanadsky-premier-si-jako-pomstu-trumpovi-pozval-jeho-imitatora.html"
+    },
+    {
+      "score": 9,
+      "fact": "Zelenskyj a maďarský premiér Magyar si zahráli volejbal v Berehovu. (Odpověď: Magyar)",
+      "reason": "Násilně zaskakující sportovní moment mezi dvěma hlavy států",
+      "title": "Magyar a Zelenskyj si v Berehovu zahráli volejbal",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-magyar-a-zelenskyj-si-v-berehovu-zahrali-volejbal-40610368"
+    },
+    {
+      "score": 9,
+      "fact": "Otce Meghan Markleové Thomasa Marklea obžalovali z držení dětské pornografie.",
+      "reason": "Šokující konexe celebrity (královská rodina) s graviturovným trestným činem.",
+      "title": "Otec Meghan Markleové byl v USA obžalován z držení dětské pornografie",
+      "source": "Seznam Zprávy",
+      "category": "world",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-otec-meghan-markleove-byl-v-usa-obzalovan-z-drzeni-detske-pornografie-321455"
+    },
+    {
+      "score": 8,
+      "fact": "Stavebniny Pro-Doma kvůli útocům kyberšmejdérů znovudokumentovaly svůj provoz a zavedly nové bezpečnostní protokoly.",
+      "reason": "Čtěrný a praktický šok: známá česká značka, která přímo zasáhla do běžného života zákazníků.",
+      "title": "Hackeři z Ruska zabrali systém stavebninám Pro-Doma. Firma udělá nový",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-stavebniny-pro-doma-se-staly-cilem-kybernetickeho-utoku-omezily-provoz-321533"
+    },
+    {
+      "score": 8,
+      "fact": "Americká Expedia oznámila odkoupení českého prodejce letenek Kiwi.com od Olivera Dlouhého.",
+      "reason": "Velká korporátní akce, známé české jméno (Dlouhý), překvapení",
+      "title": "Americká Expedia oznámila koupi internetového prodejce letenek Kiwi.com",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/podniky/americka-expedia-oznamila-koupi-internetoveho-prodejce-letenek-kiwi-com.A261125_164236_ekoakcie_ven"
+    },
+    {
+      "score": 8,
+      "fact": "Ivan Trojan ztvárnil hlavního viníka v divadelní rekonstrukci procesu Pelicot.",
+      "reason": "Slavný česky/evropský herec + kontroverzní téma, silný hook",
+      "title": "Proces Pelicot na jevišti. Hlavního pachatele znásilnění ztvárnil Ivan Trojan",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-proces-pelicot-recenze-321476"
+    },
+    {
+      "score": 8,
+      "fact": "Trenér třetiligového Loka Vltavín Lukáš Bláža byl jmenován dočasným trenérem Sparty.",
+      "reason": "Konkrétní osoba a tým, překvapivý skok z nižší ligy do špičky, známé jméno Sivok.",
+      "title": "Dočasný trenér Sparty: Hráči ví, že bojují o své triko! Chci navázat na Priskeho",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/fotbal-evropska-liga-docasny-trener-sparty-hraci-vi-ze-bojuji-o-sve-triko-chci-navazat-na-priskeho-5583647"
+    },
+    {
+      "score": 8,
+      "fact": "Devatenáctiletá Laura Anna Glozarová získala bronz na soutěži Miss International.",
+      "reason": "Nečekané úspěšné umístění mladé Češky na mezinárodní soutěži krásy.",
+      "title": "Devatenáctiletá Češka přepsala historii. Z Miss International veze bronz",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/modelky/laura-anna-glozarova-miss-international-modelka-makarenko.A261125_135338_missamodelky_sub"
+    },
+    {
+      "score": 8,
+      "fact": "Lukáš Pavlásek si spletl město a na stand-up v Hejnicích jí dojel místo toho do Pardubic.",
+      "reason": "Konkrétní a vtipná chyba slavné osoby, ideální na jednoduché správné/nesprávné nebo doplňovací otázky.",
+      "title": "Tydýt Lukáš Pavlásek na poslední chvíli rušil vystoupení: Popletl si města a dojel jinam!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853473/tydyt-lukas-pavlasek-na-posledni-chvili-rusil-vystoupeni-popletl-si-mesta-a-dojel-jinam.html"
+    },
+    {
+      "score": 8,
+      "fact": "Šéf Krkonošského NP Petr Moravec chtěl vzít svou assistantku na služební cestu na Martinik.",
+      "reason": "Naprosto skandální zpráva: šéf národního parku na služební cestě do Karibiku.",
+      "title": "Šéf KRNAPu Moravec chtěl vzít asistentku na Martinik. Ze služební cesty pak sešlo",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-moravec-chtel-vzit-asistentku-na-martinik-ze-sluzebni-cesty-nakonec-seslo-321464"
+    },
+    {
+      "score": 8,
+      "fact": "Jennifer Barreto se stala prvotní matkou, která zahrála soutěže o Schönau Universe.",
+      "reason": "Milenálový moment s konkrétním jménem a překvapivým podmieňujícím faktorem.",
+      "title": "Miss Universe je Portoričanka. Soutěž krásy poprvé vyhrála matka",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/modelky/miss-universe-je-portoricanka-soutez-krasy-poprve-vyhrala-matka.A261125_073250_missamodelky_zar"
+    },
+    {
+      "score": 8,
+      "fact": "Před varšavským palácem se zapálil muž, jehož uhasila ochranka prezidenta.",
+      "reason": "Vizuálně dramatická událost s nečekaným aktérem (prezidentská ochranka).",
+      "title": "Lidská pochodeň ve Varšavě: Hořícího muže hasila prezidentská ochranka",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/853548/lidska-pochoden-ve-varsave-horiciho-muze-hasila-prezidentska-ochranka.html"
+    }
+  ]
+}
