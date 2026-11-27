@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-26",
+  "generated": "2026-11-27T17:31:02+00:00",
+  "stats": {
+    "fetched": 1371,
+    "that_day": 572,
+    "deduped": 511,
+    "scored": 180,
+    "passed": 65,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Dámská zpěvačka Lela Vémola zkolabovala před rozvodovým soudem a skončila na kapačkách.",
+      "reason": "Drama s jasným a vizuálním koncem, typické pro pub kvík.",
+      "title": "Vyčerpaná Lela Vémola zkolabovala těsně před rozvodovým soudem s Karlosem. Skončila na kapačkách",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853581/vycerpana-lela-vemola-zkolabovala-tesne-pred-rozvodovym-soudem-s-karlosem-skoncila-na-kapackach.html"
+    },
+    {
+      "score": 9,
+      "fact": "Svatojakubská knihovna v Brně získala ocenění Paměť světa UNESCO.",
+      "reason": "Konkrétní odměna pro památku, výborný fakt na počáteční rounds.",
+      "title": "Svatojakubská knihovna v Brně jako Paměť světa UNESCO. Nejstarší z 295 svazků je z 13. století",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/veda-technologie/historie/svatojakubska-knihovna-v-brne-jako-pamet-sveta-unesco-nejstarsi-z-295-svazku-je_2611261040_aha"
+    },
+    {
+      "score": 9,
+      "fact": "Novým hlavním moderátorem relace Top Gear se stane šéfkuchař Gordon Ramsay.",
+      "reason": "Slavnost osobnosti + nečekaná změna role (kuchař místo pilota), ideální na kvíz.",
+      "title": "Křik v kuchyni vystřídá kvílení pneumatik. Novou tváří Top Gearu bude Gordon Ramsay",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/auto-krik-v-kuchyni-vystrida-kvileni-pneumatik-novou-tvari-top-gearu-bude-gordon-ramsay-40610588"
+    },
+    {
+      "score": 9,
+      "fact": "Průvod Macy's se zrušil kvůli bouři poprvé za 102 let historie.",
+      "reason": "Silný milník s konkrétním číslem a známou událostí",
+      "title": "Den díkůvzdání v USA narušily bouře! Slavný průvod odložili poprvé za 102 let, Trump popřál i drogovým dealerům",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/853627/den-dikuvzdani-v-usa-narusily-boure-slavny-pruvod-odlozili-poprve-za-102-let.html"
+    },
+    {
+      "score": 9,
+      "fact": "Elon Musk slíbil každému dítěti v USA po dvou akciích firmy SpaceX.",
+      "reason": "Konkrétní a šokující slib světového miliardáře, skvělý kvízový fakt.",
+      "title": "Každé dítě v USA dostane dvě akcie SpaceX, slíbil Musk. První už příští měsíc",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/musk-slibil-kazdemu-diteti-v-usa-dve-akcie-firmy-spacex.A261126_081010_zahranicni_kurl"
+    },
+    {
+      "score": 8,
+      "fact": "Plzeň rozdrtila ve Štruncových sadech Benficu Lisabon 4:0.",
+      "reason": "Senzační výsledek velkých klubů, silný kandidát na kvízkovou otázku.",
+      "title": "Zázrak ve Štruncových sadech. Plzeň přejela v Evropské lize Benficu 4:0, Jablonec slaví první výhru",
+      "source": "iROZHLAS",
+      "category": "cz",
+      "url": "https://www.irozhlas.cz/sport/fotbal/zive-plzen-privita-benficu-lisabon-jablonec-hosti-lugano-radiozural-sport-vysila_2611261805_mim"
+    },
+    {
+      "score": 8,
+      "fact": "Viktoria Plzeň rozprášila hvězdnou Benficu Lisabon čtyřmi góly v Evropské lize.",
+      "reason": "Téměř identický fakt jako v dalším článku, extrémně silný kvízkový materiál.",
+      "title": "Snový evropský večer v Plzni. Viktoria smetla hvězdnou Benficu čtyřmi góly",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://sport.aktualne.cz/fotbal/snovy-evropsky-vecer-v-plzni-viktoria-smetla-hvezdnou-benficu-ctyrmi-goly/r~aaa29aae51bc0586f0d7c50c4a0ec675/"
+    },
+    {
+      "score": 8,
+      "fact": "Čtyřkilový orel v Čadu ulovil šestadvacetikilového paviána, což mění pohled na evolucí člověka.",
+      "reason": "Shokující biologický objev s konkrétními čísly.",
+      "title": "Orli v Africe loví i dospělé paviány, zaskočilo biology. Mění to pohled na evoluci člověka",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/orli-v-africe-lovi-i-dospele-paviany-zaskocilo-biology-meni-to-pohled-na-evoluci-cloveka-379972"
+    },
+    {
+      "score": 8,
+      "fact": "Aerolinky airBaltic nabídly pilotům přesun na lety do Papui Nové Guineje pod hrozbou firingu.",
+      "reason": "Absurdní localita a mírně šokující obchodní rozhodnutí.",
+      "title": "AirBaltic přesouvá piloty do Papuy Nové Guineje. Kdo odmítne, může přijít o práci",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/doprava/airbaltic-presouva-piloty-do-papuy-nove-guineje-kdo-odmitne-muze-prijit-o-praci.A261126_132842_eko-doprava_jla"
+    },
+    {
+      "score": 8,
+      "fact": "V Ostravě-Michálkovicích někdo ukradl sovici sněžní, která sloužila jako inspirace pro Harryho Pottera.",
+      "reason": "Vtipná a neuveritelná událost spojená se známou fantasií.",
+      "title": "Vypadá jako z Harryho Pottera. V Ostravě někdo ukradl sovici sněžní",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/krimi-vypada-jako-z-harryho-pottera-v-ostrave-nekdo-ukradl-sovici-snezni-40610620"
+    },
+    {
+      "score": 8,
+      "fact": "Jedna stížnost vedla k zrušení obou kol senátních voleb.",
+      "reason": "Konkrétní a překvapivý detail o mechanismu zrušení voleb.",
+      "title": "„Největší šok je ta míra nepořádku.“ Co odhalily zrušené senátní volby",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-do-senatu-nejvetsi-sok-je-ta-mira-neporadku-co-odhalily-zrusene-senatni-volby-321389"
+    },
+    {
+      "score": 8,
+      "fact": "Po požáru v Orlím hnízdu přežil i schodiště, které používal Adolf Hitler.",
+      "reason": "Historická kulturní památka s válečným kontextem a dramatickým příběhem přežití po požáru.",
+      "title": "Podívejte se na ohořelé Orlí hnízdo. Zkázu přečkal Hitlerův výtah i obvodové zdi",
+      "source": "Aktuálně.cz",
+      "category": "cz",
+      "url": "https://magazin.aktualne.cz/podivejte-se-na-ohorele-orli-hnizdo-zkazu-preckal-hitleruv-vytah-i-obvodove-zdi/r~aaa292091e950fff6ba8d2219e412a75/"
+    },
+    {
+      "score": 8,
+      "fact": "Německá armáda Bundeswehr začala přezbrojovat na české pistole CZ P-13 z Uherského Brodu.",
+      "reason": "Překvapivá mezinárodní spolupráce a konkrétní výrobek z české firmy, dobrý národní hrdost.",
+      "title": "Německá armáda přezbrojuje na české pistole. Bundeswehr převzal první zbraně z Uherského Brodu",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-nemecka-armada-prezbrojuje-na-ceske-pistole-bundeswehr-prevzal-prvni-zbrane-z-uherskeho-brodu-40610603"
+    },
+    {
+      "score": 8,
+      "fact": "Zemřel James Russell, americký fyzik, který pomohl vynalezttechnologie CD a DVD.",
+      "reason": "Zemřelí průkopníci známých technologií jsou vždy vítané jméno pro kategorie 'kdo to byl?'",
+      "title": "Zemřel průkopník CD a DVD James Russell",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-hardware-zemrel-james-t-russell-40610604"
+    },
+    {
+      "score": 8,
+      "fact": "Miloš Zeman označil novou Vltavskou filharmonii za pomník plýtvání veřejnými penězi.",
+      "reason": "Kontroverzní politická provokace, jasný zdroj (Zeman) a cíl (Vltavská filharmonie).",
+      "title": "Předražená a zbytečná, napsal Miloš Zeman o Vltavské filharmonii",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-predrazena-a-zbytecna-napsal-milos-zeman-o-vltavske-filharmonii-40610564"
+    },
+    {
+      "score": 8,
+      "fact": "Trump v projevů pro Den díkůvzdání poděkoval i vrahům a drogovým dealerům.",
+      "reason": "Šokující a vulgární detail od známé celebrity",
+      "title": "Děkuji vrahům a dealerům. Trump do svátečního vzkazu zapletl migraci i volby",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-dikuvzdani-vzkaz-vrahum-a-drogovym-dealerum.A261126_210736_zahranicni_kha"
+    },
+    {
+      "score": 8,
+      "fact": "Kim Čong-un pozastavil dodávku raket a munice do Ruska kvůli sporu s Moskvou.",
+      "reason": "Nepředvídatelný obrat v mezinádních vztazích, specifičtí aktéři (Kim, Rusko, rakety).",
+      "title": "Kreml si zavařil u svého spojence. Rozčílený Kim nařídil tvrdou odpověď",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/kreml-si-zavaril-u-sveho-spojence-rozcileny-kim-naridil-tvrdou-odpoved/r~aaa29476593f830889c315cd9239795f/"
+    },
+    {
+      "score": 8,
+      "fact": "Lukašenko tvrdí, že by se dle Putinovy logiky Rusko mělo patřit Mongolům a Tatarům.",
+      "reason": "Nesmírně absurdní citát, který se dobře zapamatuje a vyvolá smích.",
+      "title": "Rusko by patřilo Mongolům a Tatarům, odmítl Lukašenko Putinovo mudrování o historii",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-by-patrilo-mongolum-a-tatarum-odmitl-lukasenko-putinovo-mudrovani-o-historii-40610674"
+    },
+    {
+      "score": 8,
+      "fact": "Biden léčí rakovinu a berze denně osm různých tablet.",
+      "reason": "Konkrétní číslo (8 tablet) a slavná osoba v osobním příběhu.",
+      "title": "Biden (83) o rakovině ve čtvrtém stadiu: Osm prášků denně! Jill přiznala, jak jim převrátila život",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/853283/biden-83-o-rakovine-ve-ctvrtem-stadiu-osm-prasku-denne-jill-priznala-jak-jim-prevratila-zivot.html"
+    },
+    {
+      "score": 7,
+      "fact": "Fender se v soudu přou o autorská práva na tvar kytary Stratocaster.",
+      "reason": "Zábavný právní spor mezi známými značkami",
+      "title": "Kytarové války. Fender a Thomann se přou o napodobeniny modelu Stratocaster",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/kytarove-valky-fender-a-thomann-se-prou-o-napodobeniny-modelu-stratocaster.A261126_155308_eko-zahranicni_jla"
+    }
+  ]
+}
