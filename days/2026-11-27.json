@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-27",
+  "generated": "2026-11-28T16:15:31+00:00",
+  "stats": {
+    "fetched": 1143,
+    "that_day": 584,
+    "deduped": 527,
+    "scored": 180,
+    "passed": 52,
+    "kept": 20
+  },
+  "facts": [
+    {
+      "score": 9,
+      "fact": "Katy Perry a Justin Trudeau letěli za 2,3 milionu korun legendárním zaledyšeným Orient Expressem.",
+      "reason": "Slavné celebrity, nečekaná kombinace a konkrétní luxusní cena tvoří skvělý kvízový zábav.",
+      "title": "Luxus za 2,3 milionu. Ostříhaná Katy Perry a Trudeau cestovali Orient Expressem",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/katy-perry-justin-trudeau-vlak-orient-express-cestovani.A261127_093101_lidicky_sub"
+    },
+    {
+      "score": 9,
+      "fact": "Robert Fico usadil italské premiérce Meloniové kabelku ve vlaku na summitu.",
+      "reason": "Humorný vizuální detail (kabelka) s konkrétním českým/slovenským politikem na pozoru.",
+      "title": "Evropská spolupráce v praxi. Fico na summitu nesl Meloniové kabelku",
+      "source": "iDNES",
+      "category": "world",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/robert-fico-brusel-summit-giorgie-meloniova-kabelka.A261127_143158_zahranicni_aya"
+    },
+    {
+      "score": 9,
+      "fact": "Džensen Huanga požaduje návrat na krmelce NVIDIA, stačilo volat z Washingtonu.",
+      "reason": "Konkrétní lidé z tech-světů s překvapivým skokem návratu",
+      "title": "Huang se vrací do vedení Nvidie. ‚Stačilo zavolat z Washingtonu. Zřejmě nový normál,‘ žasne Koubský",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/huang-se-vraci-do-vedeni-nvidie-stacilo-zavolat-z-washingtonu-zrejme-novy-normal_2611271152_zfr"
+    },
+    {
+      "score": 9,
+      "fact": "Robert Fico nesl kabele Giorgii Meloniové před summitem EU v Bruselu.",
+      "reason": "Stručný, vizuální a vtipný moment s konkrétními lidmi z politiky.",
+      "title": "Fico jako nosič kabelek! Video ze summitu EU baví sítě!",
+      "source": "Blesk",
+      "category": "world",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/853636/fico-jako-nosic-kabelek-video-ze-summitu-eu-bavi-site.html"
+    },
+    {
+      "score": 8,
+      "fact": "JayBy na Slávicích nosil prsten s diamanty za 50 milionů korun.",
+      "reason": "Konkrétní, šokující detail s jasným číslem a jménem.",
+      "title": "Výstřednosti na Slavících: Zlatý korzet, Peroutka s melírem a prsten za 50 milionů",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853702/vystrednosti-na-slavicich-zlaty-korzet-peroutka-s-melirem-a-prsten-za-50-milionu.html"
+    },
+    {
+      "score": 8,
+      "fact": "Nadace Terezy Maxové oslavila 30 let činnosti a získala 700 milionů korun.",
+      "reason": "Slavná česká modelka, překvapivě vysoký kolekt, spojení s Monackem kníže je zajímavé.",
+      "title": "Pomohla tisícům dětí, vybrala 700 milionů. Nadace Terezy Maxové slaví třicetiny i s monackým knížetem",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/domaci-pomohla-tisicum-deti-vybrala-700-milionu-nadace-terezy-maxove-slavi-tricetiny-i-s-monackym-knizetem-40610995"
+    },
+    {
+      "score": 8,
+      "fact": "Australští vědci poslali gravitační zprávu pomocí starého výtahu a cihlové zdi.",
+      "reason": "Surprising connection to Interstellar and bizarre experimental setup.",
+      "title": "Vědci napodobili film Interstellar a poslali gravitační zprávu",
+      "source": "ČT24",
+      "category": "cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vedci-napodobili-film-interstellar-a-poslali-gravitacni-zpravu-380013"
+    },
+    {
+      "score": 8,
+      "fact": "Novým prezidentem Evropské centrální banky se má stát poprvé španělský ekonom Pablo Hernández de Cos.",
+      "reason": "Čistě faktický zápis jednoho rozšíření pro čtenáře kvízu.",
+      "title": "ECB má nového strážce eura. Do jejího čela míří poprvé Španěl",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/ekonomika-ecb-ma-noveho-strazce-eura-do-jejiho-cela-miri-poprve-spanel-40610856"
+    },
+    {
+      "score": 8,
+      "fact": "Herci ze seriálu Lotrando a Zubejda se potkali po 30 letech.",
+      "reason": "Nostalgický moment, konkrétní Zeitraum, publikum zná sérii.",
+      "title": "Vánoční Blesk tv MAGAZÍN 2026: Už dnes v trafikách! První televizní program na Vánoce! Lotrando a Zubejda se setkali po 30 letech",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853540/strach-a-ledecky-cekali-30-let-na-pusu-a-kolobezku.html"
+    },
+    {
+      "score": 8,
+      "fact": "Kanal-Centre Pompidou je největší muzejní komplex Evropy a vznikl v bývalé garáži.",
+      "reason": "Neobvyklé spojení (garáž vs. největší evropská muzea) a konkrétní nové zařízení.",
+      "title": "V Bruselu otevřou největší muzejní komplex Evropy. Vznikl v bývalé garáži",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/cestovani-v-bruselu-otevrou-nejvetsi-muzejni-komplex-evropy-vznikl-v-byvale-garazi-40610663"
+    },
+    {
+      "score": 8,
+      "fact": "Německý ekonom Schularick navrhl prodat Volkswagen čínským investorům.",
+      "reason": "Šokující ekonomický návrh s konkrétním jménem a firmou",
+      "title": "Národní poklad po Hitlerovi prodat Číně? Přední ekonom šokoval radou pro Německo",
+      "source": "Aktuálně.cz",
+      "category": "world",
+      "url": "https://zpravy.aktualne.cz/zahranici/prodejme-narodni-poklad-cine-sokoval-nemce-ekonom-zahy-svuj-treskuty-napad-objasnil/r~aaa29cbc60bae5d6d8f3d11caad4337b/"
+    },
+    {
+      "score": 8,
+      "fact": "Rakouská firma přesune výrobu dronů na Slovensko, aby unikla trestnímu stíhání.",
+      "reason": "Vtipný a konkrétní příběh s jasním mottem 'proč'",
+      "title": "Trestní stíhání za dodávky dronů Ukrajině? Rakouská firma proto raději přesune výrobu na Slovensko",
+      "source": "iROZHLAS",
+      "category": "world",
+      "url": "https://www.irozhlas.cz/zpravy-svet/trestni-stihani-za-dodavky-dronu-ukrajine-rakouska-firma-proto-radeji-presune_2611271832_jor"
+    },
+    {
+      "score": 8,
+      "fact": "Gymnazisté ze Slovenska dostali osobní odpovědný dopis od krále Karla III.",
+      "reason": "Slavný celebritní polo (král) reagoval na běžný studentský dopis.",
+      "title": "Gymnazisté z Lučence dostali dopis přímo z Buckinghamského paláce",
+      "source": "Novinky.cz",
+      "category": "world",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-gymnaziste-z-lucence-dostali-dopis-primo-z-buckinghamskeho-palace-40610951"
+    },
+    {
+      "score": 8,
+      "fact": "Studentské hnutí kandidátem se srbským prezidentem volí 65letého profesora chemie.",
+      "reason": "Konkrétní postava (profesor chemie) na nečekané pozici (prezident) díky studentskému hnutí.",
+      "title": "Kandidátem studentského hnutí na srbského prezidenta je profesor chemie Saičić",
+      "source": "ČT24",
+      "category": "world",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kandidatem-studentskeho-hnuti-na-srbskeho-prezidenta-je-profesor-chemie-saicic-380016"
+    },
+    {
+      "score": 7,
+      "fact": "OpenAI žaluje Apple kvůli krádeži obchodního tajemství.",
+      "reason": "Křiklavý právní spor mezi dvěma obrovskými technologickými giganty.",
+      "title": "FT: OpenAI žaluje Apple kvůli krádeži obchodního tajemství",
+      "source": "Seznam Zprávy",
+      "category": "cz",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ft-openai-zaluje-apple-kvuli-kradezi-obchodniho-tajemstvi-321717"
+    },
+    {
+      "score": 7,
+      "fact": "Knihovna kostela svatého Jakuba v Brně byla zapsána do UNESCO programu Paměť světa.",
+      "reason": "Konkrétní místní úspěch s mezinárodním rozmachem (UNESCO), specifický objekt.",
+      "title": "Knihovna kostela svatého Jakuba v Brně je v Národním seznamu Paměti světa UNESCO",
+      "source": "Novinky.cz",
+      "category": "cz",
+      "url": "https://www.novinky.cz/clanek/kultura-knihy-knihovna-kostela-svateho-jakuba-v-brne-je-v-narodnim-seznamu-pameti-sveta-unesco-40610421"
+    },
+    {
+      "score": 7,
+      "fact": "Norské aerolinky Norse Atlantic vyhlásily bankrot kvůli cenám paliva.",
+      "reason": "Konkrétní název firmy a jasný důsledek (bankrot) – solidní business fakta.",
+      "title": "Provozní firma norských aerolinek Norse Atlantic vyhlásila bankrot",
+      "source": "iDNES",
+      "category": "cz",
+      "url": "https://www.idnes.cz/ekonomika/doprava/provozni-firma-norskych-aerolinek-norse-atlantic-vyhlasila-bankrot.A261127_144454_eko-doprava_jadv"
+    },
+    {
+      "score": 7,
+      "fact": "Soud zprostil zpěváka Adama Krause všech obvinění ze znásilnění.",
+      "reason": "Česká celebrita, očekávané hot topic, odpověď je konkrétní jméno.",
+      "title": "Velké vítězství Adama Krause: První slova po vynesení rozsudku!",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/853646/velke-vitezstvi-adama-krause-prvni-slova-po-vyneseni-rozsudku.html"
+    },
+    {
+      "score": 7,
+      "fact": "Horská služba v Jeseníkách potvrdila úmrtí svého známého služebního psa Hektora.",
+      "reason": "Vítaný příběh o zvířeti, Hektor je známou postavou, emottační hodnota.",
+      "title": "Smutek u jesenických horoslužebníků: Zemřel služební pejsek Hektor! Byl součástí týmu",
+      "source": "Blesk",
+      "category": "cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/853658/smutek-u-jesenickych-horosluzebniku-zemrel-sluzebni-pejsek-hektor-byl-soucasti-tymu.html"
+    },
+    {
+      "score": 7,
+      "fact": "Tomáš Berdych reagoval na konflikt v italském Davis Cup týmu slovy: Nic, co by člověk chtěl mít v týmu.",
+      "reason": "Sportovní drama s názorem známého českeho tenisty, dobré pro krajinářské srovnání.",
+      "title": "Dusno u českých soupeřů v Davis Cupu. Nic, co by člověk chtěl mít v týmu, reagoval Berdych",
+      "source": "Sport.cz",
+      "category": "cz",
+      "url": "https://www.sport.cz/clanek/tenis-davis-cup-italie-u-italu-vztahy-daviscupovych-sampionu-rozleptava-laska-a-zrada-5583925"
+    }
+  ]
+}
